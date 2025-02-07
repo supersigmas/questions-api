@@ -2,6 +2,7 @@
   "data": [
     {
       "question": "What is the largest ocean on Earth?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Pacific Ocean",
@@ -18,6 +19,7 @@
     },
     {
       "question": "Who developed the theory of relativity?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Albert Einstein",
@@ -34,6 +36,7 @@
     },
     {
       "question": "Which country is famous for inventing pizza?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Italy",
@@ -50,6 +53,7 @@
     },
     {
       "question": "What is the smallest planet in our solar system?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Mercury",
@@ -66,6 +70,7 @@
     },
     {
       "question": "What is the chemical formula for water?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "H2O",
@@ -82,6 +87,7 @@
     },
     {
       "question": "Which country has the most spoken language in the world?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "China",
@@ -98,6 +104,7 @@
     },
     {
       "question": "What is the name of the fairy in Peter Pan?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Tinker Bell",
@@ -114,6 +121,7 @@
     },
     {
       "question": "Who painted the Mona Lisa?",
+      "points": 500,
       "language": "en",
       "answers": [
         "Leonardo da Vinci",
@@ -131,6 +139,7 @@
     },
     {
       "question": "What is the longest river in the world?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Nile River",
@@ -147,6 +156,7 @@
     },
     {
       "question": "Which element is necessary for breathing?",
+      "points": 600,
       "language": "en",
       "answers": [
         "Oxygen",
@@ -163,6 +173,7 @@
     },
     {
       "question": "What is the capital of Japan?",
+      "points": 500,
       "language": "en",
       "answers": [
         "Tokyo",
@@ -179,6 +190,7 @@
     },
     {
       "question": "Who wrote 'The Hobbit'?",
+      "points": 900,
       "language": "en",
       "answers": [
         "J.R.R. Tolkien",
@@ -196,6 +208,7 @@
     },
     {
       "question": "What is the square root of 64?",
+      "points": 500,
       "language": "en",
       "answers": [
         "8",
@@ -212,6 +225,7 @@
     },
     {
       "question": "Which organ pumps blood through the human body?",
+      "points": 500,
       "language": "en",
       "answers": [
         "Heart",
@@ -228,6 +242,7 @@
     },
     {
       "question": "Which metal is liquid at room temperature?",
+      "points": 800,
       "language": "en",
       "answers": [
         "Mercury",
@@ -244,6 +259,7 @@
     },
     {
       "question": "Who is the Greek god of war?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Ares",
@@ -260,6 +276,7 @@
     },
     {
       "question": "What does CPU stand for in computing?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Central Processing Unit",
@@ -276,6 +293,7 @@
     },
     {
       "question": "What is the hardest natural substance on Earth?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Diamond",
@@ -292,6 +310,7 @@
     },
     {
       "question": "What is the main gas found in Earth's atmosphere?",
+      "points": 800,
       "language": "en",
       "answers": [
         "Nitrogen",
@@ -308,6 +327,7 @@
     },
     {
       "question": "Who directed the movie 'Jurassic Park'?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Steven Spielberg",
@@ -324,6 +344,7 @@
     },
     {
       "question": "What is the capital of France?",
+      "points": 900,
       "language": "en",
       "answers": [
         "Paris"
@@ -339,6 +360,7 @@
     },
     {
       "question": "Which planet is known as the Red Planet?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "Mars"
@@ -354,6 +376,7 @@
     },
     {
       "question": "Who wrote 'Romeo and Juliet'?",
+      "points": 800,
       "language": "en",
       "answers": [
         "William Shakespeare"
@@ -369,6 +392,7 @@
     },
     {
       "question": "What is the chemical symbol for gold?",
+      "points": 700,
       "language": "en",
       "answers": [
         "Au"
@@ -384,6 +408,7 @@
     },
     {
       "question": "In which year did the Titanic sink?",
+      "points": 1000,
       "language": "en",
       "answers": [
         "1912"
