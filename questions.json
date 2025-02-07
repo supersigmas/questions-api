@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "question": "What is the largest ocean on Earth?",
+      "language": "en",
+      "answers": [
+        "Pacific Ocean",
+        "The Pacific"
+      ],
+      "wrong_answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Southern Ocean",
+        "Mediterranean Sea"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "language": "en",
+      "answers": [
+        "Albert Einstein",
+        "Einstein"
+      ],
+      "wrong_answers": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Stephen Hawking",
+        "Nikola Tesla",
+        "Marie Curie"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "Which country is famous for inventing pizza?",
+      "language": "en",
+      "answers": [
+        "Italy",
+        "Italian Republic"
+      ],
+      "wrong_answers": [
+        "France",
+        "Greece",
+        "United States",
+        "Spain",
+        "Germany"
+      ],
+      "category": "food"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "language": "en",
+      "answers": [
+        "Mercury",
+        "The planet Mercury"
+      ],
+      "wrong_answers": [
+        "Mars",
+        "Venus",
+        "Pluto",
+        "Earth",
+        "Neptune"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "language": "en",
+      "answers": [
+        "H2O",
+        "Dihydrogen monoxide"
+      ],
+      "wrong_answers": [
+        "CO2",
+        "O2",
+        "NaCl",
+        "H2SO4",
+        "CH4"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "Which country has the most spoken language in the world?",
+      "language": "en",
+      "answers": [
+        "China",
+        "People's Republic of China"
+      ],
+      "wrong_answers": [
+        "United States",
+        "India",
+        "Russia",
+        "Brazil",
+        "Germany"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "What is the name of the fairy in Peter Pan?",
+      "language": "en",
+      "answers": [
+        "Tinker Bell",
+        "Tink"
+      ],
+      "wrong_answers": [
+        "Wendy",
+        "Pixie",
+        "Fairy Dust",
+        "Silvermist",
+        "Rosetta"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "language": "en",
+      "answers": [
+        "Leonardo da Vinci",
+        "Da Vinci",
+        "Leonardo"
+      ],
+      "wrong_answers": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Michelangelo",
+        "Rembrandt"
+      ],
+      "category": "art"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "language": "en",
+      "answers": [
+        "Nile River",
+        "The Nile"
+      ],
+      "wrong_answers": [
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi River",
+        "Danube River",
+        "Congo River"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "Which element is necessary for breathing?",
+      "language": "en",
+      "answers": [
+        "Oxygen",
+        "O2"
+      ],
+      "wrong_answers": [
+        "Carbon",
+        "Hydrogen",
+        "Nitrogen",
+        "Helium",
+        "Argon"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "language": "en",
+      "answers": [
+        "Tokyo",
+        "Tokyo City"
+      ],
+      "wrong_answers": [
+        "Seoul",
+        "Beijing",
+        "Bangkok",
+        "Shanghai",
+        "Kyoto"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "Who wrote 'The Hobbit'?",
+      "language": "en",
+      "answers": [
+        "J.R.R. Tolkien",
+        "John Ronald Reuel Tolkien",
+        "Tolkien"
+      ],
+      "wrong_answers": [
+        "C.S. Lewis",
+        "George R.R. Martin",
+        "J.K. Rowling",
+        "Mark Twain",
+        "H.P. Lovecraft"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "language": "en",
+      "answers": [
+        "8",
+        "Eight"
+      ],
+      "wrong_answers": [
+        "6",
+        "7",
+        "9",
+        "10",
+        "12"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "Which organ pumps blood through the human body?",
+      "language": "en",
+      "answers": [
+        "Heart",
+        "The heart"
+      ],
+      "wrong_answers": [
+        "Liver",
+        "Brain",
+        "Lungs",
+        "Kidneys",
+        "Stomach"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "language": "en",
+      "answers": [
+        "Mercury",
+        "Hg"
+      ],
+      "wrong_answers": [
+        "Iron",
+        "Gold",
+        "Silver",
+        "Copper",
+        "Aluminum"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "Who is the Greek god of war?",
+      "language": "en",
+      "answers": [
+        "Ares",
+        "God of War Ares"
+      ],
+      "wrong_answers": [
+        "Zeus",
+        "Hades",
+        "Apollo",
+        "Hermes",
+        "Poseidon"
+      ],
+      "category": "mythology"
+    },
+    {
+      "question": "What does CPU stand for in computing?",
+      "language": "en",
+      "answers": [
+        "Central Processing Unit",
+        "Processor"
+      ],
+      "wrong_answers": [
+        "Computer Power Unit",
+        "Central Program Utility",
+        "Control Processing Unit",
+        "Core Processing Utility",
+        "Centralized Processing Unit"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "language": "en",
+      "answers": [
+        "Diamond",
+        "Natural Diamond"
+      ],
+      "wrong_answers": [
+        "Gold",
+        "Steel",
+        "Quartz",
+        "Iron",
+        "Graphite"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "What is the main gas found in Earth's atmosphere?",
+      "language": "en",
+      "answers": [
+        "Nitrogen",
+        "N2"
+      ],
+      "wrong_answers": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Hydrogen",
+        "Helium",
+        "Argon"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "Who directed the movie 'Jurassic Park'?",
+      "language": "en",
+      "answers": [
+        "Steven Spielberg",
+        "Spielberg"
+      ],
+      "wrong_answers": [
+        "James Cameron",
+        "George Lucas",
+        "Christopher Nolan",
+        "Quentin Tarantino",
+        "Tim Burton"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "What is the capital of France?",
+      "language": "en",
+      "answers": [
+        "Paris"
+      ],
+      "wrong_answers": [
+        "Berlin",
+        "Madrid",
+        "Rome",
+        "London",
+        "Vienna"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "language": "en",
+      "answers": [
+        "Mars"
+      ],
+      "wrong_answers": [
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Mercury",
+        "Neptune"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "language": "en",
+      "answers": [
+        "William Shakespeare"
+      ],
+      "wrong_answers": [
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain",
+        "Leo Tolstoy",
+        "George Orwell"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "language": "en",
+      "answers": [
+        "Au"
+      ],
+      "wrong_answers": [
+        "Ag",
+        "Fe",
+        "Pb",
+        "Cu",
+        "Pt"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "language": "en",
+      "answers": [
+        "1912"
+      ],
+      "wrong_answers": [
+        "1905",
+        "1920",
+        "1898",
+        "1931",
+        "1887"
+      ],
+      "category": "history"
+    }
+  ]
+}
