@@ -2,6 +2,8 @@
 import json
 import random
 from flask import Flask, request
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 
 
 def collect_categories(data) -> list:
@@ -60,8 +62,16 @@ def validate_bearer_token(headers) -> bool:
 
 app = Flask(__name__)
 
+limiter = Limiter(
+    get_remote_address,
+    app=app,
+    default_limits=["10 per minute"],
+    storage_uri="memory://",
+)
+
 
 @app.route("/categories", methods=["GET"])
+@limiter.limit("10 per minute")
 def get_category():
     """
     Get all categories
@@ -81,6 +91,7 @@ def get_category():
 
 
 @app.route("/questions", methods=["GET"])
+@limiter.limit("10 per minute")
 def get_questions():
     """
     Get 20 questions
