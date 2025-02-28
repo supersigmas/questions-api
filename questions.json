@@ -5,8 +5,9 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Pacific Ocean",
-        "The Pacific"
+        "pacific ocean",
+        "the pacific",
+        "pacific"
       ],
       "wrong_answers": [
         "Atlantic Ocean",
@@ -22,8 +23,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Albert Einstein",
-        "Einstein"
+        "albert einstein",
+        "einstein"
       ],
       "wrong_answers": [
         "Isaac Newton",
@@ -39,8 +40,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Italy",
-        "Italian Republic"
+        "italy",
+        "italian republic"
       ],
       "wrong_answers": [
         "France",
@@ -56,8 +57,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Mercury",
-        "The planet Mercury"
+        "mercury",
+        "the planet mercury"
       ],
       "wrong_answers": [
         "Mars",
@@ -73,8 +74,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "H2O",
-        "Dihydrogen monoxide"
+        "h2o",
+        "dihydrogen monoxide"
       ],
       "wrong_answers": [
         "CO2",
@@ -90,8 +91,10 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "China",
-        "People's Republic of China"
+        "china",
+        "people's republic of china",
+        "republic of china",
+        "peoples republic of china"
       ],
       "wrong_answers": [
         "United States",
@@ -107,8 +110,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Tinker Bell",
-        "Tink"
+        "tinker bell",
+        "tink"
       ],
       "wrong_answers": [
         "Wendy",
@@ -124,9 +127,9 @@
       "points": 500,
       "language": "en",
       "answers": [
-        "Leonardo da Vinci",
-        "Da Vinci",
-        "Leonardo"
+        "leonardo da vinci",
+        "da vinci",
+        "leonardo"
       ],
       "wrong_answers": [
         "Pablo Picasso",
@@ -142,8 +145,9 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Nile River",
-        "The Nile"
+        "nile river",
+        "the nile",
+        "nile"
       ],
       "wrong_answers": [
         "Amazon River",
@@ -159,8 +163,8 @@
       "points": 600,
       "language": "en",
       "answers": [
-        "Oxygen",
-        "O2"
+        "oxygen",
+        "o2"
       ],
       "wrong_answers": [
         "Carbon",
@@ -176,8 +180,8 @@
       "points": 500,
       "language": "en",
       "answers": [
-        "Tokyo",
-        "Tokyo City"
+        "tokyo",
+        "tokyo city"
       ],
       "wrong_answers": [
         "Seoul",
@@ -193,9 +197,9 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "J.R.R. Tolkien",
-        "John Ronald Reuel Tolkien",
-        "Tolkien"
+        "j.r.r. tolkien",
+        "john ronald reuel tolkien",
+        "tolkien"
       ],
       "wrong_answers": [
         "C.S. Lewis",
@@ -212,7 +216,7 @@
       "language": "en",
       "answers": [
         "8",
-        "Eight"
+        "eight"
       ],
       "wrong_answers": [
         "6",
@@ -228,8 +232,8 @@
       "points": 500,
       "language": "en",
       "answers": [
-        "Heart",
-        "The heart"
+        "heart",
+        "the heart"
       ],
       "wrong_answers": [
         "Liver",
@@ -245,8 +249,8 @@
       "points": 800,
       "language": "en",
       "answers": [
-        "Mercury",
-        "Hg"
+        "mercury",
+        "hg"
       ],
       "wrong_answers": [
         "Iron",
@@ -262,8 +266,9 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Ares",
-        "God of War Ares"
+        "ares",
+        "god of war ares",
+        "god ares"
       ],
       "wrong_answers": [
         "Zeus",
@@ -279,8 +284,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Central Processing Unit",
-        "Processor"
+        "central processing unit",
+        "processor"
       ],
       "wrong_answers": [
         "Computer Power Unit",
@@ -296,8 +301,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Diamond",
-        "Natural Diamond"
+        "diamond",
+        "natural diamond"
       ],
       "wrong_answers": [
         "Gold",
@@ -313,8 +318,8 @@
       "points": 800,
       "language": "en",
       "answers": [
-        "Nitrogen",
-        "N2"
+        "nitrogen",
+        "n2"
       ],
       "wrong_answers": [
         "Oxygen",
@@ -330,8 +335,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Steven Spielberg",
-        "Spielberg"
+        "steven spielberg",
+        "spielberg"
       ],
       "wrong_answers": [
         "James Cameron",
@@ -347,7 +352,7 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "Paris"
+        "paris"
       ],
       "wrong_answers": [
         "Berlin",
@@ -363,7 +368,7 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "Mars"
+        "mars"
       ],
       "wrong_answers": [
         "Venus",
@@ -379,7 +384,7 @@
       "points": 800,
       "language": "en",
       "answers": [
-        "William Shakespeare"
+        "william shakespeare", "shakespeare"
       ],
       "wrong_answers": [
         "Charles Dickens",
@@ -395,10 +400,10 @@
       "points": 700,
       "language": "en",
       "answers": [
-        "Au"
+        "au"
       ],
       "wrong_answers": [
-        "Ag",
+        "ag",
         "Fe",
         "Pb",
         "Cu",
@@ -421,6 +426,230 @@
         "1887"
       ],
       "category": "history"
+    },
+    {
+      "question": "which city is known as the big apple?",
+      "points": 700,
+      "language": "en",
+      "answers": ["new york city", "nyc", "new york"],
+      "wrong_answers": ["los angeles", "chicago", "san francisco", "boston", "houston"],
+      "category": "geography"
+    },
+    {
+      "question": "what is the square root of 144?",
+      "points": 600,
+      "language": "en",
+      "answers": ["12", "twelve"],
+      "wrong_answers": ["10", "11", "13", "14", "16"],
+      "category": "math"
+    },
+    {
+      "question": "who discovered penicillin?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["alexander fleming", "fleming"],
+      "wrong_answers": ["louis pasteur", "marie curie", "joseph lister", "robert koch", "edward jenner"],
+      "category": "science"
+    },
+    {
+      "question": "which bird is known for its ability to mimic sounds, including human speech?",
+      "points": 900,
+      "language": "en",
+      "answers": ["parrot", "african grey parrot"],
+      "wrong_answers": ["crow", "raven", "mockingbird", "magpie", "cockatoo"],
+      "category": "nature"
+    },
+    {
+      "question": "who was the first person to step on the moon?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["neil armstrong", "armstrong"],
+      "wrong_answers": ["buzz aldrin", "yuri gagarin", "michael collins", "john glenn", "alan shepard"],
+      "category": "history"
+    },
+    {
+      "question": "which game is played with a shuttlecock?",
+      "points": 700,
+      "language": "en",
+      "answers": ["badminton"],
+      "wrong_answers": ["tennis", "volleyball", "table tennis", "squash", "handball"],
+      "category": "sports"
+    },
+    {
+      "question": "which country is known for the eiffel tower?",
+      "points": 800,
+      "language": "en",
+      "answers": ["france", "french republic"],
+      "wrong_answers": ["italy", "germany", "spain", "belgium", "switzerland"],
+      "category": "geography"
+    },
+    {
+      "question": "who invented the telephone?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["alexander graham bell", "bell"],
+      "wrong_answers": ["thomas edison", "nikola tesla", "guglielmo marconi", "antonio meucci", "charles babbage"],
+      "category": "technology"
+    },
+    {
+      "question": "what is the capital city of canada?",
+      "points": 900,
+      "language": "en",
+      "answers": ["ottawa"],
+      "wrong_answers": ["toronto", "vancouver", "montreal", "calgary", "winnipeg"],
+      "category": "geography"
+    },
+    {
+      "question": "which planet is the hottest in the solar system?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["venus"],
+      "wrong_answers": ["mercury", "mars", "jupiter", "saturn", "neptune"],
+      "category": "science"
+    },
+    {
+      "question": "who wrote '1984' and 'animal farm'?",
+      "points": 800,
+      "language": "en",
+      "answers": ["george orwell", "eric arthur blair"],
+      "wrong_answers": ["aldous huxley", "ray bradbury", "mark twain", "ernest hemingway", "j.k. rowling"],
+      "category": "literature"
+    },
+    {
+      "question": "what is the boiling point of water at sea level?",
+      "points": 600,
+      "language": "en",
+      "answers": ["100 degrees celsius", "212 degrees fahrenheit"],
+      "wrong_answers": ["90 degrees celsius", "110 degrees celsius", "150 degrees fahrenheit", "200 degrees fahrenheit"],
+      "category": "science"
+    },
+    {
+      "question": "which continent has the most countries?",
+      "points": 900,
+      "language": "en",
+      "answers": ["africa"],
+      "wrong_answers": ["asia", "europe", "north america", "south america", "australia"],
+      "category": "geography"
+    },
+    {
+      "question": "who was the first u.s. president?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["george washington", "washington"],
+      "wrong_answers": ["thomas jefferson", "john adams", "benjamin franklin", "abraham lincoln", "alexander hamilton"],
+      "category": "history"
+    },
+    {
+      "question": "which is the fastest land animal?",
+      "points": 700,
+      "language": "en",
+      "answers": ["cheetah"],
+      "wrong_answers": ["lion", "tiger", "greyhound", "horse", "gazelle"],
+      "category": "nature"
+    },
+    {
+      "question": "how many sides does a hexagon have?",
+      "points": 500,
+      "language": "en",
+      "answers": ["6", "six"],
+      "wrong_answers": ["5", "7", "8", "4", "10"],
+      "category": "math"
+    },
+    {
+      "question": "who painted 'starry night'?",
+      "points": 800,
+      "language": "en",
+      "answers": ["vincent van gogh", "van gogh"],
+      "wrong_answers": ["pablo picasso", "claude monet", "leonardo da vinci", "rembrandt", "michelangelo"],
+      "category": "art"
+    },
+    {
+      "question": "what is the most widely spoken language in the world?",
+      "points": 900,
+      "language": "en",
+      "answers": ["english", "mandarin chinese"],
+      "wrong_answers": ["spanish", "hindi", "arabic", "french", "portuguese"],
+      "category": "language"
+    },
+    {
+      "question": "who was the first emperor of rome?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["augustus", "gaius octavius", "octavian"],
+      "wrong_answers": ["julius caesar", "nero", "caligula", "hadrian", "marcus aurelius"],
+      "category": "history"
+    },
+    {
+      "question": "what is the chemical symbol for sodium?",
+      "points": 800,
+      "language": "en",
+      "answers": ["na"],
+      "wrong_answers": ["s", "so", "sn", "sa", "mg"],
+      "category": "science"
+    },
+    {
+      "question": "who is known as the father of computers?",
+      "points": 900,
+      "language": "en",
+      "answers": ["charles babbage", "babbage"],
+      "wrong_answers": ["alan turing", "john von neumann", "steve jobs", "bill gates", "ada lovelace"],
+      "category": "technology"
+    },
+    {
+      "question": "which country is home to the great barrier reef?",
+      "points": 500,
+      "language": "en",
+      "answers": ["australia"],
+      "wrong_answers": ["brazil", "south africa", "mexico", "india", "indonesia"],
+      "category": "geography"
+    },
+    {
+      "question": "who wrote 'pride and prejudice'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["jane austen", "austen"],
+      "wrong_answers": ["charlotte bronte", "charles dickens", "emily bronte", "leo tolstoy", "mark twain"],
+      "category": "literature"
+    },
+    {
+      "question": "what is the name of the closest star to earth?",
+      "points": 900,
+      "language": "en",
+      "answers": ["the sun", "sun"],
+      "wrong_answers": ["alpha centauri", "sirius", "betelgeuse", "polaris", "vega"],
+      "category": "science"
+    },
+    {
+      "question": "which famous scientist introduced the three laws of motion?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["isaac newton", "newton"],
+      "wrong_answers": ["albert einstein", "galileo galilei", "nikola tesla", "stephen hawking", "marie curie"],
+      "category": "science"
+    },
+    {
+      "question": "who was the first woman to win a nobel prize?",
+      "points": 900,
+      "language": "en",
+      "answers": ["marie curie", "curie"],
+      "wrong_answers": ["rosalind franklin", "ada lovelace", "dorothy hodgkin", "barbara mcclintock", "irène joliot-curie"],
+      "category": "history"
+    },
+    {
+      "question": "which animal is the symbol of the world wildlife fund (wwf)?",
+      "points": 700,
+      "language": "en",
+      "answers": ["giant panda", "panda"],
+      "wrong_answers": ["tiger", "elephant", "rhino", "dolphin", "eagle"],
+      "category": "nature"
+    },
+    {
+      "question": "what is the capital city of brazil?",
+      "points": 800,
+      "language": "en",
+      "answers": ["brasilia"],
+      "wrong_answers": ["rio de janeiro", "são paulo", "buenos aires", "lima", "bogotá"],
+      "category": "geography"
     }
   ]
 }
