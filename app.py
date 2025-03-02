@@ -28,6 +28,10 @@ def get_20_questions(data, category: str = None) -> list:
     :return: List of questions
     """
     questions = []
+
+    # reorder data in random order
+    data = random.sample(data, len(data))
+
     for item in data:
         if category:
             if item["category"] == category:
