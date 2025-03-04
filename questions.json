@@ -384,7 +384,8 @@
       "points": 800,
       "language": "en",
       "answers": [
-        "william shakespeare", "shakespeare"
+        "william shakespeare",
+        "shakespeare"
       ],
       "wrong_answers": [
         "Charles Dickens",
@@ -431,224 +432,1709 @@
       "question": "which city is known as the big apple?",
       "points": 700,
       "language": "en",
-      "answers": ["new york city", "nyc", "new york"],
-      "wrong_answers": ["los angeles", "chicago", "san francisco", "boston", "houston"],
+      "answers": [
+        "new york city",
+        "nyc",
+        "new york"
+      ],
+      "wrong_answers": [
+        "los angeles",
+        "chicago",
+        "san francisco",
+        "boston",
+        "houston"
+      ],
       "category": "geography"
     },
     {
       "question": "what is the square root of 144?",
       "points": 600,
       "language": "en",
-      "answers": ["12", "twelve"],
-      "wrong_answers": ["10", "11", "13", "14", "16"],
+      "answers": [
+        "12",
+        "twelve"
+      ],
+      "wrong_answers": [
+        "10",
+        "11",
+        "13",
+        "14",
+        "16"
+      ],
       "category": "math"
     },
     {
       "question": "who discovered penicillin?",
       "points": 1000,
       "language": "en",
-      "answers": ["alexander fleming", "fleming"],
-      "wrong_answers": ["louis pasteur", "marie curie", "joseph lister", "robert koch", "edward jenner"],
+      "answers": [
+        "alexander fleming",
+        "fleming"
+      ],
+      "wrong_answers": [
+        "louis pasteur",
+        "marie curie",
+        "joseph lister",
+        "robert koch",
+        "edward jenner"
+      ],
       "category": "science"
     },
     {
       "question": "which bird is known for its ability to mimic sounds, including human speech?",
       "points": 900,
       "language": "en",
-      "answers": ["parrot", "african grey parrot"],
-      "wrong_answers": ["crow", "raven", "mockingbird", "magpie", "cockatoo"],
+      "answers": [
+        "parrot",
+        "african grey parrot"
+      ],
+      "wrong_answers": [
+        "crow",
+        "raven",
+        "mockingbird",
+        "magpie",
+        "cockatoo"
+      ],
       "category": "nature"
     },
     {
       "question": "who was the first person to step on the moon?",
       "points": 1000,
       "language": "en",
-      "answers": ["neil armstrong", "armstrong"],
-      "wrong_answers": ["buzz aldrin", "yuri gagarin", "michael collins", "john glenn", "alan shepard"],
+      "answers": [
+        "neil armstrong",
+        "armstrong"
+      ],
+      "wrong_answers": [
+        "buzz aldrin",
+        "yuri gagarin",
+        "michael collins",
+        "john glenn",
+        "alan shepard"
+      ],
       "category": "history"
     },
     {
       "question": "which game is played with a shuttlecock?",
       "points": 700,
       "language": "en",
-      "answers": ["badminton"],
-      "wrong_answers": ["tennis", "volleyball", "table tennis", "squash", "handball"],
+      "answers": [
+        "badminton"
+      ],
+      "wrong_answers": [
+        "tennis",
+        "volleyball",
+        "table tennis",
+        "squash",
+        "handball"
+      ],
       "category": "sports"
     },
     {
       "question": "which country is known for the eiffel tower?",
       "points": 800,
       "language": "en",
-      "answers": ["france", "french republic"],
-      "wrong_answers": ["italy", "germany", "spain", "belgium", "switzerland"],
+      "answers": [
+        "france",
+        "french republic"
+      ],
+      "wrong_answers": [
+        "italy",
+        "germany",
+        "spain",
+        "belgium",
+        "switzerland"
+      ],
       "category": "geography"
     },
     {
       "question": "who invented the telephone?",
       "points": 1000,
       "language": "en",
-      "answers": ["alexander graham bell", "bell"],
-      "wrong_answers": ["thomas edison", "nikola tesla", "guglielmo marconi", "antonio meucci", "charles babbage"],
+      "answers": [
+        "alexander graham bell",
+        "bell"
+      ],
+      "wrong_answers": [
+        "thomas edison",
+        "nikola tesla",
+        "guglielmo marconi",
+        "antonio meucci",
+        "charles babbage"
+      ],
       "category": "technology"
     },
     {
       "question": "what is the capital city of canada?",
       "points": 900,
       "language": "en",
-      "answers": ["ottawa"],
-      "wrong_answers": ["toronto", "vancouver", "montreal", "calgary", "winnipeg"],
+      "answers": [
+        "ottawa"
+      ],
+      "wrong_answers": [
+        "toronto",
+        "vancouver",
+        "montreal",
+        "calgary",
+        "winnipeg"
+      ],
       "category": "geography"
     },
     {
       "question": "which planet is the hottest in the solar system?",
       "points": 1000,
       "language": "en",
-      "answers": ["venus"],
-      "wrong_answers": ["mercury", "mars", "jupiter", "saturn", "neptune"],
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "mercury",
+        "mars",
+        "jupiter",
+        "saturn",
+        "neptune"
+      ],
       "category": "science"
     },
     {
       "question": "who wrote '1984' and 'animal farm'?",
       "points": 800,
       "language": "en",
-      "answers": ["george orwell", "eric arthur blair"],
-      "wrong_answers": ["aldous huxley", "ray bradbury", "mark twain", "ernest hemingway", "j.k. rowling"],
+      "answers": [
+        "george orwell",
+        "eric arthur blair"
+      ],
+      "wrong_answers": [
+        "aldous huxley",
+        "ray bradbury",
+        "mark twain",
+        "ernest hemingway",
+        "j.k. rowling"
+      ],
       "category": "literature"
     },
     {
       "question": "what is the boiling point of water at sea level?",
       "points": 600,
       "language": "en",
-      "answers": ["100 degrees celsius", "212 degrees fahrenheit"],
-      "wrong_answers": ["90 degrees celsius", "110 degrees celsius", "150 degrees fahrenheit", "200 degrees fahrenheit"],
+      "answers": [
+        "100 degrees celsius",
+        "212 degrees fahrenheit"
+      ],
+      "wrong_answers": [
+        "90 degrees celsius",
+        "110 degrees celsius",
+        "150 degrees fahrenheit",
+        "200 degrees fahrenheit"
+      ],
       "category": "science"
     },
     {
       "question": "which continent has the most countries?",
       "points": 900,
       "language": "en",
-      "answers": ["africa"],
-      "wrong_answers": ["asia", "europe", "north america", "south america", "australia"],
+      "answers": [
+        "africa"
+      ],
+      "wrong_answers": [
+        "asia",
+        "europe",
+        "north america",
+        "south america",
+        "australia"
+      ],
       "category": "geography"
     },
     {
       "question": "who was the first u.s. president?",
       "points": 1000,
       "language": "en",
-      "answers": ["george washington", "washington"],
-      "wrong_answers": ["thomas jefferson", "john adams", "benjamin franklin", "abraham lincoln", "alexander hamilton"],
+      "answers": [
+        "george washington",
+        "washington"
+      ],
+      "wrong_answers": [
+        "thomas jefferson",
+        "john adams",
+        "benjamin franklin",
+        "abraham lincoln",
+        "alexander hamilton"
+      ],
       "category": "history"
     },
     {
       "question": "which is the fastest land animal?",
       "points": 700,
       "language": "en",
-      "answers": ["cheetah"],
-      "wrong_answers": ["lion", "tiger", "greyhound", "horse", "gazelle"],
+      "answers": [
+        "cheetah"
+      ],
+      "wrong_answers": [
+        "lion",
+        "tiger",
+        "greyhound",
+        "horse",
+        "gazelle"
+      ],
       "category": "nature"
     },
     {
       "question": "how many sides does a hexagon have?",
       "points": 500,
       "language": "en",
-      "answers": ["6", "six"],
-      "wrong_answers": ["5", "7", "8", "4", "10"],
+      "answers": [
+        "6",
+        "six"
+      ],
+      "wrong_answers": [
+        "5",
+        "7",
+        "8",
+        "4",
+        "10"
+      ],
       "category": "math"
     },
     {
       "question": "who painted 'starry night'?",
       "points": 800,
       "language": "en",
-      "answers": ["vincent van gogh", "van gogh"],
-      "wrong_answers": ["pablo picasso", "claude monet", "leonardo da vinci", "rembrandt", "michelangelo"],
+      "answers": [
+        "vincent van gogh",
+        "van gogh"
+      ],
+      "wrong_answers": [
+        "pablo picasso",
+        "claude monet",
+        "leonardo da vinci",
+        "rembrandt",
+        "michelangelo"
+      ],
       "category": "art"
     },
     {
       "question": "what is the most widely spoken language in the world?",
       "points": 900,
       "language": "en",
-      "answers": ["english", "mandarin chinese"],
-      "wrong_answers": ["spanish", "hindi", "arabic", "french", "portuguese"],
+      "answers": [
+        "english",
+        "mandarin chinese"
+      ],
+      "wrong_answers": [
+        "spanish",
+        "hindi",
+        "arabic",
+        "french",
+        "portuguese"
+      ],
       "category": "language"
     },
     {
       "question": "who was the first emperor of rome?",
       "points": 1000,
       "language": "en",
-      "answers": ["augustus", "gaius octavius", "octavian"],
-      "wrong_answers": ["julius caesar", "nero", "caligula", "hadrian", "marcus aurelius"],
+      "answers": [
+        "augustus",
+        "gaius octavius",
+        "octavian"
+      ],
+      "wrong_answers": [
+        "julius caesar",
+        "nero",
+        "caligula",
+        "hadrian",
+        "marcus aurelius"
+      ],
       "category": "history"
     },
     {
       "question": "what is the chemical symbol for sodium?",
       "points": 800,
       "language": "en",
-      "answers": ["na"],
-      "wrong_answers": ["s", "so", "sn", "sa", "mg"],
+      "answers": [
+        "na"
+      ],
+      "wrong_answers": [
+        "s",
+        "so",
+        "sn",
+        "sa",
+        "mg"
+      ],
       "category": "science"
     },
     {
       "question": "who is known as the father of computers?",
       "points": 900,
       "language": "en",
-      "answers": ["charles babbage", "babbage"],
-      "wrong_answers": ["alan turing", "john von neumann", "steve jobs", "bill gates", "ada lovelace"],
+      "answers": [
+        "charles babbage",
+        "babbage"
+      ],
+      "wrong_answers": [
+        "alan turing",
+        "john von neumann",
+        "steve jobs",
+        "bill gates",
+        "ada lovelace"
+      ],
       "category": "technology"
     },
     {
       "question": "which country is home to the great barrier reef?",
       "points": 500,
       "language": "en",
-      "answers": ["australia"],
-      "wrong_answers": ["brazil", "south africa", "mexico", "india", "indonesia"],
+      "answers": [
+        "australia"
+      ],
+      "wrong_answers": [
+        "brazil",
+        "south africa",
+        "mexico",
+        "india",
+        "indonesia"
+      ],
       "category": "geography"
     },
     {
       "question": "who wrote 'pride and prejudice'?",
       "points": 1000,
       "language": "en",
-      "answers": ["jane austen", "austen"],
-      "wrong_answers": ["charlotte bronte", "charles dickens", "emily bronte", "leo tolstoy", "mark twain"],
+      "answers": [
+        "jane austen",
+        "austen"
+      ],
+      "wrong_answers": [
+        "charlotte bronte",
+        "charles dickens",
+        "emily bronte",
+        "leo tolstoy",
+        "mark twain"
+      ],
       "category": "literature"
     },
     {
       "question": "what is the name of the closest star to earth?",
       "points": 900,
       "language": "en",
-      "answers": ["the sun", "sun"],
-      "wrong_answers": ["alpha centauri", "sirius", "betelgeuse", "polaris", "vega"],
+      "answers": [
+        "the sun",
+        "sun"
+      ],
+      "wrong_answers": [
+        "alpha centauri",
+        "sirius",
+        "betelgeuse",
+        "polaris",
+        "vega"
+      ],
       "category": "science"
     },
     {
       "question": "which famous scientist introduced the three laws of motion?",
       "points": 1000,
       "language": "en",
-      "answers": ["isaac newton", "newton"],
-      "wrong_answers": ["albert einstein", "galileo galilei", "nikola tesla", "stephen hawking", "marie curie"],
+      "answers": [
+        "isaac newton",
+        "newton"
+      ],
+      "wrong_answers": [
+        "albert einstein",
+        "galileo galilei",
+        "nikola tesla",
+        "stephen hawking",
+        "marie curie"
+      ],
       "category": "science"
     },
     {
       "question": "who was the first woman to win a nobel prize?",
       "points": 900,
       "language": "en",
-      "answers": ["marie curie", "curie"],
-      "wrong_answers": ["rosalind franklin", "ada lovelace", "dorothy hodgkin", "barbara mcclintock", "irène joliot-curie"],
+      "answers": [
+        "marie curie",
+        "curie"
+      ],
+      "wrong_answers": [
+        "rosalind franklin",
+        "ada lovelace",
+        "dorothy hodgkin",
+        "barbara mcclintock",
+        "irène joliot-curie"
+      ],
       "category": "history"
     },
     {
       "question": "which animal is the symbol of the world wildlife fund (wwf)?",
       "points": 700,
       "language": "en",
-      "answers": ["giant panda", "panda"],
-      "wrong_answers": ["tiger", "elephant", "rhino", "dolphin", "eagle"],
+      "answers": [
+        "giant panda",
+        "panda"
+      ],
+      "wrong_answers": [
+        "tiger",
+        "elephant",
+        "rhino",
+        "dolphin",
+        "eagle"
+      ],
       "category": "nature"
     },
     {
       "question": "what is the capital city of brazil?",
       "points": 800,
       "language": "en",
-      "answers": ["brasilia"],
-      "wrong_answers": ["rio de janeiro", "são paulo", "buenos aires", "lima", "bogotá"],
+      "answers": [
+        "brasilia"
+      ],
+      "wrong_answers": [
+        "rio de janeiro",
+        "são paulo",
+        "buenos aires",
+        "lima",
+        "bogotá"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the name of the main character in the legend of zelda series?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "link"
+      ],
+      "wrong_answers": [
+        "zelda",
+        "ganondorf",
+        "epona",
+        "sheik",
+        "midna"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which company developed the halo series?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "bungie",
+        "343 industries"
+      ],
+      "wrong_answers": [
+        "epic games",
+        "valve",
+        "blizzard",
+        "nintendo",
+        "id software"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the highest rank in counter-strike: global offensive?",
+      "points": 1100,
+      "language": "en",
+      "answers": [
+        "global elite"
+      ],
+      "wrong_answers": [
+        "silver iv",
+        "gold nova",
+        "supreme master",
+        "legendary eagle",
+        "distinguished master"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which game features a battle royale mode called warzone?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "call of duty",
+        "warzone"
+      ],
+      "wrong_answers": [
+        "fortnite",
+        "apex legends",
+        "pubg",
+        "valorant",
+        "overwatch"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "in minecraft, what material is needed to craft a nether portal?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "obsidian"
+      ],
+      "wrong_answers": [
+        "cobblestone",
+        "diamond",
+        "gold",
+        "quartz",
+        "netherrack"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the name of the main antagonist in the resident evil series?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "albert wesker",
+        "wesker"
+      ],
+      "wrong_answers": [
+        "chris redfield",
+        "ada wong",
+        "nemesis",
+        "hunk",
+        "leon kennedy"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which game features the fictional city of los santos?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "gta v",
+        "grand theft auto v"
+      ],
+      "wrong_answers": [
+        "red dead redemption",
+        "watch dogs",
+        "cyberpunk",
+        "sleeping dogs",
+        "mafia"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the main currency used in the witcher 3?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "crowns"
+      ],
+      "wrong_answers": [
+        "gold",
+        "septims",
+        "gil",
+        "runes",
+        "caps"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "who is the creator of the metal gear series?",
+      "points": 1100,
+      "language": "en",
+      "answers": [
+        "hideo kojima",
+        "kojima"
+      ],
+      "wrong_answers": [
+        "shigeru miyamoto",
+        "yu suzuki",
+        "sakurai",
+        "tetsuya nomura",
+        "keiji inafune"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which game popularized the battle royale genre?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "pubg",
+        "playerunknown's battlegrounds"
+      ],
+      "wrong_answers": [
+        "fortnite",
+        "apex legends",
+        "warzone",
+        "h1z1",
+        "csgo danger zone"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "in dark souls, what currency is used to level up and purchase items?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "souls"
+      ],
+      "wrong_answers": [
+        "gold",
+        "runes",
+        "coins",
+        "gil",
+        "blood echoes"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the name of the blue ghost in pac-man?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "inky"
+      ],
+      "wrong_answers": [
+        "blinky",
+        "pinky",
+        "clyde",
+        "ghosty",
+        "winky"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the name of sonic the hedgehog’s sidekick?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "tails",
+        "miles tails prower"
+      ],
+      "wrong_answers": [
+        "knuckles",
+        "shadow",
+        "amy",
+        "vector",
+        "silver"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what year was the first playstation released?",
+      "points": 1100,
+      "language": "en",
+      "answers": [
+        "1994"
+      ],
+      "wrong_answers": [
+        "1996",
+        "1998",
+        "2000",
+        "1992",
+        "1995"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which game franchise features characters like garrus, liara, and tali?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "mass effect"
+      ],
+      "wrong_answers": [
+        "halo",
+        "destiny",
+        "starcraft",
+        "cyberpunk",
+        "warframe"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "in world of warcraft, what is the name of the planet where the game primarily takes place?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "azeroth"
+      ],
+      "wrong_answers": [
+        "draenor",
+        "outland",
+        "terranova",
+        "nexus",
+        "pandaria"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the name of the fungus-based enemies in the last of us?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "clickers"
+      ],
+      "wrong_answers": [
+        "walkers",
+        "zombies",
+        "hunters",
+        "infected",
+        "mushrooms"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the main objective in among us?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "find the impostor",
+        "complete tasks"
+      ],
+      "wrong_answers": [
+        "collect coins",
+        "build bases",
+        "fight enemies",
+        "solve puzzles",
+        "capture the flag"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which character is known for saying 'finish him' in mortal kombat?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "shang tsung"
+      ],
+      "wrong_answers": [
+        "scorpion",
+        "raiden",
+        "liu kang",
+        "sub-zero",
+        "quan chi"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the name of the company behind the game fortnite?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "epic games"
+      ],
+      "wrong_answers": [
+        "ubisoft",
+        "activision",
+        "ea",
+        "bethesda",
+        "valve"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "which company created the first graphical web browser?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "netscape",
+        "mosaic"
+      ],
+      "wrong_answers": [
+        "microsoft",
+        "google",
+        "apple",
+        "mozilla",
+        "opera"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what programming language is primarily used for android app development?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "java",
+        "kotlin"
+      ],
+      "wrong_answers": [
+        "swift",
+        "c++",
+        "python",
+        "javascript",
+        "php"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what does the acronym html stand for?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "hypertext markup language",
+        "html"
+      ],
+      "wrong_answers": [
+        "high-level text language",
+        "hyper transfer markup language",
+        "hypertool markup language",
+        "hypertext meta language"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "who co-founded microsoft alongside bill gates?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "paul allen",
+        "allen"
+      ],
+      "wrong_answers": [
+        "steve wozniak",
+        "larry page",
+        "steve jobs",
+        "mark zuckerberg",
+        "elon musk"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what was the name of the first electronic general-purpose computer?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "eniac",
+        "electronic numerical integrator and computer"
+      ],
+      "wrong_answers": [
+        "colossus",
+        "univac",
+        "ibm 701",
+        "z3",
+        "altair 8800"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which company developed the first commercially successful microprocessor?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "intel",
+        "intel 4004"
+      ],
+      "wrong_answers": [
+        "amd",
+        "ibm",
+        "apple",
+        "microsoft",
+        "motorola"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what does the 'i' in iphone stand for?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "internet",
+        "individual"
+      ],
+      "wrong_answers": [
+        "innovation",
+        "intelligent",
+        "interactive",
+        "integrated",
+        "instant"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which programming language was created by guido van rossum?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "python",
+        "cpython"
+      ],
+      "wrong_answers": [
+        "java",
+        "ruby",
+        "c++",
+        "javascript",
+        "swift"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which company developed the first commercially available graphical user interface?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "xerox",
+        "xerox parc"
+      ],
+      "wrong_answers": [
+        "apple",
+        "microsoft",
+        "ibm",
+        "hp",
+        "atari"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what does 'usb' stand for?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "universal serial bus",
+        "usb"
+      ],
+      "wrong_answers": [
+        "unified system bus",
+        "universal storage bridge",
+        "universal speed bus",
+        "unique serial bus"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which company owns the android operating system?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "google",
+        "alphabet"
+      ],
+      "wrong_answers": [
+        "samsung",
+        "apple",
+        "microsoft",
+        "nokia",
+        "sony"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which year was the first iphone released?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "2007"
+      ],
+      "wrong_answers": [
+        "2005",
+        "2008",
+        "2009",
+        "2010",
+        "2006"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "who founded tesla, inc.?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "martin eberhard",
+        "marc tarpenning"
+      ],
+      "wrong_answers": [
+        "elon musk",
+        "peter thiel",
+        "jeff bezos",
+        "larry ellison",
+        "jack dorsey"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what was the first video game ever created?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "tennis for two",
+        "tennis"
+      ],
+      "wrong_answers": [
+        "pong",
+        "spacewar",
+        "pac-man",
+        "asteroids",
+        "super mario"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what does 'ai' stand for in technology?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "artificial intelligence",
+        "ai"
+      ],
+      "wrong_answers": [
+        "automated interface",
+        "advanced innovation",
+        "artificial integration",
+        "augmented intelligence"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which company developed the first mouse?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "xerox",
+        "xerox parc"
+      ],
+      "wrong_answers": [
+        "apple",
+        "ibm",
+        "microsoft",
+        "logitech",
+        "hp"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what was the original name of twitter?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "twttr"
+      ],
+      "wrong_answers": [
+        "tweetdeck",
+        "chirp",
+        "twitter beta",
+        "bluebird",
+        "socialbuzz"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "who is the ceo of spacex as of 2025?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "elon musk",
+        "musk"
+      ],
+      "wrong_answers": [
+        "tim cook",
+        "jeff bezos",
+        "bill gates",
+        "mark zuckerberg",
+        "richard branson"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what is the largest living species of tree?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "giant sequoia",
+        "sequoia"
+      ],
+      "wrong_answers": [
+        "redwood",
+        "oak",
+        "baobab",
+        "pine",
+        "birch"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which bird has the largest wingspan?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "wandering albatross",
+        "albatross"
+      ],
+      "wrong_answers": [
+        "bald eagle",
+        "pelican",
+        "condor",
+        "vulture",
+        "swan"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which animal has the longest lifespan?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "greenland shark",
+        "shark"
+      ],
+      "wrong_answers": [
+        "giant tortoise",
+        "elephant",
+        "blue whale",
+        "parrot",
+        "human"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the tallest grass in the world?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "bamboo"
+      ],
+      "wrong_answers": [
+        "sugarcane",
+        "reed",
+        "corn",
+        "wheat",
+        "barley"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the only mammal capable of true flight?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "bat"
+      ],
+      "wrong_answers": [
+        "flying squirrel",
+        "colugo",
+        "sugar glider",
+        "falcon",
+        "owl"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which is the largest living reptile?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "saltwater crocodile",
+        "crocodile"
+      ],
+      "wrong_answers": [
+        "komodo dragon",
+        "anaconda",
+        "alligator",
+        "iguana",
+        "python"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the smallest species of bird?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "bee hummingbird",
+        "hummingbird"
+      ],
+      "wrong_answers": [
+        "sparrow",
+        "wren",
+        "goldfinch",
+        "tit",
+        "swallow"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which tree produces acorns?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "oak"
+      ],
+      "wrong_answers": [
+        "maple",
+        "birch",
+        "pine",
+        "walnut",
+        "chestnut"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the largest species of shark?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "whale shark",
+        "whale"
+      ],
+      "wrong_answers": [
+        "great white",
+        "hammerhead",
+        "tiger shark",
+        "bull shark",
+        "mako shark"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which plant is known for its ability to close its leaves when touched?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mimosa pudica",
+        "mimosa"
+      ],
+      "wrong_answers": [
+        "venus flytrap",
+        "pitcher plant",
+        "aloe vera",
+        "bamboo",
+        "orchid"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the largest freshwater fish in the world?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "beluga sturgeon",
+        "sturgeon"
+      ],
+      "wrong_answers": [
+        "arapaima",
+        "catfish",
+        "piranha",
+        "salmon",
+        "trout"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which mammal has the most powerful bite?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "hippopotamus",
+        "hippo"
+      ],
+      "wrong_answers": [
+        "lion",
+        "tiger",
+        "crocodile",
+        "wolf",
+        "bear"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the name of the process by which plants convert sunlight into energy?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "photosynthesis"
+      ],
+      "wrong_answers": [
+        "respiration",
+        "fermentation",
+        "osmosis",
+        "evaporation",
+        "germination"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which ocean is home to the great barrier reef?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "pacific ocean",
+        "pacific"
+      ],
+      "wrong_answers": [
+        "atlantic",
+        "indian",
+        "arctic",
+        "southern",
+        "mediterranean"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the national flower of japan?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "cherry blossom",
+        "sakura"
+      ],
+      "wrong_answers": [
+        "lotus",
+        "rose",
+        "orchid",
+        "camellia",
+        "peony"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which animal is known for its ability to regenerate lost limbs?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "axolotl",
+        "salamander"
+      ],
+      "wrong_answers": [
+        "octopus",
+        "starfish",
+        "lizard",
+        "gecko",
+        "jellyfish"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what type of rock is formed from cooled lava?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "igneous rock",
+        "igneous"
+      ],
+      "wrong_answers": [
+        "sedimentary",
+        "metamorphic",
+        "granite",
+        "sandstone",
+        "limestone"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which is the world's largest coral reef system?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "great barrier reef",
+        "barrier reef"
+      ],
+      "wrong_answers": [
+        "belize barrier reef",
+        "florida reef",
+        "red sea coral reef",
+        "new caledonia reef",
+        "maldives reef"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the capital of france?",
+      "points": 500,
+      "language": "en",
+      "answers": [
+        "paris"
+      ],
+      "wrong_answers": [
+        "london",
+        "rome",
+        "madrid",
+        "berlin",
+        "vienna"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which continent is the sahara desert located in?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "africa"
+      ],
+      "wrong_answers": [
+        "asia",
+        "south america",
+        "australia",
+        "north america",
+        "europe"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the longest river in the world?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "nile",
+        "amazon"
+      ],
+      "wrong_answers": [
+        "yangtze",
+        "mississippi",
+        "danube",
+        "ganges",
+        "volga"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the smallest country in the world?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vatican city",
+        "vatican"
+      ],
+      "wrong_answers": [
+        "monaco",
+        "san marino",
+        "liechtenstein",
+        "malta",
+        "andorra"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the capital of japan?",
+      "points": 500,
+      "language": "en",
+      "answers": [
+        "tokyo"
+      ],
+      "wrong_answers": [
+        "beijing",
+        "seoul",
+        "bangkok",
+        "hanoi",
+        "manila"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which country has the most natural lakes?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "canada"
+      ],
+      "wrong_answers": [
+        "russia",
+        "brazil",
+        "usa",
+        "china",
+        "india"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the highest mountain in the world?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "mount everest",
+        "everest"
+      ],
+      "wrong_answers": [
+        "k2",
+        "denali",
+        "kilimanjaro",
+        "mont blanc",
+        "aconcagua"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the longest mountain range in the world?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "andes"
+      ],
+      "wrong_answers": [
+        "himalayas",
+        "rockies",
+        "alps",
+        "ural",
+        "karakoram"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which ocean is the largest?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "pacific",
+        "pacific ocean"
+      ],
+      "wrong_answers": [
+        "atlantic",
+        "indian",
+        "arctic",
+        "southern"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the capital of brazil?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "brasilia"
+      ],
+      "wrong_answers": [
+        "rio de janeiro",
+        "são paulo",
+        "buenos aires",
+        "lima",
+        "bogotá"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which country has the most islands in the world?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "sweden"
+      ],
+      "wrong_answers": [
+        "canada",
+        "philippines",
+        "indonesia",
+        "norway",
+        "finland"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the deepest ocean trench in the world?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "mariana trench",
+        "mariana"
+      ],
+      "wrong_answers": [
+        "tonga trench",
+        "kuril-kamchatka trench",
+        "puerto rico trench",
+        "japan trench",
+        "sunda trench"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which country is also a continent?",
+      "points": 500,
+      "language": "en",
+      "answers": [
+        "australia"
+      ],
+      "wrong_answers": [
+        "greenland",
+        "antarctica",
+        "canada",
+        "brazil",
+        "russia"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which european country has the most borders with other countries?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "germany"
+      ],
+      "wrong_answers": [
+        "france",
+        "switzerland",
+        "russia",
+        "italy",
+        "austria"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the driest desert in the world?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "atacama",
+        "atacama desert"
+      ],
+      "wrong_answers": [
+        "sahara",
+        "gobi",
+        "kalahari",
+        "mojave",
+        "arabian"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which country has the largest population?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "china"
+      ],
+      "wrong_answers": [
+        "india",
+        "usa",
+        "indonesia",
+        "brazil",
+        "russia"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the capital of russia?",
+      "points": 500,
+      "language": "en",
+      "answers": [
+        "moscow"
+      ],
+      "wrong_answers": [
+        "st. petersburg",
+        "kiev",
+        "minsk",
+        "warsaw",
+        "sochi"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which us state has the most coastline?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "alaska"
+      ],
+      "wrong_answers": [
+        "florida",
+        "california",
+        "hawaii",
+        "texas",
+        "maine"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what is the official language of argentina?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "spanish"
+      ],
+      "wrong_answers": [
+        "portuguese",
+        "french",
+        "italian",
+        "english",
+        "german"
+      ],
       "category": "geography"
     }
   ]
