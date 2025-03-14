@@ -123,24 +123,6 @@
       "category": "literature"
     },
     {
-      "question": "Who painted the Mona Lisa?",
-      "points": 500,
-      "language": "en",
-      "answers": [
-        "leonardo da vinci",
-        "da vinci",
-        "leonardo"
-      ],
-      "wrong_answers": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Michelangelo",
-        "Rembrandt"
-      ],
-      "category": "art"
-    },
-    {
       "question": "What is the longest river in the world?",
       "points": 1000,
       "language": "en",
@@ -260,24 +242,6 @@
         "Aluminum"
       ],
       "category": "science"
-    },
-    {
-      "question": "Who is the Greek god of war?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "ares",
-        "god of war ares",
-        "god ares"
-      ],
-      "wrong_answers": [
-        "Zeus",
-        "Hades",
-        "Apollo",
-        "Hermes",
-        "Poseidon"
-      ],
-      "category": "mythology"
     },
     {
       "question": "What does CPU stand for in computing?",
@@ -694,40 +658,6 @@
         "10"
       ],
       "category": "math"
-    },
-    {
-      "question": "who painted 'starry night'?",
-      "points": 800,
-      "language": "en",
-      "answers": [
-        "vincent van gogh",
-        "van gogh"
-      ],
-      "wrong_answers": [
-        "pablo picasso",
-        "claude monet",
-        "leonardo da vinci",
-        "rembrandt",
-        "michelangelo"
-      ],
-      "category": "art"
-    },
-    {
-      "question": "what is the most widely spoken language in the world?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "english",
-        "mandarin chinese"
-      ],
-      "wrong_answers": [
-        "spanish",
-        "hindi",
-        "arabic",
-        "french",
-        "portuguese"
-      ],
-      "category": "language"
     },
     {
       "question": "who was the first emperor of rome?",
@@ -3807,6 +3737,325 @@
         "130"
       ],
       "category": "math"
+    },
+    {
+      "question": "which shakespeare play features the character ophelia?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "hamlet"
+      ],
+      "wrong_answers": [
+        "macbeth",
+        "othello",
+        "romeo and juliet",
+        "king lear",
+        "the tempest"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who is the author of the harry potter series?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "j.k. rowling",
+        "rowling"
+      ],
+      "wrong_answers": [
+        "stephen king",
+        "george r.r. martin",
+        "suzanne collins",
+        "roald dahl",
+        "rick riordan"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "which novel begins with the line 'call me ishmael'?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "moby dick",
+        "moby-dick"
+      ],
+      "wrong_answers": [
+        "the great gatsby",
+        "ulysses",
+        "oliver twist",
+        "treasure island",
+        "robinson crusoe"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote '1984'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "george orwell",
+        "orwell"
+      ],
+      "wrong_answers": [
+        "aldous huxley",
+        "ray bradbury",
+        "kurt vonnegut",
+        "philip k. dick",
+        "isaac asimov"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is the name of the hobbit in 'the lord of the rings'?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "frodo",
+        "frodo baggins"
+      ],
+      "wrong_answers": [
+        "bilbo",
+        "samwise",
+        "merry",
+        "pippin",
+        "gollum"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who created the detective sherlock holmes?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "arthur conan doyle",
+        "conan doyle"
+      ],
+      "wrong_answers": [
+        "agatha christie",
+        "edgar allan poe",
+        "wilkie collins",
+        "dorothy l. sayers",
+        "raymond chandler"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "in what city is 'romeo and juliet' set?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "verona"
+      ],
+      "wrong_answers": [
+        "venice",
+        "rome",
+        "florence",
+        "milan",
+        "naples"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is the first book in c.s. lewis's chronicles of narnia series?",
+      "points": 100,
+      "language": "en",
+      "answers": [
+        "the lion",
+        "lion witch"
+      ],
+      "wrong_answers": [
+        "prince caspian",
+        "silver chair",
+        "magician's nephew",
+        "horse boy",
+        "dawn treader"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'the catcher in the rye'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "j.d. salinger",
+        "salinger"
+      ],
+      "wrong_answers": [
+        "f. scott fitzgerald",
+        "ernest hemingway",
+        "john steinbeck",
+        "mark twain",
+        "herman melville"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is captain ahab hunting in 'moby dick'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "white whale",
+        "whale"
+      ],
+      "wrong_answers": [
+        "shark",
+        "kraken",
+        "sea monster",
+        "giant squid",
+        "treasure"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'to kill a mockingbird'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "harper lee",
+        "lee"
+      ],
+      "wrong_answers": [
+        "truman capote",
+        "william faulkner",
+        "flannery o'connor",
+        "toni morrison",
+        "maya angelou"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of don quixote's horse?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "rocinante"
+      ],
+      "wrong_answers": [
+        "sancho",
+        "dulcinea",
+        "manchego",
+        "panza",
+        "hidalgo"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'the great gatsby'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "f. scott fitzgerald",
+        "fitzgerald"
+      ],
+      "wrong_answers": [
+        "ernest hemingway",
+        "william faulkner",
+        "john steinbeck",
+        "jack kerouac",
+        "j.d. salinger"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of the second harry potter book?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "chamber secrets",
+        "secret chamber"
+      ],
+      "wrong_answers": [
+        "prisoner azkaban",
+        "goblet fire",
+        "philosopher's stone",
+        "order phoenix",
+        "half-blood prince"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'frankenstein'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "mary shelley",
+        "shelley"
+      ],
+      "wrong_answers": [
+        "bram stoker",
+        "edgar allan poe",
+        "h.g. wells",
+        "robert louis stevenson",
+        "oscar wilde"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of the farm in george orwell's 'animal farm'?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "manor farm"
+      ],
+      "wrong_answers": [
+        "animal farm",
+        "freedom farm",
+        "revolution farm",
+        "equality farm",
+        "jones farm"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "which russian author wrote 'war and peace'?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "leo tolstoy",
+        "tolstoy"
+      ],
+      "wrong_answers": [
+        "fyodor dostoevsky",
+        "anton chekhov",
+        "ivan turgenev",
+        "nikolai gogol",
+        "alexander pushkin"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who is the protagonist of 'the odyssey'?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "odysseus",
+        "ulysses"
+      ],
+      "wrong_answers": [
+        "achilles",
+        "hector",
+        "ajax",
+        "agamemnon",
+        "menelaus"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of atticus finch's daughter in 'to kill a mockingbird'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "scout",
+        "jean louise"
+      ],
+      "wrong_answers": [
+        "mayella",
+        "calpurnia",
+        "maudie",
+        "dill",
+        "boo"
+      ],
+      "category": "literature"
     }
   ]
 }
