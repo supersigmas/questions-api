@@ -123,24 +123,6 @@
       "category": "literature"
     },
     {
-      "question": "Who painted the Mona Lisa?",
-      "points": 500,
-      "language": "en",
-      "answers": [
-        "leonardo da vinci",
-        "da vinci",
-        "leonardo"
-      ],
-      "wrong_answers": [
-        "Pablo Picasso",
-        "Vincent van Gogh",
-        "Claude Monet",
-        "Michelangelo",
-        "Rembrandt"
-      ],
-      "category": "art"
-    },
-    {
       "question": "What is the longest river in the world?",
       "points": 1000,
       "language": "en",
@@ -260,24 +242,6 @@
         "Aluminum"
       ],
       "category": "science"
-    },
-    {
-      "question": "Who is the Greek god of war?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "ares",
-        "god of war ares",
-        "god ares"
-      ],
-      "wrong_answers": [
-        "Zeus",
-        "Hades",
-        "Apollo",
-        "Hermes",
-        "Poseidon"
-      ],
-      "category": "mythology"
     },
     {
       "question": "What does CPU stand for in computing?",
@@ -694,40 +658,6 @@
         "10"
       ],
       "category": "math"
-    },
-    {
-      "question": "who painted 'starry night'?",
-      "points": 800,
-      "language": "en",
-      "answers": [
-        "vincent van gogh",
-        "van gogh"
-      ],
-      "wrong_answers": [
-        "pablo picasso",
-        "claude monet",
-        "leonardo da vinci",
-        "rembrandt",
-        "michelangelo"
-      ],
-      "category": "art"
-    },
-    {
-      "question": "what is the most widely spoken language in the world?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "english",
-        "mandarin chinese"
-      ],
-      "wrong_answers": [
-        "spanish",
-        "hindi",
-        "arabic",
-        "french",
-        "portuguese"
-      ],
-      "category": "language"
     },
     {
       "question": "who was the first emperor of rome?",
@@ -3807,6 +3737,915 @@
         "130"
       ],
       "category": "math"
+    },
+    {
+      "question": "which shakespeare play features the character ophelia?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "hamlet"
+      ],
+      "wrong_answers": [
+        "macbeth",
+        "othello",
+        "romeo and juliet",
+        "king lear",
+        "the tempest"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who is the author of the harry potter series?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "j.k. rowling",
+        "rowling"
+      ],
+      "wrong_answers": [
+        "stephen king",
+        "george r.r. martin",
+        "suzanne collins",
+        "roald dahl",
+        "rick riordan"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "which novel begins with the line 'call me ishmael'?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "moby dick",
+        "moby-dick"
+      ],
+      "wrong_answers": [
+        "the great gatsby",
+        "ulysses",
+        "oliver twist",
+        "treasure island",
+        "robinson crusoe"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote '1984'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "george orwell",
+        "orwell"
+      ],
+      "wrong_answers": [
+        "aldous huxley",
+        "ray bradbury",
+        "kurt vonnegut",
+        "philip k. dick",
+        "isaac asimov"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is the name of the hobbit in 'the lord of the rings'?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "frodo",
+        "frodo baggins"
+      ],
+      "wrong_answers": [
+        "bilbo",
+        "samwise",
+        "merry",
+        "pippin",
+        "gollum"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who created the detective sherlock holmes?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "arthur conan doyle",
+        "conan doyle"
+      ],
+      "wrong_answers": [
+        "agatha christie",
+        "edgar allan poe",
+        "wilkie collins",
+        "dorothy l. sayers",
+        "raymond chandler"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "in what city is 'romeo and juliet' set?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "verona"
+      ],
+      "wrong_answers": [
+        "venice",
+        "rome",
+        "florence",
+        "milan",
+        "naples"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is the first book in c.s. lewis's chronicles of narnia series?",
+      "points": 100,
+      "language": "en",
+      "answers": [
+        "the lion",
+        "lion witch"
+      ],
+      "wrong_answers": [
+        "prince caspian",
+        "silver chair",
+        "magician's nephew",
+        "horse boy",
+        "dawn treader"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'the catcher in the rye'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "j.d. salinger",
+        "salinger"
+      ],
+      "wrong_answers": [
+        "f. scott fitzgerald",
+        "ernest hemingway",
+        "john steinbeck",
+        "mark twain",
+        "herman melville"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is captain ahab hunting in 'moby dick'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "white whale",
+        "whale"
+      ],
+      "wrong_answers": [
+        "shark",
+        "kraken",
+        "sea monster",
+        "giant squid",
+        "treasure"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'to kill a mockingbird'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "harper lee",
+        "lee"
+      ],
+      "wrong_answers": [
+        "truman capote",
+        "william faulkner",
+        "flannery o'connor",
+        "toni morrison",
+        "maya angelou"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of don quixote's horse?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "rocinante"
+      ],
+      "wrong_answers": [
+        "sancho",
+        "dulcinea",
+        "manchego",
+        "panza",
+        "hidalgo"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'the great gatsby'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "f. scott fitzgerald",
+        "fitzgerald"
+      ],
+      "wrong_answers": [
+        "ernest hemingway",
+        "william faulkner",
+        "john steinbeck",
+        "jack kerouac",
+        "j.d. salinger"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of the second harry potter book?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "chamber secrets",
+        "secret chamber"
+      ],
+      "wrong_answers": [
+        "prisoner azkaban",
+        "goblet fire",
+        "philosopher's stone",
+        "order phoenix",
+        "half-blood prince"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who wrote 'frankenstein'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "mary shelley",
+        "shelley"
+      ],
+      "wrong_answers": [
+        "bram stoker",
+        "edgar allan poe",
+        "h.g. wells",
+        "robert louis stevenson",
+        "oscar wilde"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of the farm in george orwell's 'animal farm'?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "manor farm"
+      ],
+      "wrong_answers": [
+        "animal farm",
+        "freedom farm",
+        "revolution farm",
+        "equality farm",
+        "jones farm"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "which russian author wrote 'war and peace'?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "leo tolstoy",
+        "tolstoy"
+      ],
+      "wrong_answers": [
+        "fyodor dostoevsky",
+        "anton chekhov",
+        "ivan turgenev",
+        "nikolai gogol",
+        "alexander pushkin"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "who is the protagonist of 'the odyssey'?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "odysseus",
+        "ulysses"
+      ],
+      "wrong_answers": [
+        "achilles",
+        "hector",
+        "ajax",
+        "agamemnon",
+        "menelaus"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what's the name of atticus finch's daughter in 'to kill a mockingbird'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "scout",
+        "jean louise"
+      ],
+      "wrong_answers": [
+        "mayella",
+        "calpurnia",
+        "maudie",
+        "dill",
+        "boo"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is the hardest natural substance on earth?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "diamond",
+        "diamonds"
+      ],
+      "wrong_answers": [
+        "titanium",
+        "steel",
+        "graphene",
+        "quartz",
+        "tungsten"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which element has the chemical symbol 'au'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "gold",
+        "aurum"
+      ],
+      "wrong_answers": [
+        "silver",
+        "aluminum",
+        "argon",
+        "arsenic",
+        "antimony"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the closest planet to the sun?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mercury"
+      ],
+      "wrong_answers": [
+        "venus",
+        "earth",
+        "mars",
+        "jupiter",
+        "saturn"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the largest organ in the human body?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "skin"
+      ],
+      "wrong_answers": [
+        "liver",
+        "brain",
+        "heart",
+        "lungs",
+        "intestines"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what substance makes up the majority of a cell's membrane?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "phospholipids",
+        "lipids"
+      ],
+      "wrong_answers": [
+        "proteins",
+        "carbohydrates",
+        "nucleic acids",
+        "cholesterol",
+        "water"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what gas makes up the majority of earth's atmosphere?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "nitrogen",
+        "n2"
+      ],
+      "wrong_answers": [
+        "oxygen",
+        "carbon dioxide",
+        "argon",
+        "helium",
+        "hydrogen"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what causes the northern lights phenomenon?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "solar wind",
+        "magnetosphere",
+        "charged particles"
+      ],
+      "wrong_answers": [
+        "pollution",
+        "reflection",
+        "ozone",
+        "electricity",
+        "radiation"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which scientist developed the theory of general relativity?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "einstein",
+        "albert einstein"
+      ],
+      "wrong_answers": [
+        "newton",
+        "hawking",
+        "feynman",
+        "bohr",
+        "tesla"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the process by which plants make their own food called?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "photosynthesis"
+      ],
+      "wrong_answers": [
+        "respiration",
+        "digestion",
+        "fermentation",
+        "osmosis",
+        "decomposition"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which blood type is known as the universal donor?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "o negative",
+        "o-"
+      ],
+      "wrong_answers": [
+        "a positive",
+        "ab negative",
+        "b positive",
+        "a negative",
+        "ab positive"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which acid is found in lemons and oranges?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "citric acid",
+        "citric"
+      ],
+      "wrong_answers": [
+        "acetic acid",
+        "lactic acid",
+        "ascorbic acid",
+        "malic acid",
+        "tartaric acid"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the powerhouse of the cell?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "mitochondria",
+        "mitochondrion"
+      ],
+      "wrong_answers": [
+        "nucleus",
+        "ribosome",
+        "golgi body",
+        "lysosome",
+        "endoplasmic reticulum"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which planet has the great red spot?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "jupiter"
+      ],
+      "wrong_answers": [
+        "mars",
+        "venus",
+        "saturn",
+        "neptune",
+        "uranus"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what mineral is primarily responsible for bone strength?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "calcium",
+        "ca"
+      ],
+      "wrong_answers": [
+        "iron",
+        "potassium",
+        "sodium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the normal body temperature in celsius?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "37",
+        "37c",
+        "36.6"
+      ],
+      "wrong_answers": [
+        "36",
+        "38",
+        "35",
+        "40",
+        "39"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the branch of science that studies weather?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "meteorology"
+      ],
+      "wrong_answers": [
+        "geology",
+        "hydrology",
+        "astronomy",
+        "climatology",
+        "geography"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is h2o commonly known as?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "water"
+      ],
+      "wrong_answers": [
+        "hydrogen",
+        "oxygen",
+        "air",
+        "steam",
+        "ice"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which vitamin is produced when skin is exposed to sunlight?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "vitamin d",
+        "d"
+      ],
+      "wrong_answers": [
+        "vitamin c",
+        "vitamin a",
+        "vitamin k",
+        "vitamin e",
+        "vitamin b"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what color pill does neo take in the matrix?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "red pill",
+        "red"
+      ],
+      "wrong_answers": [
+        "blue pill",
+        "green pill",
+        "black pill",
+        "white pill",
+        "purple pill"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who directed titanic?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "james cameron",
+        "cameron"
+      ],
+      "wrong_answers": [
+        "steven spielberg",
+        "christopher nolan",
+        "martin scorsese",
+        "quentin tarantino",
+        "ridley scott"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which film features a character named luke skywalker?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "star wars"
+      ],
+      "wrong_answers": [
+        "star trek",
+        "blade runner",
+        "alien",
+        "guardians of the galaxy",
+        "the fifth element"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what animal is simba in the lion king?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "lion",
+        "male lion"
+      ],
+      "wrong_answers": [
+        "tiger",
+        "cheetah",
+        "leopard",
+        "panther",
+        "jaguar"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which studio made toy story?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "pixar",
+        "pixar animation"
+      ],
+      "wrong_answers": [
+        "dreamworks",
+        "disney",
+        "illumination",
+        "blue sky",
+        "warner bros"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what film won the first best animated feature oscar?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "shrek",
+        "shrek 1"
+      ],
+      "wrong_answers": [
+        "toy story",
+        "finding nemo",
+        "spirited away",
+        "monsters inc",
+        "ice age"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who played harry potter in the film series?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "daniel radcliffe",
+        "radcliffe"
+      ],
+      "wrong_answers": [
+        "rupert grint",
+        "emma watson",
+        "tom felton",
+        "matthew lewis",
+        "robert pattinson"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "in what year was the first star wars film released?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "1977",
+        "seventy-seven"
+      ],
+      "wrong_answers": [
+        "1980",
+        "1975",
+        "1983",
+        "1970",
+        "1985"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the highest-grossing film of all time?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "avatar",
+        "avatar 1"
+      ],
+      "wrong_answers": [
+        "avengers endgame",
+        "titanic",
+        "star wars",
+        "jurassic world",
+        "frozen"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who directed jaws?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "steven spielberg",
+        "spielberg"
+      ],
+      "wrong_answers": [
+        "james cameron",
+        "martin scorsese",
+        "alfred hitchcock",
+        "francis ford coppola",
+        "robert zemeckis"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what fictional city does batman protect?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "gotham",
+        "gotham city"
+      ],
+      "wrong_answers": [
+        "metropolis",
+        "central city",
+        "star city",
+        "midway city",
+        "bludhaven"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which actress played princess leia in star wars?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "carrie fisher",
+        "fisher"
+      ],
+      "wrong_answers": [
+        "natalie portman",
+        "daisy ridley",
+        "mark hamill",
+        "harrison ford",
+        "felicity jones"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the name of the fictional metal in wolverine's skeleton?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "adamantium",
+        "adamantium metal"
+      ],
+      "wrong_answers": [
+        "vibranium",
+        "unobtanium",
+        "kryptonite",
+        "mithril",
+        "beskar"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who directed pulp fiction?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "quentin tarantino",
+        "tarantino"
+      ],
+      "wrong_answers": [
+        "martin scorsese",
+        "steven spielberg",
+        "david fincher",
+        "christopher nolan",
+        "stanley kubrick"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the name of the main character in the matrix?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "neo",
+        "thomas anderson"
+      ],
+      "wrong_answers": [
+        "morpheus",
+        "trinity",
+        "agent smith",
+        "cypher",
+        "tank"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which animated film features a character named elsa who has ice powers?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "frozen",
+        "frozen 1"
+      ],
+      "wrong_answers": [
+        "tangled",
+        "brave",
+        "moana",
+        "encanto",
+        "soul"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what animal is the main character in finding nemo?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "clownfish",
+        "fish"
+      ],
+      "wrong_answers": [
+        "shark",
+        "turtle",
+        "octopus",
+        "whale",
+        "dolphin"
+      ],
+      "category": "movies"
     }
   ]
 }
