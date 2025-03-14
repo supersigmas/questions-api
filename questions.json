@@ -4296,7 +4296,7 @@
     },
     {
       "question": "what is h2o commonly known as?",
-      "points": 700,
+      "points": 500,
       "language": "en",
       "answers": [
         "water"
@@ -4329,7 +4329,7 @@
     },
     {
       "question": "what color pill does neo take in the matrix?",
-      "points": 800,
+      "points": 600,
       "language": "en",
       "answers": [
         "red pill",
@@ -4396,7 +4396,7 @@
     },
     {
       "question": "which studio made toy story?",
-      "points": 900,
+      "points": 700,
       "language": "en",
       "answers": [
         "pixar",
@@ -4413,7 +4413,7 @@
     },
     {
       "question": "what film won the first best animated feature oscar?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "shrek",
