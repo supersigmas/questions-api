@@ -4358,6 +4358,294 @@
         "vitamin b"
       ],
       "category": "science"
+    },
+    {
+      "question": "what color pill does neo take in the matrix?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "red pill",
+        "red"
+      ],
+      "wrong_answers": [
+        "blue pill",
+        "green pill",
+        "black pill",
+        "white pill",
+        "purple pill"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who directed titanic?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "james cameron",
+        "cameron"
+      ],
+      "wrong_answers": [
+        "steven spielberg",
+        "christopher nolan",
+        "martin scorsese",
+        "quentin tarantino",
+        "ridley scott"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which film features a character named luke skywalker?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "star wars"
+      ],
+      "wrong_answers": [
+        "star trek",
+        "blade runner",
+        "alien",
+        "guardians of the galaxy",
+        "the fifth element"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what animal is simba in the lion king?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "lion",
+        "male lion"
+      ],
+      "wrong_answers": [
+        "tiger",
+        "cheetah",
+        "leopard",
+        "panther",
+        "jaguar"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which studio made toy story?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "pixar",
+        "pixar animation"
+      ],
+      "wrong_answers": [
+        "dreamworks",
+        "disney",
+        "illumination",
+        "blue sky",
+        "warner bros"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what film won the first best animated feature oscar?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "shrek",
+        "shrek 1"
+      ],
+      "wrong_answers": [
+        "toy story",
+        "finding nemo",
+        "spirited away",
+        "monsters inc",
+        "ice age"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who played harry potter in the film series?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "daniel radcliffe",
+        "radcliffe"
+      ],
+      "wrong_answers": [
+        "rupert grint",
+        "emma watson",
+        "tom felton",
+        "matthew lewis",
+        "robert pattinson"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "in what year was the first star wars film released?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "1977",
+        "seventy-seven"
+      ],
+      "wrong_answers": [
+        "1980",
+        "1975",
+        "1983",
+        "1970",
+        "1985"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the highest-grossing film of all time?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "avatar",
+        "avatar 1"
+      ],
+      "wrong_answers": [
+        "avengers endgame",
+        "titanic",
+        "star wars",
+        "jurassic world",
+        "frozen"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who directed jaws?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "steven spielberg",
+        "spielberg"
+      ],
+      "wrong_answers": [
+        "james cameron",
+        "martin scorsese",
+        "alfred hitchcock",
+        "francis ford coppola",
+        "robert zemeckis"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what fictional city does batman protect?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "gotham",
+        "gotham city"
+      ],
+      "wrong_answers": [
+        "metropolis",
+        "central city",
+        "star city",
+        "midway city",
+        "bludhaven"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which actress played princess leia in star wars?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "carrie fisher",
+        "fisher"
+      ],
+      "wrong_answers": [
+        "natalie portman",
+        "daisy ridley",
+        "mark hamill",
+        "harrison ford",
+        "felicity jones"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the name of the fictional metal in wolverine's skeleton?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "adamantium",
+        "adamantium metal"
+      ],
+      "wrong_answers": [
+        "vibranium",
+        "unobtanium",
+        "kryptonite",
+        "mithril",
+        "beskar"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "who directed pulp fiction?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "quentin tarantino",
+        "tarantino"
+      ],
+      "wrong_answers": [
+        "martin scorsese",
+        "steven spielberg",
+        "david fincher",
+        "christopher nolan",
+        "stanley kubrick"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the name of the main character in the matrix?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "neo",
+        "thomas anderson"
+      ],
+      "wrong_answers": [
+        "morpheus",
+        "trinity",
+        "agent smith",
+        "cypher",
+        "tank"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which animated film features a character named elsa who has ice powers?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "frozen",
+        "frozen 1"
+      ],
+      "wrong_answers": [
+        "tangled",
+        "brave",
+        "moana",
+        "encanto",
+        "soul"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what animal is the main character in finding nemo?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "clownfish",
+        "fish"
+      ],
+      "wrong_answers": [
+        "shark",
+        "turtle",
+        "octopus",
+        "whale",
+        "dolphin"
+      ],
+      "category": "movies"
     }
   ]
 }
