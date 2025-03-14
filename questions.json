@@ -4056,6 +4056,308 @@
         "boo"
       ],
       "category": "literature"
+    },
+    {
+      "question": "what is the hardest natural substance on earth?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "diamond",
+        "diamonds"
+      ],
+      "wrong_answers": [
+        "titanium",
+        "steel",
+        "graphene",
+        "quartz",
+        "tungsten"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which element has the chemical symbol 'au'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "gold",
+        "aurum"
+      ],
+      "wrong_answers": [
+        "silver",
+        "aluminum",
+        "argon",
+        "arsenic",
+        "antimony"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the closest planet to the sun?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mercury"
+      ],
+      "wrong_answers": [
+        "venus",
+        "earth",
+        "mars",
+        "jupiter",
+        "saturn"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the largest organ in the human body?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "skin"
+      ],
+      "wrong_answers": [
+        "liver",
+        "brain",
+        "heart",
+        "lungs",
+        "intestines"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what substance makes up the majority of a cell's membrane?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "phospholipids",
+        "lipids"
+      ],
+      "wrong_answers": [
+        "proteins",
+        "carbohydrates",
+        "nucleic acids",
+        "cholesterol",
+        "water"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what gas makes up the majority of earth's atmosphere?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "nitrogen",
+        "n2"
+      ],
+      "wrong_answers": [
+        "oxygen",
+        "carbon dioxide",
+        "argon",
+        "helium",
+        "hydrogen"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what causes the northern lights phenomenon?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "solar wind",
+        "magnetosphere",
+        "charged particles"
+      ],
+      "wrong_answers": [
+        "pollution",
+        "reflection",
+        "ozone",
+        "electricity",
+        "radiation"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which scientist developed the theory of general relativity?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "einstein",
+        "albert einstein"
+      ],
+      "wrong_answers": [
+        "newton",
+        "hawking",
+        "feynman",
+        "bohr",
+        "tesla"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the process by which plants make their own food called?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "photosynthesis"
+      ],
+      "wrong_answers": [
+        "respiration",
+        "digestion",
+        "fermentation",
+        "osmosis",
+        "decomposition"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which blood type is known as the universal donor?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "o negative",
+        "o-"
+      ],
+      "wrong_answers": [
+        "a positive",
+        "ab negative",
+        "b positive",
+        "a negative",
+        "ab positive"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which acid is found in lemons and oranges?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "citric acid",
+        "citric"
+      ],
+      "wrong_answers": [
+        "acetic acid",
+        "lactic acid",
+        "ascorbic acid",
+        "malic acid",
+        "tartaric acid"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the powerhouse of the cell?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "mitochondria",
+        "mitochondrion"
+      ],
+      "wrong_answers": [
+        "nucleus",
+        "ribosome",
+        "golgi body",
+        "lysosome",
+        "endoplasmic reticulum"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which planet has the great red spot?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "jupiter"
+      ],
+      "wrong_answers": [
+        "mars",
+        "venus",
+        "saturn",
+        "neptune",
+        "uranus"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what mineral is primarily responsible for bone strength?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "calcium",
+        "ca"
+      ],
+      "wrong_answers": [
+        "iron",
+        "potassium",
+        "sodium",
+        "magnesium",
+        "zinc"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the normal body temperature in celsius?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "37",
+        "37c",
+        "36.6"
+      ],
+      "wrong_answers": [
+        "36",
+        "38",
+        "35",
+        "40",
+        "39"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is the branch of science that studies weather?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "meteorology"
+      ],
+      "wrong_answers": [
+        "geology",
+        "hydrology",
+        "astronomy",
+        "climatology",
+        "geography"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what is h2o commonly known as?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "water"
+      ],
+      "wrong_answers": [
+        "hydrogen",
+        "oxygen",
+        "air",
+        "steam",
+        "ice"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which vitamin is produced when skin is exposed to sunlight?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "vitamin d",
+        "d"
+      ],
+      "wrong_answers": [
+        "vitamin c",
+        "vitamin a",
+        "vitamin k",
+        "vitamin e",
+        "vitamin b"
+      ],
+      "category": "science"
     }
   ]
 }
