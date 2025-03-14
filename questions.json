@@ -812,22 +812,6 @@
       "category": "nature"
     },
     {
-      "question": "what is the capital city of brazil?",
-      "points": 800,
-      "language": "en",
-      "answers": [
-        "brasilia"
-      ],
-      "wrong_answers": [
-        "rio de janeiro",
-        "são paulo",
-        "buenos aires",
-        "lima",
-        "bogotá"
-      ],
-      "category": "geography"
-    },
-    {
       "question": "what is the name of the main character in the legend of zelda series?",
       "points": 900,
       "language": "en",
@@ -1044,7 +1028,7 @@
     },
     {
       "question": "what year was the first playstation released?",
-      "points": 1100,
+      "points": 1000,
       "language": "en",
       "answers": [
         "1994"
@@ -1108,7 +1092,7 @@
     },
     {
       "question": "what is the main objective in among us?",
-      "points": 800,
+      "points": 1000,
       "language": "en",
       "answers": [
         "find the impostor",
@@ -1886,22 +1870,6 @@
         "alps",
         "ural",
         "karakoram"
-      ],
-      "category": "geography"
-    },
-    {
-      "question": "which ocean is the largest?",
-      "points": 600,
-      "language": "en",
-      "answers": [
-        "pacific",
-        "pacific ocean"
-      ],
-      "wrong_answers": [
-        "atlantic",
-        "indian",
-        "arctic",
-        "southern"
       ],
       "category": "geography"
     },
@@ -4564,7 +4532,7 @@
     },
     {
       "question": "what is the name of the fictional metal in wolverine's skeleton?",
-      "points": 800,
+      "points": 700,
       "language": "en",
       "answers": [
         "adamantium",
@@ -4615,7 +4583,7 @@
     },
     {
       "question": "which animated film features a character named elsa who has ice powers?",
-      "points": 700,
+      "points": 600,
       "language": "en",
       "answers": [
         "frozen",
