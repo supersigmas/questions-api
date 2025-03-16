@@ -2,7 +2,7 @@
   "data": [
     {
       "question": "What is the largest ocean on Earth?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "pacific ocean",
@@ -20,11 +20,12 @@
     },
     {
       "question": "Who developed the theory of relativity?",
-      "points": 1000,
+      "points": 900,
       "language": "en",
       "answers": [
         "albert einstein",
-        "einstein"
+        "einstein",
+        "a. einstein"
       ],
       "wrong_answers": [
         "Isaac Newton",
@@ -37,7 +38,7 @@
     },
     {
       "question": "Which country is famous for inventing pizza?",
-      "points": 1000,
+      "points": 700,
       "language": "en",
       "answers": [
         "italy",
@@ -71,7 +72,7 @@
     },
     {
       "question": "What is the chemical formula for water?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "h2o",
@@ -142,7 +143,7 @@
     },
     {
       "question": "Which element is necessary for breathing?",
-      "points": 600,
+      "points": 700,
       "language": "en",
       "answers": [
         "oxygen",
@@ -159,7 +160,7 @@
     },
     {
       "question": "What is the capital of Japan?",
-      "points": 500,
+      "points": 700,
       "language": "en",
       "answers": [
         "tokyo",
@@ -194,7 +195,7 @@
     },
     {
       "question": "What is the square root of 64?",
-      "points": 500,
+      "points": 600,
       "language": "en",
       "answers": [
         "8",
@@ -211,7 +212,7 @@
     },
     {
       "question": "Which organ pumps blood through the human body?",
-      "points": 500,
+      "points": 600,
       "language": "en",
       "answers": [
         "heart",
@@ -228,7 +229,7 @@
     },
     {
       "question": "Which metal is liquid at room temperature?",
-      "points": 800,
+      "points": 900,
       "language": "en",
       "answers": [
         "mercury",
@@ -300,7 +301,8 @@
       "language": "en",
       "answers": [
         "steven spielberg",
-        "spielberg"
+        "spielberg",
+        "s. spielberg"
       ],
       "wrong_answers": [
         "James Cameron",
@@ -313,7 +315,7 @@
     },
     {
       "question": "What is the capital of France?",
-      "points": 900,
+      "points": 700,
       "language": "en",
       "answers": [
         "paris"
@@ -329,10 +331,13 @@
     },
     {
       "question": "Which planet is known as the Red Planet?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
-        "mars"
+        "mars",
+        "the planet mars",
+        "the mars",
+        "mars planet"
       ],
       "wrong_answers": [
         "Venus",
@@ -349,7 +354,8 @@
       "language": "en",
       "answers": [
         "william shakespeare",
-        "shakespeare"
+        "shakespeare",
+        "w. shakespeare"
       ],
       "wrong_answers": [
         "Charles Dickens",
@@ -433,7 +439,8 @@
       "language": "en",
       "answers": [
         "alexander fleming",
-        "fleming"
+        "fleming",
+        "a. fleming"
       ],
       "wrong_answers": [
         "louis pasteur",
@@ -446,7 +453,7 @@
     },
     {
       "question": "which bird is known for its ability to mimic sounds, including human speech?",
-      "points": 900,
+      "points": 800,
       "language": "en",
       "answers": [
         "parrot",
@@ -463,7 +470,7 @@
     },
     {
       "question": "who was the first person to step on the moon?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "neil armstrong",
@@ -480,10 +487,11 @@
     },
     {
       "question": "which game is played with a shuttlecock?",
-      "points": 700,
+      "points": 800,
       "language": "en",
       "answers": [
-        "badminton"
+        "badminton",
+        "the badminton"
       ],
       "wrong_answers": [
         "tennis",
@@ -562,11 +570,14 @@
     },
     {
       "question": "who wrote '1984' and 'animal farm'?",
-      "points": 800,
+      "points": 1000,
       "language": "en",
       "answers": [
         "george orwell",
-        "eric arthur blair"
+        "eric arthur blair",
+        "orwell",
+        "e. a. blair",
+        "g. orwell"
       ],
       "wrong_answers": [
         "aldous huxley",
@@ -583,7 +594,13 @@
       "language": "en",
       "answers": [
         "100 degrees celsius",
-        "212 degrees fahrenheit"
+        "212 degrees fahrenheit",
+        "100 celsius",
+        "100 c",
+        "212 fahrenheit",
+        "212 f",
+        "100",
+        "212"
       ],
       "wrong_answers": [
         "90 degrees celsius",
@@ -615,7 +632,8 @@
       "language": "en",
       "answers": [
         "george washington",
-        "washington"
+        "washington",
+        "g. washington"
       ],
       "wrong_answers": [
         "thomas jefferson",
@@ -644,7 +662,7 @@
     },
     {
       "question": "how many sides does a hexagon have?",
-      "points": 500,
+      "points": 600,
       "language": "en",
       "answers": [
         "6",
@@ -666,7 +684,15 @@
       "answers": [
         "augustus",
         "gaius octavius",
-        "octavian"
+        "octavian",
+        "octavius",
+        "octavianus",
+        "octavianus augustus",
+        "octavius augustus",
+        "gaius julius",
+        "caesar augustus",
+        "gaius julius caesar augustus",
+        "gaius julius caesar octavianus augustus"
       ],
       "wrong_answers": [
         "julius caesar",
@@ -695,7 +721,7 @@
     },
     {
       "question": "who is known as the father of computers?",
-      "points": 900,
+      "points": 1000,
       "language": "en",
       "answers": [
         "charles babbage",
@@ -712,7 +738,7 @@
     },
     {
       "question": "which country is home to the great barrier reef?",
-      "points": 500,
+      "points": 700,
       "language": "en",
       "answers": [
         "australia"
@@ -732,7 +758,8 @@
       "language": "en",
       "answers": [
         "jane austen",
-        "austen"
+        "austen",
+        "j. austen"
       ],
       "wrong_answers": [
         "charlotte bronte",
@@ -745,7 +772,7 @@
     },
     {
       "question": "what is the name of the closest star to earth?",
-      "points": 900,
+      "points": 600,
       "language": "en",
       "answers": [
         "the sun",
@@ -762,11 +789,12 @@
     },
     {
       "question": "which famous scientist introduced the three laws of motion?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "isaac newton",
-        "newton"
+        "newton",
+        "i. newton"
       ],
       "wrong_answers": [
         "albert einstein",
@@ -783,7 +811,8 @@
       "language": "en",
       "answers": [
         "marie curie",
-        "curie"
+        "curie",
+        "m. curie"
       ],
       "wrong_answers": [
         "rosalind franklin",
@@ -816,7 +845,9 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "link"
+        "link",
+        "link hyrule",
+        "the link"
       ],
       "wrong_answers": [
         "zelda",
@@ -846,7 +877,7 @@
     },
     {
       "question": "what is the highest rank in counter-strike: global offensive?",
-      "points": 1100,
+      "points": 800,
       "language": "en",
       "answers": [
         "global elite"
@@ -866,7 +897,8 @@
       "language": "en",
       "answers": [
         "call of duty",
-        "warzone"
+        "warzone",
+        "cod"
       ],
       "wrong_answers": [
         "fortnite",
@@ -899,7 +931,8 @@
       "language": "en",
       "answers": [
         "albert wesker",
-        "wesker"
+        "wesker",
+        "a. wesker"
       ],
       "wrong_answers": [
         "chris redfield",
@@ -916,7 +949,9 @@
       "language": "en",
       "answers": [
         "gta v",
-        "grand theft auto v"
+        "grand theft auto v",
+        "gta 5",
+        "gtav"
       ],
       "wrong_answers": [
         "red dead redemption",
@@ -945,11 +980,12 @@
     },
     {
       "question": "who is the creator of the metal gear series?",
-      "points": 1100,
+      "points": 1000,
       "language": "en",
       "answers": [
         "hideo kojima",
-        "kojima"
+        "kojima",
+        "h. kojima"
       ],
       "wrong_answers": [
         "shigeru miyamoto",
@@ -1079,7 +1115,8 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "clickers"
+        "clickers",
+        "clicker"
       ],
       "wrong_answers": [
         "walkers",
@@ -1096,7 +1133,15 @@
       "language": "en",
       "answers": [
         "find the impostor",
-        "complete tasks"
+        "find the impostors",
+        "complete tasks",
+        "survive",
+        "vote off impostors",
+        "vote off impostor",
+        "kill impostor",
+        "kill impostors",
+        "kill the impostor",
+        "kill the impostors"
       ],
       "wrong_answers": [
         "collect coins",
@@ -1128,7 +1173,8 @@
       "points": 800,
       "language": "en",
       "answers": [
-        "epic games"
+        "epic games",
+        "epic"
       ],
       "wrong_answers": [
         "ubisoft",
@@ -1158,7 +1204,7 @@
     },
     {
       "question": "what programming language is primarily used for android app development?",
-      "points": 850,
+      "points": 900,
       "language": "en",
       "answers": [
         "java",
@@ -1175,11 +1221,11 @@
     },
     {
       "question": "what does the acronym html stand for?",
-      "points": 750,
+      "points": 900,
       "language": "en",
       "answers": [
         "hypertext markup language",
-        "html"
+        "hyper text markup language"
       ],
       "wrong_answers": [
         "high-level text language",
@@ -1191,11 +1237,12 @@
     },
     {
       "question": "who co-founded microsoft alongside bill gates?",
-      "points": 900,
+      "points": 1000,
       "language": "en",
       "answers": [
         "paul allen",
-        "allen"
+        "allen",
+        "p. allen"
       ],
       "wrong_answers": [
         "steve wozniak",
@@ -1208,7 +1255,7 @@
     },
     {
       "question": "what was the name of the first electronic general-purpose computer?",
-      "points": 950,
+      "points": 1000,
       "language": "en",
       "answers": [
         "eniac",
@@ -1225,7 +1272,7 @@
     },
     {
       "question": "which company developed the first commercially successful microprocessor?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "intel",
@@ -1245,8 +1292,7 @@
       "points": 850,
       "language": "en",
       "answers": [
-        "internet",
-        "individual"
+        "internet"
       ],
       "wrong_answers": [
         "innovation",
@@ -1296,8 +1342,7 @@
       "points": 750,
       "language": "en",
       "answers": [
-        "universal serial bus",
-        "usb"
+        "universal serial bus"
       ],
       "wrong_answers": [
         "unified system bus",
@@ -1326,7 +1371,7 @@
     },
     {
       "question": "which year was the first iphone released?",
-      "points": 800,
+      "points": 900,
       "language": "en",
       "answers": [
         "2007"
@@ -1342,11 +1387,19 @@
     },
     {
       "question": "who founded tesla, inc.?",
-      "points": 850,
+      "points": 1000,
       "language": "en",
       "answers": [
         "martin eberhard",
-        "marc tarpenning"
+        "marc tarpenning",
+        "m. eberhard",
+        "m. tarpenning",
+        "eberhard",
+        "tarpenning",
+        "eberhard and tarpenning",
+        "martin and marc",
+        "marc and martin",
+        "tarpenning and eberhard"
       ],
       "wrong_answers": [
         "elon musk",
@@ -1359,7 +1412,7 @@
     },
     {
       "question": "what was the first video game ever created?",
-      "points": 950,
+      "points": 1000,
       "language": "en",
       "answers": [
         "tennis for two",
@@ -1379,8 +1432,7 @@
       "points": 700,
       "language": "en",
       "answers": [
-        "artificial intelligence",
-        "ai"
+        "artificial intelligence"
       ],
       "wrong_answers": [
         "automated interface",
@@ -1392,7 +1444,7 @@
     },
     {
       "question": "which company developed the first mouse?",
-      "points": 950,
+      "points": 1000,
       "language": "en",
       "answers": [
         "xerox",
@@ -1429,7 +1481,8 @@
       "language": "en",
       "answers": [
         "elon musk",
-        "musk"
+        "musk",
+        "e. musk"
       ],
       "wrong_answers": [
         "tim cook",
@@ -3825,7 +3878,7 @@
     },
     {
       "question": "what is the first book in c.s. lewis's chronicles of narnia series?",
-      "points": 100,
+      "points": 1000,
       "language": "en",
       "answers": [
         "the lion",
@@ -4140,23 +4193,6 @@
         "ozone",
         "electricity",
         "radiation"
-      ],
-      "category": "science"
-    },
-    {
-      "question": "which scientist developed the theory of general relativity?",
-      "points": 850,
-      "language": "en",
-      "answers": [
-        "einstein",
-        "albert einstein"
-      ],
-      "wrong_answers": [
-        "newton",
-        "hawking",
-        "feynman",
-        "bohr",
-        "tesla"
       ],
       "category": "science"
     },
