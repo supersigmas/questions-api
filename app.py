@@ -91,6 +91,11 @@ def get_category():
 
     data = data["data"]
     categories = collect_categories(data)
+    random.shuffle(categories)
+
+    # get top 5 categories
+    categories = categories[:5]
+
     return {"categories": categories}, 200
 
 
