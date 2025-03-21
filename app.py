@@ -94,7 +94,7 @@ def get_category():
     random.shuffle(categories)
 
     # get top 5 categories
-    categories = categories[:5]
+    categories = categories[:4]
 
     return {"categories": categories}, 200
 
