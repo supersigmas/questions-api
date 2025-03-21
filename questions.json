@@ -4650,6 +4650,461 @@
         "dolphin"
       ],
       "category": "movies"
+    },
+    {
+      "question": "how many degrees are in a full circle?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "360 degrees",
+        "360"
+      ],
+      "wrong_answers": [
+        "180",
+        "90",
+        "270",
+        "400",
+        "45"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "what is the value of 5 factorial?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "120"
+      ],
+      "wrong_answers": [
+        "60",
+        "25",
+        "100",
+        "150",
+        "200"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "what is the sum of the interior angles of a pentagon?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "540 degrees",
+        "540"
+      ],
+      "wrong_answers": [
+        "360",
+        "180",
+        "720",
+        "600",
+        "450"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "what is the golden ratio approximately (x.yy)?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "1.62",
+        "phi"
+      ],
+      "wrong_answers": [
+        "3.14",
+        "2.71",
+        "1.41",
+        "2.00",
+        "1.50"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "what is the probability of rolling a 6 on a fair six-sided die?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "1/6"
+      ],
+      "wrong_answers": [
+        "1/3",
+        "1/2",
+        "1/4",
+        "1/5",
+        "2/6"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "how many faces does a cube have?",
+      "points": 60,
+      "language": "en",
+      "answers": [
+        "6",
+        "six"
+      ],
+      "wrong_answers": [
+        "4",
+        "5",
+        "7",
+        "8",
+        "10"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "which country has the longest coastline?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "canada"
+      ],
+      "wrong_answers": [
+        "russia",
+        "australia",
+        "usa",
+        "china",
+        "brazil"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "who wrote 'moby dick'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "herman melville",
+        "melville",
+        "h. melville"
+      ],
+      "wrong_answers": [
+        "jules verne",
+        "mark twain",
+        "charles dickens",
+        "nathaniel hawthorne",
+        "edgar allan poe"
+      ],
+      "category": "literature"
+    },
+    {
+      "question": "what is the smallest prime number?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "2"
+      ],
+      "wrong_answers": [
+        "1",
+        "3",
+        "5",
+        "7",
+        "11"
+      ],
+      "category": "math"
+    },
+    {
+      "question": "which company created the first smartphone?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "ibm"
+      ],
+      "wrong_answers": [
+        "apple",
+        "microsoft",
+        "samsung",
+        "nokia",
+        "motorola"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "who directed the movie 'inception'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "christopher nolan",
+        "nolan",
+        "c. nolan"
+      ],
+      "wrong_answers": [
+        "steven spielberg",
+        "quentin tarantino",
+        "martin scorsese",
+        "james cameron",
+        "ridley scott"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "what is the largest animal on earth?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "blue whale",
+        "whale"
+      ],
+      "wrong_answers": [
+        "elephant",
+        "great white shark",
+        "giraffe",
+        "hippopotamus",
+        "rhinoceros"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "which sport uses a net, a ball, and a racket?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "tennis"
+      ],
+      "wrong_answers": [
+        "badminton",
+        "table tennis",
+        "volleyball",
+        "basketball",
+        "handball"
+      ],
+      "category": "sports"
+    },
+    {
+      "question": "what is the capital of australia?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "canberra"
+      ],
+      "wrong_answers": [
+        "sydney",
+        "melbourne",
+        "brisbane",
+        "perth",
+        "adelaide"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which element has the chemical symbol 'he'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "helium"
+      ],
+      "wrong_answers": [
+        "hydrogen",
+        "neon",
+        "oxygen",
+        "carbon",
+        "argon"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "what type of fruit is a banana?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "berry"
+      ],
+      "wrong_answers": [
+        "citrus",
+        "stone fruit",
+        "pome",
+        "melon",
+        "drupe"
+      ],
+      "category": "food"
+    },
+    {
+      "question": "what is the primary programming language used for web development?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "javascript"
+      ],
+      "wrong_answers": [
+        "python",
+        "c++",
+        "java",
+        "ruby",
+        "php"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "which actor played jack sparrow in 'pirates of the caribbean'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "johnny depp",
+        "depp",
+        "j. depp"
+      ],
+      "wrong_answers": [
+        "orlando bloom",
+        "tom cruise",
+        "robert downey jr.",
+        "brad pitt",
+        "keanu reeves"
+      ],
+      "category": "movies"
+    },
+    {
+      "question": "which war took place between 1939 and 1945?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "world war ii",
+        "ww2",
+        "second world war",
+        "WWii"
+      ],
+      "wrong_answers": [
+        "world war i",
+        "cold war",
+        "vietnam war",
+        "korean war",
+        "civil war"
+      ],
+      "category": "history"
+    },
+    {
+      "question": "which animal is known for changing its color to blend in?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "chameleon"
+      ],
+      "wrong_answers": [
+        "octopus",
+        "squid",
+        "gecko",
+        "frog",
+        "butterfly"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "how many players are on a baseball team on the field at one time?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "9",
+        "nine"
+      ],
+      "wrong_answers": [
+        "8",
+        "10",
+        "11",
+        "12",
+        "7"
+      ],
+      "category": "sports"
+    },
+    {
+        "question": "what is the name of the protagonist in the halo series?",
+        "points": 900,
+        "language": "en",
+        "answers": ["master chief", "john-117"],
+        "wrong_answers": ["arbiter", "cortana", "spartan", "sergeant johnson", "noble six"],
+        "category": "gaming"
+    },
+    {
+        "question": "which video game features the phrase 'the cake is a lie'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["portal"],
+        "wrong_answers": ["half-life", "bioshock", "doom", "fallout", "skyrim"],
+        "category": "gaming"
+    },
+    {
+        "question": "what year was the first super mario bros game released?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["1985"],
+        "wrong_answers": ["1983", "1987", "1990", "1979", "1995"],
+        "category": "gaming"
+    },
+    {
+        "question": "what is the best-selling video game of all time?",
+        "points": 600,
+        "language": "en",
+        "answers": ["minecraft", "mc"],
+        "wrong_answers": ["tetris", "grand theft auto v", "fortnite", "super mario bros", "call of duty"],
+        "category": "gaming"
+    },
+    {
+        "question": "which company developed the playstation console?",
+        "points": 700,
+        "language": "en",
+        "answers": ["sony"],
+        "wrong_answers": ["nintendo", "microsoft", "sega", "atari", "valve"],
+        "category": "gaming"
+    },
+    {
+        "question": "which game series features a character named solid snake?",
+        "points": 800,
+        "language": "en",
+        "answers": ["metal gear", "metal gear solid"],
+        "wrong_answers": ["halo", "call of duty", "splinter cell", "battlefield", "gears of war"],
+        "category": "gaming"
+    },
+    {
+        "question": "which pokemon is number 001 in the pokedex?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["bulbasaur"],
+        "wrong_answers": ["pikachu", "charmander", "squirtle", "eevee", "mew"],
+        "category": "gaming"
+    },
+    {
+        "question": "who is the creator of the super mario series?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["shigeru miyamoto", "miyamoto", "s. miyamoto"],
+        "wrong_answers": ["kojima", "sakurai", "hideo kojima", "sid meier", "john carmack"],
+        "category": "gaming"
+    },
+    {
+        "question": "which game studio created the elder scrolls series?",
+        "points": 900,
+        "language": "en",
+        "answers": ["bethesda"],
+        "wrong_answers": ["obsidian", "bioware", "cd projekt red", "rockstar", "ubisoft"],
+        "category": "gaming"
+    },
+    {
+        "question": "which game franchise features the character kratos?",
+        "points": 800,
+        "language": "en",
+        "answers": ["god of war"],
+        "wrong_answers": ["dark souls", "assassin's creed", "devil may cry", "prince of persia", "the witcher"],
+        "category": "gaming"
+    },
+    {
+        "question": "which nintendo series features link as the protagonist?",
+        "points": 800,
+        "language": "en",
+        "answers": ["the legend of zelda", "zelda"],
+        "wrong_answers": ["mario", "fire emblem", "metroid", "final fantasy", "kirby"],
+        "category": "gaming"
+    },
+    {
+        "question": "which game franchise features a post-apocalyptic open world with vaults and nuclear radiation?",
+        "points": 900,
+        "language": "en",
+        "answers": ["fallout"],
+        "wrong_answers": ["metro", "stalker", "bioshock", "borderlands", "rage"],
+        "category": "gaming"
+    },
+    {
+        "question": "which game franchise features the character lara croft?",
+        "points": 800,
+        "language": "en",
+        "answers": ["tomb raider"],
+        "wrong_answers": ["uncharted", "assassin's creed", "the last of us", "prince of persia", "far cry"],
+        "category": "gaming"
     }
   ]
 }
