@@ -1386,31 +1386,6 @@
       "category": "technology"
     },
     {
-      "question": "who founded tesla, inc.?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "martin eberhard",
-        "marc tarpenning",
-        "m. eberhard",
-        "m. tarpenning",
-        "eberhard",
-        "tarpenning",
-        "eberhard and tarpenning",
-        "martin and marc",
-        "marc and martin",
-        "tarpenning and eberhard"
-      ],
-      "wrong_answers": [
-        "elon musk",
-        "peter thiel",
-        "jeff bezos",
-        "larry ellison",
-        "jack dorsey"
-      ],
-      "category": "technology"
-    },
-    {
       "question": "what was the first video game ever created?",
       "points": 1000,
       "language": "en",
