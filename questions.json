@@ -125,7 +125,7 @@
     },
     {
       "question": "What is the longest river in the world?",
-      "points": 1000,
+      "points": 800,
       "language": "en",
       "answers": [
         "nile river",
@@ -160,7 +160,7 @@
     },
     {
       "question": "What is the capital of Japan?",
-      "points": 700,
+      "points": 600,
       "language": "en",
       "answers": [
         "tokyo",
@@ -312,22 +312,6 @@
         "Tim Burton"
       ],
       "category": "movies"
-    },
-    {
-      "question": "What is the capital of France?",
-      "points": 700,
-      "language": "en",
-      "answers": [
-        "paris"
-      ],
-      "wrong_answers": [
-        "Berlin",
-        "Madrid",
-        "Rome",
-        "London",
-        "Vienna"
-      ],
-      "category": "geography"
     },
     {
       "question": "Which planet is known as the Red Planet?",
@@ -1828,23 +1812,6 @@
       "category": "geography"
     },
     {
-      "question": "what is the longest river in the world?",
-      "points": 800,
-      "language": "en",
-      "answers": [
-        "nile",
-        "amazon"
-      ],
-      "wrong_answers": [
-        "yangtze",
-        "mississippi",
-        "danube",
-        "ganges",
-        "volga"
-      ],
-      "category": "geography"
-    },
-    {
       "question": "what is the smallest country in the world?",
       "points": 900,
       "language": "en",
@@ -1858,22 +1825,6 @@
         "liechtenstein",
         "malta",
         "andorra"
-      ],
-      "category": "geography"
-    },
-    {
-      "question": "what is the capital of japan?",
-      "points": 500,
-      "language": "en",
-      "answers": [
-        "tokyo"
-      ],
-      "wrong_answers": [
-        "beijing",
-        "seoul",
-        "bangkok",
-        "hanoi",
-        "manila"
       ],
       "category": "geography"
     },
@@ -2838,22 +2789,6 @@
       "category": "nature"
     },
     {
-      "question": "what is the only mammal capable of true flight?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "bat"
-      ],
-      "wrong_answers": [
-        "flying squirrel",
-        "sugar glider",
-        "colugo",
-        "lemur",
-        "pigeon"
-      ],
-      "category": "nature"
-    },
-    {
       "question": "which gas do plants absorb from the atmosphere?",
       "points": 900,
       "language": "en",
@@ -2948,23 +2883,6 @@
         "american revolution",
         "war of 1812",
         "korean war"
-      ],
-      "category": "history"
-    },
-    {
-      "question": "who was the first emperor of rome?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "augustus",
-        "octavian"
-      ],
-      "wrong_answers": [
-        "julius caesar",
-        "nero",
-        "caligula",
-        "trajan",
-        "hadrian"
       ],
       "category": "history"
     },
@@ -3508,22 +3426,6 @@
         "270 degrees",
         "45 degrees",
         "150 degrees"
-      ],
-      "category": "math"
-    },
-    {
-      "question": "what is the square root of 144?",
-      "points": 800,
-      "language": "en",
-      "answers": [
-        "12"
-      ],
-      "wrong_answers": [
-        "14",
-        "10",
-        "16",
-        "15",
-        "20"
       ],
       "category": "math"
     },
@@ -4077,23 +3979,6 @@
         "boo"
       ],
       "category": "literature"
-    },
-    {
-      "question": "what is the hardest natural substance on earth?",
-      "points": 800,
-      "language": "en",
-      "answers": [
-        "diamond",
-        "diamonds"
-      ],
-      "wrong_answers": [
-        "titanium",
-        "steel",
-        "graphene",
-        "quartz",
-        "tungsten"
-      ],
-      "category": "science"
     },
     {
       "question": "which element has the chemical symbol 'au'?",
@@ -5003,108 +4888,727 @@
       "category": "sports"
     },
     {
-        "question": "what is the name of the protagonist in the halo series?",
-        "points": 900,
-        "language": "en",
-        "answers": ["master chief", "john-117"],
-        "wrong_answers": ["arbiter", "cortana", "spartan", "sergeant johnson", "noble six"],
-        "category": "gaming"
+      "question": "what is the name of the protagonist in the halo series?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "master chief",
+        "john-117"
+      ],
+      "wrong_answers": [
+        "arbiter",
+        "cortana",
+        "spartan",
+        "sergeant johnson",
+        "noble six"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which video game features the phrase 'the cake is a lie'?",
-        "points": 1000,
-        "language": "en",
-        "answers": ["portal"],
-        "wrong_answers": ["half-life", "bioshock", "doom", "fallout", "skyrim"],
-        "category": "gaming"
+      "question": "which video game features the phrase 'the cake is a lie'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "portal"
+      ],
+      "wrong_answers": [
+        "half-life",
+        "bioshock",
+        "doom",
+        "fallout",
+        "skyrim"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "what year was the first super mario bros game released?",
-        "points": 1000,
-        "language": "en",
-        "answers": ["1985"],
-        "wrong_answers": ["1983", "1987", "1990", "1979", "1995"],
-        "category": "gaming"
+      "question": "what year was the first super mario bros game released?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "1985"
+      ],
+      "wrong_answers": [
+        "1983",
+        "1987",
+        "1990",
+        "1979",
+        "1995"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "what is the best-selling video game of all time?",
-        "points": 600,
-        "language": "en",
-        "answers": ["minecraft", "mc"],
-        "wrong_answers": ["tetris", "grand theft auto v", "fortnite", "super mario bros", "call of duty"],
-        "category": "gaming"
+      "question": "what is the best-selling video game of all time?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "minecraft",
+        "mc"
+      ],
+      "wrong_answers": [
+        "tetris",
+        "grand theft auto v",
+        "fortnite",
+        "super mario bros",
+        "call of duty"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which company developed the playstation console?",
-        "points": 700,
-        "language": "en",
-        "answers": ["sony"],
-        "wrong_answers": ["nintendo", "microsoft", "sega", "atari", "valve"],
-        "category": "gaming"
+      "question": "which company developed the playstation console?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "sony"
+      ],
+      "wrong_answers": [
+        "nintendo",
+        "microsoft",
+        "sega",
+        "atari",
+        "valve"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which game series features a character named solid snake?",
-        "points": 800,
-        "language": "en",
-        "answers": ["metal gear", "metal gear solid"],
-        "wrong_answers": ["halo", "call of duty", "splinter cell", "battlefield", "gears of war"],
-        "category": "gaming"
+      "question": "which game series features a character named solid snake?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "metal gear",
+        "metal gear solid"
+      ],
+      "wrong_answers": [
+        "halo",
+        "call of duty",
+        "splinter cell",
+        "battlefield",
+        "gears of war"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which pokemon is number 001 in the pokedex?",
-        "points": 1000,
-        "language": "en",
-        "answers": ["bulbasaur"],
-        "wrong_answers": ["pikachu", "charmander", "squirtle", "eevee", "mew"],
-        "category": "gaming"
+      "question": "which pokemon is number 001 in the pokedex?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "bulbasaur"
+      ],
+      "wrong_answers": [
+        "pikachu",
+        "charmander",
+        "squirtle",
+        "eevee",
+        "mew"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "who is the creator of the super mario series?",
-        "points": 1000,
-        "language": "en",
-        "answers": ["shigeru miyamoto", "miyamoto", "s. miyamoto"],
-        "wrong_answers": ["kojima", "sakurai", "hideo kojima", "sid meier", "john carmack"],
-        "category": "gaming"
+      "question": "who is the creator of the super mario series?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "shigeru miyamoto",
+        "miyamoto",
+        "s. miyamoto"
+      ],
+      "wrong_answers": [
+        "kojima",
+        "sakurai",
+        "hideo kojima",
+        "sid meier",
+        "john carmack"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which game studio created the elder scrolls series?",
-        "points": 900,
-        "language": "en",
-        "answers": ["bethesda"],
-        "wrong_answers": ["obsidian", "bioware", "cd projekt red", "rockstar", "ubisoft"],
-        "category": "gaming"
+      "question": "which game studio created the elder scrolls series?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "bethesda"
+      ],
+      "wrong_answers": [
+        "obsidian",
+        "bioware",
+        "cd projekt red",
+        "rockstar",
+        "ubisoft"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which game franchise features the character kratos?",
-        "points": 800,
-        "language": "en",
-        "answers": ["god of war"],
-        "wrong_answers": ["dark souls", "assassin's creed", "devil may cry", "prince of persia", "the witcher"],
-        "category": "gaming"
+      "question": "which game franchise features the character kratos?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "god of war"
+      ],
+      "wrong_answers": [
+        "dark souls",
+        "assassin's creed",
+        "devil may cry",
+        "prince of persia",
+        "the witcher"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which nintendo series features link as the protagonist?",
-        "points": 800,
-        "language": "en",
-        "answers": ["the legend of zelda", "zelda"],
-        "wrong_answers": ["mario", "fire emblem", "metroid", "final fantasy", "kirby"],
-        "category": "gaming"
+      "question": "which nintendo series features link as the protagonist?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "the legend of zelda",
+        "zelda"
+      ],
+      "wrong_answers": [
+        "mario",
+        "fire emblem",
+        "metroid",
+        "final fantasy",
+        "kirby"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which game franchise features a post-apocalyptic open world with vaults and nuclear radiation?",
-        "points": 900,
-        "language": "en",
-        "answers": ["fallout"],
-        "wrong_answers": ["metro", "stalker", "bioshock", "borderlands", "rage"],
-        "category": "gaming"
+      "question": "which game franchise features a post-apocalyptic open world with vaults and nuclear radiation?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "fallout"
+      ],
+      "wrong_answers": [
+        "metro",
+        "stalker",
+        "bioshock",
+        "borderlands",
+        "rage"
+      ],
+      "category": "gaming"
     },
     {
-        "question": "which game franchise features the character lara croft?",
-        "points": 800,
-        "language": "en",
-        "answers": ["tomb raider"],
-        "wrong_answers": ["uncharted", "assassin's creed", "the last of us", "prince of persia", "far cry"],
-        "category": "gaming"
+      "question": "which game franchise features the character lara croft?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "tomb raider"
+      ],
+      "wrong_answers": [
+        "uncharted",
+        "assassin's creed",
+        "the last of us",
+        "prince of persia",
+        "far cry"
+      ],
+      "category": "gaming"
+    },
+    {
+      "question": "what is the capital of lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "vilnius"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "klaipeda",
+        "siauliai",
+        "panevezys",
+        "riga"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which currency was used in lithuania before the euro?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "litas"
+      ],
+      "wrong_answers": [
+        "lat",
+        "zloty",
+        "mark",
+        "ruble",
+        "franc"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what is the national language of lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "lithuanian"
+      ],
+      "wrong_answers": [
+        "latvian",
+        "estonian",
+        "russian",
+        "polish",
+        "ukrainian"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which sea borders lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "baltic sea",
+        "baltic"
+      ],
+      "wrong_answers": [
+        "north sea",
+        "black sea",
+        "mediterranean",
+        "adriatic",
+        "caspian sea"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what is the second-largest city in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "kaunas"
+      ],
+      "wrong_answers": [
+        "vilnius",
+        "klaipeda",
+        "siauliai",
+        "panevezys",
+        "warsaw"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which famous basketball player is from lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "arvydas sabonis",
+        "sabonis"
+      ],
+      "wrong_answers": [
+        "dirk nowitzki",
+        "pau gasol",
+        "tony parker",
+        "luka doncic",
+        "giannis antetokounmpo"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what is the national animal of lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "european bison",
+        "bison"
+      ],
+      "wrong_answers": [
+        "wolf",
+        "lynx",
+        "eagle",
+        "elk",
+        "brown bear"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which baltic country does not border lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "estonia"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "poland",
+        "belarus",
+        "russia",
+        "ukraine"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which year did lithuania regain independence from the soviet union?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "1990"
+      ],
+      "wrong_answers": [
+        "1989",
+        "1991",
+        "1988",
+        "1992",
+        "1993"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which is the main river flowing through lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "nemunas"
+      ],
+      "wrong_answers": [
+        "volga",
+        "danube",
+        "daugava",
+        "oder",
+        "nile"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which famous castle is located on an island in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "trakai castle",
+        "trakai"
+      ],
+      "wrong_answers": [
+        "kaunas castle",
+        "vilnius castle",
+        "rundale palace",
+        "gediminas tower",
+        "malbork castle"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which sport is the most popular in lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "basketball"
+      ],
+      "wrong_answers": [
+        "football",
+        "hockey",
+        "tennis",
+        "handball",
+        "volleyball"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which is the oldest university in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vilnius university"
+      ],
+      "wrong_answers": [
+        "kaunas university",
+        "klaipeda university",
+        "oxford university",
+        "warsaw university",
+        "harvard university"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what is the national flower of lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "rue"
+      ],
+      "wrong_answers": [
+        "rose",
+        "lily",
+        "tulip",
+        "violet",
+        "daisy"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what is the national potato dish of lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "cepelinai"
+      ],
+      "wrong_answers": [
+        "borscht",
+        "pierogi",
+        "schnitzel",
+        "gulash",
+        "pelmeni"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which traditional cold soup is popular in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "saltibarsciai",
+        "pink soup"
+      ],
+      "wrong_answers": [
+        "gazpacho",
+        "borscht",
+        "okroshka",
+        "vichyssoise",
+        "minestrone"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which famous hill in lithuania is covered with thousands of crosses?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "hill of crosses"
+      ],
+      "wrong_answers": [
+        "trakai hill",
+        "vilnius hill",
+        "kaunas ridge",
+        "siauliai mound",
+        "gediminas hill"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which is the tallest church in lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "kaunas cathedral"
+      ],
+      "wrong_answers": [
+        "vilnius cathedral",
+        "siauliai church",
+        "klaipeda basilica",
+        "trakai chapel",
+        "palanga sanctuary"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which historical grand duke is considered the founder of vilnius?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "gediminas"
+      ],
+      "wrong_answers": [
+        "vytautas",
+        "mindaugas",
+        "jogaila",
+        "algirdas"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "which baltic country is south of lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "latvia"
+      ],
+      "wrong_answers": [
+        "estonia",
+        "poland",
+        "finland",
+        "sweden"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what colors are on the lithuanian flag?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "yellow, green, red",
+        "yellow green red"
+      ],
+      "wrong_answers": [
+        "red white blue",
+        "blue yellow red",
+        "black red yellow",
+        "white red green"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what currency is used in lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "euro",
+        "eur"
+      ],
+      "wrong_answers": [
+        "litas",
+        "dollar",
+        "pound",
+        "yen"
+      ],
+      "category": "lithuania"
+    },
+    {
+      "question": "what is the tallest waterfall in the world?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "angel falls",
+        "angel"
+      ],
+      "wrong_answers": [
+        "niagara falls",
+        "victoria falls",
+        "iguazu falls",
+        "yosemite falls",
+        "dettifoss"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "which element has the atomic number 79?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "gold",
+        "au"
+      ],
+      "wrong_answers": [
+        "silver",
+        "platinum",
+        "copper",
+        "iron",
+        "mercury"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which company created the firefox web browser?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "mozilla",
+        "mozilla foundation"
+      ],
+      "wrong_answers": [
+        "google",
+        "microsoft",
+        "apple",
+        "opera",
+        "netscape"
+      ],
+      "category": "technology"
+    },
+    {
+      "question": "what is the largest species of bear?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "polar bear",
+        "kodiak",
+        "the polar bear"
+      ],
+      "wrong_answers": [
+        "grizzly bear",
+        "brown bear",
+        "black bear",
+        "panda bear",
+        "sun bear"
+      ],
+      "category": "nature"
+    },
+    {
+      "question": "what is the longest bone in the human body?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "femur",
+        "thigh bone"
+      ],
+      "wrong_answers": [
+        "tibia",
+        "humerus",
+        "fibula",
+        "radius",
+        "ulna"
+      ],
+      "category": "science"
+    },
+    {
+      "question": "which strait separates asia from north america?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "bering strait",
+        "bering"
+      ],
+      "wrong_answers": [
+        "strait gibraltar",
+        "strait hormuz",
+        "strait malacca",
+        "strait magellan",
+        "strait messina"
+      ],
+      "category": "geography"
+    },
+    {
+      "question": "what type of cheese is traditionally used in a classic greek salad?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "feta",
+        "feta cheese"
+      ],
+      "wrong_answers": [
+        "mozzarella",
+        "cheddar",
+        "gouda",
+        "brie",
+        "parmesan"
+      ],
+      "category": "food"
+    },
+    {
+      "question": "which artist painted 'the persistence of memory' with melting clocks?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "salvador dali",
+        "dali"
+      ],
+      "wrong_answers": [
+        "pablo picasso",
+        "vincent van gogh",
+        "claude monet",
+        "andy warhol",
+        "frida kahlo"
+      ],
+      "category": "history"
+    },
+    {
+      "question": "which animated film features a rat who becomes a chef?",
+      "points": 650,
+      "language": "en",
+      "answers": [
+        "ratatouille",
+        "rat chef"
+      ],
+      "wrong_answers": [
+        "finding nemo",
+        "up",
+        "toy story",
+        "shrek",
+        "frozen"
+      ],
+      "category": "movies"
     }
   ]
 }
