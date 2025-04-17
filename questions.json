@@ -5609,6 +5609,758 @@
         "frozen"
       ],
       "category": "movies"
+    },
+        {
+        "question": "what is the capital of italy?",
+        "points": 900,
+        "language": "en",
+        "answers": ["rome"],
+        "wrong_answers": ["milan", "venice", "florence", "naples", "turin"],
+        "category": "geography"
+    },
+    {
+        "question": "what is the largest desert in the world?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["antarctic desert", "antarctica"],
+        "wrong_answers": ["sahara", "gobi", "kalahari", "arabian", "patagonian"],
+        "category": "geography"
+    },
+    {
+        "question": "which planet is known for its rings?",
+        "points": 900,
+        "language": "en",
+        "answers": ["saturn"],
+        "wrong_answers": ["jupiter", "mars", "venus", "uranus", "neptune"],
+        "category": "science"
+    },
+    {
+        "question": "what is the chemical symbol for oxygen?",
+        "points": 800,
+        "language": "en",
+        "answers": ["o"],
+        "wrong_answers": ["ox", "og", "oz", "h2o", "co2"],
+        "category": "science"
+    },
+    {
+        "question": "which country is home to the taj mahal?",
+        "points": 900,
+        "language": "en",
+        "answers": ["india"],
+        "wrong_answers": ["pakistan", "bangladesh", "nepal", "iran", "china"],
+        "category": "history"
+    },
+    {
+        "question": "what is the name of mickey mouse's dog?",
+        "points": 800,
+        "language": "en",
+        "answers": ["pluto"],
+        "wrong_answers": ["goofy", "scooby", "max", "daisy", "buster"],
+        "category": "movies"
+    },
+    {
+        "question": "how many continents are there on earth?",
+        "points": 800,
+        "language": "en",
+        "answers": ["seven", "7"],
+        "wrong_answers": ["six", "five", "eight", "nine", "ten"],
+        "category": "geography"
+    },
+    {
+        "question": "who painted the mona lisa?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["leonardo da vinci", "da vinci"],
+        "wrong_answers": ["michelangelo", "raphael", "picasso", "rembrandt", "van gogh"],
+        "category": "history"
+    },
+    {
+        "question": "what is the main ingredient in bread?",
+        "points": 800,
+        "language": "en",
+        "answers": ["flour"],
+        "wrong_answers": ["sugar", "rice", "milk", "butter", "oil"],
+        "category": "food"
+    },
+    {
+        "question": "how many legs does a spider have?",
+        "points": 800,
+        "language": "en",
+        "answers": ["eight", "8"],
+        "wrong_answers": ["six", "ten", "twelve", "four", "two"],
+        "category": "nature"
+    },
+    {
+        "question": "what color is the sky on a clear day?",
+        "points": 700,
+        "language": "en",
+        "answers": ["blue"],
+        "wrong_answers": ["green", "red", "yellow", "purple", "black"],
+        "category": "science"
+    },
+    {
+        "question": "what do bees make?",
+        "points": 800,
+        "language": "en",
+        "answers": ["honey"],
+        "wrong_answers": ["wax", "nectar", "juice", "pollen", "glue"],
+        "category": "nature"
+    },
+    {
+        "question": "how many colors are there in a rainbow?",
+        "points": 900,
+        "language": "en",
+        "answers": ["seven", "7"],
+        "wrong_answers": ["six", "eight", "five", "nine", "ten"],
+        "category": "science"
+    },
+    {
+        "question": "what is frozen water called?",
+        "points": 700,
+        "language": "en",
+        "answers": ["ice"],
+        "wrong_answers": ["snow", "steam", "hail", "frost", "fog"],
+        "category": "science"
+    },
+    {
+        "question": "what shape is a stop sign?",
+        "points": 900,
+        "language": "en",
+        "answers": ["octagon"],
+        "wrong_answers": ["hexagon", "circle", "triangle", "square", "pentagon"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the currency of japan?",
+        "points": 900,
+        "language": "en",
+        "answers": ["yen"],
+        "wrong_answers": ["won", "peso", "dollar", "euro", "rupee"],
+        "category": "geography"
+    },
+    {
+        "question": "how many minutes are in an hour?",
+        "points": 700,
+        "language": "en",
+        "answers": ["sixty", "60"],
+        "wrong_answers": ["fifty", "seventy", "thirty", "forty", "ninety"],
+        "category": "math"
+    },
+    {
+        "question": "what animal is known as man's best friend?",
+        "points": 800,
+        "language": "en",
+        "answers": ["dog"],
+        "wrong_answers": ["cat", "horse", "parrot", "goat", "monkey"],
+        "category": "nature"
+    },
+    {
+        "question": "what do cows drink?",
+        "points": 900,
+        "language": "en",
+        "answers": ["water"],
+        "wrong_answers": ["milk", "juice", "tea", "soda", "oil"],
+        "category": "nature"
+    },
+    {
+        "question": "what is 2 + 2?",
+        "points": 700,
+        "language": "en",
+        "answers": ["four", "4"],
+        "wrong_answers": ["3", "5", "6", "7", "8"],
+        "category": "math"
+    },
+    {
+        "question": "what is the name of the pirate in peter pan?",
+        "points": 900,
+        "language": "en",
+        "answers": ["captain hook", "hook"],
+        "wrong_answers": ["blackbeard", "long john", "barbossa", "jack sparrow", "flint"],
+        "category": "movies"
+    },
+    {
+        "question": "how many planets are in the solar system?",
+        "points": 900,
+        "language": "en",
+        "answers": ["eight", "8"],
+        "wrong_answers": ["seven", "nine", "ten", "six", "eleven"],
+        "category": "science"
+    },
+    {
+        "question": "which vegetable is orange and good for your eyes?",
+        "points": 800,
+        "language": "en",
+        "answers": ["carrot", "carrots"],
+        "wrong_answers": ["pumpkin", "broccoli", "potato", "radish", "pepper"],
+        "category": "food"
+    },
+    {
+        "question": "which bird cannot fly but runs very fast?",
+        "points": 900,
+        "language": "en",
+        "answers": ["ostrich"],
+        "wrong_answers": ["penguin", "eagle", "emu", "kiwi", "parrot"],
+        "category": "nature"
+    },
+    {
+        "question": "what do you call a house made of ice?",
+        "points": 800,
+        "language": "en",
+        "answers": ["igloo"],
+        "wrong_answers": ["tent", "cabin", "hut", "yurt", "chalet"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you call molten rock that comes from a volcano?",
+        "points": 900,
+        "language": "en",
+        "answers": ["lava"],
+        "wrong_answers": ["magma", "ash", "smoke", "stone", "coal"],
+        "category": "science"
+    },
+    {
+        "question": "what is the name of the wizard boy in the harry potter series?",
+        "points": 800,
+        "language": "en",
+        "answers": ["harry potter", "harry", "potter"],
+        "wrong_answers": ["ron weasley", "hermione granger", "voldemort", "dumbledore", "snape"],
+        "category": "movies"
+    },
+    {
+        "question": "what color are bananas when they are ripe?",
+        "points": 700,
+        "language": "en",
+        "answers": ["yellow"],
+        "wrong_answers": ["green", "brown", "red", "purple", "blue"],
+        "category": "food"
+    },
+    {
+        "question": "which holiday features a red-suited man with a white beard?",
+        "points": 800,
+        "language": "en",
+        "answers": ["christmas"],
+        "wrong_answers": ["easter", "halloween", "thanksgiving", "new year", "valentine"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the name of the disney fish who gets lost?",
+        "points": 800,
+        "language": "en",
+        "answers": ["nemo"],
+        "wrong_answers": ["dory", "marlin", "flounder", "sebastian", "tad"],
+        "category": "movies"
+    },
+    {
+        "question": "how many days are in a week?",
+        "points": 700,
+        "language": "en",
+        "answers": ["seven", "7"],
+        "wrong_answers": ["five", "six", "eight", "ten", "four"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the name of the toy cowboy in toy story?",
+        "points": 900,
+        "language": "en",
+        "answers": ["woody"],
+        "wrong_answers": ["buzz", "andy", "jessie", "rex", "hamm"],
+        "category": "movies"
+    },
+    {
+        "question": "what animal goes 'moo'?",
+        "points": 700,
+        "language": "en",
+        "answers": ["cow"],
+        "wrong_answers": ["sheep", "horse", "goat", "duck", "pig"],
+        "category": "nature"
+    },
+    {
+        "question": "what number comes after five?",
+        "points": 700,
+        "language": "en",
+        "answers": ["six", "6"],
+        "wrong_answers": ["four", "seven", "eight", "ten", "eleven"],
+        "category": "math"
+    },
+    {
+        "question": "how many wheels does a tricycle have?",
+        "points": 800,
+        "language": "en",
+        "answers": ["three", "3"],
+        "wrong_answers": ["two", "four", "five", "six", "one"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the opposite of night?",
+        "points": 500,
+        "language": "en",
+        "answers": ["day"],
+        "wrong_answers": ["evening", "sun", "morning", "noon", "midday"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "which color is made by mixing red and white?",
+        "points": 800,
+        "language": "en",
+        "answers": ["pink"],
+        "wrong_answers": ["purple", "orange", "peach", "brown", "beige"],
+        "category": "nature"
+    },
+    {
+        "question": "what is the first letter of the alphabet?",
+        "points": 500,
+        "language": "en",
+        "answers": ["a"],
+        "wrong_answers": ["b", "c", "z", "x", "d"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is used to write on a blackboard?",
+        "points": 800,
+        "language": "en",
+        "answers": ["chalk"],
+        "wrong_answers": ["marker", "pen", "pencil", "crayon", "paint"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "which sense is used to smell things?",
+        "points": 800,
+        "language": "en",
+        "answers": ["smell", "nose"],
+        "wrong_answers": ["taste", "sight", "touch", "hearing", "eyes"],
+        "category": "science"
+    },
+    {
+        "question": "what is the name of the red fruit often used in ketchup?",
+        "points": 800,
+        "language": "en",
+        "answers": ["tomato"],
+        "wrong_answers": ["apple", "cherry", "pepper", "strawberry", "plum"],
+        "category": "food"
+    },
+    {
+        "question": "how many arms does a starfish have?",
+        "points": 900,
+        "language": "en",
+        "answers": ["five", "5"],
+        "wrong_answers": ["six", "four", "eight", "ten", "three"],
+        "category": "nature"
+    },
+    {
+        "question": "what is the name of the fairy tale girl with long hair in a tower?",
+        "points": 800,
+        "language": "en",
+        "answers": ["rapunzel"],
+        "wrong_answers": ["cinderella", "snow white", "aurora", "belle", "ariel"],
+        "category": "movies"
+    },
+    {
+        "question": "which month has an extra day during a leap year?",
+        "points": 800,
+        "language": "en",
+        "answers": ["february"],
+        "wrong_answers": ["january", "march", "april", "december", "june"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you call a young cat?",
+        "points": 700,
+        "language": "en",
+        "answers": ["kitten"],
+        "wrong_answers": ["puppy", "cub", "chick", "calf", "foal"],
+        "category": "nature"
+    },
+    {
+        "question": "how many toes does a human usually have?",
+        "points": 800,
+        "language": "en",
+        "answers": ["ten", "10"],
+        "wrong_answers": ["eight", "twelve", "six", "fourteen", "nine"],
+        "category": "science"
+    },
+    {
+        "question": "which part of the plant conducts photosynthesis?",
+        "points": 900,
+        "language": "en",
+        "answers": ["leaf", "leaves"],
+        "wrong_answers": ["root", "stem", "flower", "bark", "seed"],
+        "category": "science"
+    },
+    {
+        "question": "what is the name of the snowman in frozen?",
+        "points": 800,
+        "language": "en",
+        "answers": ["olaf"],
+        "wrong_answers": ["kristoff", "sven", "anna", "hans", "marshmallow"],
+        "category": "movies"
+    },
+    {
+        "question": "what do you call a baby dog?",
+        "points": 700,
+        "language": "en",
+        "answers": ["puppy"],
+        "wrong_answers": ["kitten", "cub", "calf", "foal", "joey"],
+        "category": "nature"
+    },
+    {
+        "question": "what is the name of the red planet?",
+        "points": 800,
+        "language": "en",
+        "answers": ["mars"],
+        "wrong_answers": ["venus", "jupiter", "mercury", "earth", "pluto"],
+        "category": "science"
+    },
+    {
+        "question": "which disney movie features a lion named simba?",
+        "points": 800,
+        "language": "en",
+        "answers": ["the lion king", "lion king"],
+        "wrong_answers": ["bambi", "zootopia", "aladdin", "mulan", "tarzan"],
+        "category": "movies"
+    },
+    {
+        "question": "what number comes after nine?",
+        "points": 700,
+        "language": "en",
+        "answers": ["ten", "10"],
+        "wrong_answers": ["eleven", "nine", "eight", "twelve", "seven"],
+        "category": "math"
+    },
+    {
+        "question": "what do plants need to grow besides water and sunlight?",
+        "points": 800,
+        "language": "en",
+        "answers": ["soil"],
+        "wrong_answers": ["metal", "plastic", "glass", "fabric", "oil"],
+        "category": "science"
+    },
+    {
+        "question": "what color do you get when you mix blue and yellow?",
+        "points": 800,
+        "language": "en",
+        "answers": ["green"],
+        "wrong_answers": ["orange", "purple", "brown", "gray", "pink"],
+        "category": "nature"
+    },
+    {
+        "question": "what part of your body helps you hear?",
+        "points": 800,
+        "language": "en",
+        "answers": ["ear", "ears"],
+        "wrong_answers": ["nose", "eye", "mouth", "foot", "hand"],
+        "category": "science"
+    },
+    {
+        "question": "what do you wear on your feet to walk outside?",
+        "points": 700,
+        "language": "en",
+        "answers": ["shoes"],
+        "wrong_answers": ["gloves", "hats", "scarves", "coats", "belts"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the name of the bear in the jungle book?",
+        "points": 900,
+        "language": "en",
+        "answers": ["baloo"],
+        "wrong_answers": ["bagheera", "shere khan", "mowgli", "king louie", "kaa"],
+        "category": "movies"
+    },
+    {
+        "question": "how many letters are in the english alphabet?",
+        "points": 800,
+        "language": "en",
+        "answers": ["twenty six", "26"],
+        "wrong_answers": ["twenty four", "twenty five", "twenty eight", "thirty", "twenty"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the tallest animal in the world?",
+        "points": 900,
+        "language": "en",
+        "answers": ["giraffe"],
+        "wrong_answers": ["elephant", "rhino", "camel", "horse", "kangaroo"],
+        "category": "nature"
+    },
+    {
+        "question": "what does a thermometer measure?",
+        "points": 800,
+        "language": "en",
+        "answers": ["temperature"],
+        "wrong_answers": ["length", "weight", "volume", "speed", "pressure"],
+        "category": "science"
+    },
+     {
+        "question": "how many days are there in a leap year?",
+        "points": 900,
+        "language": "en",
+        "answers": ["three hundred sixty six", "366"],
+        "wrong_answers": ["365", "364", "360", "367", "362"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "which direction does the sun rise from?",
+        "points": 800,
+        "language": "en",
+        "answers": ["east"],
+        "wrong_answers": ["west", "north", "south", "up", "left"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what color is the inside of most watermelons?",
+        "points": 800,
+        "language": "en",
+        "answers": ["red", "pink"],
+        "wrong_answers": ["green", "yellow", "white", "orange", "purple"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "how many hours are in a day?",
+        "points": 800,
+        "language": "en",
+        "answers": ["twenty four", "24"],
+        "wrong_answers": ["12", "18", "20", "22", "26"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the name of the imaginary line that divides earth into north and south?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["equator", "the equator"],
+        "wrong_answers": ["prime meridian", "tropic", "axis", "hemisphere", "longitude"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "how many months in year have exactly 30 days?",
+        "points": 900,
+        "language": "en",
+        "answers": ["four", "4"],
+        "wrong_answers": ["five", "three", "six", "two", "seven"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you use to tell time?",
+        "points": 700,
+        "language": "en",
+        "answers": ["clock", "watch"],
+        "wrong_answers": ["calendar", "phone", "lamp", "window", "radio"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you call frozen rain?",
+        "points": 800,
+        "language": "en",
+        "answers": ["hail"],
+        "wrong_answers": ["snow", "ice", "sleet", "frost", "mist"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the name of the building where you watch movies?",
+        "points": 800,
+        "language": "en",
+        "answers": ["cinema", "theater"],
+        "wrong_answers": ["hall", "museum", "auditorium", "mall", "arena"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "how many legs does an insect have?",
+        "points": 900,
+        "language": "en",
+        "answers": ["six", "6"],
+        "wrong_answers": ["eight", "ten", "four", "twelve", "five"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "which shape has three sides?",
+        "points": 700,
+        "language": "en",
+        "answers": ["triangle"],
+        "wrong_answers": ["square", "circle", "hexagon", "pentagon", "rectangle"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you drink that comes from cows?",
+        "points": 700,
+        "language": "en",
+        "answers": ["milk"],
+        "wrong_answers": ["juice", "water", "soda", "tea", "coffee"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "which tool do you use to cut paper?",
+        "points": 800,
+        "language": "en",
+        "answers": ["scissors"],
+        "wrong_answers": ["knife", "pen", "tape", "ruler", "stapler"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is used to erase pencil marks?",
+        "points": 700,
+        "language": "en",
+        "answers": ["eraser", "rubber"],
+        "wrong_answers": ["tissue", "sharpener", "pen", "sponge", "brush"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "how many seasons are there in a year?",
+        "points": 800,
+        "language": "en",
+        "answers": ["four", "4"],
+        "wrong_answers": ["three", "five", "two", "six", "seven"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "which device is used to speak to someone far away?",
+        "points": 800,
+        "language": "en",
+        "answers": ["phone", "telephone"],
+        "wrong_answers": ["radio", "clock", "tv", "microwave", "compass"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you use to open a locked door?",
+        "points": 800,
+        "language": "en",
+        "answers": ["key"],
+        "wrong_answers": ["button", "card", "switch", "code", "lock"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you wear on your head for protection when biking?",
+        "points": 800,
+        "language": "en",
+        "answers": ["helmet"],
+        "wrong_answers": ["hat", "cap", "scarf", "goggles", "visor"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what is the term for water falling from the sky?",
+        "points": 700,
+        "language": "en",
+        "answers": ["rain"],
+        "wrong_answers": ["snow", "hail", "fog", "cloud", "dew"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "what do you call the person who brings your food at a restaurant?",
+        "points": 800,
+        "language": "en",
+        "answers": ["waiter", "server"],
+        "wrong_answers": ["chef", "host", "manager", "bartender", "clerk"],
+        "category": "general knowledge"
+    },
+    {
+        "question": "in which year did world war ii end?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["1945"],
+        "wrong_answers": ["1939", "1940", "1942", "1944", "1946"],
+        "category": "history"
+    },
+    {
+        "question": "which country built the great wall?",
+        "points": 900,
+        "language": "en",
+        "answers": ["china"],
+        "wrong_answers": ["japan", "india", "mongolia", "russia", "vietnam"],
+        "category": "history"
+    },
+    {
+        "question": "what was the name of the ship that sank in 1912?",
+        "points": 900,
+        "language": "en",
+        "answers": ["titanic", "the titanic"],
+        "wrong_answers": ["britannic", "lusitania", "olympic", "endeavour", "mayflower"],
+        "category": "history"
+    },
+    {
+        "question": "which famous wall divided berlin until 1989?",
+        "points": 900,
+        "language": "en",
+        "answers": ["berlin wall", "the berlin wall"],
+        "wrong_answers": ["great wall", "iron curtain", "western wall", "wall of china", "berlin fence"],
+        "category": "history"
+    },
+    {
+        "question": "who was assassinated in 1963 in dallas, texas?",
+        "points": 900,
+        "language": "en",
+        "answers": ["john f kennedy", "kennedy", "jfk", "john kennedy"],
+        "wrong_answers": ["abraham lincoln", "martin luther king", "robert kennedy", "ronald reagan", "theodore roosevelt"],
+        "category": "history"
+    },
+    {
+        "question": "which empire was ruled by julius caesar?",
+        "points": 900,
+        "language": "en",
+        "answers": ["roman empire", "rome"],
+        "wrong_answers": ["greek empire", "ottoman empire", "british empire", "persian empire", "mongol empire"],
+        "category": "history"
+    },
+    {
+        "question": "what was the name of the first permanent english settlement in america?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["jamestown"],
+        "wrong_answers": ["plymouth", "roanoke", "new york", "boston", "philadelphia"],
+        "category": "history"
+    },
+    {
+        "question": "who gave the famous 'i have a dream' speech?",
+        "points": 900,
+        "language": "en",
+        "answers": ["martin luther king", "martin luther king jr", "mlk", "luther king"],
+        "wrong_answers": ["malcolm x", "barack obama", "john f kennedy", "frederick douglass", "nelson mandela"],
+        "category": "history"
+    },
+    {
+        "question": "in which year did the berlin wall fall?",
+        "points": 900,
+        "language": "en",
+        "answers": ["1989"],
+        "wrong_answers": ["1987", "1990", "1985", "1991", "1992"],
+        "category": "history"
+    },
+    {
+        "question": "who was the first woman to fly solo across the atlantic?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["amelia earhart", "earhart"],
+        "wrong_answers": ["bessie coleman", "valentina tereshkova", "sally ride", "jean batten", "jacqueline cochran"],
+        "category": "history"
+    },
+    {
+        "question": "what was the name of the agreement that ended world war i?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["treaty of versailles", "versailles treaty"],
+        "wrong_answers": ["treaty of paris", "treaty of rome", "geneva convention", "peace of westphalia", "yalta agreement"],
+        "category": "history"
+    },
+    {
+        "question": "who was the leader of nazi germany?",
+        "points": 900,
+        "language": "en",
+        "answers": ["adolf hitler", "hitler"],
+        "wrong_answers": ["joseph stalin", "winston churchill", "franklin roosevelt", "benito mussolini", "franz ferdinand"],
+        "category": "history"
+    },
+    {
+        "question": "which ship brought the pilgrims to america?",
+        "points": 900,
+        "language": "en",
+        "answers": ["mayflower", "the mayflower"],
+        "wrong_answers": ["endeavour", "beagle", "discovery", "enterprise", "victory"],
+        "category": "history"
+    },
+    {
+        "question": "who invented the printing press?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["johannes gutenberg", "gutenberg"],
+        "wrong_answers": ["isaac newton", "thomas edison", "benjamin franklin", "galileo galilei", "alexander graham bell"],
+        "category": "history"
     }
   ]
 }
