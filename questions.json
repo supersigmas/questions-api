@@ -383,7 +383,7 @@
       "category": "history"
     },
     {
-      "question": "which city is known as the big apple?",
+      "question": "Which city is known as the big apple?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -401,7 +401,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the square root of 144?",
+      "question": "What is the square root of 144?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -418,7 +418,7 @@
       "category": "math"
     },
     {
-      "question": "who discovered penicillin?",
+      "question": "Who discovered penicillin?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -436,7 +436,7 @@
       "category": "science"
     },
     {
-      "question": "which bird is known for its ability to mimic sounds, including human speech?",
+      "question": "Which bird is known for its ability to mimic sounds, including human speech?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -453,7 +453,7 @@
       "category": "nature"
     },
     {
-      "question": "who was the first person to step on the moon?",
+      "question": "Who was the first person to step on the moon?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -470,7 +470,7 @@
       "category": "history"
     },
     {
-      "question": "which game is played with a shuttlecock?",
+      "question": "Which game is played with a shuttlecock?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -487,7 +487,7 @@
       "category": "sports"
     },
     {
-      "question": "which country is known for the eiffel tower?",
+      "question": "Which country is known for the eiffel tower?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -504,7 +504,7 @@
       "category": "geography"
     },
     {
-      "question": "who invented the telephone?",
+      "question": "Who invented the telephone?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -521,7 +521,7 @@
       "category": "technology"
     },
     {
-      "question": "what is the capital city of canada?",
+      "question": "What is the capital city of canada?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -537,7 +537,7 @@
       "category": "geography"
     },
     {
-      "question": "which planet is the hottest in the solar system?",
+      "question": "Which planet is the hottest in the solar system?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -553,7 +553,7 @@
       "category": "science"
     },
     {
-      "question": "who wrote '1984' and 'animal farm'?",
+      "question": "Who wrote '1984' and 'animal farm'?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -573,7 +573,7 @@
       "category": "literature"
     },
     {
-      "question": "what is the boiling point of water at sea level?",
+      "question": "What is the boiling point of water at sea level?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -595,7 +595,7 @@
       "category": "science"
     },
     {
-      "question": "which continent has the most countries?",
+      "question": "Which continent has the most countries?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -611,7 +611,7 @@
       "category": "geography"
     },
     {
-      "question": "who was the first u.s. president?",
+      "question": "Who was the first u.s. president?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -629,7 +629,7 @@
       "category": "history"
     },
     {
-      "question": "which is the fastest land animal?",
+      "question": "Which is the fastest land animal?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -645,7 +645,7 @@
       "category": "nature"
     },
     {
-      "question": "how many sides does a hexagon have?",
+      "question": "How many sides does a hexagon have?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -662,7 +662,7 @@
       "category": "math"
     },
     {
-      "question": "who was the first emperor of rome?",
+      "question": "Who was the first emperor of rome?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -688,7 +688,7 @@
       "category": "history"
     },
     {
-      "question": "what is the chemical symbol for sodium?",
+      "question": "What is the chemical symbol for sodium?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -704,7 +704,7 @@
       "category": "science"
     },
     {
-      "question": "who is known as the father of computers?",
+      "question": "Who is known as the father of computers?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -721,7 +721,7 @@
       "category": "technology"
     },
     {
-      "question": "which country is home to the great barrier reef?",
+      "question": "Which country is home to the great barrier reef?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -737,7 +737,7 @@
       "category": "geography"
     },
     {
-      "question": "who wrote 'pride and prejudice'?",
+      "question": "Who wrote 'pride and prejudice'?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -755,7 +755,7 @@
       "category": "literature"
     },
     {
-      "question": "what is the name of the closest star to earth?",
+      "question": "What is the name of the closest star to earth?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -772,7 +772,7 @@
       "category": "science"
     },
     {
-      "question": "which famous scientist introduced the three laws of motion?",
+      "question": "Which famous scientist introduced the three laws of motion?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -790,7 +790,7 @@
       "category": "science"
     },
     {
-      "question": "who was the first woman to win a nobel prize?",
+      "question": "Who was the first woman to win a nobel prize?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -808,7 +808,7 @@
       "category": "history"
     },
     {
-      "question": "which animal is the symbol of the world wildlife fund (wwf)?",
+      "question": "Which animal is the symbol of the world wildlife fund (wwf)?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -825,7 +825,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the name of the main character in the legend of zelda series?",
+      "question": "What is the name of the main character in the legend of zelda series?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -843,7 +843,7 @@
       "category": "gaming"
     },
     {
-      "question": "which company developed the halo series?",
+      "question": "Which company developed the halo series?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -860,7 +860,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the highest rank in counter-strike: global offensive?",
+      "question": "What is the highest rank in counter-strike: global offensive?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -876,7 +876,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game features a battle royale mode called warzone?",
+      "question": "Which game features a battle royale mode called warzone?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -894,7 +894,7 @@
       "category": "gaming"
     },
     {
-      "question": "in minecraft, what material is needed to craft a nether portal?",
+      "question": "In minecraft, what material is needed to craft a nether portal?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -910,7 +910,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the name of the main antagonist in the resident evil series?",
+      "question": "What is the name of the main antagonist in the resident evil series?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -928,7 +928,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game features the fictional city of los santos?",
+      "question": "Which game features the fictional city of los santos?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -947,7 +947,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the main currency used in the witcher 3?",
+      "question": "What is the main currency used in the witcher 3?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -963,7 +963,7 @@
       "category": "gaming"
     },
     {
-      "question": "who is the creator of the metal gear series?",
+      "question": "Who is the creator of the metal gear series?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -981,7 +981,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game popularized the battle royale genre?",
+      "question": "Which game popularized the battle royale genre?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -998,7 +998,7 @@
       "category": "gaming"
     },
     {
-      "question": "in dark souls, what currency is used to level up and purchase items?",
+      "question": "In dark souls, what currency is used to level up and purchase items?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1014,7 +1014,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the name of the blue ghost in pac-man?",
+      "question": "What is the name of the blue ghost in pac-man?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1030,7 +1030,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the name of sonic the hedgehog’s sidekick?",
+      "question": "What is the name of sonic the hedgehog’s sidekick?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1047,7 +1047,7 @@
       "category": "gaming"
     },
     {
-      "question": "what year was the first playstation released?",
+      "question": "What year was the first playstation released?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1063,7 +1063,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game franchise features characters like garrus, liara, and tali?",
+      "question": "Which game franchise features characters like garrus, liara, and tali?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1079,7 +1079,7 @@
       "category": "gaming"
     },
     {
-      "question": "in world of warcraft, what is the name of the planet where the game primarily takes place?",
+      "question": "In world of warcraft, what is the name of the planet where the game primarily takes place?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1095,7 +1095,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the name of the fungus-based enemies in the last of us?",
+      "question": "What is the name of the fungus-based enemies in the last of us?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1112,7 +1112,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the main objective in among us?",
+      "question": "What is the main objective in among us?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1137,7 +1137,7 @@
       "category": "gaming"
     },
     {
-      "question": "which character is known for saying 'finish him' in mortal kombat?",
+      "question": "Which character is known for saying 'finish him' in mortal kombat?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1153,7 +1153,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the name of the company behind the game fortnite?",
+      "question": "What is the name of the company behind the game fortnite?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1170,7 +1170,7 @@
       "category": "gaming"
     },
     {
-      "question": "which company created the first graphical web browser?",
+      "question": "Which company created the first graphical web browser?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1187,7 +1187,7 @@
       "category": "technology"
     },
     {
-      "question": "what programming language is primarily used for android app development?",
+      "question": "What programming language is primarily used for android app development?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1204,7 +1204,7 @@
       "category": "technology"
     },
     {
-      "question": "what does the acronym html stand for?",
+      "question": "What does the acronym html stand for?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1220,7 +1220,7 @@
       "category": "technology"
     },
     {
-      "question": "who co-founded microsoft alongside bill gates?",
+      "question": "Who co-founded microsoft alongside bill gates?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1238,7 +1238,7 @@
       "category": "technology"
     },
     {
-      "question": "what was the name of the first electronic general-purpose computer?",
+      "question": "What was the name of the first electronic general-purpose computer?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1255,7 +1255,7 @@
       "category": "technology"
     },
     {
-      "question": "which company developed the first commercially successful microprocessor?",
+      "question": "Which company developed the first commercially successful microprocessor?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1272,7 +1272,7 @@
       "category": "technology"
     },
     {
-      "question": "what does the 'i' in iphone stand for?",
+      "question": "What does the 'i' in iphone stand for?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -1288,7 +1288,7 @@
       "category": "technology"
     },
     {
-      "question": "which programming language was created by guido van rossum?",
+      "question": "Which programming language was created by guido van rossum?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1305,7 +1305,7 @@
       "category": "technology"
     },
     {
-      "question": "which company developed the first commercially available graphical user interface?",
+      "question": "Which company developed the first commercially available graphical user interface?",
       "points": 950,
       "language": "en",
       "answers": [
@@ -1322,7 +1322,7 @@
       "category": "technology"
     },
     {
-      "question": "what does 'usb' stand for?",
+      "question": "What does 'usb' stand for?",
       "points": 750,
       "language": "en",
       "answers": [
@@ -1337,7 +1337,7 @@
       "category": "technology"
     },
     {
-      "question": "which company owns the android operating system?",
+      "question": "Which company owns the android operating system?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1354,7 +1354,7 @@
       "category": "technology"
     },
     {
-      "question": "which year was the first iphone released?",
+      "question": "Which year was the first iphone released?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1370,7 +1370,7 @@
       "category": "technology"
     },
     {
-      "question": "who founded tesla, inc.?",
+      "question": "Who founded tesla, inc.?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1395,7 +1395,7 @@
       "category": "technology"
     },
     {
-      "question": "what was the first video game ever created?",
+      "question": "What was the first video game ever created?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1412,7 +1412,7 @@
       "category": "technology"
     },
     {
-      "question": "what does 'ai' stand for in technology?",
+      "question": "What does 'ai' stand for in technology?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1427,7 +1427,7 @@
       "category": "technology"
     },
     {
-      "question": "which company developed the first mouse?",
+      "question": "Which company developed the first mouse?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1444,7 +1444,7 @@
       "category": "technology"
     },
     {
-      "question": "what was the original name of twitter?",
+      "question": "What was the original name of twitter?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1460,7 +1460,7 @@
       "category": "technology"
     },
     {
-      "question": "who is the ceo of spacex as of 2025?",
+      "question": "Who is the ceo of spacex as of 2025?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -1478,7 +1478,7 @@
       "category": "technology"
     },
     {
-      "question": "what is the largest living species of tree?",
+      "question": "What is the largest living species of tree?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1495,7 +1495,7 @@
       "category": "nature"
     },
     {
-      "question": "which bird has the largest wingspan?",
+      "question": "Which bird has the largest wingspan?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1512,7 +1512,7 @@
       "category": "nature"
     },
     {
-      "question": "which animal has the longest lifespan?",
+      "question": "Which animal has the longest lifespan?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1529,7 +1529,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the tallest grass in the world?",
+      "question": "What is the tallest grass in the world?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1545,7 +1545,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the only mammal capable of true flight?",
+      "question": "What is the only mammal capable of true flight?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1561,7 +1561,7 @@
       "category": "nature"
     },
     {
-      "question": "which is the largest living reptile?",
+      "question": "Which is the largest living reptile?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1578,7 +1578,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the smallest species of bird?",
+      "question": "What is the smallest species of bird?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1595,7 +1595,7 @@
       "category": "nature"
     },
     {
-      "question": "which tree produces acorns?",
+      "question": "Which tree produces acorns?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -1611,7 +1611,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the largest species of shark?",
+      "question": "What is the largest species of shark?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1628,7 +1628,7 @@
       "category": "nature"
     },
     {
-      "question": "which plant is known for its ability to close its leaves when touched?",
+      "question": "Which plant is known for its ability to close its leaves when touched?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1645,7 +1645,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the largest freshwater fish in the world?",
+      "question": "What is the largest freshwater fish in the world?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1662,7 +1662,7 @@
       "category": "nature"
     },
     {
-      "question": "which mammal has the most powerful bite?",
+      "question": "Which mammal has the most powerful bite?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1679,7 +1679,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the name of the process by which plants convert sunlight into energy?",
+      "question": "What is the name of the process by which plants convert sunlight into energy?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -1695,7 +1695,7 @@
       "category": "nature"
     },
     {
-      "question": "which ocean is home to the great barrier reef?",
+      "question": "Which ocean is home to the great barrier reef?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1712,7 +1712,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the national flower of japan?",
+      "question": "What is the national flower of japan?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1729,7 +1729,7 @@
       "category": "nature"
     },
     {
-      "question": "which animal is known for its ability to regenerate lost limbs?",
+      "question": "Which animal is known for its ability to regenerate lost limbs?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1746,7 +1746,7 @@
       "category": "nature"
     },
     {
-      "question": "what type of rock is formed from cooled lava?",
+      "question": "What type of rock is formed from cooled lava?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1763,7 +1763,7 @@
       "category": "nature"
     },
     {
-      "question": "which is the world's largest coral reef system?",
+      "question": "Which is the world's largest coral reef system?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1780,7 +1780,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the capital of france?",
+      "question": "What is the capital of france?",
       "points": 500,
       "language": "en",
       "answers": [
@@ -1796,7 +1796,7 @@
       "category": "geography"
     },
     {
-      "question": "which continent is the sahara desert located in?",
+      "question": "Which continent is the sahara desert located in?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -1812,7 +1812,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the smallest country in the world?",
+      "question": "What is the smallest country in the world?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1829,7 +1829,7 @@
       "category": "geography"
     },
     {
-      "question": "which country has the most natural lakes?",
+      "question": "Which country has the most natural lakes?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1845,7 +1845,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the highest mountain in the world?",
+      "question": "What is the highest mountain in the world?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1862,7 +1862,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the longest mountain range in the world?",
+      "question": "What is the longest mountain range in the world?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1878,7 +1878,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the capital of brazil?",
+      "question": "What is the capital of brazil?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1894,7 +1894,7 @@
       "category": "geography"
     },
     {
-      "question": "which country has the most islands in the world?",
+      "question": "Which country has the most islands in the world?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1910,7 +1910,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the deepest ocean trench in the world?",
+      "question": "What is the deepest ocean trench in the world?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1927,7 +1927,7 @@
       "category": "geography"
     },
     {
-      "question": "which country is also a continent?",
+      "question": "Which country is also a continent?",
       "points": 500,
       "language": "en",
       "answers": [
@@ -1943,7 +1943,7 @@
       "category": "geography"
     },
     {
-      "question": "which european country has the most borders with other countries?",
+      "question": "Which european country has the most borders with other countries?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -1959,7 +1959,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the driest desert in the world?",
+      "question": "What is the driest desert in the world?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -1976,7 +1976,7 @@
       "category": "geography"
     },
     {
-      "question": "which country has the largest population?",
+      "question": "Which country has the largest population?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -1992,7 +1992,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the capital of russia?",
+      "question": "What is the capital of russia?",
       "points": 500,
       "language": "en",
       "answers": [
@@ -2008,7 +2008,7 @@
       "category": "geography"
     },
     {
-      "question": "which us state has the most coastline?",
+      "question": "Which us state has the most coastline?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2024,7 +2024,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the official language of argentina?",
+      "question": "What is the official language of argentina?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -2040,7 +2040,7 @@
       "category": "geography"
     },
     {
-      "question": "what is the main ingredient in guacamole?",
+      "question": "What is the main ingredient in guacamole?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2057,7 +2057,7 @@
       "category": "food"
     },
     {
-      "question": "which country is famous for sushi?",
+      "question": "Which country is famous for sushi?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2073,7 +2073,7 @@
       "category": "food"
     },
     {
-      "question": "what type of pasta is shaped like small rice grains?",
+      "question": "What type of pasta is shaped like small rice grains?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2089,7 +2089,7 @@
       "category": "food"
     },
     {
-      "question": "which fruit is known as the king of fruits?",
+      "question": "Which fruit is known as the king of fruits?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2105,7 +2105,7 @@
       "category": "food"
     },
     {
-      "question": "what is the primary ingredient in hummus?",
+      "question": "What is the primary ingredient in hummus?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2122,7 +2122,7 @@
       "category": "food"
     },
     {
-      "question": "which beverage is made by fermenting grapes?",
+      "question": "Which beverage is made by fermenting grapes?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2138,7 +2138,7 @@
       "category": "food"
     },
     {
-      "question": "what type of nut is used to make marzipan?",
+      "question": "What type of nut is used to make marzipan?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2155,7 +2155,7 @@
       "category": "food"
     },
     {
-      "question": "which country is famous for its feta cheese?",
+      "question": "Which country is famous for its feta cheese?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2171,7 +2171,7 @@
       "category": "food"
     },
     {
-      "question": "what is the main ingredient in miso soup?",
+      "question": "What is the main ingredient in miso soup?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2187,7 +2187,7 @@
       "category": "food"
     },
     {
-      "question": "which grain is used to make risotto?",
+      "question": "Which grain is used to make risotto?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2204,7 +2204,7 @@
       "category": "food"
     },
     {
-      "question": "what type of pastry is used for croissants?",
+      "question": "What type of pastry is used for croissants?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2221,7 +2221,7 @@
       "category": "food"
     },
     {
-      "question": "what is the main ingredient in traditional pesto sauce?",
+      "question": "What is the main ingredient in traditional pesto sauce?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2237,7 +2237,7 @@
       "category": "food"
     },
     {
-      "question": "which type of fruit has varieties such as granny smith and fuji?",
+      "question": "Which type of fruit has varieties such as granny smith and fuji?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2254,7 +2254,7 @@
       "category": "food"
     },
     {
-      "question": "what is the main ingredient in gazpacho?",
+      "question": "What is the main ingredient in gazpacho?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2271,7 +2271,7 @@
       "category": "food"
     },
     {
-      "question": "which country is known for the dish paella?",
+      "question": "Which country is known for the dish paella?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2287,7 +2287,7 @@
       "category": "food"
     },
     {
-      "question": "what type of sugar is commonly used in baking?",
+      "question": "What type of sugar is commonly used in baking?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2305,7 +2305,7 @@
       "category": "food"
     },
     {
-      "question": "which vegetable is known for making people cry when cut?",
+      "question": "Which vegetable is known for making people cry when cut?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2322,7 +2322,7 @@
       "category": "food"
     },
     {
-      "question": "which spice is the most expensive by weight?",
+      "question": "Which spice is the most expensive by weight?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2338,7 +2338,7 @@
       "category": "food"
     },
     {
-      "question": "what is the primary ingredient in tofu?",
+      "question": "What is the primary ingredient in tofu?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2355,7 +2355,7 @@
       "category": "food"
     },
     {
-      "question": "what type of milk is traditionally used to make mozzarella cheese?",
+      "question": "What type of milk is traditionally used to make mozzarella cheese?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2372,7 +2372,7 @@
       "category": "food"
     },
     {
-      "question": "which country has won the most fifa world cups?",
+      "question": "Which country has won the most fifa world cups?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2388,7 +2388,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the regulation height of a basketball hoop in feet?",
+      "question": "What is the regulation height of a basketball hoop in feet?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2404,7 +2404,7 @@
       "category": "sports"
     },
     {
-      "question": "which sport is known as the 'king of sports'?",
+      "question": "Which sport is known as the 'king of sports'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2421,7 +2421,7 @@
       "category": "sports"
     },
     {
-      "question": "who holds the record for the most home runs in a single mlb season?",
+      "question": "Who holds the record for the most home runs in a single mlb season?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2437,7 +2437,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the name of the trophy awarded to the winner of the nhl playoffs?",
+      "question": "What is the name of the trophy awarded to the winner of the nhl playoffs?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2453,7 +2453,7 @@
       "category": "sports"
     },
     {
-      "question": "which country hosted the 2016 summer olympics?",
+      "question": "Which country hosted the 2016 summer olympics?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2469,7 +2469,7 @@
       "category": "sports"
     },
     {
-      "question": "who is the most decorated olympian of all time?",
+      "question": "Who is the most decorated olympian of all time?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2485,7 +2485,7 @@
       "category": "sports"
     },
     {
-      "question": "which team won the first super bowl?",
+      "question": "Which team won the first super bowl?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2501,7 +2501,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the maximum score in a single frame of ten-pin bowling?",
+      "question": "What is the maximum score in a single frame of ten-pin bowling?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2516,7 +2516,7 @@
       "category": "sports"
     },
     {
-      "question": "which tennis grand slam is played on a clay surface?",
+      "question": "Which tennis grand slam is played on a clay surface?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2532,7 +2532,7 @@
       "category": "sports"
     },
     {
-      "question": "which sport uses a pommel horse?",
+      "question": "Which sport uses a pommel horse?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2547,7 +2547,7 @@
       "category": "sports"
     },
     {
-      "question": "which golfer has won the most majors?",
+      "question": "Which golfer has won the most majors?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2563,7 +2563,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the national sport of japan?",
+      "question": "What is the national sport of japan?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2579,7 +2579,7 @@
       "category": "sports"
     },
     {
-      "question": "which country has won the most cricket world cups?",
+      "question": "Which country has won the most cricket world cups?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2594,7 +2594,7 @@
       "category": "sports"
     },
     {
-      "question": "which nba player is known as 'air jordan'?",
+      "question": "Which nba player is known as 'air jordan'?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -2610,7 +2610,7 @@
       "category": "sports"
     },
     {
-      "question": "how many players are on a standard soccer team?",
+      "question": "How many players are on a standard soccer team?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2626,7 +2626,7 @@
       "category": "sports"
     },
     {
-      "question": "who was the first african-american heavyweight boxing champion?",
+      "question": "Who was the first african-american heavyweight boxing champion?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2642,7 +2642,7 @@
       "category": "sports"
     },
     {
-      "question": "which country won the first ever fifa world cup in 1930?",
+      "question": "Which country won the first ever fifa world cup in 1930?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2657,7 +2657,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the term for a perfect score in gymnastics?",
+      "question": "What is the term for a perfect score in gymnastics?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2673,7 +2673,7 @@
       "category": "sports"
     },
     {
-      "question": "what sport is played at wimbledon?",
+      "question": "What sport is played at wimbledon?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2688,7 +2688,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the largest land animal?",
+      "question": "What is the largest land animal?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2705,7 +2705,7 @@
       "category": "nature"
     },
     {
-      "question": "which mammal is known to lay eggs?",
+      "question": "Which mammal is known to lay eggs?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2722,7 +2722,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the main component of a pearl?",
+      "question": "What is the main component of a pearl?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2740,7 +2740,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the slowest land mammal?",
+      "question": "What is the slowest land mammal?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2756,7 +2756,7 @@
       "category": "nature"
     },
     {
-      "question": "which insect is known for its ability to produce honey?",
+      "question": "Which insect is known for its ability to produce honey?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -2773,7 +2773,7 @@
       "category": "nature"
     },
     {
-      "question": "what type of animal is a dolphin?",
+      "question": "What type of animal is a dolphin?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -2789,7 +2789,7 @@
       "category": "nature"
     },
     {
-      "question": "which gas do plants absorb from the atmosphere?",
+      "question": "Which gas do plants absorb from the atmosphere?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2806,7 +2806,7 @@
       "category": "nature"
     },
     {
-      "question": "which continent has the most species of big cats?",
+      "question": "Which continent has the most species of big cats?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2822,7 +2822,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the name of a baby frog?",
+      "question": "What is the name of a baby frog?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -2838,7 +2838,7 @@
       "category": "nature"
     },
     {
-      "question": "which large mammal is known for having a hump on its back?",
+      "question": "Which large mammal is known for having a hump on its back?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -2854,7 +2854,7 @@
       "category": "nature"
     },
     {
-      "question": "which planet is known for having the largest volcano in the solar system?",
+      "question": "Which planet is known for having the largest volcano in the solar system?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2870,7 +2870,7 @@
       "category": "nature"
     },
     {
-      "question": "which war was fought between the north and south regions of the united states?",
+      "question": "Which war was fought between the north and south regions of the united states?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2887,7 +2887,7 @@
       "category": "history"
     },
     {
-      "question": "which ancient wonder was located in egypt?",
+      "question": "Which ancient wonder was located in egypt?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -2905,7 +2905,7 @@
       "category": "history"
     },
     {
-      "question": "who was the british prime minister during world war ii?",
+      "question": "Who was the british prime minister during world war ii?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2922,7 +2922,7 @@
       "category": "history"
     },
     {
-      "question": "which country was formerly known as persia?",
+      "question": "Which country was formerly known as persia?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2938,7 +2938,7 @@
       "category": "history"
     },
     {
-      "question": "who discovered the americas in 1492?",
+      "question": "Who discovered the americas in 1492?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -2955,7 +2955,7 @@
       "category": "history"
     },
     {
-      "question": "which event started world war i?",
+      "question": "Which event started world war i?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -2973,7 +2973,7 @@
       "category": "history"
     },
     {
-      "question": "who wrote the declaration of independence?",
+      "question": "Who wrote the declaration of independence?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -2990,7 +2990,7 @@
       "category": "history"
     },
     {
-      "question": "which civilization built machu picchu?",
+      "question": "Which civilization built machu picchu?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3007,7 +3007,7 @@
       "category": "history"
     },
     {
-      "question": "what was the name of the ship that brought the pilgrims to america?",
+      "question": "What was the name of the ship that brought the pilgrims to america?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3023,7 +3023,7 @@
       "category": "history"
     },
     {
-      "question": "which country did napoleon bonaparte rule?",
+      "question": "Which country did napoleon bonaparte rule?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3039,7 +3039,7 @@
       "category": "history"
     },
     {
-      "question": "which year did the berlin wall fall?",
+      "question": "Which year did the berlin wall fall?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3055,7 +3055,7 @@
       "category": "history"
     },
     {
-      "question": "who was the leader of the soviet union during world war ii?",
+      "question": "Who was the leader of the soviet union during world war ii?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3072,7 +3072,7 @@
       "category": "history"
     },
     {
-      "question": "which country was responsible for the attack on pearl harbor?",
+      "question": "Which country was responsible for the attack on pearl harbor?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3088,7 +3088,7 @@
       "category": "history"
     },
     {
-      "question": "which us state was the last to join the union?",
+      "question": "Which us state was the last to join the union?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3104,7 +3104,7 @@
       "category": "history"
     },
     {
-      "question": "which country built the great wall?",
+      "question": "Which country built the great wall?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3120,7 +3120,7 @@
       "category": "history"
     },
     {
-      "question": "which movie won the academy award for best picture in 1994?",
+      "question": "Which movie won the academy award for best picture in 1994?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3137,7 +3137,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the name of the fictional wizarding school in harry potter?",
+      "question": "What is the name of the fictional wizarding school in harry potter?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3155,7 +3155,7 @@
       "category": "movies"
     },
     {
-      "question": "who played jack dawson in titanic?",
+      "question": "Who played jack dawson in titanic?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3172,7 +3172,7 @@
       "category": "movies"
     },
     {
-      "question": "what year was the first 'star wars' film released?",
+      "question": "What year was the first 'star wars' film released?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -3189,7 +3189,7 @@
       "category": "movies"
     },
     {
-      "question": "who voices buzz lightyear in the toy story movies?",
+      "question": "Who voices buzz lightyear in the toy story movies?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3206,7 +3206,7 @@
       "category": "movies"
     },
     {
-      "question": "which movie features the line 'may the force be with you'?",
+      "question": "Which movie features the line 'may the force be with you'?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -3223,7 +3223,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the name of the superhero alter-ego of bruce wayne?",
+      "question": "What is the name of the superhero alter-ego of bruce wayne?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -3240,7 +3240,7 @@
       "category": "movies"
     },
     {
-      "question": "which movie features a character named 'forrest gump'?",
+      "question": "Which movie features a character named 'forrest gump'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3257,7 +3257,7 @@
       "category": "movies"
     },
     {
-      "question": "who played the character of 'the joker' in 'the dark knight'?",
+      "question": "Who played the character of 'the joker' in 'the dark knight'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3274,7 +3274,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the name of the fictional country in the movie 'black panther'?",
+      "question": "What is the name of the fictional country in the movie 'black panther'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3291,7 +3291,7 @@
       "category": "movies"
     },
     {
-      "question": "which 1994 disney movie features the song 'circle of life'?",
+      "question": "Which 1994 disney movie features the song 'circle of life'?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -3308,7 +3308,7 @@
       "category": "movies"
     },
     {
-      "question": "who played the character 'trinity' in 'the matrix'?",
+      "question": "Who played the character 'trinity' in 'the matrix'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3325,7 +3325,7 @@
       "category": "movies"
     },
     {
-      "question": "which movie features a group of thieves known as the 'oceans eleven'?",
+      "question": "Which movie features a group of thieves known as the 'oceans eleven'?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -3342,7 +3342,7 @@
       "category": "movies"
     },
     {
-      "question": "which actor played 'tony stark' in the marvel cinematic universe?",
+      "question": "Which actor played 'tony stark' in the marvel cinematic universe?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3361,7 +3361,7 @@
       "category": "movies"
     },
     {
-      "question": "who directed the 1999 movie 'the sixth sense'?",
+      "question": "Who directed the 1999 movie 'the sixth sense'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3378,7 +3378,7 @@
       "category": "movies"
     },
     {
-      "question": "which animated movie features a character named 'buzz lightyear'?",
+      "question": "Which animated movie features a character named 'buzz lightyear'?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -3395,7 +3395,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the value of pi to two decimal places?",
+      "question": "What is the value of pi to two decimal places?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3412,7 +3412,7 @@
       "category": "math"
     },
     {
-      "question": "what is the sum of the angles in a triangle?",
+      "question": "What is the sum of the angles in a triangle?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3430,7 +3430,7 @@
       "category": "math"
     },
     {
-      "question": "what is the value of the mathematical constant e approximately?",
+      "question": "What is the value of the mathematical constant e approximately?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3448,7 +3448,7 @@
       "category": "math"
     },
     {
-      "question": "what is the formula for the area of a circle?",
+      "question": "What is the formula for the area of a circle?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3466,7 +3466,7 @@
       "category": "math"
     },
     {
-      "question": "what is the product of 9 and 7?",
+      "question": "What is the product of 9 and 7?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3482,7 +3482,7 @@
       "category": "math"
     },
     {
-      "question": "what is the perimeter of a rectangle with length 8 and width 5?",
+      "question": "What is the perimeter of a rectangle with length 8 and width 5?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3499,7 +3499,7 @@
       "category": "math"
     },
     {
-      "question": "what is the result of 15 divided by 3?",
+      "question": "What is the result of 15 divided by 3?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3515,7 +3515,7 @@
       "category": "math"
     },
     {
-      "question": "what is the derivative of x squared?",
+      "question": "What is the derivative of x squared?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3531,7 +3531,7 @@
       "category": "math"
     },
     {
-      "question": "what is the sum of 25 and 36?",
+      "question": "What is the sum of 25 and 36?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3547,7 +3547,7 @@
       "category": "math"
     },
     {
-      "question": "what is the value of 2 raised to the power of 3?",
+      "question": "What is the value of 2 raised to the power of 3?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3563,7 +3563,7 @@
       "category": "math"
     },
     {
-      "question": "what is the value of 100 divided by 4?",
+      "question": "What is the value of 100 divided by 4?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3579,7 +3579,7 @@
       "category": "math"
     },
     {
-      "question": "what is the value of the sum of angles in a quadrilateral?",
+      "question": "What is the value of the sum of angles in a quadrilateral?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5269,8 +5269,7 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "trakai castle",
-        "trakai"
+        "trakai castle"
       ],
       "wrong_answers": [
         "kaunas castle",
@@ -5410,7 +5409,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which baltic country is south of lithuania?",
+      "question": "which baltic country is north of lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
