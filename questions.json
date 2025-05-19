@@ -6450,7 +6450,7 @@
         "category": "literature"
     },
     {
-        "question": "what is the name of the whale in 'moby-dick'?",
+        "question": "What is the name of the whale in 'moby-dick'?",
         "points": 750,
         "language": "en",
         "answers": ["moby dick"],
@@ -6458,7 +6458,7 @@
         "category": "literature"
     },
     {
-        "question": "what is the name of the wizard mentor in 'the lord of the rings'?",
+        "question": "What is the name of the wizard mentor in 'the lord of the rings'?",
         "points": 800,
         "language": "en",
         "answers": ["gandalf", "gandalf the gray"],
