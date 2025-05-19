@@ -6413,7 +6413,7 @@
         "question": "What is the name of sherlock holmes's assistant?",
         "points": 800,
         "language": "en",
-        "answers": ["dr. watson", "watson"],
+        "answers": ["dr. watson", "watson", "john watson"],
         "wrong_answers": ["lestrade", "moriarty", "hudson", "mycroft", "john smith"],
         "category": "literature"
     },
@@ -6464,6 +6464,134 @@
         "answers": ["gandalf", "gandalf the gray"],
         "wrong_answers": ["saruman", "sauron", "elrond", "aragorn", "legolas"],
         "category": "literature"
+    },
+    {
+        "question": "What is the color of an emerald?",
+        "points": 800,
+        "language": "en",
+        "answers": ["green"],
+        "wrong_answers": ["blue", "red", "yellow", "purple", "white"],
+        "category": "science"
+    },
+    {
+        "question": "What instrument has black and white keys?",
+        "points": 600,
+        "language": "en",
+        "answers": ["piano"],
+        "wrong_answers": ["guitar", "violin", "trumpet", "drums", "flute"],
+        "category": "music"
+    },
+    {
+        "question": "Which bird is known for its colorful tail and dance?",
+        "points": 800,
+        "language": "en",
+        "answers": ["peacock"],
+        "wrong_answers": ["parrot", "swan", "flamingo", "penguin", "ostrich"],
+        "category": "nature"
+    },
+    {
+        "question": "Which vegetable is known for being purple and shaped like an egg?",
+        "points": 750,
+        "language": "en",
+        "answers": ["eggplant"],
+        "wrong_answers": ["carrot", "potato", "beetroot", "zucchini", "onion"],
+        "category": "food"
+    },
+    {
+        "question": "What is the name of the fairy tale girl with glass slippers?",
+        "points": 800,
+        "language": "en",
+        "answers": ["cinderella"],
+        "wrong_answers": ["rapunzel", "aurora", "snow white", "ariel", "belle"],
+        "category": "literature"
+    },
+    {
+        "question": "What do bees collect from flowers?",
+        "points": 800,
+        "language": "en",
+        "answers": ["nectar"],
+        "wrong_answers": ["pollen", "sap", "dew", "honey", "water"],
+        "category": "science"
+    },
+    {
+        "question": "Which tool do you use to see stars and planets?",
+        "points": 800,
+        "language": "en",
+        "answers": ["telescope"],
+        "wrong_answers": ["microscope", "binoculars", "magnifier", "glasses", "lens"],
+        "category": "science"
+    },
+    {
+        "question": "What animal is known for building dams?",
+        "points": 800,
+        "language": "en",
+        "answers": ["beaver", "bobr"],
+        "wrong_answers": ["otter", "moose", "bear", "fox", "badger", "bobr"],
+        "category": "nature"
+    },
+    {
+        "question": "Which shape has four equal sides and four right angles?",
+        "points": 800,
+        "language": "en",
+        "answers": ["square"],
+        "wrong_answers": ["rectangle", "triangle", "circle", "pentagon", "rhombus"],
+        "category": "math"
+    },
+    {
+        "question": "What do you call a frozen form of precipitation?",
+        "points": 900,
+        "language": "en",
+        "answers": ["snow", "snowflakes", "ice crystals"],
+        "wrong_answers": ["rain", "fog", "dew", "sleet", "hail"],
+        "category": "science"
+    },
+    {
+        "question": "Which instrument do doctors use to listen to your heartbeat?",
+        "points": 900,
+        "language": "en",
+        "answers": ["stethoscope"],
+        "wrong_answers": ["thermometer", "syringe", "scanner", "x-ray", "defibrillator"],
+        "category": "science"
+    },
+    {
+        "question": "Which animal carries its baby in a pouch?",
+        "points": 600,
+        "language": "en",
+        "answers": ["kangaroo"],
+        "wrong_answers": ["koala", "elephant", "panda", "monkey", "sloth"],
+        "category": "nature"
+    },
+    {
+        "question": "What is the name of the bird that cannot fly and lives in antarctica?",
+        "points": 800,
+        "language": "en",
+        "answers": ["penguin"],
+        "wrong_answers": ["ostrich", "swan", "albatross", "seagull", "parrot"],
+        "category": "nature"
+    },
+    {
+        "question": "What is the name of the red liquid that flows through your body?",
+        "points": 800,
+        "language": "en",
+        "answers": ["blood"],
+        "wrong_answers": ["plasma", "water", "sweat", "bile", "lymph"],
+        "category": "science"
+    },
+    {
+        "question": "What type of celestial body is the moon?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["natural satellite", "satellite"],
+        "wrong_answers": ["planet", "asteroid", "star", "comet", "nebula"],
+        "category": "science"
+    },
+    {
+        "question": "What is the term for a word that is the same forwards and backwards?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["palindrome"],
+        "wrong_answers": ["anagram", "acronym", "synonym", "homonym", "pun"],
+        "category": "language"
     }
   ]
 }
