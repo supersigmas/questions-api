@@ -6360,6 +6360,110 @@
         "answers": ["johannes gutenberg", "gutenberg"],
         "wrong_answers": ["isaac newton", "thomas edison", "benjamin franklin", "galileo galilei", "alexander graham bell"],
         "category": "history"
+    },
+    {
+        "question": "Who is the main character in 'the catcher in the rye'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["holden caulfield", "caulfield"],
+        "wrong_answers": ["nick carraway", "atticus finch", "jay gatsby", "gregor samsa", "humbert humbert"],
+        "category": "literature"
+    },
+    {
+        "question": "What type of animal is winnie the pooh?",
+        "points": 800,
+        "language": "en",
+        "answers": ["bear"],
+        "wrong_answers": ["rabbit", "cat", "dog", "pig", "tiger"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of the hobbit in 'the hobbit'?",
+        "points": 800,
+        "language": "en",
+        "answers": ["bilbo baggins", "bilbo"],
+        "wrong_answers": ["frodo", "samwise", "aragorn", "gollum", "gandalf"],
+        "category": "literature"
+    },
+    {
+        "question": "Which bear loves honey in children's books?",
+        "points": 700,
+        "language": "en",
+        "answers": ["winnie the pooh", "pooh"],
+        "wrong_answers": ["paddington", "baloo", "yogi", "little bear", "grizzly"],
+        "category": "literature"
+    },
+    {
+        "question": "Who wrote 'charlie and the chocolate factory'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["roald dahl", "dahl"],
+        "wrong_answers": ["lewis carroll", "beatrix potter", "j.k. rowling", "e.b. white", "dr. seuss"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of the girl who visits wonderland?",
+        "points": 800,
+        "language": "en",
+        "answers": ["alice"],
+        "wrong_answers": ["dorothy", "wendy", "lucy", "sophie", "bella"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of sherlock holmes's assistant?",
+        "points": 800,
+        "language": "en",
+        "answers": ["dr. watson", "watson"],
+        "wrong_answers": ["lestrade", "moriarty", "hudson", "mycroft", "john smith"],
+        "category": "literature"
+    },
+    {
+        "question": "Who is the author of 'the cat in the hat'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["dr. seuss", "seuss"],
+        "wrong_answers": ["roald dahl", "beatrix potter", "lewis carroll", "e.b. white", "j.k. rowling"],
+        "category": "literature"
+    },
+    {
+        "question": "Who wrote 'little women'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["louisa may alcott", "alcott"],
+        "wrong_answers": ["jane austen", "charlotte brontë", "emily dickinson", "mary shelley", "virginia woolf"],
+        "category": "literature"
+    },
+    {
+        "question": "Which author created the land of narnia?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["c.s. lewis", "lewis"],
+        "wrong_answers": ["j.r.r. tolkien", "philip pullman", "j.k. rowling", "rick riordan", "terry pratchett"],
+        "category": "literature"
+    },
+    {
+        "question": "What kind of animal is the title character in 'charlotte's web'?",
+        "points": 800,
+        "language": "en",
+        "answers": ["spider"],
+        "wrong_answers": ["pig", "rat", "cat", "dog", "horse"],
+        "category": "literature"
+    },
+    {
+        "question": "what is the name of the whale in 'moby-dick'?",
+        "points": 750,
+        "language": "en",
+        "answers": ["moby dick"],
+        "wrong_answers": ["white fang", "old man", "leviathan", "jaws", "captain ahab"],
+        "category": "literature"
+    },
+    {
+        "question": "what is the name of the wizard mentor in 'the lord of the rings'?",
+        "points": 800,
+        "language": "en",
+        "answers": ["gandalf", "gandalf the gray"],
+        "wrong_answers": ["saruman", "sauron", "elrond", "aragorn", "legolas"],
+        "category": "literature"
     }
   ]
 }
