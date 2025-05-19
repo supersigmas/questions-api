@@ -3597,7 +3597,7 @@
       "category": "math"
     },
     {
-      "question": "what is the area of a rectangle with length 10 and width 4?",
+      "question": "What is the area of a rectangle with length 10 and width 4?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3614,7 +3614,7 @@
       "category": "math"
     },
     {
-      "question": "what is the result of 12 times 12?",
+      "question": "What is the result of 12 times 12?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3630,7 +3630,7 @@
       "category": "math"
     },
     {
-      "question": "what is the difference between 200 and 75?",
+      "question": "What is the difference between 200 and 75?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3646,7 +3646,7 @@
       "category": "math"
     },
     {
-      "question": "what is the square of 121?",
+      "question": "What is the square of 121?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3662,7 +3662,7 @@
       "category": "math"
     },
     {
-      "question": "which shakespeare play features the character ophelia?",
+      "question": "Which shakespeare play features the character ophelia?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3678,7 +3678,7 @@
       "category": "literature"
     },
     {
-      "question": "who is the author of the harry potter series?",
+      "question": "Who is the author of the harry potter series?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -3695,7 +3695,7 @@
       "category": "literature"
     },
     {
-      "question": "which novel begins with the line 'call me ishmael'?",
+      "question": "Which novel begins with the line 'call me ishmael'?",
       "points": 950,
       "language": "en",
       "answers": [
@@ -3712,7 +3712,7 @@
       "category": "literature"
     },
     {
-      "question": "who wrote '1984'?",
+      "question": "Who wrote '1984'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3729,7 +3729,7 @@
       "category": "literature"
     },
     {
-      "question": "what is the name of the hobbit in 'the lord of the rings'?",
+      "question": "What is the name of the hobbit in 'the lord of the rings'?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -3746,7 +3746,7 @@
       "category": "literature"
     },
     {
-      "question": "who created the detective sherlock holmes?",
+      "question": "Who created the detective sherlock holmes?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -3763,7 +3763,7 @@
       "category": "literature"
     },
     {
-      "question": "in what city is 'romeo and juliet' set?",
+      "question": "In what city is 'romeo and juliet' set?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -3779,7 +3779,7 @@
       "category": "literature"
     },
     {
-      "question": "what is the first book in c.s. lewis's chronicles of narnia series?",
+      "question": "What is the first book in c.s. lewis's chronicles of narnia series?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3796,7 +3796,7 @@
       "category": "literature"
     },
     {
-      "question": "who wrote 'the catcher in the rye'?",
+      "question": "Who wrote 'the catcher in the rye'?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -3813,7 +3813,7 @@
       "category": "literature"
     },
     {
-      "question": "what is captain ahab hunting in 'moby dick'?",
+      "question": "What is captain ahab hunting in 'moby dick'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3830,7 +3830,7 @@
       "category": "literature"
     },
     {
-      "question": "who wrote 'to kill a mockingbird'?",
+      "question": "Who wrote 'to kill a mockingbird'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3847,7 +3847,7 @@
       "category": "literature"
     },
     {
-      "question": "what's the name of don quixote's horse?",
+      "question": "What's the name of don quixote's horse?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3863,7 +3863,7 @@
       "category": "literature"
     },
     {
-      "question": "who wrote 'the great gatsby'?",
+      "question": "Who wrote 'the great gatsby'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3880,7 +3880,7 @@
       "category": "literature"
     },
     {
-      "question": "what's the name of the second harry potter book?",
+      "question": "What's the name of the second harry potter book?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3897,7 +3897,7 @@
       "category": "literature"
     },
     {
-      "question": "who wrote 'frankenstein'?",
+      "question": "Who wrote 'frankenstein'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3914,7 +3914,7 @@
       "category": "literature"
     },
     {
-      "question": "what's the name of the farm in george orwell's 'animal farm'?",
+      "question": "What's the name of the farm in george orwell's 'animal farm'?",
       "points": 950,
       "language": "en",
       "answers": [
@@ -3930,7 +3930,7 @@
       "category": "literature"
     },
     {
-      "question": "which russian author wrote 'war and peace'?",
+      "question": "Which russian author wrote 'war and peace'?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -3947,7 +3947,7 @@
       "category": "literature"
     },
     {
-      "question": "who is the protagonist of 'the odyssey'?",
+      "question": "Who is the protagonist of 'the odyssey'?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -3964,7 +3964,7 @@
       "category": "literature"
     },
     {
-      "question": "what's the name of atticus finch's daughter in 'to kill a mockingbird'?",
+      "question": "What's the name of atticus finch's daughter in 'to kill a mockingbird'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -3981,7 +3981,7 @@
       "category": "literature"
     },
     {
-      "question": "which element has the chemical symbol 'au'?",
+      "question": "Which element has the chemical symbol 'au'?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -3998,7 +3998,7 @@
       "category": "science"
     },
     {
-      "question": "what is the closest planet to the sun?",
+      "question": "What is the closest planet to the sun?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4014,7 +4014,7 @@
       "category": "science"
     },
     {
-      "question": "what is the largest organ in the human body?",
+      "question": "What is the largest organ in the human body?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4030,7 +4030,7 @@
       "category": "science"
     },
     {
-      "question": "what substance makes up the majority of a cell's membrane?",
+      "question": "What substance makes up the majority of a cell's membrane?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4047,7 +4047,7 @@
       "category": "science"
     },
     {
-      "question": "what gas makes up the majority of earth's atmosphere?",
+      "question": "What gas makes up the majority of earth's atmosphere?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4064,7 +4064,7 @@
       "category": "science"
     },
     {
-      "question": "what causes the northern lights phenomenon?",
+      "question": "What causes the northern lights phenomenon?",
       "points": 950,
       "language": "en",
       "answers": [
@@ -4082,7 +4082,7 @@
       "category": "science"
     },
     {
-      "question": "what is the process by which plants make their own food called?",
+      "question": "What is the process by which plants make their own food called?",
       "points": 750,
       "language": "en",
       "answers": [
@@ -4098,7 +4098,7 @@
       "category": "science"
     },
     {
-      "question": "which blood type is known as the universal donor?",
+      "question": "Which blood type is known as the universal donor?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -4115,7 +4115,7 @@
       "category": "science"
     },
     {
-      "question": "which acid is found in lemons and oranges?",
+      "question": "Which acid is found in lemons and oranges?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4132,7 +4132,7 @@
       "category": "science"
     },
     {
-      "question": "what is the powerhouse of the cell?",
+      "question": "What is the powerhouse of the cell?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4149,7 +4149,7 @@
       "category": "science"
     },
     {
-      "question": "which planet has the great red spot?",
+      "question": "Which planet has the great red spot?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -4165,7 +4165,7 @@
       "category": "science"
     },
     {
-      "question": "what mineral is primarily responsible for bone strength?",
+      "question": "What mineral is primarily responsible for bone strength?",
       "points": 750,
       "language": "en",
       "answers": [
@@ -4182,7 +4182,7 @@
       "category": "science"
     },
     {
-      "question": "what is the normal body temperature in celsius?",
+      "question": "What is the normal body temperature in celsius?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4200,7 +4200,7 @@
       "category": "science"
     },
     {
-      "question": "what is the branch of science that studies weather?",
+      "question": "What is the branch of science that studies weather?",
       "points": 750,
       "language": "en",
       "answers": [
@@ -4216,7 +4216,7 @@
       "category": "science"
     },
     {
-      "question": "what is h2o commonly known as?",
+      "question": "What is h2o commonly known as?",
       "points": 500,
       "language": "en",
       "answers": [
@@ -4232,7 +4232,7 @@
       "category": "science"
     },
     {
-      "question": "which vitamin is produced when skin is exposed to sunlight?",
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -4249,7 +4249,7 @@
       "category": "science"
     },
     {
-      "question": "what color pill does neo take in the matrix?",
+      "question": "What color pill does neo take in the matrix?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -4266,7 +4266,7 @@
       "category": "movies"
     },
     {
-      "question": "who directed titanic?",
+      "question": "Who directed titanic?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4283,7 +4283,7 @@
       "category": "movies"
     },
     {
-      "question": "which film features a character named luke skywalker?",
+      "question": "Which film features a character named luke skywalker?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4299,7 +4299,7 @@
       "category": "movies"
     },
     {
-      "question": "what animal is simba in the lion king?",
+      "question": "What animal is simba in the lion king?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -4316,7 +4316,7 @@
       "category": "movies"
     },
     {
-      "question": "which studio made toy story?",
+      "question": "Which studio made toy story?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4333,7 +4333,7 @@
       "category": "movies"
     },
     {
-      "question": "what film won the first best animated feature oscar?",
+      "question": "What film won the first best animated feature oscar?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4350,7 +4350,7 @@
       "category": "movies"
     },
     {
-      "question": "who played harry potter in the film series?",
+      "question": "Who played harry potter in the film series?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4367,7 +4367,7 @@
       "category": "movies"
     },
     {
-      "question": "in what year was the first star wars film released?",
+      "question": "In what year was the first star wars film released?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4384,7 +4384,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the highest-grossing film of all time?",
+      "question": "What is the highest-grossing film of all time?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4401,7 +4401,7 @@
       "category": "movies"
     },
     {
-      "question": "who directed jaws?",
+      "question": "Who directed jaws?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4418,7 +4418,7 @@
       "category": "movies"
     },
     {
-      "question": "what fictional city does batman protect?",
+      "question": "What fictional city does batman protect?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4435,7 +4435,7 @@
       "category": "movies"
     },
     {
-      "question": "which actress played princess leia in star wars?",
+      "question": "Which actress played princess leia in star wars?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4452,7 +4452,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the name of the fictional metal in wolverine's skeleton?",
+      "question": "What is the name of the fictional metal in wolverine's skeleton?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4469,7 +4469,7 @@
       "category": "movies"
     },
     {
-      "question": "who directed pulp fiction?",
+      "question": "Who directed pulp fiction?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4486,7 +4486,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the name of the main character in the matrix?",
+      "question": "What is the name of the main character in the matrix?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4503,7 +4503,7 @@
       "category": "movies"
     },
     {
-      "question": "which animated film features a character named elsa who has ice powers?",
+      "question": "Which animated film features a character named elsa who has ice powers?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -4520,7 +4520,7 @@
       "category": "movies"
     },
     {
-      "question": "what animal is the main character in finding nemo?",
+      "question": "What animal is the main character in finding nemo?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4537,7 +4537,7 @@
       "category": "movies"
     },
     {
-      "question": "how many degrees are in a full circle?",
+      "question": "How many degrees are in a full circle?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -4554,7 +4554,7 @@
       "category": "math"
     },
     {
-      "question": "what is the value of 5 factorial?",
+      "question": "What is the value of 5 factorial?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4570,7 +4570,7 @@
       "category": "math"
     },
     {
-      "question": "what is the sum of the interior angles of a pentagon?",
+      "question": "What is the sum of the interior angles of a pentagon?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4587,7 +4587,7 @@
       "category": "math"
     },
     {
-      "question": "what is the golden ratio approximately (x.yy)?",
+      "question": "What is the golden ratio approximately (x.yy)?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4604,7 +4604,7 @@
       "category": "math"
     },
     {
-      "question": "what is the probability of rolling a 6 on a fair six-sided die?",
+      "question": "What is the probability of rolling a 6 on a fair six-sided die?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4620,7 +4620,7 @@
       "category": "math"
     },
     {
-      "question": "how many faces does a cube have?",
+      "question": "How many faces does a cube have?",
       "points": 60,
       "language": "en",
       "answers": [
@@ -4637,7 +4637,7 @@
       "category": "math"
     },
     {
-      "question": "which country has the longest coastline?",
+      "question": "Which country has the longest coastline?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4653,7 +4653,7 @@
       "category": "geography"
     },
     {
-      "question": "who wrote 'moby dick'?",
+      "question": "Who wrote 'moby dick'?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4671,7 +4671,7 @@
       "category": "literature"
     },
     {
-      "question": "what is the smallest prime number?",
+      "question": "What is the smallest prime number?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -4687,7 +4687,7 @@
       "category": "math"
     },
     {
-      "question": "which company created the first smartphone?",
+      "question": "Which company created the first smartphone?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4703,7 +4703,7 @@
       "category": "technology"
     },
     {
-      "question": "who directed the movie 'inception'?",
+      "question": "Who directed the movie 'inception'?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4721,7 +4721,7 @@
       "category": "movies"
     },
     {
-      "question": "what is the largest animal on earth?",
+      "question": "What is the largest animal on earth?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4738,7 +4738,7 @@
       "category": "nature"
     },
     {
-      "question": "which sport uses a net, a ball, and a racket?",
+      "question": "Which sport uses a net, a ball, and a racket?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4754,7 +4754,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the capital of australia?",
+      "question": "What is the capital of australia?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4770,7 +4770,7 @@
       "category": "geography"
     },
     {
-      "question": "which element has the chemical symbol 'he'?",
+      "question": "Which element has the chemical symbol 'he'?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4786,7 +4786,7 @@
       "category": "science"
     },
     {
-      "question": "what type of fruit is a banana?",
+      "question": "What type of fruit is a banana?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4802,7 +4802,7 @@
       "category": "food"
     },
     {
-      "question": "what is the primary programming language used for web development?",
+      "question": "What is the primary programming language used for web development?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4818,7 +4818,7 @@
       "category": "technology"
     },
     {
-      "question": "which actor played jack sparrow in 'pirates of the caribbean'?",
+      "question": "Which actor played jack sparrow in 'pirates of the caribbean'?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4836,7 +4836,7 @@
       "category": "movies"
     },
     {
-      "question": "which war took place between 1939 and 1945?",
+      "question": "Which war took place between 1939 and 1945?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4855,7 +4855,7 @@
       "category": "history"
     },
     {
-      "question": "which animal is known for changing its color to blend in?",
+      "question": "Which animal is known for changing its color to blend in?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4871,7 +4871,7 @@
       "category": "nature"
     },
     {
-      "question": "how many players are on a baseball team on the field at one time?",
+      "question": "How many players are on a baseball team on the field at one time?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4888,7 +4888,7 @@
       "category": "sports"
     },
     {
-      "question": "what is the name of the protagonist in the halo series?",
+      "question": "What is the name of the protagonist in the halo series?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -4905,7 +4905,7 @@
       "category": "gaming"
     },
     {
-      "question": "which video game features the phrase 'the cake is a lie'?",
+      "question": "Which video game features the phrase 'the cake is a lie'?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4921,7 +4921,7 @@
       "category": "gaming"
     },
     {
-      "question": "what year was the first super mario bros game released?",
+      "question": "What year was the first super mario bros game released?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -4937,7 +4937,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the best-selling video game of all time?",
+      "question": "What is the best-selling video game of all time?",
       "points": 600,
       "language": "en",
       "answers": [
@@ -4954,7 +4954,7 @@
       "category": "gaming"
     },
     {
-      "question": "which company developed the playstation console?",
+      "question": "Which company developed the playstation console?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -4970,7 +4970,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game series features a character named solid snake?",
+      "question": "Which game series features a character named solid snake?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -4987,7 +4987,7 @@
       "category": "gaming"
     },
     {
-      "question": "which pokemon is number 001 in the pokedex?",
+      "question": "Which pokemon is number 001 in the pokedex?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5003,7 +5003,7 @@
       "category": "gaming"
     },
     {
-      "question": "who is the creator of the super mario series?",
+      "question": "Who is the creator of the super mario series?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5021,7 +5021,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game studio created the elder scrolls series?",
+      "question": "Which game studio created the elder scrolls series?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5037,7 +5037,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game franchise features the character kratos?",
+      "question": "Which game franchise features the character kratos?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5053,7 +5053,7 @@
       "category": "gaming"
     },
     {
-      "question": "which nintendo series features link as the protagonist?",
+      "question": "Which nintendo series features link as the protagonist?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5070,7 +5070,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game franchise features a post-apocalyptic open world with vaults and nuclear radiation?",
+      "question": "Which game franchise features a post-apocalyptic open world with vaults and nuclear radiation?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5086,7 +5086,7 @@
       "category": "gaming"
     },
     {
-      "question": "which game franchise features the character lara croft?",
+      "question": "Which game franchise features the character lara croft?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5102,7 +5102,7 @@
       "category": "gaming"
     },
     {
-      "question": "what is the capital of lithuania?",
+      "question": "What is the capital of lithuania?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5118,7 +5118,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which currency was used in lithuania before the euro?",
+      "question": "Which currency was used in lithuania before the euro?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5134,7 +5134,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what is the national language of lithuania?",
+      "question": "What is the national language of lithuania?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5150,7 +5150,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which sea borders lithuania?",
+      "question": "Which sea borders lithuania?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5167,7 +5167,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what is the second-largest city in lithuania?",
+      "question": "What is the second-largest city in lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5183,7 +5183,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which famous basketball player is from lithuania?",
+      "question": "Which famous basketball player is from lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5200,7 +5200,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what is the national animal of lithuania?",
+      "question": "What is the national animal of lithuania?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5217,7 +5217,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which baltic country does not border lithuania?",
+      "question": "Which baltic country does not border lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5233,7 +5233,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which year did lithuania regain independence from the soviet union?",
+      "question": "Which year did lithuania regain independence from the soviet union?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5249,7 +5249,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which is the main river flowing through lithuania?",
+      "question": "Which is the main river flowing through lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5265,7 +5265,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which famous castle is located on an island in lithuania?",
+      "question": "Which famous castle is located on an island in lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5281,7 +5281,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which sport is the most popular in lithuania?",
+      "question": "Which sport is the most popular in lithuania?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5297,7 +5297,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which is the oldest university in lithuania?",
+      "question": "Which is the oldest university in lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5313,7 +5313,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what is the national flower of lithuania?",
+      "question": "What is the national flower of lithuania?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5329,7 +5329,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what is the national potato dish of lithuania?",
+      "question": "What is the national potato dish of lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5345,7 +5345,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which traditional cold soup is popular in lithuania?",
+      "question": "Which traditional cold soup is popular in lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5362,7 +5362,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which famous hill in lithuania is covered with thousands of crosses?",
+      "question": "Which famous hill in lithuania is covered with thousands of crosses?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5378,7 +5378,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which is the tallest church in lithuania?",
+      "question": "Which is the tallest church in lithuania?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5394,7 +5394,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which historical grand duke is considered the founder of vilnius?",
+      "question": "Which historical grand duke is considered the founder of vilnius?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5409,7 +5409,7 @@
       "category": "lithuania"
     },
     {
-      "question": "which baltic country is north of lithuania?",
+      "question": "Which baltic country is north of lithuania?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5424,7 +5424,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what colors are on the lithuanian flag?",
+      "question": "What colors are on the lithuanian flag?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5440,7 +5440,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what currency is used in lithuania?",
+      "question": "What currency is used in lithuania?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5456,7 +5456,7 @@
       "category": "lithuania"
     },
     {
-      "question": "what is the tallest waterfall in the world?",
+      "question": "What is the tallest waterfall in the world?",
       "points": 1000,
       "language": "en",
       "answers": [
@@ -5473,7 +5473,7 @@
       "category": "geography"
     },
     {
-      "question": "which element has the atomic number 79?",
+      "question": "Which element has the atomic number 79?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5490,7 +5490,7 @@
       "category": "science"
     },
     {
-      "question": "which company created the firefox web browser?",
+      "question": "Which company created the firefox web browser?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -5507,7 +5507,7 @@
       "category": "technology"
     },
     {
-      "question": "what is the largest species of bear?",
+      "question": "What is the largest species of bear?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -5525,7 +5525,7 @@
       "category": "nature"
     },
     {
-      "question": "what is the longest bone in the human body?",
+      "question": "What is the longest bone in the human body?",
       "points": 900,
       "language": "en",
       "answers": [
@@ -5542,7 +5542,7 @@
       "category": "science"
     },
     {
-      "question": "which strait separates asia from north america?",
+      "question": "Which strait separates asia from north america?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -5559,7 +5559,7 @@
       "category": "geography"
     },
     {
-      "question": "what type of cheese is traditionally used in a classic greek salad?",
+      "question": "What type of cheese is traditionally used in a classic greek salad?",
       "points": 700,
       "language": "en",
       "answers": [
@@ -5576,7 +5576,7 @@
       "category": "food"
     },
     {
-      "question": "which artist painted 'the persistence of memory' with melting clocks?",
+      "question": "Which artist painted 'the persistence of memory' with melting clocks?",
       "points": 850,
       "language": "en",
       "answers": [
@@ -5593,7 +5593,7 @@
       "category": "history"
     },
     {
-      "question": "which animated film features a rat who becomes a chef?",
+      "question": "Which animated film features a rat who becomes a chef?",
       "points": 650,
       "language": "en",
       "answers": [
@@ -5610,7 +5610,7 @@
       "category": "movies"
     },
         {
-        "question": "what is the capital of italy?",
+        "question": "What is the capital of italy?",
         "points": 900,
         "language": "en",
         "answers": ["rome"],
@@ -5618,7 +5618,7 @@
         "category": "geography"
     },
     {
-        "question": "what is the largest desert in the world?",
+        "question": "What is the largest desert in the world?",
         "points": 1000,
         "language": "en",
         "answers": ["antarctic desert", "antarctica"],
@@ -5626,7 +5626,7 @@
         "category": "geography"
     },
     {
-        "question": "which planet is known for its rings?",
+        "question": "Which planet is known for its rings?",
         "points": 900,
         "language": "en",
         "answers": ["saturn"],
@@ -5634,7 +5634,7 @@
         "category": "science"
     },
     {
-        "question": "what is the chemical symbol for oxygen?",
+        "question": "What is the chemical symbol for oxygen?",
         "points": 800,
         "language": "en",
         "answers": ["o"],
@@ -5642,7 +5642,7 @@
         "category": "science"
     },
     {
-        "question": "which country is home to the taj mahal?",
+        "question": "Which country is home to the taj mahal?",
         "points": 900,
         "language": "en",
         "answers": ["india"],
@@ -5650,7 +5650,7 @@
         "category": "history"
     },
     {
-        "question": "what is the name of mickey mouse's dog?",
+        "question": "What is the name of mickey mouse's dog?",
         "points": 800,
         "language": "en",
         "answers": ["pluto"],
@@ -5658,7 +5658,7 @@
         "category": "movies"
     },
     {
-        "question": "how many continents are there on earth?",
+        "question": "How many continents are there on earth?",
         "points": 800,
         "language": "en",
         "answers": ["seven", "7"],
@@ -5666,7 +5666,7 @@
         "category": "geography"
     },
     {
-        "question": "who painted the mona lisa?",
+        "question": "Who painted the mona lisa?",
         "points": 1000,
         "language": "en",
         "answers": ["leonardo da vinci", "da vinci"],
@@ -5674,7 +5674,7 @@
         "category": "history"
     },
     {
-        "question": "what is the main ingredient in bread?",
+        "question": "What is the main ingredient in bread?",
         "points": 800,
         "language": "en",
         "answers": ["flour"],
@@ -5682,7 +5682,7 @@
         "category": "food"
     },
     {
-        "question": "how many legs does a spider have?",
+        "question": "How many legs does a spider have?",
         "points": 800,
         "language": "en",
         "answers": ["eight", "8"],
@@ -5690,7 +5690,7 @@
         "category": "nature"
     },
     {
-        "question": "what color is the sky on a clear day?",
+        "question": "What color is the sky on a clear day?",
         "points": 700,
         "language": "en",
         "answers": ["blue"],
@@ -5698,7 +5698,7 @@
         "category": "science"
     },
     {
-        "question": "what do bees make?",
+        "question": "What do bees make?",
         "points": 800,
         "language": "en",
         "answers": ["honey"],
@@ -5706,7 +5706,7 @@
         "category": "nature"
     },
     {
-        "question": "how many colors are there in a rainbow?",
+        "question": "How many colors are there in a rainbow?",
         "points": 900,
         "language": "en",
         "answers": ["seven", "7"],
@@ -5714,7 +5714,7 @@
         "category": "science"
     },
     {
-        "question": "what is frozen water called?",
+        "question": "What is frozen water called?",
         "points": 700,
         "language": "en",
         "answers": ["ice"],
@@ -5722,15 +5722,15 @@
         "category": "science"
     },
     {
-        "question": "what shape is a stop sign?",
+        "question": "What shape is a stop sign?",
         "points": 900,
         "language": "en",
         "answers": ["octagon"],
         "wrong_answers": ["hexagon", "circle", "triangle", "square", "pentagon"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the currency of japan?",
+        "question": "What is the currency of japan?",
         "points": 900,
         "language": "en",
         "answers": ["yen"],
@@ -5738,7 +5738,7 @@
         "category": "geography"
     },
     {
-        "question": "how many minutes are in an hour?",
+        "question": "How many minutes are in an hour?",
         "points": 700,
         "language": "en",
         "answers": ["sixty", "60"],
@@ -5746,7 +5746,7 @@
         "category": "math"
     },
     {
-        "question": "what animal is known as man's best friend?",
+        "question": "What animal is known as man's best friend?",
         "points": 800,
         "language": "en",
         "answers": ["dog"],
@@ -5754,7 +5754,7 @@
         "category": "nature"
     },
     {
-        "question": "what do cows drink?",
+        "question": "What do cows drink?",
         "points": 900,
         "language": "en",
         "answers": ["water"],
@@ -5762,7 +5762,7 @@
         "category": "nature"
     },
     {
-        "question": "what is 2 + 2?",
+        "question": "What is 2 + 2?",
         "points": 700,
         "language": "en",
         "answers": ["four", "4"],
@@ -5770,7 +5770,7 @@
         "category": "math"
     },
     {
-        "question": "what is the name of the pirate in peter pan?",
+        "question": "What is the name of the pirate in peter pan?",
         "points": 900,
         "language": "en",
         "answers": ["captain hook", "hook"],
@@ -5778,7 +5778,7 @@
         "category": "movies"
     },
     {
-        "question": "how many planets are in the solar system?",
+        "question": "How many planets are in the solar system?",
         "points": 900,
         "language": "en",
         "answers": ["eight", "8"],
@@ -5786,7 +5786,7 @@
         "category": "science"
     },
     {
-        "question": "which vegetable is orange and good for your eyes?",
+        "question": "Which vegetable is orange and good for your eyes?",
         "points": 800,
         "language": "en",
         "answers": ["carrot", "carrots"],
@@ -5794,7 +5794,7 @@
         "category": "food"
     },
     {
-        "question": "which bird cannot fly but runs very fast?",
+        "question": "Which bird cannot fly but runs very fast?",
         "points": 900,
         "language": "en",
         "answers": ["ostrich"],
@@ -5802,15 +5802,15 @@
         "category": "nature"
     },
     {
-        "question": "what do you call a house made of ice?",
+        "question": "What do you call a house made of ice?",
         "points": 800,
         "language": "en",
         "answers": ["igloo"],
         "wrong_answers": ["tent", "cabin", "hut", "yurt", "chalet"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you call molten rock that comes from a volcano?",
+        "question": "What do you call molten rock that comes from a volcano?",
         "points": 900,
         "language": "en",
         "answers": ["lava"],
@@ -5818,7 +5818,7 @@
         "category": "science"
     },
     {
-        "question": "what is the name of the wizard boy in the harry potter series?",
+        "question": "What is the name of the wizard boy in the harry potter series?",
         "points": 800,
         "language": "en",
         "answers": ["harry potter", "harry", "potter"],
@@ -5826,7 +5826,7 @@
         "category": "movies"
     },
     {
-        "question": "what color are bananas when they are ripe?",
+        "question": "What color are bananas when they are ripe?",
         "points": 700,
         "language": "en",
         "answers": ["yellow"],
@@ -5834,15 +5834,15 @@
         "category": "food"
     },
     {
-        "question": "which holiday features a red-suited man with a white beard?",
+        "question": "Which holiday features a red-suited man with a white beard?",
         "points": 800,
         "language": "en",
         "answers": ["christmas"],
         "wrong_answers": ["easter", "halloween", "thanksgiving", "new year", "valentine"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the name of the disney fish who gets lost?",
+        "question": "What is the name of the disney fish who gets lost?",
         "points": 800,
         "language": "en",
         "answers": ["nemo"],
@@ -5850,15 +5850,15 @@
         "category": "movies"
     },
     {
-        "question": "how many days are in a week?",
+        "question": "How many days are in a week?",
         "points": 700,
         "language": "en",
         "answers": ["seven", "7"],
         "wrong_answers": ["five", "six", "eight", "ten", "four"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the name of the toy cowboy in toy story?",
+        "question": "What is the name of the toy cowboy in toy story?",
         "points": 900,
         "language": "en",
         "answers": ["woody"],
@@ -5866,7 +5866,7 @@
         "category": "movies"
     },
     {
-        "question": "what animal goes 'moo'?",
+        "question": "What animal goes 'moo'?",
         "points": 700,
         "language": "en",
         "answers": ["cow"],
@@ -5874,7 +5874,7 @@
         "category": "nature"
     },
     {
-        "question": "what number comes after five?",
+        "question": "What number comes after five?",
         "points": 700,
         "language": "en",
         "answers": ["six", "6"],
@@ -5882,23 +5882,23 @@
         "category": "math"
     },
     {
-        "question": "how many wheels does a tricycle have?",
+        "question": "How many wheels does a tricycle have?",
         "points": 800,
         "language": "en",
         "answers": ["three", "3"],
         "wrong_answers": ["two", "four", "five", "six", "one"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the opposite of night?",
+        "question": "What is the opposite of night?",
         "points": 500,
         "language": "en",
         "answers": ["day"],
         "wrong_answers": ["evening", "sun", "morning", "noon", "midday"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "which color is made by mixing red and white?",
+        "question": "Which color is made by mixing red and white?",
         "points": 800,
         "language": "en",
         "answers": ["pink"],
@@ -5906,23 +5906,23 @@
         "category": "nature"
     },
     {
-        "question": "what is the first letter of the alphabet?",
+        "question": "What is the first letter of the alphabet?",
         "points": 500,
         "language": "en",
         "answers": ["a"],
         "wrong_answers": ["b", "c", "z", "x", "d"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is used to write on a blackboard?",
+        "question": "What is used to write on a blackboard?",
         "points": 800,
         "language": "en",
         "answers": ["chalk"],
         "wrong_answers": ["marker", "pen", "pencil", "crayon", "paint"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "which sense is used to smell things?",
+        "question": "Which sense is used to smell things?",
         "points": 800,
         "language": "en",
         "answers": ["smell", "nose"],
@@ -5930,7 +5930,7 @@
         "category": "science"
     },
     {
-        "question": "what is the name of the red fruit often used in ketchup?",
+        "question": "What is the name of the red fruit often used in ketchup?",
         "points": 800,
         "language": "en",
         "answers": ["tomato"],
@@ -5938,7 +5938,7 @@
         "category": "food"
     },
     {
-        "question": "how many arms does a starfish have?",
+        "question": "How many arms does a starfish have?",
         "points": 900,
         "language": "en",
         "answers": ["five", "5"],
@@ -5946,7 +5946,7 @@
         "category": "nature"
     },
     {
-        "question": "what is the name of the fairy tale girl with long hair in a tower?",
+        "question": "What is the name of the fairy tale girl with long hair in a tower?",
         "points": 800,
         "language": "en",
         "answers": ["rapunzel"],
@@ -5954,15 +5954,15 @@
         "category": "movies"
     },
     {
-        "question": "which month has an extra day during a leap year?",
+        "question": "Which month has an extra day during a leap year?",
         "points": 800,
         "language": "en",
         "answers": ["february"],
         "wrong_answers": ["january", "march", "april", "december", "june"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you call a young cat?",
+        "question": "What do you call a young cat?",
         "points": 700,
         "language": "en",
         "answers": ["kitten"],
@@ -5970,7 +5970,7 @@
         "category": "nature"
     },
     {
-        "question": "how many toes does a human usually have?",
+        "question": "How many toes does a human usually have?",
         "points": 800,
         "language": "en",
         "answers": ["ten", "10"],
@@ -5978,7 +5978,7 @@
         "category": "science"
     },
     {
-        "question": "which part of the plant conducts photosynthesis?",
+        "question": "Which part of the plant conducts photosynthesis?",
         "points": 900,
         "language": "en",
         "answers": ["leaf", "leaves"],
@@ -5986,7 +5986,7 @@
         "category": "science"
     },
     {
-        "question": "what is the name of the snowman in frozen?",
+        "question": "What is the name of the snowman in frozen?",
         "points": 800,
         "language": "en",
         "answers": ["olaf"],
@@ -5994,7 +5994,7 @@
         "category": "movies"
     },
     {
-        "question": "what do you call a baby dog?",
+        "question": "What do you call a baby dog?",
         "points": 700,
         "language": "en",
         "answers": ["puppy"],
@@ -6002,7 +6002,7 @@
         "category": "nature"
     },
     {
-        "question": "what is the name of the red planet?",
+        "question": "What is the name of the red planet?",
         "points": 800,
         "language": "en",
         "answers": ["mars"],
@@ -6010,7 +6010,7 @@
         "category": "science"
     },
     {
-        "question": "which disney movie features a lion named simba?",
+        "question": "Which disney movie features a lion named simba?",
         "points": 800,
         "language": "en",
         "answers": ["the lion king", "lion king"],
@@ -6018,7 +6018,7 @@
         "category": "movies"
     },
     {
-        "question": "what number comes after nine?",
+        "question": "What number comes after nine?",
         "points": 700,
         "language": "en",
         "answers": ["ten", "10"],
@@ -6026,7 +6026,7 @@
         "category": "math"
     },
     {
-        "question": "what do plants need to grow besides water and sunlight?",
+        "question": "What do plants need to grow besides water and sunlight?",
         "points": 800,
         "language": "en",
         "answers": ["soil"],
@@ -6034,7 +6034,7 @@
         "category": "science"
     },
     {
-        "question": "what color do you get when you mix blue and yellow?",
+        "question": "What color do you get when you mix blue and yellow?",
         "points": 800,
         "language": "en",
         "answers": ["green"],
@@ -6042,7 +6042,7 @@
         "category": "nature"
     },
     {
-        "question": "what part of your body helps you hear?",
+        "question": "What part of your body helps you hear?",
         "points": 800,
         "language": "en",
         "answers": ["ear", "ears"],
@@ -6050,15 +6050,15 @@
         "category": "science"
     },
     {
-        "question": "what do you wear on your feet to walk outside?",
+        "question": "What do you wear on your feet to walk outside?",
         "points": 700,
         "language": "en",
         "answers": ["shoes"],
         "wrong_answers": ["gloves", "hats", "scarves", "coats", "belts"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the name of the bear in the jungle book?",
+        "question": "What is the name of the bear in the jungle book?",
         "points": 900,
         "language": "en",
         "answers": ["baloo"],
@@ -6066,15 +6066,15 @@
         "category": "movies"
     },
     {
-        "question": "how many letters are in the english alphabet?",
+        "question": "How many letters are in the english alphabet?",
         "points": 800,
         "language": "en",
         "answers": ["twenty six", "26"],
         "wrong_answers": ["twenty four", "twenty five", "twenty eight", "thirty", "twenty"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the tallest animal in the world?",
+        "question": "What is the tallest animal in the world?",
         "points": 900,
         "language": "en",
         "answers": ["giraffe"],
@@ -6082,7 +6082,7 @@
         "category": "nature"
     },
     {
-        "question": "what does a thermometer measure?",
+        "question": "What does a thermometer measure?",
         "points": 800,
         "language": "en",
         "answers": ["temperature"],
@@ -6090,167 +6090,167 @@
         "category": "science"
     },
      {
-        "question": "how many days are there in a leap year?",
+        "question": "How many days are there in a leap year?",
         "points": 900,
         "language": "en",
         "answers": ["three hundred sixty six", "366"],
         "wrong_answers": ["365", "364", "360", "367", "362"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "which direction does the sun rise from?",
+        "question": "Which direction does the sun rise from?",
         "points": 800,
         "language": "en",
         "answers": ["east"],
         "wrong_answers": ["west", "north", "south", "up", "left"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what color is the inside of most watermelons?",
+        "question": "What color is the inside of most watermelons?",
         "points": 800,
         "language": "en",
         "answers": ["red", "pink"],
         "wrong_answers": ["green", "yellow", "white", "orange", "purple"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "how many hours are in a day?",
+        "question": "How many hours are in a day?",
         "points": 800,
         "language": "en",
         "answers": ["twenty four", "24"],
         "wrong_answers": ["12", "18", "20", "22", "26"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the name of the imaginary line that divides earth into north and south?",
+        "question": "What is the name of the imaginary line that divides earth into north and south?",
         "points": 1000,
         "language": "en",
         "answers": ["equator", "the equator"],
         "wrong_answers": ["prime meridian", "tropic", "axis", "hemisphere", "longitude"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "how many months in year have exactly 30 days?",
+        "question": "How many months in year have exactly 30 days?",
         "points": 900,
         "language": "en",
         "answers": ["four", "4"],
         "wrong_answers": ["five", "three", "six", "two", "seven"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you use to tell time?",
+        "question": "What do you use to tell time?",
         "points": 700,
         "language": "en",
         "answers": ["clock", "watch"],
         "wrong_answers": ["calendar", "phone", "lamp", "window", "radio"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you call frozen rain?",
+        "question": "What do you call frozen rain?",
         "points": 800,
         "language": "en",
         "answers": ["hail"],
         "wrong_answers": ["snow", "ice", "sleet", "frost", "mist"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the name of the building where you watch movies?",
+        "question": "What is the name of the building where you watch movies?",
         "points": 800,
         "language": "en",
         "answers": ["cinema", "theater"],
         "wrong_answers": ["hall", "museum", "auditorium", "mall", "arena"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "how many legs does an insect have?",
+        "question": "How many legs does an insect have?",
         "points": 900,
         "language": "en",
         "answers": ["six", "6"],
         "wrong_answers": ["eight", "ten", "four", "twelve", "five"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "which shape has three sides?",
+        "question": "Which shape has three sides?",
         "points": 700,
         "language": "en",
         "answers": ["triangle"],
         "wrong_answers": ["square", "circle", "hexagon", "pentagon", "rectangle"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you drink that comes from cows?",
+        "question": "What do you drink that comes from cows?",
         "points": 700,
         "language": "en",
         "answers": ["milk"],
         "wrong_answers": ["juice", "water", "soda", "tea", "coffee"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "which tool do you use to cut paper?",
+        "question": "Which tool do you use to cut paper?",
         "points": 800,
         "language": "en",
         "answers": ["scissors"],
         "wrong_answers": ["knife", "pen", "tape", "ruler", "stapler"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is used to erase pencil marks?",
+        "question": "What is used to erase pencil marks?",
         "points": 700,
         "language": "en",
         "answers": ["eraser", "rubber"],
         "wrong_answers": ["tissue", "sharpener", "pen", "sponge", "brush"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "how many seasons are there in a year?",
+        "question": "How many seasons are there in a year?",
         "points": 800,
         "language": "en",
         "answers": ["four", "4"],
         "wrong_answers": ["three", "five", "two", "six", "seven"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "which device is used to speak to someone far away?",
+        "question": "Which device is used to speak to someone far away?",
         "points": 800,
         "language": "en",
         "answers": ["phone", "telephone"],
         "wrong_answers": ["radio", "clock", "tv", "microwave", "compass"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you use to open a locked door?",
+        "question": "What do you use to open a locked door?",
         "points": 800,
         "language": "en",
         "answers": ["key"],
         "wrong_answers": ["button", "card", "switch", "code", "lock"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you wear on your head for protection when biking?",
+        "question": "What do you wear on your head for protection when biking?",
         "points": 800,
         "language": "en",
         "answers": ["helmet"],
         "wrong_answers": ["hat", "cap", "scarf", "goggles", "visor"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what is the term for water falling from the sky?",
+        "question": "What is the term for water falling from the sky?",
         "points": 700,
         "language": "en",
         "answers": ["rain"],
         "wrong_answers": ["snow", "hail", "fog", "cloud", "dew"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "what do you call the person who brings your food at a restaurant?",
+        "question": "What do you call the person who brings your food at a restaurant?",
         "points": 800,
         "language": "en",
         "answers": ["waiter", "server"],
         "wrong_answers": ["chef", "host", "manager", "bartender", "clerk"],
-        "category": "general knowledge"
+        "category": "general"
     },
     {
-        "question": "in which year did world war ii end?",
+        "question": "In which year did world war ii end?",
         "points": 1000,
         "language": "en",
         "answers": ["1945"],
@@ -6258,7 +6258,7 @@
         "category": "history"
     },
     {
-        "question": "which country built the great wall?",
+        "question": "Which country built the great wall?",
         "points": 900,
         "language": "en",
         "answers": ["china"],
@@ -6266,7 +6266,7 @@
         "category": "history"
     },
     {
-        "question": "what was the name of the ship that sank in 1912?",
+        "question": "What was the name of the ship that sank in 1912?",
         "points": 900,
         "language": "en",
         "answers": ["titanic", "the titanic"],
@@ -6274,7 +6274,7 @@
         "category": "history"
     },
     {
-        "question": "which famous wall divided berlin until 1989?",
+        "question": "Which famous wall divided berlin until 1989?",
         "points": 900,
         "language": "en",
         "answers": ["berlin wall", "the berlin wall"],
@@ -6282,7 +6282,7 @@
         "category": "history"
     },
     {
-        "question": "who was assassinated in 1963 in dallas, texas?",
+        "question": "Who was assassinated in 1963 in dallas, texas?",
         "points": 900,
         "language": "en",
         "answers": ["john f kennedy", "kennedy", "jfk", "john kennedy"],
@@ -6290,7 +6290,7 @@
         "category": "history"
     },
     {
-        "question": "which empire was ruled by julius caesar?",
+        "question": "Which empire was ruled by julius caesar?",
         "points": 900,
         "language": "en",
         "answers": ["roman empire", "rome"],
@@ -6298,7 +6298,7 @@
         "category": "history"
     },
     {
-        "question": "what was the name of the first permanent english settlement in america?",
+        "question": "What was the name of the first permanent english settlement in america?",
         "points": 1000,
         "language": "en",
         "answers": ["jamestown"],
@@ -6306,7 +6306,7 @@
         "category": "history"
     },
     {
-        "question": "who gave the famous 'i have a dream' speech?",
+        "question": "Who gave the famous 'i have a dream' speech?",
         "points": 900,
         "language": "en",
         "answers": ["martin luther king", "martin luther king jr", "mlk", "luther king"],
@@ -6314,7 +6314,7 @@
         "category": "history"
     },
     {
-        "question": "in which year did the berlin wall fall?",
+        "question": "In which year did the berlin wall fall?",
         "points": 900,
         "language": "en",
         "answers": ["1989"],
@@ -6322,7 +6322,7 @@
         "category": "history"
     },
     {
-        "question": "who was the first woman to fly solo across the atlantic?",
+        "question": "Who was the first woman to fly solo across the atlantic?",
         "points": 1000,
         "language": "en",
         "answers": ["amelia earhart", "earhart"],
@@ -6330,7 +6330,7 @@
         "category": "history"
     },
     {
-        "question": "what was the name of the agreement that ended world war i?",
+        "question": "What was the name of the agreement that ended world war i?",
         "points": 1000,
         "language": "en",
         "answers": ["treaty of versailles", "versailles treaty"],
@@ -6338,7 +6338,7 @@
         "category": "history"
     },
     {
-        "question": "who was the leader of nazi germany?",
+        "question": "Who was the leader of nazi germany?",
         "points": 900,
         "language": "en",
         "answers": ["adolf hitler", "hitler"],
@@ -6346,7 +6346,7 @@
         "category": "history"
     },
     {
-        "question": "which ship brought the pilgrims to america?",
+        "question": "Which ship brought the pilgrims to america?",
         "points": 900,
         "language": "en",
         "answers": ["mayflower", "the mayflower"],
@@ -6354,12 +6354,244 @@
         "category": "history"
     },
     {
-        "question": "who invented the printing press?",
+        "question": "Who invented the printing press?",
         "points": 1000,
         "language": "en",
         "answers": ["johannes gutenberg", "gutenberg"],
         "wrong_answers": ["isaac newton", "thomas edison", "benjamin franklin", "galileo galilei", "alexander graham bell"],
         "category": "history"
+    },
+    {
+        "question": "Who is the main character in 'the catcher in the rye'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["holden caulfield", "caulfield"],
+        "wrong_answers": ["nick carraway", "atticus finch", "jay gatsby", "gregor samsa", "humbert humbert"],
+        "category": "literature"
+    },
+    {
+        "question": "What type of animal is winnie the pooh?",
+        "points": 800,
+        "language": "en",
+        "answers": ["bear"],
+        "wrong_answers": ["rabbit", "cat", "dog", "pig", "tiger"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of the hobbit in 'the hobbit'?",
+        "points": 800,
+        "language": "en",
+        "answers": ["bilbo baggins", "bilbo"],
+        "wrong_answers": ["frodo", "samwise", "aragorn", "gollum", "gandalf"],
+        "category": "literature"
+    },
+    {
+        "question": "Which bear loves honey in children's books?",
+        "points": 700,
+        "language": "en",
+        "answers": ["winnie the pooh", "pooh"],
+        "wrong_answers": ["paddington", "baloo", "yogi", "little bear", "grizzly"],
+        "category": "literature"
+    },
+    {
+        "question": "Who wrote 'charlie and the chocolate factory'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["roald dahl", "dahl"],
+        "wrong_answers": ["lewis carroll", "beatrix potter", "j.k. rowling", "e.b. white", "dr. seuss"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of the girl who visits wonderland?",
+        "points": 800,
+        "language": "en",
+        "answers": ["alice"],
+        "wrong_answers": ["dorothy", "wendy", "lucy", "sophie", "bella"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of sherlock holmes's assistant?",
+        "points": 800,
+        "language": "en",
+        "answers": ["dr. watson", "watson", "john watson"],
+        "wrong_answers": ["lestrade", "moriarty", "hudson", "mycroft", "john smith"],
+        "category": "literature"
+    },
+    {
+        "question": "Who is the author of 'the cat in the hat'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["dr. seuss", "seuss"],
+        "wrong_answers": ["roald dahl", "beatrix potter", "lewis carroll", "e.b. white", "j.k. rowling"],
+        "category": "literature"
+    },
+    {
+        "question": "Who wrote 'little women'?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["louisa may alcott", "alcott"],
+        "wrong_answers": ["jane austen", "charlotte brontë", "emily dickinson", "mary shelley", "virginia woolf"],
+        "category": "literature"
+    },
+    {
+        "question": "Which author created the land of narnia?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["c.s. lewis", "lewis"],
+        "wrong_answers": ["j.r.r. tolkien", "philip pullman", "j.k. rowling", "rick riordan", "terry pratchett"],
+        "category": "literature"
+    },
+    {
+        "question": "What kind of animal is the title character in 'charlotte's web'?",
+        "points": 800,
+        "language": "en",
+        "answers": ["spider"],
+        "wrong_answers": ["pig", "rat", "cat", "dog", "horse"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of the whale in 'moby-dick'?",
+        "points": 750,
+        "language": "en",
+        "answers": ["moby dick"],
+        "wrong_answers": ["white fang", "old man", "leviathan", "jaws", "captain ahab"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the name of the wizard mentor in 'the lord of the rings'?",
+        "points": 800,
+        "language": "en",
+        "answers": ["gandalf", "gandalf the gray"],
+        "wrong_answers": ["saruman", "sauron", "elrond", "aragorn", "legolas"],
+        "category": "literature"
+    },
+    {
+        "question": "What is the color of an emerald?",
+        "points": 800,
+        "language": "en",
+        "answers": ["green"],
+        "wrong_answers": ["blue", "red", "yellow", "purple", "white"],
+        "category": "science"
+    },
+    {
+        "question": "What instrument has black and white keys?",
+        "points": 600,
+        "language": "en",
+        "answers": ["piano"],
+        "wrong_answers": ["guitar", "violin", "trumpet", "drums", "flute"],
+        "category": "music"
+    },
+    {
+        "question": "Which bird is known for its colorful tail and dance?",
+        "points": 800,
+        "language": "en",
+        "answers": ["peacock"],
+        "wrong_answers": ["parrot", "swan", "flamingo", "penguin", "ostrich"],
+        "category": "nature"
+    },
+    {
+        "question": "Which vegetable is known for being purple and shaped like an egg?",
+        "points": 750,
+        "language": "en",
+        "answers": ["eggplant"],
+        "wrong_answers": ["carrot", "potato", "beetroot", "zucchini", "onion"],
+        "category": "food"
+    },
+    {
+        "question": "What is the name of the fairy tale girl with glass slippers?",
+        "points": 800,
+        "language": "en",
+        "answers": ["cinderella"],
+        "wrong_answers": ["rapunzel", "aurora", "snow white", "ariel", "belle"],
+        "category": "literature"
+    },
+    {
+        "question": "What do bees collect from flowers?",
+        "points": 800,
+        "language": "en",
+        "answers": ["nectar"],
+        "wrong_answers": ["pollen", "sap", "dew", "honey", "water"],
+        "category": "science"
+    },
+    {
+        "question": "Which tool do you use to see stars and planets?",
+        "points": 800,
+        "language": "en",
+        "answers": ["telescope"],
+        "wrong_answers": ["microscope", "binoculars", "magnifier", "glasses", "lens"],
+        "category": "science"
+    },
+    {
+        "question": "What animal is known for building dams?",
+        "points": 800,
+        "language": "en",
+        "answers": ["beaver", "bobr"],
+        "wrong_answers": ["otter", "moose", "bear", "fox", "badger", "bobr"],
+        "category": "nature"
+    },
+    {
+        "question": "Which shape has four equal sides and four right angles?",
+        "points": 800,
+        "language": "en",
+        "answers": ["square"],
+        "wrong_answers": ["rectangle", "triangle", "circle", "pentagon", "rhombus"],
+        "category": "math"
+    },
+    {
+        "question": "What do you call a frozen form of precipitation?",
+        "points": 900,
+        "language": "en",
+        "answers": ["snow", "snowflakes", "ice crystals"],
+        "wrong_answers": ["rain", "fog", "dew", "sleet", "hail"],
+        "category": "science"
+    },
+    {
+        "question": "Which instrument do doctors use to listen to your heartbeat?",
+        "points": 900,
+        "language": "en",
+        "answers": ["stethoscope"],
+        "wrong_answers": ["thermometer", "syringe", "scanner", "x-ray", "defibrillator"],
+        "category": "science"
+    },
+    {
+        "question": "Which animal carries its baby in a pouch?",
+        "points": 600,
+        "language": "en",
+        "answers": ["kangaroo"],
+        "wrong_answers": ["koala", "elephant", "panda", "monkey", "sloth"],
+        "category": "nature"
+    },
+    {
+        "question": "What is the name of the bird that cannot fly and lives in antarctica?",
+        "points": 800,
+        "language": "en",
+        "answers": ["penguin"],
+        "wrong_answers": ["ostrich", "swan", "albatross", "seagull", "parrot"],
+        "category": "nature"
+    },
+    {
+        "question": "What is the name of the red liquid that flows through your body?",
+        "points": 800,
+        "language": "en",
+        "answers": ["blood"],
+        "wrong_answers": ["plasma", "water", "sweat", "bile", "lymph"],
+        "category": "science"
+    },
+    {
+        "question": "What type of celestial body is the moon?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["natural satellite", "satellite"],
+        "wrong_answers": ["planet", "asteroid", "star", "comet", "nebula"],
+        "category": "science"
+    },
+    {
+        "question": "What is the term for a word that is the same forwards and backwards?",
+        "points": 1000,
+        "language": "en",
+        "answers": ["palindrome"],
+        "wrong_answers": ["anagram", "acronym", "synonym", "homonym", "pun"],
+        "category": "language"
     }
   ]
 }
