@@ -93,9 +93,7 @@
       "language": "en",
       "answers": [
         "china",
-        "people's republic of china",
-        "republic of china",
-        "peoples republic of china"
+        "republic of china"
       ],
       "wrong_answers": [
         "United States",
@@ -558,9 +556,8 @@
       "language": "en",
       "answers": [
         "george orwell",
-        "eric arthur blair",
+        "blair",
         "orwell",
-        "e. a. blair",
         "g. orwell"
       ],
       "wrong_answers": [
@@ -577,11 +574,7 @@
       "points": 600,
       "language": "en",
       "answers": [
-        "100 degrees celsius",
-        "212 degrees fahrenheit",
-        "100 celsius",
         "100 c",
-        "212 fahrenheit",
         "212 f",
         "100",
         "212"
@@ -660,32 +653,6 @@
         "10"
       ],
       "category": "math"
-    },
-    {
-      "question": "Who was the first emperor of rome?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "augustus",
-        "gaius octavius",
-        "octavian",
-        "octavius",
-        "octavianus",
-        "octavianus augustus",
-        "octavius augustus",
-        "gaius julius",
-        "caesar augustus",
-        "gaius julius caesar augustus",
-        "gaius julius caesar octavianus augustus"
-      ],
-      "wrong_answers": [
-        "julius caesar",
-        "nero",
-        "caligula",
-        "hadrian",
-        "marcus aurelius"
-      ],
-      "category": "history"
     },
     {
       "question": "What is the chemical symbol for sodium?",
@@ -1112,31 +1079,6 @@
       "category": "gaming"
     },
     {
-      "question": "What is the main objective in among us?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "find the impostor",
-        "find the impostors",
-        "complete tasks",
-        "survive",
-        "vote off impostors",
-        "vote off impostor",
-        "kill impostor",
-        "kill impostors",
-        "kill the impostor",
-        "kill the impostors"
-      ],
-      "wrong_answers": [
-        "collect coins",
-        "build bases",
-        "fight enemies",
-        "solve puzzles",
-        "capture the flag"
-      ],
-      "category": "gaming"
-    },
-    {
       "question": "Which character is known for saying 'finish him' in mortal kombat?",
       "points": 900,
       "language": "en",
@@ -1200,22 +1142,6 @@
         "python",
         "javascript",
         "php"
-      ],
-      "category": "technology"
-    },
-    {
-      "question": "What does the acronym html stand for?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "hypertext markup language",
-        "hyper text markup language"
-      ],
-      "wrong_answers": [
-        "high-level text language",
-        "hyper transfer markup language",
-        "hypertool markup language",
-        "hypertext meta language"
       ],
       "category": "technology"
     },
@@ -1366,31 +1292,6 @@
         "2009",
         "2010",
         "2006"
-      ],
-      "category": "technology"
-    },
-    {
-      "question": "Who founded tesla, inc.?",
-      "points": 1000,
-      "language": "en",
-      "answers": [
-        "martin eberhard",
-        "marc tarpenning",
-        "m. eberhard",
-        "m. tarpenning",
-        "eberhard",
-        "tarpenning",
-        "eberhard and tarpenning",
-        "martin and marc",
-        "marc and martin",
-        "tarpenning and eberhard"
-      ],
-      "wrong_answers": [
-        "elon musk",
-        "peter thiel",
-        "jeff bezos",
-        "larry ellison",
-        "jack dorsey"
       ],
       "category": "technology"
     },
@@ -2959,8 +2860,7 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "assassination of franz ferdinand",
-        "franz ferdinand assassination",
+        "assassination",
         "ferdinand assassination"
       ],
       "wrong_answers": [
@@ -3142,7 +3042,6 @@
       "language": "en",
       "answers": [
         "hogwarts",
-        "hogwarts school of witchcraft and wizardry",
         "hogwarts school"
       ],
       "wrong_answers": [
@@ -6306,14 +6205,6 @@
         "category": "history"
     },
     {
-        "question": "Who gave the famous 'i have a dream' speech?",
-        "points": 900,
-        "language": "en",
-        "answers": ["martin luther king", "martin luther king jr", "mlk", "luther king"],
-        "wrong_answers": ["malcolm x", "barack obama", "john f kennedy", "frederick douglass", "nelson mandela"],
-        "category": "history"
-    },
-    {
         "question": "In which year did the berlin wall fall?",
         "points": 900,
         "language": "en",
@@ -6479,7 +6370,7 @@
         "language": "en",
         "answers": ["piano"],
         "wrong_answers": ["guitar", "violin", "trumpet", "drums", "flute"],
-        "category": "music"
+        "category": "general"
     },
     {
         "question": "Which bird is known for its colorful tail and dance?",
@@ -6591,7 +6482,7 @@
         "language": "en",
         "answers": ["palindrome"],
         "wrong_answers": ["anagram", "acronym", "synonym", "homonym", "pun"],
-        "category": "language"
+        "category": "general"
     }
   ]
 }
