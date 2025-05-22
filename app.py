@@ -38,7 +38,7 @@ def get_20_questions(data, category: str = None) -> list:
                 questions.append(item)
         else:
             questions.append(item)
-        if len(questions) == 20:
+        if len(questions) == 10:
             break
 
     random.shuffle(questions)
