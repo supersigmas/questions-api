@@ -20,11 +20,18 @@ def collect_categories(data) -> list:
     return categories
 
 
-def get_20_questions(data, category: str = None) -> list:
+def get_questions_count(
+        data,
+        category: str = None,
+        count: int = 10,
+        difficulty: str = "easy"
+) -> list:
     """
     Get 20 questions from the specified category
     :param data: JSON data
+    :param count: Number of questions to return
     :param category: Category
+    :param difficulty: Difficulty level of the questions
     :return: List of questions
     """
     questions = []
@@ -33,12 +40,14 @@ def get_20_questions(data, category: str = None) -> list:
     data = random.sample(data, len(data))
 
     for item in data:
+        if item["difficulty"] != difficulty:
+            continue
         if category:
             if item["category"] == category:
                 questions.append(item)
         else:
             questions.append(item)
-        if len(questions) == 10:
+        if len(questions) == count:
             break
 
     random.shuffle(questions)
@@ -114,14 +123,20 @@ def get_questions():
     # get categories from request
     category = request.args.get("category")
 
+    # get questions count from request
+    questions_count = request.args.get("count", default=10, type=int)
+
+    # get difficulty from request
+    difficulty = request.args.get("difficulty", default="easy", type=str)
+
     f = open("questions.json", "r")
     data = json.load(f)
 
     data = data["data"]
     if category:
-        questions = get_20_questions(data, category)
+        questions = get_questions_count(data, category, questions_count, difficulty)
     else:
-        questions = get_20_questions(data)
+        questions = get_questions_count(data)
     return {"questions": questions}, 200
 
 
