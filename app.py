@@ -40,8 +40,9 @@ def get_questions_count(
     data = random.sample(data, len(data))
 
     for item in data:
-        if item["difficulty"] != difficulty:
-            continue
+        if difficulty == 'easy':
+            if item["difficulty"] != "easy":
+                continue
         if category:
             if item["category"] == category:
                 questions.append(item)
