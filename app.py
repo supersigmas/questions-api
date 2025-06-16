@@ -24,7 +24,7 @@ def get_questions_count(
         data,
         category: str = None,
         count: int = 10,
-        difficulty: str = "easy"
+        difficulty: str = None
 ) -> list:
     """
     Get 20 questions from the specified category
@@ -40,13 +40,9 @@ def get_questions_count(
     data = random.sample(data, len(data))
 
     for item in data:
-        if difficulty == 'easy':
-            if item["difficulty"] != "easy":
-                continue
-        if category:
-            if item["category"] == category:
-                questions.append(item)
-        else:
+        if difficulty == 'easy' and item["difficulty"] != "easy":
+            continue
+        if not category or item["category"] == category:
             questions.append(item)
         if len(questions) == count:
             break
@@ -125,10 +121,10 @@ def get_questions():
     category = request.args.get("category")
 
     # get questions count from request
-    questions_count = request.args.get("count", default=10, type=int)
+    questions_count = request.args.get("count", default=20, type=int)
 
     # get difficulty from request
-    difficulty = request.args.get("difficulty", default="easy", type=str)
+    difficulty = request.args.get("difficulty", default=None, type=str)
 
     f = open("questions.json", "r")
     data = json.load(f)
@@ -137,7 +133,7 @@ def get_questions():
     if category:
         questions = get_questions_count(data, category, questions_count, difficulty)
     else:
-        questions = get_questions_count(data)
+        questions = get_questions_count(data=data, difficulty=difficulty, count=questions_count)
     return {"questions": questions}, 200
 
 

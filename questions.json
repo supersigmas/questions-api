@@ -1,6 +1,62 @@
 {
     "data": [
         {
+            "question": "What is the largest ocean on Earth?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "pacific ocean",
+                "the pacific",
+                "pacific"
+            ],
+            "wrong_answers": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Southern Ocean",
+                "Mediterranean Sea"
+            ],
+            "category": "geography",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "albert einstein",
+                "einstein",
+                "a. einstein"
+            ],
+            "wrong_answers": [
+                "Isaac Newton",
+                "Galileo Galilei",
+                "Stephen Hawking",
+                "Nikola Tesla",
+                "Marie Curie"
+            ],
+            "category": "science",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country is famous for inventing pizza?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "italy",
+                "italian republic"
+            ],
+            "wrong_answers": [
+                "France",
+                "Greece",
+                "United States",
+                "Spain",
+                "Germany"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the smallest planet in our solar system?",
             "points": 1000,
             "language": "en",
@@ -53,6 +109,24 @@
             ],
             "category": "geography",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the name of the fairy in Peter Pan?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "tinker bell",
+                "tink"
+            ],
+            "wrong_answers": [
+                "Wendy",
+                "Pixie",
+                "Fairy Dust",
+                "Silvermist",
+                "Rosetta"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
         },
         {
             "question": "What is the longest river in the world?",
@@ -110,6 +184,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who wrote 'The Hobbit'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "j.r.r. tolkien",
+                "john ronald reuel tolkien",
+                "tolkien"
+            ],
+            "wrong_answers": [
+                "C.S. Lewis",
+                "George R.R. Martin",
+                "J.K. Rowling",
+                "Mark Twain",
+                "H.P. Lovecraft"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the square root of 64?",
             "points": 600,
             "language": "en",
@@ -164,6 +257,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "What does CPU stand for in computing?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "central processing unit",
+                "processor"
+            ],
+            "wrong_answers": [
+                "Computer Power Unit",
+                "Central Program Utility",
+                "Control Processing Unit",
+                "Core Processing Utility",
+                "Centralized Processing Unit"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the hardest natural substance on Earth?",
             "points": 1000,
             "language": "en",
@@ -200,6 +311,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who directed the movie 'Jurassic Park'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "steven spielberg",
+                "spielberg",
+                "s. spielberg"
+            ],
+            "wrong_answers": [
+                "James Cameron",
+                "George Lucas",
+                "Christopher Nolan",
+                "Quentin Tarantino",
+                "Tim Burton"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which planet is known as the Red Planet?",
             "points": 800,
             "language": "en",
@@ -220,6 +350,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "william shakespeare",
+                "shakespeare",
+                "w. shakespeare"
+            ],
+            "wrong_answers": [
+                "Charles Dickens",
+                "Jane Austen",
+                "Mark Twain",
+                "Leo Tolstoy",
+                "George Orwell"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the chemical symbol for gold?",
             "points": 700,
             "language": "en",
@@ -235,6 +384,23 @@
             ],
             "category": "science",
             "difficulty": "easy"
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "1912"
+            ],
+            "wrong_answers": [
+                "1905",
+                "1920",
+                "1898",
+                "1931",
+                "1887"
+            ],
+            "category": "history",
+            "difficulty": "normal"
         },
         {
             "question": "Which city is known as the big apple?",
@@ -274,6 +440,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who discovered penicillin?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "alexander fleming",
+                "fleming",
+                "a. fleming"
+            ],
+            "wrong_answers": [
+                "louis pasteur",
+                "marie curie",
+                "joseph lister",
+                "robert koch",
+                "edward jenner"
+            ],
+            "category": "science",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which bird is known for its ability to mimic sounds, including human speech?",
             "points": 800,
             "language": "en",
@@ -310,6 +495,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which game is played with a shuttlecock?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "badminton",
+                "the badminton"
+            ],
+            "wrong_answers": [
+                "tennis",
+                "volleyball",
+                "table tennis",
+                "squash",
+                "handball"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which country is known for the eiffel tower?",
             "points": 800,
             "language": "en",
@@ -326,6 +529,24 @@
             ],
             "category": "geography",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who invented the telephone?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "alexander graham bell",
+                "bell"
+            ],
+            "wrong_answers": [
+                "thomas edison",
+                "nikola tesla",
+                "guglielmo marconi",
+                "antonio meucci",
+                "charles babbage"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
         },
         {
             "question": "What is the capital city of canada?",
@@ -360,6 +581,26 @@
             ],
             "category": "science",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who wrote '1984' and 'animal farm'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "george orwell",
+                "blair",
+                "orwell",
+                "g. orwell"
+            ],
+            "wrong_answers": [
+                "aldous huxley",
+                "ray bradbury",
+                "mark twain",
+                "ernest hemingway",
+                "j.k. rowling"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
         },
         {
             "question": "What is the boiling point of water at sea level?",
@@ -452,6 +693,41 @@
             "difficulty": "easy"
         },
         {
+            "question": "What is the chemical symbol for sodium?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "na"
+            ],
+            "wrong_answers": [
+                "s",
+                "so",
+                "sn",
+                "sa",
+                "mg"
+            ],
+            "category": "science",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is known as the father of computers?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "charles babbage",
+                "babbage"
+            ],
+            "wrong_answers": [
+                "alan turing",
+                "john von neumann",
+                "steve jobs",
+                "bill gates",
+                "ada lovelace"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which country is home to the great barrier reef?",
             "points": 700,
             "language": "en",
@@ -467,6 +743,25 @@
             ],
             "category": "geography",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who wrote 'pride and prejudice'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "jane austen",
+                "austen",
+                "j. austen"
+            ],
+            "wrong_answers": [
+                "charlotte bronte",
+                "charles dickens",
+                "emily bronte",
+                "leo tolstoy",
+                "mark twain"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
         },
         {
             "question": "What is the name of the closest star to earth?",
@@ -506,6 +801,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who was the first woman to win a nobel prize?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "marie curie",
+                "curie",
+                "m. curie"
+            ],
+            "wrong_answers": [
+                "rosalind franklin",
+                "ada lovelace",
+                "dorothy hodgkin",
+                "barbara mcclintock",
+                "ir\u00c3\u00a8ne joliot-curie"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which animal is the symbol of the world wildlife fund (wwf)?",
             "points": 700,
             "language": "en",
@@ -541,6 +855,24 @@
             ],
             "category": "gaming",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which company developed the halo series?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "bungie",
+                "343 industries"
+            ],
+            "wrong_answers": [
+                "epic games",
+                "valve",
+                "blizzard",
+                "nintendo",
+                "id software"
+            ],
+            "category": "gaming",
+            "difficulty": "normal"
         },
         {
             "question": "What is the highest rank in counter-strike: global offensive?",
@@ -596,6 +928,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "What is the name of the main antagonist in the resident evil series?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "albert wesker",
+                "wesker",
+                "a. wesker"
+            ],
+            "wrong_answers": [
+                "chris redfield",
+                "ada wong",
+                "nemesis",
+                "hunk",
+                "leon kennedy"
+            ],
+            "category": "gaming",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which game features the fictional city of los santos?",
             "points": 800,
             "language": "en",
@@ -614,6 +965,42 @@
             ],
             "category": "gaming",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the main currency used in the witcher 3?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "crowns"
+            ],
+            "wrong_answers": [
+                "gold",
+                "septims",
+                "gil",
+                "runes",
+                "caps"
+            ],
+            "category": "gaming",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the creator of the metal gear series?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "hideo kojima",
+                "kojima",
+                "h. kojima"
+            ],
+            "wrong_answers": [
+                "shigeru miyamoto",
+                "yu suzuki",
+                "sakurai",
+                "tetsuya nomura",
+                "keiji inafune"
+            ],
+            "category": "gaming",
+            "difficulty": "normal"
         },
         {
             "question": "Which game popularized the battle royale genre?",
@@ -703,6 +1090,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which game franchise features characters like garrus, liara, and tali?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "mass effect"
+            ],
+            "wrong_answers": [
+                "halo",
+                "destiny",
+                "starcraft",
+                "cyberpunk",
+                "warframe"
+            ],
+            "category": "gaming",
+            "difficulty": "normal"
+        },
+        {
             "question": "In world of warcraft, what is the name of the planet where the game primarily takes place?",
             "points": 900,
             "language": "en",
@@ -718,6 +1122,24 @@
             ],
             "category": "gaming",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the name of the fungus-based enemies in the last of us?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "clickers",
+                "clicker"
+            ],
+            "wrong_answers": [
+                "walkers",
+                "zombies",
+                "hunters",
+                "infected",
+                "mushrooms"
+            ],
+            "category": "gaming",
+            "difficulty": "normal"
         },
         {
             "question": "Which character is known for saying 'finish him' in mortal kombat?",
@@ -755,6 +1177,289 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which company created the first graphical web browser?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "netscape",
+                "mosaic"
+            ],
+            "wrong_answers": [
+                "microsoft",
+                "google",
+                "apple",
+                "mozilla",
+                "opera"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What programming language is primarily used for android app development?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "java",
+                "kotlin"
+            ],
+            "wrong_answers": [
+                "swift",
+                "c++",
+                "python",
+                "javascript",
+                "php"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who co-founded microsoft alongside bill gates?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "paul allen",
+                "allen",
+                "p. allen"
+            ],
+            "wrong_answers": [
+                "steve wozniak",
+                "larry page",
+                "steve jobs",
+                "mark zuckerberg",
+                "elon musk"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What was the name of the first electronic general-purpose computer?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "eniac",
+                "electronic numerical integrator and computer"
+            ],
+            "wrong_answers": [
+                "colossus",
+                "univac",
+                "ibm 701",
+                "z3",
+                "altair 8800"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which company developed the first commercially successful microprocessor?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "intel",
+                "intel 4004"
+            ],
+            "wrong_answers": [
+                "amd",
+                "ibm",
+                "apple",
+                "microsoft",
+                "motorola"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What does the 'i' in iphone stand for?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "internet"
+            ],
+            "wrong_answers": [
+                "innovation",
+                "intelligent",
+                "interactive",
+                "integrated",
+                "instant"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which programming language was created by guido van rossum?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "python",
+                "cpython"
+            ],
+            "wrong_answers": [
+                "java",
+                "ruby",
+                "c++",
+                "javascript",
+                "swift"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which company developed the first commercially available graphical user interface?",
+            "points": 950,
+            "language": "en",
+            "answers": [
+                "xerox",
+                "xerox parc"
+            ],
+            "wrong_answers": [
+                "apple",
+                "microsoft",
+                "ibm",
+                "hp",
+                "atari"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What does 'usb' stand for?",
+            "points": 750,
+            "language": "en",
+            "answers": [
+                "universal serial bus"
+            ],
+            "wrong_answers": [
+                "unified system bus",
+                "universal storage bridge",
+                "universal speed bus",
+                "unique serial bus"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which company owns the android operating system?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "google",
+                "alphabet"
+            ],
+            "wrong_answers": [
+                "samsung",
+                "apple",
+                "microsoft",
+                "nokia",
+                "sony"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which year was the first iphone released?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "2007"
+            ],
+            "wrong_answers": [
+                "2005",
+                "2008",
+                "2009",
+                "2010",
+                "2006"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What was the first video game ever created?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "tennis for two",
+                "tennis"
+            ],
+            "wrong_answers": [
+                "pong",
+                "spacewar",
+                "pac-man",
+                "asteroids",
+                "super mario"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What does 'ai' stand for in technology?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "artificial intelligence"
+            ],
+            "wrong_answers": [
+                "automated interface",
+                "advanced innovation",
+                "artificial integration",
+                "augmented intelligence"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which company developed the first mouse?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "xerox",
+                "xerox parc"
+            ],
+            "wrong_answers": [
+                "apple",
+                "ibm",
+                "microsoft",
+                "logitech",
+                "hp"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What was the original name of twitter?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "twttr"
+            ],
+            "wrong_answers": [
+                "tweetdeck",
+                "chirp",
+                "twitter beta",
+                "bluebird",
+                "socialbuzz"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the ceo of spacex as of 2025?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "elon musk",
+                "musk",
+                "e. musk"
+            ],
+            "wrong_answers": [
+                "tim cook",
+                "jeff bezos",
+                "bill gates",
+                "mark zuckerberg",
+                "richard branson"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the largest living species of tree?",
             "points": 900,
             "language": "en",
@@ -771,6 +1476,24 @@
             ],
             "category": "nature",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which bird has the largest wingspan?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "wandering albatross",
+                "albatross"
+            ],
+            "wrong_answers": [
+                "bald eagle",
+                "pelican",
+                "condor",
+                "vulture",
+                "swan"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
         },
         {
             "question": "Which animal has the longest lifespan?",
@@ -896,6 +1619,42 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which plant is known for its ability to close its leaves when touched?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "mimosa pudica",
+                "mimosa"
+            ],
+            "wrong_answers": [
+                "venus flytrap",
+                "pitcher plant",
+                "aloe vera",
+                "bamboo",
+                "orchid"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the largest freshwater fish in the world?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "beluga sturgeon",
+                "sturgeon"
+            ],
+            "wrong_answers": [
+                "arapaima",
+                "catfish",
+                "piranha",
+                "salmon",
+                "trout"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which mammal has the most powerful bite?",
             "points": 900,
             "language": "en",
@@ -912,6 +1671,23 @@
             ],
             "category": "nature",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the name of the process by which plants convert sunlight into energy?",
+            "points": 600,
+            "language": "en",
+            "answers": [
+                "photosynthesis"
+            ],
+            "wrong_answers": [
+                "respiration",
+                "fermentation",
+                "osmosis",
+                "evaporation",
+                "germination"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
         },
         {
             "question": "Which ocean is home to the great barrier reef?",
@@ -948,6 +1724,60 @@
             ],
             "category": "nature",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which animal is known for its ability to regenerate lost limbs?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "axolotl",
+                "salamander"
+            ],
+            "wrong_answers": [
+                "octopus",
+                "starfish",
+                "lizard",
+                "gecko",
+                "jellyfish"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of rock is formed from cooled lava?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "igneous rock",
+                "igneous"
+            ],
+            "wrong_answers": [
+                "sedimentary",
+                "metamorphic",
+                "granite",
+                "sandstone",
+                "limestone"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which is the world's largest coral reef system?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "great barrier reef",
+                "barrier reef"
+            ],
+            "wrong_answers": [
+                "belize barrier reef",
+                "florida reef",
+                "red sea coral reef",
+                "new caledonia reef",
+                "maldives reef"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
         },
         {
             "question": "What is the capital of france?",
@@ -1123,6 +1953,41 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which european country has the most borders with other countries?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "germany"
+            ],
+            "wrong_answers": [
+                "france",
+                "switzerland",
+                "russia",
+                "italy",
+                "austria"
+            ],
+            "category": "geography",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the driest desert in the world?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "atacama",
+                "atacama desert"
+            ],
+            "wrong_answers": [
+                "sahara",
+                "gobi",
+                "kalahari",
+                "mojave",
+                "arabian"
+            ],
+            "category": "geography",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which country has the largest population?",
             "points": 700,
             "language": "en",
@@ -1157,6 +2022,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which us state has the most coastline?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "alaska"
+            ],
+            "wrong_answers": [
+                "florida",
+                "california",
+                "hawaii",
+                "texas",
+                "maine"
+            ],
+            "category": "geography",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the official language of argentina?",
             "points": 600,
             "language": "en",
@@ -1172,6 +2054,694 @@
             ],
             "category": "geography",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "avocado",
+                "avocados"
+            ],
+            "wrong_answers": [
+                "tomato",
+                "onion",
+                "lime",
+                "cilantro",
+                "pepper"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country is famous for sushi?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "japan"
+            ],
+            "wrong_answers": [
+                "china",
+                "korea",
+                "thailand",
+                "vietnam",
+                "india"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of pasta is shaped like small rice grains?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "orzo"
+            ],
+            "wrong_answers": [
+                "penne",
+                "farfalle",
+                "rigatoni",
+                "fusilli",
+                "linguine"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which fruit is known as the king of fruits?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "durian"
+            ],
+            "wrong_answers": [
+                "mango",
+                "pineapple",
+                "banana",
+                "papaya",
+                "kiwi"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the primary ingredient in hummus?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "chickpeas",
+                "garbanzo beans"
+            ],
+            "wrong_answers": [
+                "lentils",
+                "black beans",
+                "peas",
+                "quinoa",
+                "rice"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which beverage is made by fermenting grapes?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "wine"
+            ],
+            "wrong_answers": [
+                "beer",
+                "vodka",
+                "whiskey",
+                "rum",
+                "cider"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of nut is used to make marzipan?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "almond",
+                "almonds"
+            ],
+            "wrong_answers": [
+                "cashew",
+                "walnut",
+                "pecan",
+                "pistachio",
+                "hazelnut"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country is famous for its feta cheese?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "greece"
+            ],
+            "wrong_answers": [
+                "italy",
+                "france",
+                "spain",
+                "turkey",
+                "portugal"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the main ingredient in miso soup?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "miso"
+            ],
+            "wrong_answers": [
+                "soy sauce",
+                "tofu",
+                "seaweed",
+                "dashi",
+                "sesame"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which grain is used to make risotto?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "arborio rice",
+                "arborio"
+            ],
+            "wrong_answers": [
+                "basmati rice",
+                "jasmine rice",
+                "brown rice",
+                "quinoa",
+                "couscous"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of pastry is used for croissants?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "puff pastry",
+                "puff"
+            ],
+            "wrong_answers": [
+                "shortcrust",
+                "phyllo",
+                "choux",
+                "danish",
+                "brioche"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the main ingredient in traditional pesto sauce?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "basil"
+            ],
+            "wrong_answers": [
+                "cilantro",
+                "parsley",
+                "oregano",
+                "thyme",
+                "rosemary"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which type of fruit has varieties such as granny smith and fuji?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "apple",
+                "apples"
+            ],
+            "wrong_answers": [
+                "pear",
+                "peach",
+                "plum",
+                "nectarine",
+                "apricot"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the main ingredient in gazpacho?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "tomato",
+                "tomatoes"
+            ],
+            "wrong_answers": [
+                "cucumber",
+                "pepper",
+                "onion",
+                "carrot",
+                "celery"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country is known for the dish paella?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "spain"
+            ],
+            "wrong_answers": [
+                "portugal",
+                "italy",
+                "france",
+                "greece",
+                "mexico"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of sugar is commonly used in baking?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "granulated sugar",
+                "white sugar",
+                "white"
+            ],
+            "wrong_answers": [
+                "brown sugar",
+                "powdered sugar",
+                "honey",
+                "molasses",
+                "cane sugar"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which vegetable is known for making people cry when cut?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "onion",
+                "onions"
+            ],
+            "wrong_answers": [
+                "garlic",
+                "shallot",
+                "leek",
+                "chive",
+                "radish"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which spice is the most expensive by weight?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "saffron"
+            ],
+            "wrong_answers": [
+                "vanilla",
+                "cinnamon",
+                "cardamom",
+                "turmeric",
+                "nutmeg"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the primary ingredient in tofu?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "soybeans",
+                "soy"
+            ],
+            "wrong_answers": [
+                "almonds",
+                "coconut",
+                "cashews",
+                "chickpeas",
+                "rice"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of milk is traditionally used to make mozzarella cheese?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "buffalo milk",
+                "buffalo"
+            ],
+            "wrong_answers": [
+                "cow milk",
+                "goat milk",
+                "sheep milk",
+                "almond milk",
+                "oat milk"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country has won the most fifa world cups?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "brazil"
+            ],
+            "wrong_answers": [
+                "germany",
+                "italy",
+                "argentina",
+                "france",
+                "uruguay"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the regulation height of a basketball hoop in feet?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "10 feet",
+                "10"
+            ],
+            "wrong_answers": [
+                "9 feet",
+                "11 feet",
+                "12 feet",
+                "8 feet"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which sport is known as the 'king of sports'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "soccer",
+                "football"
+            ],
+            "wrong_answers": [
+                "basketball",
+                "tennis",
+                "cricket",
+                "rugby",
+                "hockey"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who holds the record for the most home runs in a single mlb season?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "barry bonds",
+                "bonds"
+            ],
+            "wrong_answers": [
+                "babe ruth",
+                "hank aaron",
+                "sammy sosa",
+                "mark mcgwire"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the trophy awarded to the winner of the nhl playoffs?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "stanley cup",
+                "the stanley cup"
+            ],
+            "wrong_answers": [
+                "claret jug",
+                "super bowl trophy",
+                "calder cup",
+                "grey cup"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country hosted the 2016 summer olympics?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "brazil"
+            ],
+            "wrong_answers": [
+                "china",
+                "united kingdom",
+                "united states",
+                "germany",
+                "russia"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the most decorated olympian of all time?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "michael phelps",
+                "phelps"
+            ],
+            "wrong_answers": [
+                "usain bolt",
+                "carl lewis",
+                "larisa latynina",
+                "mark spitz"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which team won the first super bowl?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "green bay packers",
+                "packers"
+            ],
+            "wrong_answers": [
+                "new england patriots",
+                "kansas city chiefs",
+                "pittsburgh steelers",
+                "san francisco 49ers"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the maximum score in a single frame of ten-pin bowling?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "30"
+            ],
+            "wrong_answers": [
+                "20",
+                "40",
+                "50",
+                "25"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which tennis grand slam is played on a clay surface?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "french open",
+                "roland garros"
+            ],
+            "wrong_answers": [
+                "wimbledon",
+                "us open",
+                "australian open",
+                "davis cup"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which sport uses a pommel horse?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "gymnastics"
+            ],
+            "wrong_answers": [
+                "diving",
+                "horse racing",
+                "weightlifting",
+                "wrestling"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which golfer has won the most majors?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "jack nicklaus",
+                "nicklaus"
+            ],
+            "wrong_answers": [
+                "tiger woods",
+                "arnold palmer",
+                "ben hogan",
+                "gary player"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the national sport of japan?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "sumo wrestling",
+                "sumo"
+            ],
+            "wrong_answers": [
+                "judo",
+                "karate",
+                "baseball",
+                "kendo"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country has won the most cricket world cups?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "australia"
+            ],
+            "wrong_answers": [
+                "india",
+                "england",
+                "west indies",
+                "pakistan"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which nba player is known as 'air jordan'?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "michael jordan",
+                "jordan"
+            ],
+            "wrong_answers": [
+                "lebron james",
+                "kobe bryant",
+                "shaquille o'neal",
+                "kevin durant"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "How many players are on a standard soccer team?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "11",
+                "eleven"
+            ],
+            "wrong_answers": [
+                "10",
+                "12",
+                "9",
+                "13"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who was the first african-american heavyweight boxing champion?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "jack johnson",
+                "johnson"
+            ],
+            "wrong_answers": [
+                "muhammad ali",
+                "joe frazier",
+                "george foreman",
+                "mike tyson"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country won the first ever fifa world cup in 1930?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "uruguay"
+            ],
+            "wrong_answers": [
+                "brazil",
+                "germany",
+                "argentina",
+                "italy"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the term for a perfect score in gymnastics?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "10",
+                "perfect 10"
+            ],
+            "wrong_answers": [
+                "9.5",
+                "9.8",
+                "10.5",
+                "11"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What sport is played at wimbledon?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "tennis"
+            ],
+            "wrong_answers": [
+                "badminton",
+                "cricket",
+                "rugby",
+                "hockey"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
         },
         {
             "question": "What is the largest land animal?",
@@ -1190,6 +2760,24 @@
             ],
             "category": "nature",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which mammal is known to lay eggs?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "platypus",
+                "echidna"
+            ],
+            "wrong_answers": [
+                "armadillo",
+                "aardvark",
+                "pangolin",
+                "opossum",
+                "beaver"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
         },
         {
             "question": "What is the main component of a pearl?",
@@ -1332,6 +2920,41 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which planet is known for having the largest volcano in the solar system?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "mars"
+            ],
+            "wrong_answers": [
+                "earth",
+                "venus",
+                "jupiter",
+                "saturn",
+                "mercury"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which war was fought between the north and south regions of the united states?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "american civil war",
+                "civil war"
+            ],
+            "wrong_answers": [
+                "world war i",
+                "world war ii",
+                "american revolution",
+                "war of 1812",
+                "korean war"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which ancient wonder was located in egypt?",
             "points": 800,
             "language": "en",
@@ -1349,6 +2972,41 @@
             ],
             "category": "history",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who was the british prime minister during world war ii?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "winston churchill",
+                "churchill"
+            ],
+            "wrong_answers": [
+                "neville chamberlain",
+                "clement attlee",
+                "franklin d. roosevelt",
+                "joseph stalin",
+                "harry truman"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country was formerly known as persia?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "iran"
+            ],
+            "wrong_answers": [
+                "iraq",
+                "afghanistan",
+                "turkey",
+                "syria",
+                "egypt"
+            ],
+            "category": "history",
+            "difficulty": "normal"
         },
         {
             "question": "Who discovered the americas in 1492?",
@@ -1369,6 +3027,129 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which event started world war i?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "assassination",
+                "ferdinand assassination"
+            ],
+            "wrong_answers": [
+                "invasion of poland",
+                "treaty of versailles",
+                "attack on pearl harbor",
+                "battle of the somme",
+                "sinking of the lusitania"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote the declaration of independence?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "thomas jefferson",
+                "jefferson"
+            ],
+            "wrong_answers": [
+                "john adams",
+                "benjamin franklin",
+                "george washington",
+                "james madison",
+                "alexander hamilton"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which civilization built machu picchu?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "inca",
+                "incas"
+            ],
+            "wrong_answers": [
+                "aztec",
+                "maya",
+                "olmec",
+                "toltec",
+                "moai"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What was the name of the ship that brought the pilgrims to america?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "mayflower"
+            ],
+            "wrong_answers": [
+                "santa maria",
+                "nina",
+                "pinta",
+                "endeavour",
+                "discovery"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which country did napoleon bonaparte rule?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "france"
+            ],
+            "wrong_answers": [
+                "spain",
+                "italy",
+                "germany",
+                "russia",
+                "austria"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which year did the berlin wall fall?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "1989"
+            ],
+            "wrong_answers": [
+                "1975",
+                "1991",
+                "1985",
+                "1993",
+                "1979"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who was the leader of the soviet union during world war ii?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "joseph stalin",
+                "stalin"
+            ],
+            "wrong_answers": [
+                "lenin",
+                "nikita khrushchev",
+                "leon trotsky",
+                "boris yeltsin",
+                "vladimir putin"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which country was responsible for the attack on pearl harbor?",
             "points": 900,
             "language": "en",
@@ -1386,6 +3167,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which us state was the last to join the union?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "hawaii"
+            ],
+            "wrong_answers": [
+                "alaska",
+                "texas",
+                "california",
+                "florida",
+                "arizona"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which country built the great wall?",
             "points": 800,
             "language": "en",
@@ -1401,6 +3199,24 @@
             ],
             "category": "history",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which movie won the academy award for best picture in 1994?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "forrest gump",
+                "gump"
+            ],
+            "wrong_answers": [
+                "pulp fiction",
+                "the shawshank redemption",
+                "the lion king",
+                "schindler's list",
+                "the usual suspects"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "What is the name of the fictional wizarding school in harry potter?",
@@ -1439,6 +3255,42 @@
             "difficulty": "easy"
         },
         {
+            "question": "What year was the first 'star wars' film released?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "1977",
+                "seventeen seventy-seven"
+            ],
+            "wrong_answers": [
+                "1980",
+                "1990",
+                "1969",
+                "1983",
+                "1997"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who voices buzz lightyear in the toy story movies?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "tim allen",
+                "allen"
+            ],
+            "wrong_answers": [
+                "tom hanks",
+                "john c. reilly",
+                "steve carell",
+                "adam sandler",
+                "michael keaton"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which movie features the line 'may the force be with you'?",
             "points": 600,
             "language": "en",
@@ -1473,6 +3325,42 @@
             ],
             "category": "movies",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which movie features a character named 'forrest gump'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "forrest gump",
+                "gump"
+            ],
+            "wrong_answers": [
+                "the green mile",
+                "castaway",
+                "rain man",
+                "goodfellas",
+                "the shawshank redemption"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who played the character of 'the joker' in 'the dark knight'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "heath ledger",
+                "ledger"
+            ],
+            "wrong_answers": [
+                "jack nicholson",
+                "jared leto",
+                "joaquin phoenix",
+                "tom hardy",
+                "christian bale"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "What is the name of the fictional country in the movie 'black panther'?",
@@ -1511,6 +3399,42 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who played the character 'trinity' in 'the matrix'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "carrie-anne moss",
+                "moss"
+            ],
+            "wrong_answers": [
+                "keanu reeves",
+                "laurence fishburne",
+                "jodie foster",
+                "kristen stewart",
+                "lucy lawless"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which movie features a group of thieves known as the 'oceans eleven'?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "ocean's eleven",
+                "oceans eleven"
+            ],
+            "wrong_answers": [
+                "the italian job",
+                "the town",
+                "heat",
+                "swordfish",
+                "inception"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which actor played 'tony stark' in the marvel cinematic universe?",
             "points": 800,
             "language": "en",
@@ -1529,6 +3453,24 @@
             ],
             "category": "movies",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who directed the 1999 movie 'the sixth sense'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "m. night shyamalan",
+                "shyamalan"
+            ],
+            "wrong_answers": [
+                "steven spielberg",
+                "christopher nolan",
+                "quentin tarantino",
+                "david fincher",
+                "robert zemeckis"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "Which animated movie features a character named 'buzz lightyear'?",
@@ -1554,8 +3496,7 @@
             "language": "en",
             "answers": [
                 "3.14",
-                "three point fourteen",
-                "3,14"
+                "three point fourteen"
             ],
             "wrong_answers": [
                 "3.1415",
@@ -1585,6 +3526,25 @@
             ],
             "category": "math",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the value of the mathematical constant e approximately?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "2.71",
+                "two point seventy one",
+                "2.7"
+            ],
+            "wrong_answers": [
+                "3.14",
+                "1.41",
+                "3.00",
+                "2.00",
+                "1.00"
+            ],
+            "category": "math",
+            "difficulty": "normal"
         },
         {
             "question": "What is the formula for the area of a circle?",
@@ -1814,6 +3774,344 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which shakespeare play features the character ophelia?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "hamlet"
+            ],
+            "wrong_answers": [
+                "macbeth",
+                "othello",
+                "romeo and juliet",
+                "king lear",
+                "the tempest"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the author of the harry potter series?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "j.k. rowling",
+                "rowling"
+            ],
+            "wrong_answers": [
+                "stephen king",
+                "george r.r. martin",
+                "suzanne collins",
+                "roald dahl",
+                "rick riordan"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which novel begins with the line 'call me ishmael'?",
+            "points": 950,
+            "language": "en",
+            "answers": [
+                "moby dick",
+                "moby-dick"
+            ],
+            "wrong_answers": [
+                "the great gatsby",
+                "ulysses",
+                "oliver twist",
+                "treasure island",
+                "robinson crusoe"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote '1984'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "george orwell",
+                "orwell"
+            ],
+            "wrong_answers": [
+                "aldous huxley",
+                "ray bradbury",
+                "kurt vonnegut",
+                "philip k. dick",
+                "isaac asimov"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the hobbit in 'the lord of the rings'?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "frodo",
+                "frodo baggins"
+            ],
+            "wrong_answers": [
+                "bilbo",
+                "samwise",
+                "merry",
+                "pippin",
+                "gollum"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who created the detective sherlock holmes?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "arthur conan doyle",
+                "conan doyle"
+            ],
+            "wrong_answers": [
+                "agatha christie",
+                "edgar allan poe",
+                "wilkie collins",
+                "dorothy l. sayers",
+                "raymond chandler"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "In what city is 'romeo and juliet' set?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "verona"
+            ],
+            "wrong_answers": [
+                "venice",
+                "rome",
+                "florence",
+                "milan",
+                "naples"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the first book in c.s. lewis's chronicles of narnia series?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "the lion",
+                "lion witch"
+            ],
+            "wrong_answers": [
+                "prince caspian",
+                "silver chair",
+                "magician's nephew",
+                "horse boy",
+                "dawn treader"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote 'the catcher in the rye'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "j.d. salinger",
+                "salinger"
+            ],
+            "wrong_answers": [
+                "f. scott fitzgerald",
+                "ernest hemingway",
+                "john steinbeck",
+                "mark twain",
+                "herman melville"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is captain ahab hunting in 'moby dick'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "white whale",
+                "whale"
+            ],
+            "wrong_answers": [
+                "shark",
+                "kraken",
+                "sea monster",
+                "giant squid",
+                "treasure"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote 'to kill a mockingbird'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "harper lee",
+                "lee"
+            ],
+            "wrong_answers": [
+                "truman capote",
+                "william faulkner",
+                "flannery o'connor",
+                "toni morrison",
+                "maya angelou"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What's the name of don quixote's horse?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "rocinante"
+            ],
+            "wrong_answers": [
+                "sancho",
+                "dulcinea",
+                "manchego",
+                "panza",
+                "hidalgo"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote 'the great gatsby'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "f. scott fitzgerald",
+                "fitzgerald"
+            ],
+            "wrong_answers": [
+                "ernest hemingway",
+                "william faulkner",
+                "john steinbeck",
+                "jack kerouac",
+                "j.d. salinger"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What's the name of the second harry potter book?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "chamber secrets",
+                "secret chamber"
+            ],
+            "wrong_answers": [
+                "prisoner azkaban",
+                "goblet fire",
+                "philosopher's stone",
+                "order phoenix",
+                "half-blood prince"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote 'frankenstein'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "mary shelley",
+                "shelley"
+            ],
+            "wrong_answers": [
+                "bram stoker",
+                "edgar allan poe",
+                "h.g. wells",
+                "robert louis stevenson",
+                "oscar wilde"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What's the name of the farm in george orwell's 'animal farm'?",
+            "points": 950,
+            "language": "en",
+            "answers": [
+                "manor farm"
+            ],
+            "wrong_answers": [
+                "animal farm",
+                "freedom farm",
+                "revolution farm",
+                "equality farm",
+                "jones farm"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which russian author wrote 'war and peace'?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "leo tolstoy",
+                "tolstoy"
+            ],
+            "wrong_answers": [
+                "fyodor dostoevsky",
+                "anton chekhov",
+                "ivan turgenev",
+                "nikolai gogol",
+                "alexander pushkin"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the protagonist of 'the odyssey'?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "odysseus",
+                "ulysses"
+            ],
+            "wrong_answers": [
+                "achilles",
+                "hector",
+                "ajax",
+                "agamemnon",
+                "menelaus"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What's the name of atticus finch's daughter in 'to kill a mockingbird'?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "scout",
+                "jean louise"
+            ],
+            "wrong_answers": [
+                "mayella",
+                "calpurnia",
+                "maudie",
+                "dill",
+                "boo"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which element has the chemical symbol 'au'?",
             "points": 800,
             "language": "en",
@@ -1866,6 +4164,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "What substance makes up the majority of a cell's membrane?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "phospholipids",
+                "lipids"
+            ],
+            "wrong_answers": [
+                "proteins",
+                "carbohydrates",
+                "nucleic acids",
+                "cholesterol",
+                "water"
+            ],
+            "category": "science",
+            "difficulty": "normal"
+        },
+        {
             "question": "What gas makes up the majority of earth's atmosphere?",
             "points": 800,
             "language": "en",
@@ -1882,6 +4198,25 @@
             ],
             "category": "science",
             "difficulty": "easy"
+        },
+        {
+            "question": "What causes the northern lights phenomenon?",
+            "points": 950,
+            "language": "en",
+            "answers": [
+                "solar wind",
+                "magnetosphere",
+                "charged particles"
+            ],
+            "wrong_answers": [
+                "pollution",
+                "reflection",
+                "ozone",
+                "electricity",
+                "radiation"
+            ],
+            "category": "science",
+            "difficulty": "normal"
         },
         {
             "question": "What is the process by which plants make their own food called?",
@@ -2079,6 +4414,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who directed titanic?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "james cameron",
+                "cameron"
+            ],
+            "wrong_answers": [
+                "steven spielberg",
+                "christopher nolan",
+                "martin scorsese",
+                "quentin tarantino",
+                "ridley scott"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which film features a character named luke skywalker?",
             "points": 700,
             "language": "en",
@@ -2150,6 +4503,42 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who played harry potter in the film series?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "daniel radcliffe",
+                "radcliffe"
+            ],
+            "wrong_answers": [
+                "rupert grint",
+                "emma watson",
+                "tom felton",
+                "matthew lewis",
+                "robert pattinson"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
+            "question": "In what year was the first star wars film released?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "1977",
+                "seventy-seven"
+            ],
+            "wrong_answers": [
+                "1980",
+                "1975",
+                "1983",
+                "1970",
+                "1985"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the highest-grossing film of all time?",
             "points": 900,
             "language": "en",
@@ -2166,6 +4555,24 @@
             ],
             "category": "movies",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who directed jaws?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "steven spielberg",
+                "spielberg"
+            ],
+            "wrong_answers": [
+                "james cameron",
+                "martin scorsese",
+                "alfred hitchcock",
+                "francis ford coppola",
+                "robert zemeckis"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "What fictional city does batman protect?",
@@ -2186,6 +4593,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which actress played princess leia in star wars?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "carrie fisher",
+                "fisher"
+            ],
+            "wrong_answers": [
+                "natalie portman",
+                "daisy ridley",
+                "mark hamill",
+                "harrison ford",
+                "felicity jones"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the name of the fictional metal in wolverine's skeleton?",
             "points": 700,
             "language": "en",
@@ -2202,6 +4627,24 @@
             ],
             "category": "movies",
             "difficulty": "easy"
+        },
+        {
+            "question": "Who directed pulp fiction?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "quentin tarantino",
+                "tarantino"
+            ],
+            "wrong_answers": [
+                "martin scorsese",
+                "steven spielberg",
+                "david fincher",
+                "christopher nolan",
+                "stanley kubrick"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "What is the name of the main character in the matrix?",
@@ -2381,6 +4824,25 @@
             "difficulty": "easy"
         },
         {
+            "question": "Who wrote 'moby dick'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "herman melville",
+                "melville",
+                "h. melville"
+            ],
+            "wrong_answers": [
+                "jules verne",
+                "mark twain",
+                "charles dickens",
+                "nathaniel hawthorne",
+                "edgar allan poe"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the smallest prime number?",
             "points": 600,
             "language": "en",
@@ -2396,6 +4858,23 @@
             ],
             "category": "math",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which company created the first smartphone?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "ibm"
+            ],
+            "wrong_answers": [
+                "apple",
+                "microsoft",
+                "samsung",
+                "nokia",
+                "motorola"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
         },
         {
             "question": "Who directed the movie 'inception'?",
@@ -2435,6 +4914,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which sport uses a net, a ball, and a racket?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "tennis"
+            ],
+            "wrong_answers": [
+                "badminton",
+                "table tennis",
+                "volleyball",
+                "basketball",
+                "handball"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the capital of australia?",
             "points": 800,
             "language": "en",
@@ -2469,6 +4965,40 @@
             "difficulty": "easy"
         },
         {
+            "question": "What type of fruit is a banana?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "berry"
+            ],
+            "wrong_answers": [
+                "citrus",
+                "stone fruit",
+                "pome",
+                "melon",
+                "drupe"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the primary programming language used for web development?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "javascript"
+            ],
+            "wrong_answers": [
+                "python",
+                "c++",
+                "java",
+                "ruby",
+                "php"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which actor played jack sparrow in 'pirates of the caribbean'?",
             "points": 700,
             "language": "en",
@@ -2488,6 +5018,26 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which war took place between 1939 and 1945?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "world war ii",
+                "ww2",
+                "second world war",
+                "WWii"
+            ],
+            "wrong_answers": [
+                "world war i",
+                "cold war",
+                "vietnam war",
+                "korean war",
+                "civil war"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which animal is known for changing its color to blend in?",
             "points": 800,
             "language": "en",
@@ -2503,6 +5053,24 @@
             ],
             "category": "nature",
             "difficulty": "easy"
+        },
+        {
+            "question": "How many players are on a baseball team on the field at one time?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "9",
+                "nine"
+            ],
+            "wrong_answers": [
+                "8",
+                "10",
+                "11",
+                "12",
+                "7"
+            ],
+            "category": "sports",
+            "difficulty": "normal"
         },
         {
             "question": "What is the name of the protagonist in the halo series?",
@@ -3144,6 +5712,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which company created the firefox web browser?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "mozilla",
+                "mozilla foundation"
+            ],
+            "wrong_answers": [
+                "google",
+                "microsoft",
+                "apple",
+                "opera",
+                "netscape"
+            ],
+            "category": "technology",
+            "difficulty": "normal"
+        },
+        {
             "question": "What is the largest species of bear?",
             "points": 700,
             "language": "en",
@@ -3197,6 +5783,42 @@
             ],
             "category": "geography",
             "difficulty": "easy"
+        },
+        {
+            "question": "What type of cheese is traditionally used in a classic greek salad?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "feta",
+                "feta cheese"
+            ],
+            "wrong_answers": [
+                "mozzarella",
+                "cheddar",
+                "gouda",
+                "brie",
+                "parmesan"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which artist painted 'the persistence of memory' with melting clocks?",
+            "points": 850,
+            "language": "en",
+            "answers": [
+                "salvador dali",
+                "dali"
+            ],
+            "wrong_answers": [
+                "pablo picasso",
+                "vincent van gogh",
+                "claude monet",
+                "andy warhol",
+                "frida kahlo"
+            ],
+            "category": "history",
+            "difficulty": "normal"
         },
         {
             "question": "Which animated film features a rat who becomes a chef?",
@@ -3303,6 +5925,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "What is the name of mickey mouse's dog?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "pluto"
+            ],
+            "wrong_answers": [
+                "goofy",
+                "scooby",
+                "max",
+                "daisy",
+                "buster"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "How many continents are there on earth?",
             "points": 800,
             "language": "en",
@@ -3337,6 +5976,23 @@
             ],
             "category": "history",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the main ingredient in bread?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "flour"
+            ],
+            "wrong_answers": [
+                "sugar",
+                "rice",
+                "milk",
+                "butter",
+                "oil"
+            ],
+            "category": "food",
+            "difficulty": "normal"
         },
         {
             "question": "How many legs does a spider have?",
@@ -3530,6 +6186,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "What is the name of the pirate in peter pan?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "captain hook",
+                "hook"
+            ],
+            "wrong_answers": [
+                "blackbeard",
+                "long john",
+                "barbossa",
+                "jack sparrow",
+                "flint"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
+        },
+        {
             "question": "How many planets are in the solar system?",
             "points": 900,
             "language": "en",
@@ -3546,6 +6220,24 @@
             ],
             "category": "science",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which vegetable is orange and good for your eyes?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "carrot",
+                "carrots"
+            ],
+            "wrong_answers": [
+                "pumpkin",
+                "broccoli",
+                "potato",
+                "radish",
+                "pepper"
+            ],
+            "category": "food",
+            "difficulty": "normal"
         },
         {
             "question": "Which bird cannot fly but runs very fast?",
@@ -3618,6 +6310,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "What color are bananas when they are ripe?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "yellow"
+            ],
+            "wrong_answers": [
+                "green",
+                "brown",
+                "red",
+                "purple",
+                "blue"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which holiday features a red-suited man with a white beard?",
             "points": 800,
             "language": "en",
@@ -3668,6 +6377,23 @@
             ],
             "category": "general",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the name of the toy cowboy in toy story?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "woody"
+            ],
+            "wrong_answers": [
+                "buzz",
+                "andy",
+                "jessie",
+                "rex",
+                "hamm"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "What animal goes 'moo'?",
@@ -3809,6 +6535,23 @@
             "difficulty": "easy"
         },
         {
+            "question": "What is the name of the red fruit often used in ketchup?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "tomato"
+            ],
+            "wrong_answers": [
+                "apple",
+                "cherry",
+                "pepper",
+                "strawberry",
+                "plum"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
             "question": "How many arms does a starfish have?",
             "points": 900,
             "language": "en",
@@ -3825,6 +6568,23 @@
             ],
             "category": "nature",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the name of the fairy tale girl with long hair in a tower?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "rapunzel"
+            ],
+            "wrong_answers": [
+                "cinderella",
+                "snow white",
+                "aurora",
+                "belle",
+                "ariel"
+            ],
+            "category": "movies",
+            "difficulty": "normal"
         },
         {
             "question": "Which month has an extra day during a leap year?",
@@ -4122,6 +6882,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "How many days are there in a leap year?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "three hundred sixty six",
+                "366"
+            ],
+            "wrong_answers": [
+                "365",
+                "364",
+                "360",
+                "367",
+                "362"
+            ],
+            "category": "general",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which direction does the sun rise from?",
             "points": 800,
             "language": "en",
@@ -4209,6 +6987,41 @@
             ],
             "category": "general",
             "difficulty": "easy"
+        },
+        {
+            "question": "What do you use to tell time?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "clock",
+                "watch"
+            ],
+            "wrong_answers": [
+                "calendar",
+                "phone",
+                "lamp",
+                "window",
+                "radio"
+            ],
+            "category": "general",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What do you call frozen rain?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "hail"
+            ],
+            "wrong_answers": [
+                "snow",
+                "ice",
+                "sleet",
+                "frost",
+                "mist"
+            ],
+            "category": "general",
+            "difficulty": "normal"
         },
         {
             "question": "What is the name of the building where you watch movies?",
@@ -4334,6 +7147,24 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which device is used to speak to someone far away?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "phone",
+                "telephone"
+            ],
+            "wrong_answers": [
+                "radio",
+                "clock",
+                "tv",
+                "microwave",
+                "compass"
+            ],
+            "category": "general",
+            "difficulty": "normal"
+        },
+        {
             "question": "What do you use to open a locked door?",
             "points": 800,
             "language": "en",
@@ -4437,14 +7268,69 @@
             "difficulty": "easy"
         },
         {
+            "question": "What was the name of the ship that sank in 1912?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "titanic",
+                "the titanic"
+            ],
+            "wrong_answers": [
+                "britannic",
+                "lusitania",
+                "olympic",
+                "endeavour",
+                "mayflower"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which famous wall divided berlin until 1989?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "berlin wall",
+                "the berlin wall"
+            ],
+            "wrong_answers": [
+                "great wall",
+                "iron curtain",
+                "western wall",
+                "wall of china",
+                "berlin fence"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who was assassinated in 1963 in dallas, texas?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "john f kennedy",
+                "kennedy",
+                "jfk",
+                "john kennedy"
+            ],
+            "wrong_answers": [
+                "abraham lincoln",
+                "martin luther king",
+                "robert kennedy",
+                "ronald reagan",
+                "theodore roosevelt"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
             "question": "Which empire was ruled by julius caesar?",
             "points": 900,
             "language": "en",
             "answers": [
                 "roman empire",
                 "rome",
-                "roman",
-                "the roman empire"
+                "rome empire"
             ],
             "wrong_answers": [
                 "greek empire",
@@ -4455,6 +7341,76 @@
             ],
             "category": "history",
             "difficulty": "easy"
+        },
+        {
+            "question": "What was the name of the first permanent english settlement in america?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "jamestown"
+            ],
+            "wrong_answers": [
+                "plymouth",
+                "roanoke",
+                "new york",
+                "boston",
+                "philadelphia"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "In which year did the berlin wall fall?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "1989"
+            ],
+            "wrong_answers": [
+                "1987",
+                "1990",
+                "1985",
+                "1991",
+                "1992"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who was the first woman to fly solo across the atlantic?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "amelia earhart",
+                "earhart"
+            ],
+            "wrong_answers": [
+                "bessie coleman",
+                "valentina tereshkova",
+                "sally ride",
+                "jean batten",
+                "jacqueline cochran"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What was the name of the agreement that ended world war i?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "treaty of versailles",
+                "versailles treaty"
+            ],
+            "wrong_answers": [
+                "treaty of paris",
+                "treaty of rome",
+                "geneva convention",
+                "peace of westphalia",
+                "yalta agreement"
+            ],
+            "category": "history",
+            "difficulty": "normal"
         },
         {
             "question": "Who was the leader of nazi germany?",
@@ -4475,6 +7431,290 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which ship brought the pilgrims to america?",
+            "points": 900,
+            "language": "en",
+            "answers": [
+                "mayflower",
+                "the mayflower"
+            ],
+            "wrong_answers": [
+                "endeavour",
+                "beagle",
+                "discovery",
+                "enterprise",
+                "victory"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who invented the printing press?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "johannes gutenberg",
+                "gutenberg"
+            ],
+            "wrong_answers": [
+                "isaac newton",
+                "thomas edison",
+                "benjamin franklin",
+                "galileo galilei",
+                "alexander graham bell"
+            ],
+            "category": "history",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the main character in 'the catcher in the rye'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "holden caulfield",
+                "caulfield"
+            ],
+            "wrong_answers": [
+                "nick carraway",
+                "atticus finch",
+                "jay gatsby",
+                "gregor samsa",
+                "humbert humbert"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What type of animal is winnie the pooh?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "bear"
+            ],
+            "wrong_answers": [
+                "rabbit",
+                "cat",
+                "dog",
+                "pig",
+                "tiger"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the hobbit in 'the hobbit'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "bilbo baggins",
+                "bilbo"
+            ],
+            "wrong_answers": [
+                "frodo",
+                "samwise",
+                "aragorn",
+                "gollum",
+                "gandalf"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which bear loves honey in children's books?",
+            "points": 700,
+            "language": "en",
+            "answers": [
+                "winnie the pooh",
+                "pooh"
+            ],
+            "wrong_answers": [
+                "paddington",
+                "baloo",
+                "yogi",
+                "little bear",
+                "grizzly"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote 'charlie and the chocolate factory'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "roald dahl",
+                "dahl"
+            ],
+            "wrong_answers": [
+                "lewis carroll",
+                "beatrix potter",
+                "j.k. rowling",
+                "e.b. white",
+                "dr. seuss"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the girl who visits wonderland?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "alice"
+            ],
+            "wrong_answers": [
+                "dorothy",
+                "wendy",
+                "lucy",
+                "sophie",
+                "bella"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of sherlock holmes's assistant?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "dr. watson",
+                "watson",
+                "john watson"
+            ],
+            "wrong_answers": [
+                "lestrade",
+                "moriarty",
+                "hudson",
+                "mycroft",
+                "john smith"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who is the author of 'the cat in the hat'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "dr. seuss",
+                "seuss"
+            ],
+            "wrong_answers": [
+                "roald dahl",
+                "beatrix potter",
+                "lewis carroll",
+                "e.b. white",
+                "j.k. rowling"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Who wrote 'little women'?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "louisa may alcott",
+                "alcott"
+            ],
+            "wrong_answers": [
+                "jane austen",
+                "charlotte bront\u00c3\u00ab",
+                "emily dickinson",
+                "mary shelley",
+                "virginia woolf"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which author created the land of narnia?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "c.s. lewis",
+                "lewis"
+            ],
+            "wrong_answers": [
+                "j.r.r. tolkien",
+                "philip pullman",
+                "j.k. rowling",
+                "rick riordan",
+                "terry pratchett"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What kind of animal is the title character in 'charlotte's web'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "spider"
+            ],
+            "wrong_answers": [
+                "pig",
+                "rat",
+                "cat",
+                "dog",
+                "horse"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the whale in 'moby-dick'?",
+            "points": 750,
+            "language": "en",
+            "answers": [
+                "moby dick"
+            ],
+            "wrong_answers": [
+                "white fang",
+                "old man",
+                "leviathan",
+                "jaws",
+                "captain ahab"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the wizard mentor in 'the lord of the rings'?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "gandalf",
+                "gandalf the gray"
+            ],
+            "wrong_answers": [
+                "saruman",
+                "sauron",
+                "elrond",
+                "aragorn",
+                "legolas"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the color of an emerald?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "green"
+            ],
+            "wrong_answers": [
+                "blue",
+                "red",
+                "yellow",
+                "purple",
+                "white"
+            ],
+            "category": "science",
+            "difficulty": "normal"
+        },
+        {
             "question": "What instrument has black and white keys?",
             "points": 600,
             "language": "en",
@@ -4492,6 +7732,57 @@
             "difficulty": "easy"
         },
         {
+            "question": "Which bird is known for its colorful tail and dance?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "peacock"
+            ],
+            "wrong_answers": [
+                "parrot",
+                "swan",
+                "flamingo",
+                "penguin",
+                "ostrich"
+            ],
+            "category": "nature",
+            "difficulty": "normal"
+        },
+        {
+            "question": "Which vegetable is known for being purple and shaped like an egg?",
+            "points": 750,
+            "language": "en",
+            "answers": [
+                "eggplant"
+            ],
+            "wrong_answers": [
+                "carrot",
+                "potato",
+                "beetroot",
+                "zucchini",
+                "onion"
+            ],
+            "category": "food",
+            "difficulty": "normal"
+        },
+        {
+            "question": "What is the name of the fairy tale girl with glass slippers?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "cinderella"
+            ],
+            "wrong_answers": [
+                "rapunzel",
+                "aurora",
+                "snow white",
+                "ariel",
+                "belle"
+            ],
+            "category": "literature",
+            "difficulty": "normal"
+        },
+        {
             "question": "What do bees collect from flowers?",
             "points": 800,
             "language": "en",
@@ -4507,6 +7798,23 @@
             ],
             "category": "science",
             "difficulty": "easy"
+        },
+        {
+            "question": "Which tool do you use to see stars and planets?",
+            "points": 800,
+            "language": "en",
+            "answers": [
+                "telescope"
+            ],
+            "wrong_answers": [
+                "microscope",
+                "binoculars",
+                "magnifier",
+                "glasses",
+                "lens"
+            ],
+            "category": "science",
+            "difficulty": "normal"
         },
         {
             "question": "What animal is known for building dams?",
@@ -4648,6 +7956,23 @@
             ],
             "category": "science",
             "difficulty": "easy"
+        },
+        {
+            "question": "What is the term for a word that is the same forwards and backwards?",
+            "points": 1000,
+            "language": "en",
+            "answers": [
+                "palindrome"
+            ],
+            "wrong_answers": [
+                "anagram",
+                "acronym",
+                "synonym",
+                "homonym",
+                "pun"
+            ],
+            "category": "general",
+            "difficulty": "normal"
         }
     ]
 }
