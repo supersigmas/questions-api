@@ -3399,19 +3399,18 @@
             "difficulty": "easy"
         },
         {
-            "question": "Who played the character 'trinity' in 'the matrix'?",
+            "question": "Who played the character 'trinity' in 'the matrix'? Which character is played by carrie-anne moss in 'the matrix'?",
             "points": 800,
             "language": "en",
             "answers": [
-                "carrie-anne moss",
-                "moss"
+                "trinity"
             ],
             "wrong_answers": [
                 "keanu reeves",
                 "laurence fishburne",
                 "jodie foster",
-                "kristen stewart",
-                "lucy lawless"
+                "murphy",
+                "neo"
             ],
             "category": "movies",
             "difficulty": "normal"
@@ -3473,7 +3472,7 @@
             "difficulty": "normal"
         },
         {
-            "question": "Which animated movie features a character named 'buzz lightyear'?",
+            "question": "Which animated movie features a characters named 'buzz lightyear' and 'woody'?",
             "points": 700,
             "language": "en",
             "answers": [
