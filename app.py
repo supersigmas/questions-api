@@ -24,7 +24,7 @@ def get_questions_count(
         data,
         category: str = None,
         count: int = 10,
-        difficulty: str = None
+        difficulty: str = "easy"
 ) -> list:
     """
     Get 20 questions from the specified category
@@ -124,7 +124,7 @@ def get_questions():
     questions_count = request.args.get("count", default=20, type=int)
 
     # get difficulty from request
-    difficulty = request.args.get("difficulty", default=None, type=str)
+    difficulty = request.args.get("difficulty", default="easy", type=str)
 
     f = open("questions.json", "r")
     data = json.load(f)
