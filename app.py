@@ -4,6 +4,7 @@ import random
 from flask import Flask, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
+from flask_cors import CORS
 
 
 def collect_categories(data) -> list:
@@ -71,6 +72,15 @@ def validate_bearer_token(headers) -> bool:
 
 
 app = Flask(__name__)
+
+CORS(
+    app,
+    resources={r"/*": {"origins": "*"}},
+    supports_credentials=False,
+    allow_headers=["Authorization", "Content-Type"],
+    methods=["GET", "OPTIONS"],
+    max_age=3600,
+)
 
 limiter = Limiter(
     get_remote_address,
