@@ -200,7 +200,7 @@
         "H.P. Lovecraft"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the square root of 64?",
@@ -366,7 +366,7 @@
         "George Orwell"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the chemical symbol for gold?",
@@ -510,7 +510,7 @@
         "handball"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Which country is known for the eiffel tower?",
@@ -600,7 +600,7 @@
         "j.k. rowling"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the boiling point of water at sea level?",
@@ -2457,7 +2457,7 @@
         "hockey"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Who holds the record for the most home runs in a single mlb season?",
@@ -2512,7 +2512,7 @@
     },
     {
       "question": "Who is the most decorated olympian of all time?",
-      "points": 900,
+      "points": 1000,
       "language": "en",
       "answers": [
         "michael phelps",
@@ -2525,7 +2525,7 @@
         "mark spitz"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Which team won the first super bowl?",
@@ -2591,7 +2591,7 @@
         "wrestling"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Which golfer has won the most majors?",
@@ -2625,7 +2625,7 @@
         "kendo"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Which country has won the most cricket world cups?",
@@ -2649,7 +2649,9 @@
       "language": "en",
       "answers": [
         "michael jordan",
-        "jordan"
+        "jordan",
+        "mj",
+        "m. jordan"
       ],
       "wrong_answers": [
         "lebron james",
@@ -2658,7 +2660,7 @@
         "kevin durant"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "How many players are on a standard soccer team?",
@@ -2675,7 +2677,7 @@
         "13"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Who was the first african-american heavyweight boxing champion?",
@@ -2725,7 +2727,7 @@
         "11"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What sport is played at wimbledon?",
@@ -2741,7 +2743,7 @@
         "hockey"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the largest land animal?",
@@ -3788,7 +3790,7 @@
         "the tempest"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Who is the author of the harry potter series?",
@@ -3806,7 +3808,7 @@
         "rick riordan"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Which novel begins with the line 'call me ishmael'?",
@@ -3842,7 +3844,7 @@
         "isaac asimov"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the name of the hobbit in 'the lord of the rings'?",
@@ -3860,7 +3862,7 @@
         "gollum"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Who created the detective sherlock holmes?",
@@ -3881,7 +3883,7 @@
         "raymond chandler"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "In what city is 'romeo and juliet' set?",
@@ -3952,7 +3954,7 @@
         "treasure"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Who wrote 'to kill a mockingbird'?",
@@ -4933,7 +4935,7 @@
         "handball"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the capital of australia?",
@@ -5075,7 +5077,7 @@
         "7"
       ],
       "category": "sports",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the name of the protagonist in the halo series?",
@@ -7505,7 +7507,7 @@
         "tiger"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "What is the name of the hobbit in 'the hobbit'?",
@@ -7523,7 +7525,7 @@
         "gandalf"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Which bear loves honey in children's books?",
@@ -7541,7 +7543,7 @@
         "grizzly"
       ],
       "category": "literature",
-      "difficulty": "normal"
+      "difficulty": "easy"
     },
     {
       "question": "Who wrote 'charlie and the chocolate factory'?",
@@ -9262,7 +9264,11 @@
       "points": 700,
       "language": "en",
       "answers": [
-        "100"
+        "100",
+        "100 degrees",
+        "100 c",
+        "100 celsius",
+        "hundred"
       ],
       "wrong_answers": [
         "90",
@@ -9988,6 +9994,1353 @@
       ],
       "category": "geography",
       "difficulty": "normal"
+    },
+    {
+      "question": "Which fruit is known for keeping doctors away?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "apple",
+        "apples"
+      ],
+      "wrong_answers": [
+        "banana",
+        "orange",
+        "pear",
+        "grape",
+        "peach"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food do pandas mostly eat?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "bamboo"
+      ],
+      "wrong_answers": [
+        "grass",
+        "leaves",
+        "flowers",
+        "fruit",
+        "nuts"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do bees produce that humans eat?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "honey"
+      ],
+      "wrong_answers": [
+        "milk",
+        "butter",
+        "syrup",
+        "oil",
+        "cheese"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What vegetable is orange and known to help eyesight?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "carrot",
+        "carrots"
+      ],
+      "wrong_answers": [
+        "pumpkin",
+        "sweet potato",
+        "pepper",
+        "tomato",
+        "cabbage"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main ingredient in French fries?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "potatoes",
+        "potato"
+      ],
+      "wrong_answers": [
+        "carrots",
+        "bread",
+        "rice",
+        "lettuce",
+        "beans"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which dairy product is used on pizza?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "cheese"
+      ],
+      "wrong_answers": [
+        "cream",
+        "yogurt",
+        "butter",
+        "milk",
+        "mayonnaise"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What fruit is famous for being yellow and curved?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "banana",
+        "bananas"
+      ],
+      "wrong_answers": [
+        "apple",
+        "pear",
+        "orange",
+        "lemon",
+        "mango"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which drink is made from oranges?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "orange juice",
+        "juice"
+      ],
+      "wrong_answers": [
+        "milk",
+        "tea",
+        "coffee",
+        "water",
+        "lemonade"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What sweet treat is often given on birthdays?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "cake"
+      ],
+      "wrong_answers": [
+        "bread",
+        "pizza",
+        "pasta",
+        "cereal",
+        "chips"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of food is a hot dog?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "sausage",
+        "hot dog"
+      ],
+      "wrong_answers": [
+        "bread",
+        "burger",
+        "chicken",
+        "fish",
+        "nuggets"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is known for its spiky outer shell?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pineapple"
+      ],
+      "wrong_answers": [
+        "apple",
+        "orange",
+        "grapefruit",
+        "plum",
+        "peach"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from ground wheat and used in sandwiches?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "bread"
+      ],
+      "wrong_answers": [
+        "rice",
+        "pasta",
+        "corn",
+        "cheese",
+        "yogurt"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which vegetable is often used in salads and is green and leafy?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "lettuce"
+      ],
+      "wrong_answers": [
+        "carrot",
+        "onion",
+        "tomato",
+        "corn",
+        "broccoli"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is sometimes called popcorn before it's popped?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "corn",
+        "kernel",
+        "maize"
+      ],
+      "wrong_answers": [
+        "rice",
+        "beans",
+        "peas",
+        "nuts",
+        "oats"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is commonly eaten for breakfast and comes from chickens?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "eggs",
+        "egg"
+      ],
+      "wrong_answers": [
+        "ham",
+        "milk",
+        "toast",
+        "porridge",
+        "bacon"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What sweet frozen treat is popular in summer?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "ice cream"
+      ],
+      "wrong_answers": [
+        "yogurt",
+        "cake",
+        "hot chocolate",
+        "cookies",
+        "pudding"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is sushi traditionally wrapped in?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "seaweed",
+        "nori"
+      ],
+      "wrong_answers": [
+        "bread",
+        "bamboo",
+        "paper",
+        "plastic",
+        "lettuce"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is typically red and often used in ketchup?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "tomato",
+        "tomatoes"
+      ],
+      "wrong_answers": [
+        "apple",
+        "cherry",
+        "strawberry",
+        "pepper",
+        "plum"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main ingredient in a burger patty?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "beef",
+        "meat"
+      ],
+      "wrong_answers": [
+        "bread",
+        "lettuce",
+        "fish",
+        "cheese",
+        "onion"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the author of 'Harry Potter'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "j.k. rowling",
+        "rowling",
+        "jk rowling"
+      ],
+      "wrong_answers": [
+        "lewis carroll",
+        "rick riordan",
+        "j.r.r. tolkien",
+        "roald dahl",
+        "stephen king"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'Charlie and the Chocolate Factory'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "roald dahl",
+        "dahl",
+        "r. dahl"
+      ],
+      "wrong_answers": [
+        "dr. seuss",
+        "c.s. lewis",
+        "beverly cleary",
+        "j.k. rowling",
+        "mark twain"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Who wrote 'Alice's Adventures in Wonderland'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "lewis carroll",
+        "carroll"
+      ],
+      "wrong_answers": [
+        "j.r.r. tolkien",
+        "roald dahl",
+        "mark twain",
+        "charles dickens",
+        "oscar wilde"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the main character in 'Diary of a Wimpy Kid'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "greg heffley",
+        "greg"
+      ],
+      "wrong_answers": [
+        "harry potter",
+        "tom sawyer",
+        "peter pan",
+        "frodo baggins",
+        "max"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which book features a girl named Dorothy and her dog Toto?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "the wizard of oz",
+        "wizard of oz"
+      ],
+      "wrong_answers": [
+        "cinderella",
+        "snow white",
+        "alice in wonderland",
+        "peter pan",
+        "pinocchio"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Winnie-the-Pooh’s donkey friend?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "eeyore"
+      ],
+      "wrong_answers": [
+        "tigger",
+        "piglet",
+        "rabbit",
+        "owl",
+        "roo"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Cat in the Hat'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "dr. seuss",
+        "seuss"
+      ],
+      "wrong_answers": [
+        "roald dahl",
+        "beatrix potter",
+        "j.k. rowling",
+        "mark twain",
+        "carroll"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "What kind of animal is 'Paddington'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "bear"
+      ],
+      "wrong_answers": [
+        "dog",
+        "cat",
+        "rabbit",
+        "fox",
+        "mouse"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which boy never grows up in the story by J.M. Barrie?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "peter pan"
+      ],
+      "wrong_answers": [
+        "harry potter",
+        "frodo",
+        "pinocchio",
+        "tom sawyer",
+        "aladdin"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What magical object does Aladdin find?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "magic lamp",
+        "lamp"
+      ],
+      "wrong_answers": [
+        "ring",
+        "sword",
+        "wand",
+        "gem",
+        "carpet"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Little Prince'?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "antoine de saint-exupéry",
+        "saint-exupery",
+        "de saint-exupery",
+        "exupery"
+      ],
+      "wrong_answers": [
+        "lewis carroll",
+        "mark twain",
+        "roald dahl",
+        "dr. seuss",
+        "jane austen"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Sherlock Holmes' assistant?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "watson",
+        "dr. watson"
+      ],
+      "wrong_answers": [
+        "mycroft",
+        "moriarty",
+        "hudson",
+        "arthur",
+        "henry"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl travels to Narnia in 'The Lion, the Witch and the Wardrobe'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "lucy",
+        "lucy pevensie"
+      ],
+      "wrong_answers": [
+        "susan",
+        "wendy",
+        "alice",
+        "dorothy",
+        "hermione"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'Matilda'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "roald dahl",
+        "dahl",
+        "r. dahl"
+      ],
+      "wrong_answers": [
+        "j.k. rowling",
+        "c.s. lewis",
+        "mark twain",
+        "charles dickens",
+        "carroll"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Who wrote 'The Jungle Book'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "rudyard kipling",
+        "kipling"
+      ],
+      "wrong_answers": [
+        "mark twain",
+        "lewis carroll",
+        "charles dickens",
+        "roald dahl",
+        "a.a. milne"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "What kind of hat does the Mad Hatter wear?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "top hat",
+        "hat"
+      ],
+      "wrong_answers": [
+        "helmet",
+        "cap",
+        "beret",
+        "hood",
+        "crown"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "In which book does a wooden puppet want to become a real boy?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "pinocchio"
+      ],
+      "wrong_answers": [
+        "aladdin",
+        "tarzan",
+        "peter pan",
+        "bambi",
+        "fantastic mr fox"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Tale of Peter Rabbit'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "beatrix potter",
+        "potter"
+      ],
+      "wrong_answers": [
+        "dr. seuss",
+        "a.a. milne",
+        "roald dahl",
+        "charles dickens",
+        "mark twain"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "What animal is the main character in 'Charlotte’s Web'?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "pig",
+        "wilbur"
+      ],
+      "wrong_answers": [
+        "cow",
+        "horse",
+        "sheep",
+        "goat",
+        "chicken"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you use to move the cursor on a computer screen?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mouse"
+      ],
+      "wrong_answers": [
+        "keyboard",
+        "monitor",
+        "printer",
+        "scanner",
+        "microphone"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the 'S' in USB stand for?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "serial"
+      ],
+      "wrong_answers": [
+        "system",
+        "storage",
+        "speed",
+        "smart",
+        "signal"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is an iPad?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "tablet",
+        "tablet computer"
+      ],
+      "wrong_answers": [
+        "laptop",
+        "desktop",
+        "smartwatch",
+        "camera",
+        "console"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company created the Android operating system originally?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "android inc",
+        "android"
+      ],
+      "wrong_answers": [
+        "apple",
+        "microsoft",
+        "google",
+        "samsung",
+        "intel"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a portable computer?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "laptop",
+        "notebook"
+      ],
+      "wrong_answers": [
+        "desktop",
+        "server",
+        "tablet",
+        "console",
+        "router"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company makes the PlayStation?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "sony"
+      ],
+      "wrong_answers": [
+        "microsoft",
+        "nintendo",
+        "google",
+        "apple",
+        "sega"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of phone did Apple release in 2007?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "iphone"
+      ],
+      "wrong_answers": [
+        "galaxy",
+        "pixel",
+        "blackberry",
+        "nokia",
+        "motorola"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device plays video games and connects to a TV?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "game console",
+        "console"
+      ],
+      "wrong_answers": [
+        "printer",
+        "projector",
+        "microwave",
+        "router",
+        "smartwatch"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company produces the Galaxy smartphone series?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "samsung"
+      ],
+      "wrong_answers": [
+        "apple",
+        "google",
+        "huawei",
+        "sony",
+        "lg"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which key is used to make a space between words?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "space bar",
+        "space"
+      ],
+      "wrong_answers": [
+        "enter",
+        "tab",
+        "shift",
+        "ctrl",
+        "backspace"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which popular website is most used for watching videos?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "youtube"
+      ],
+      "wrong_answers": [
+        "facebook",
+        "wikipedia",
+        "twitter",
+        "tiktok",
+        "instagram"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device is used to show visual output from a computer?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "monitor",
+        "screen"
+      ],
+      "wrong_answers": [
+        "keyboard",
+        "tower",
+        "webcam",
+        "router",
+        "scanner"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Where do you type on a PC?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "keyboard"
+      ],
+      "wrong_answers": [
+        "mouse",
+        "monitor",
+        "camera",
+        "printer",
+        "speaker"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do headphones help you listen to?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "sound",
+        "music",
+        "audio"
+      ],
+      "wrong_answers": [
+        "pictures",
+        "documents",
+        "emails",
+        "games",
+        "videos only"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a program on a smartphone?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "app",
+        "application"
+      ],
+      "wrong_answers": [
+        "server",
+        "file",
+        "desktop",
+        "widget",
+        "folder"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Apple's computer product line?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mac",
+        "macintosh"
+      ],
+      "wrong_answers": [
+        "windows",
+        "surface",
+        "chromebook",
+        "playstation",
+        "kindle"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which ancient civilization built the pyramids?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "egyptians",
+        "ancient egypt"
+      ],
+      "wrong_answers": [
+        "babylonians",
+        "greeks",
+        "romans",
+        "aztecs",
+        "incas"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which city was the first to be attacked with an atomic bomb?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "hiroshima"
+      ],
+      "wrong_answers": [
+        "nagasaki",
+        "tokyo",
+        "osaka",
+        "kyoto",
+        "seoul"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "amelia earhart",
+        "earhart"
+      ],
+      "wrong_answers": [
+        "sally ride",
+        "valentina tereshkova",
+        "bessie coleman",
+        "harriet quimby",
+        "jackie cochran"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which war ended with the defeat of the Confederacy?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "american civil war",
+        "civil war"
+      ],
+      "wrong_answers": [
+        "world war i",
+        "world war ii",
+        "korean war",
+        "vietnam war",
+        "revolutionary war"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which ancient city was buried by the eruption of Mount Vesuvius?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "pompeii"
+      ],
+      "wrong_answers": [
+        "athens",
+        "rome",
+        "babylon",
+        "troy",
+        "carthage"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who was the Queen of Ancient Egypt famous for her beauty?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "cleopatra"
+      ],
+      "wrong_answers": [
+        "nefertiti",
+        "hatshepsut",
+        "arzawa",
+        "zenobia",
+        "olga"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which structure in Paris was built for the 1889 World Fair?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "eiffel tower",
+        "the eiffel tower",
+        "eiffel",
+        "the eiffel"
+      ],
+      "wrong_answers": [
+        "arc de triomphe",
+        "louvre",
+        "notre dame",
+        "versailles",
+        "pantheon"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "points": 750,
+      "language": "en",
+      "answers": [
+        "france"
+      ],
+      "wrong_answers": [
+        "england",
+        "italy",
+        "spain",
+        "germany",
+        "canada"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In medieval times, what were armored warriors on horseback called?",
+      "points": 650,
+      "language": "en",
+      "answers": [
+        "knights"
+      ],
+      "wrong_answers": [
+        "vikings",
+        "samurai",
+        "soldiers",
+        "archers",
+        "generals"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which American holiday celebrates the arrival of pilgrims?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "thanksgiving",
+        "thanksgiving day"
+      ],
+      "wrong_answers": [
+        "independence day",
+        "easter",
+        "christmas",
+        "new year",
+        "memorial day"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which city is famous for the ancient Colosseum?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "rome"
+      ],
+      "wrong_answers": [
+        "athens",
+        "cairo",
+        "istanbul",
+        "paris",
+        "berlin"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which iconic wall in Germany fell in 1989?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "berlin wall",
+        "the berlin wall",
+        "berlin"
+      ],
+      "wrong_answers": [
+        "great wall of china",
+        "hadrian's wall",
+        "limes wall",
+        "maginot line",
+        "wailing wall"
+      ],
+      "category": "history",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many holes are there in a standard game of golf?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "18",
+        "eighteen"
+      ],
+      "wrong_answers": [
+        "9",
+        "10",
+        "15",
+        "20",
+        "12"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sport involves hitting home runs?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "baseball"
+      ],
+      "wrong_answers": [
+        "tennis",
+        "soccer",
+        "rugby",
+        "basketball",
+        "cricket"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of race is the Tour de France?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "cycling",
+        "bike race"
+      ],
+      "wrong_answers": [
+        "running",
+        "swimming",
+        "rowing",
+        "skiing",
+        "car racing"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What sport uses the term 'strike'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "bowling"
+      ],
+      "wrong_answers": [
+        "soccer",
+        "basketball",
+        "golf",
+        "tennis",
+        "rugby"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sport does Serena Williams play?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "tennis"
+      ],
+      "wrong_answers": [
+        "golf",
+        "basketball",
+        "swimming",
+        "skiing",
+        "boxing"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What Olympic sport involves swords?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "fencing"
+      ],
+      "wrong_answers": [
+        "boxing",
+        "archery",
+        "judo",
+        "karate",
+        "wrestling"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What sport uses the term 'touchdown'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "american football"
+      ],
+      "wrong_answers": [
+        "rugby",
+        "basketball",
+        "baseball",
+        "soccer",
+        "golf"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What color card in soccer means a player is sent off?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "red"
+      ],
+      "wrong_answers": [
+        "yellow",
+        "blue",
+        "green",
+        "black",
+        "white"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What sport involves climbing a wall with handholds?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "rock climbing",
+        "climbing"
+      ],
+      "wrong_answers": [
+        "skateboarding",
+        "gymnastics",
+        "skiing",
+        "wrestling",
+        "hiking"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do swimmers race in?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "water",
+        "pool"
+      ],
+      "wrong_answers": [
+        "track",
+        "field",
+        "court",
+        "arena",
+        "rink"
+      ],
+      "category": "sports",
+      "difficulty": "easy"
     }
   ]
 }
