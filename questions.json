@@ -12908,6 +12908,464 @@
       ],
       "category": "math",
       "difficulty": "easy"
+    },
+    {
+      "question": "What device do you use to take digital photos?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "camera",
+        "digital camera"
+      ],
+      "wrong_answers": [
+        "printer",
+        "router",
+        "keyboard",
+        "mouse",
+        "monitor"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you use to browse websites?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "web browser",
+        "browser"
+      ],
+      "wrong_answers": [
+        "editor",
+        "server",
+        "game",
+        "folder",
+        "database"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company makes the iPhone?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "apple"
+      ],
+      "wrong_answers": [
+        "google",
+        "samsung",
+        "nokia",
+        "sony",
+        "microsoft"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which key do you press to go to a new line?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "enter",
+        "return"
+      ],
+      "wrong_answers": [
+        "space",
+        "shift",
+        "backspace",
+        "tab",
+        "ctrl"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device stores large amounts of computer data?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "hard drive",
+        "hdd",
+        "ssd",
+        "solid state drive"
+      ],
+      "wrong_answers": [
+        "mouse",
+        "monitor",
+        "speaker",
+        "flashlight",
+        "battery"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is used to print documents?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "printer"
+      ],
+      "wrong_answers": [
+        "scanner",
+        "monitor",
+        "router",
+        "speaker",
+        "camera"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does 'www' stand for?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "world wide web"
+      ],
+      "wrong_answers": [
+        "wireless wide web",
+        "world web wide",
+        "web world wide",
+        "wide world web",
+        "world wide workshop"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What device do you use to listen to music privately?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "headphones",
+        "earphones"
+      ],
+      "wrong_answers": [
+        "speakers",
+        "router",
+        "microphone",
+        "scanner",
+        "printer"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device helps you project a presentation on a wall?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "projector"
+      ],
+      "wrong_answers": [
+        "scanner",
+        "mouse",
+        "keyboard",
+        "router",
+        "hard drive"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is a smartwatch?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "wearable device",
+        "watch"
+      ],
+      "wrong_answers": [
+        "printer",
+        "tablet",
+        "desktop",
+        "console",
+        "router"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Where do your deleted files go on a computer?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "recycle bin",
+        "trash"
+      ],
+      "wrong_answers": [
+        "desktop",
+        "folder",
+        "settings",
+        "internet",
+        "drive"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does a firewall protect?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "a computer network",
+        "network",
+        "computer",
+        "computer network"
+      ],
+      "wrong_answers": [
+        "printer",
+        "monitor",
+        "battery",
+        "speaker",
+        "mouse"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do we call software that fights viruses?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "antivirus",
+        "virus scanner"
+      ],
+      "wrong_answers": [
+        "monitor",
+        "processor",
+        "firewall",
+        "server",
+        "driver"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which key deletes text?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "backspace",
+        "delete"
+      ],
+      "wrong_answers": [
+        "enter",
+        "space",
+        "tab",
+        "shift",
+        "ctrl"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of connection does Ethernet provide?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "wired internet",
+        "wired network",
+        "wired connection",
+        "wired"
+      ],
+      "wrong_answers": [
+        "wireless connection",
+        "video connection",
+        "audio signal",
+        "satellite data",
+        "bluetooth"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does USB connect to a computer?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "peripheral devices",
+        "devices",
+        "external devices",
+        "peripherals"
+      ],
+      "wrong_answers": [
+        "internet only",
+        "only monitors",
+        "only routers",
+        "only phones",
+        "only keyboards"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a website that lets you search information (like google)?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "search engine",
+        "engine"
+      ],
+      "wrong_answers": [
+        "video player",
+        "editor",
+        "calendar",
+        "notepad",
+        "firewall"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which symbol is used in email addresses?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "@",
+        "at symbol"
+      ],
+      "wrong_answers": [
+        "#",
+        "$",
+        "&",
+        "%",
+        "!"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the term for messaging in real time online?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "chat",
+        "instant messaging",
+        "messaging"
+      ],
+      "wrong_answers": [
+        "browsing",
+        "printing",
+        "streaming",
+        "uploading",
+        "editing"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is used to scan barcodes?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "barcode scanner",
+        "scanner"
+      ],
+      "wrong_answers": [
+        "projector",
+        "mouse",
+        "router",
+        "printer",
+        "fan"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of files contain audio?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mp3",
+        "wav",
+        "aac",
+        ".mp3",
+        ".wav",
+        ".aac"
+      ],
+      "wrong_answers": [
+        "pdf",
+        "png",
+        "xls",
+        "doc",
+        "zip"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is a high-speed internet connection called?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "broadband"
+      ],
+      "wrong_answers": [
+        "bluetooth",
+        "satellite",
+        "dial up",
+        "gps",
+        "offline mode"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does GPS help with?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "navigation",
+        "location tracking",
+        "finding places",
+        "location"
+      ],
+      "wrong_answers": [
+        "charging phones",
+        "sending emails",
+        "editing videos",
+        "scanning papers",
+        "printing photos"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is used to store temporary computer memory?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "ram"
+      ],
+      "wrong_answers": [
+        "rom",
+        "ssd",
+        "cpu",
+        "gpu",
+        "motherboard"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What converts digital files into printed paper?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "printer"
+      ],
+      "wrong_answers": [
+        "scanner",
+        "router",
+        "monitor",
+        "usb",
+        "speaker"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
     }
   ]
 }
