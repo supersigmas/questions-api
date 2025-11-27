@@ -11983,6 +11983,502 @@
       ],
       "category": "lithuania",
       "difficulty": "easy"
+    },
+    {
+      "question": "What color is Pac-Man?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "yellow"
+      ],
+      "wrong_answers": [
+        "red",
+        "blue",
+        "green",
+        "white",
+        "orange"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Mario's brother's name?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "luigi"
+      ],
+      "wrong_answers": [
+        "toad",
+        "wario",
+        "yoshi",
+        "bowser"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of animal is Sonic?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "hedgehog"
+      ],
+      "wrong_answers": [
+        "fox",
+        "cat",
+        "dog",
+        "rabbit"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game introduced the character Pikachu?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "pokemon",
+        "pokemon red",
+        "pokemon blue"
+      ],
+      "wrong_answers": [
+        "digimon",
+        "zelda",
+        "sonic",
+        "final fantasy"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main goal in Tetris?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "clear lines",
+        "remove lines",
+        "fit blocks",
+        "score points",
+        "score",
+        "points"
+      ],
+      "wrong_answers": [
+        "collect coins",
+        "defeat enemies",
+        "escape a maze",
+        "build a city"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main weapon used by Link in Zelda?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sword"
+      ],
+      "wrong_answers": [
+        "bow",
+        "staff",
+        "gun",
+        "hammer"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the princess in the Mario series?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "peach",
+        "princess peach"
+      ],
+      "wrong_answers": [
+        "zelda",
+        "daisy",
+        "rosalina",
+        "pauline"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What handheld console did Nintendo release in 1989?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "game boy"
+      ],
+      "wrong_answers": [
+        "ds",
+        "psp",
+        "game gear",
+        "switch"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game takes place in Hyrule?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "the legend of zelda",
+        "zelda"
+      ],
+      "wrong_answers": [
+        "mario",
+        "metroid",
+        "pokemon",
+        "pikmin"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of game is FIFA?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "football",
+        "soccer"
+      ],
+      "wrong_answers": [
+        "basketball",
+        "racing",
+        "strategy",
+        "horror"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company makes the Xbox?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "microsoft"
+      ],
+      "wrong_answers": [
+        "sony",
+        "nintendo",
+        "sega",
+        "atari"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the creator of Minecraft?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "notch",
+        "markus persson"
+      ],
+      "wrong_answers": [
+        "gabe newell",
+        "miyamoto",
+        "hideo kojima",
+        "phil spencer"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game features the creeper enemy?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "minecraft"
+      ],
+      "wrong_answers": [
+        "terraria",
+        "roblox",
+        "fortnite",
+        "stardew valley"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Mario’s dinosaur friend?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "yoshi"
+      ],
+      "wrong_answers": [
+        "bowser",
+        "kirby",
+        "toad",
+        "wario"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In which game do you catch pocket monsters?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "pokemon"
+      ],
+      "wrong_answers": [
+        "digimon",
+        "fifa",
+        "overwatch",
+        "fallout"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sport is featured in NBA 2K?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "basketball"
+      ],
+      "wrong_answers": [
+        "football",
+        "soccer",
+        "tennis",
+        "golf"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which console uses Joy-Con controllers?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "nintendo switch",
+        "switch"
+      ],
+      "wrong_answers": [
+        "xbox",
+        "playstation",
+        "wii",
+        "3ds"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the mascot of SEGA?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sonic"
+      ],
+      "wrong_answers": [
+        "mario",
+        "kirby",
+        "crash",
+        "pikachu"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which RPG game series features vaults and radiation?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "fallout"
+      ],
+      "wrong_answers": [
+        "metro",
+        "doom",
+        "bioshock",
+        "cyberpunk"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game features the character Kirby?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "kirby"
+      ],
+      "wrong_answers": [
+        "mario",
+        "zelda",
+        "metroid",
+        "pokemon"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main action of the game 'Just Dance'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "dancing",
+        "dance"
+      ],
+      "wrong_answers": [
+        "fighting",
+        "driving",
+        "building",
+        "shooting"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What company created the Switch console?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "nintendo"
+      ],
+      "wrong_answers": [
+        "sony",
+        "microsoft",
+        "sega",
+        "atari"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of game is Gran Turismo?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "racing"
+      ],
+      "wrong_answers": [
+        "strategy",
+        "horror",
+        "puzzle",
+        "platformer"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which city is featured in GTA: Vice City?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "vice city"
+      ],
+      "wrong_answers": [
+        "los santos",
+        "liberty city",
+        "new york",
+        "miami"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What genre is Call of Duty?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "shooter",
+        "fps"
+      ],
+      "wrong_answers": [
+        "puzzle",
+        "music",
+        "rpg",
+        "simulation"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you collect in Super Mario games?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "coins"
+      ],
+      "wrong_answers": [
+        "gems",
+        "cards",
+        "stars",
+        "bricks"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of game is Animal Crossing?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "life simulation",
+        "simulation"
+      ],
+      "wrong_answers": [
+        "horror",
+        "sports",
+        "racing",
+        "strategy"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game is known for ‘battle royale’ mode which is more popular than main game?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "fortnite"
+      ],
+      "wrong_answers": [
+        "mario kart",
+        "minecraft",
+        "fifa",
+        "zelda"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What color is Luigi’s hat?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "green"
+      ],
+      "wrong_answers": [
+        "red",
+        "blue",
+        "yellow",
+        "white"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the famous kart racing game by Nintendo?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "mario kart"
+      ],
+      "wrong_answers": [
+        "sonic racing",
+        "f-zero",
+        "gran turismo",
+        "forza"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
     }
   ]
 }
