@@ -13366,6 +13366,542 @@
       ],
       "category": "technology",
       "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is known for its red color and small seeds on the outside?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "strawberry"
+      ],
+      "wrong_answers": [
+        "cherry",
+        "apple",
+        "grape",
+        "plum",
+        "peach"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What alcoholic drink is made from grapes and often used for toasts?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "wine",
+        "red wine",
+        "white wine",
+        "champagne"
+      ],
+      "wrong_answers": [
+        "juice",
+        "milk",
+        "water",
+        "tea",
+        "coffee"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which (cocktails) fruit is famous for being green and sour?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "lime",
+        "green lime"
+      ],
+      "wrong_answers": [
+        "lemon",
+        "grape",
+        "pear",
+        "apple",
+        "kiwi"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main ingredient in a salad?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "lettuce",
+        "vegetables"
+      ],
+      "wrong_answers": [
+        "fruit",
+        "meat",
+        "rice",
+        "pasta",
+        "bread"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a meal made outdoors on a grill?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "barbecue",
+        "bbq"
+      ],
+      "wrong_answers": [
+        "boil",
+        "fry",
+        "bake",
+        "roast",
+        "stew"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is famous for being yellow and used to make lemonade?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "lemon"
+      ],
+      "wrong_answers": [
+        "orange",
+        "lime",
+        "apple",
+        "banana",
+        "pear"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call bread that is toasted in the morning?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "toast"
+      ],
+      "wrong_answers": [
+        "bread",
+        "cracker",
+        "biscuit",
+        "waffle",
+        "cereal"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What cereal is typically eaten with milk for breakfast?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "cornflakes",
+        "cereal",
+        "oatmeal",
+        "muesli",
+        "corn flakes"
+      ],
+      "wrong_answers": [
+        "pasta",
+        "rice",
+        "toast",
+        "chicken",
+        "fish"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is added to tea to make it sweet?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "sugar",
+        "honey"
+      ],
+      "wrong_answers": [
+        "salt",
+        "pepper",
+        "oil",
+        "vinegar",
+        "water"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from fermented milk?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "yoghurt",
+        "yogurt",
+        "curd",
+        "kefir"
+      ],
+      "wrong_answers": [
+        "cheese",
+        "cream",
+        "butter",
+        "milk",
+        "ice cream"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sauce is commonly eaten with fries?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "ketchup",
+        "mayonnaise"
+      ],
+      "wrong_answers": [
+        "soy sauce",
+        "vinegar",
+        "oil",
+        "salt",
+        "chocolate"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which vegetable is long, green, and sometimes used in pickles?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "cucumber"
+      ],
+      "wrong_answers": [
+        "carrot",
+        "pepper",
+        "potato",
+        "eggplant",
+        "lettuce"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call water that has bubbles in it?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sparkling water",
+        "carbonated water",
+        "soda water",
+        "soda",
+        "sparkling",
+        "carbonated"
+      ],
+      "wrong_answers": [
+        "milk",
+        "juice",
+        "tea",
+        "flat water",
+        "soda"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main ingredient in scrambled eggs?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "eggs"
+      ],
+      "wrong_answers": [
+        "milk",
+        "flour",
+        "bread",
+        "potato",
+        "rice"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is big, round and green on the outside but red inside?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "watermelon"
+      ],
+      "wrong_answers": [
+        "kiwi",
+        "apple",
+        "plum",
+        "grape",
+        "dragon fruit"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is commonly served in rolls and comes from the sea?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sushi"
+      ],
+      "wrong_answers": [
+        "burger",
+        "pizza",
+        "pasta",
+        "salad",
+        "chicken"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which dairy product is spread on bread and melts when heated?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "butter"
+      ],
+      "wrong_answers": [
+        "milk",
+        "cream",
+        "yogurt",
+        "water",
+        "sugar"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is used to make raisins?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "grapes",
+        "grape"
+      ],
+      "wrong_answers": [
+        "apple",
+        "pear",
+        "cherry",
+        "plum",
+        "peach"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you cook in a rice cooker?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "rice"
+      ],
+      "wrong_answers": [
+        "pasta",
+        "potatoes",
+        "chicken",
+        "soup",
+        "cake"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food item is often eaten at picnics and made with two slices of bread?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sandwich"
+      ],
+      "wrong_answers": [
+        "pizza",
+        "burger",
+        "sushi",
+        "taco",
+        "pasta"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is known for being spicy and red in color?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "chili",
+        "chili pepper",
+        "pepper",
+        "hot pepper"
+      ],
+      "wrong_answers": [
+        "milk",
+        "rice",
+        "bread",
+        "cabbage",
+        "apple"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which type of food is spaghetti?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "pasta"
+      ],
+      "wrong_answers": [
+        "vegetable",
+        "meat",
+        "fruit",
+        "dessert",
+        "drink"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of food is a croissant?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pastry"
+      ],
+      "wrong_answers": [
+        "cake",
+        "fruit",
+        "drink",
+        "vegetable",
+        "meat"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from potatoes and is crispy when fried?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "french fries",
+        "fries"
+      ],
+      "wrong_answers": [
+        "rice",
+        "bread",
+        "chicken",
+        "beef",
+        "tofu"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a large meal eaten in the evening?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "dinner"
+      ],
+      "wrong_answers": [
+        "breakfast",
+        "lunch",
+        "snack",
+        "dessert",
+        "brunch"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which grain is used to make white bread?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "wheat"
+      ],
+      "wrong_answers": [
+        "rice",
+        "corn",
+        "barley",
+        "oats",
+        "buckwheat"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What drink is made from ground beans?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "coffee"
+      ],
+      "wrong_answers": [
+        "tea",
+        "juice",
+        "milk",
+        "soda",
+        "water"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of food is a burrito?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "mexican food",
+        "wrap"
+      ],
+      "wrong_answers": [
+        "dessert",
+        "fruit",
+        "vegetable",
+        "drink",
+        "salad"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from cocoa beans?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "chocolate"
+      ],
+      "wrong_answers": [
+        "milk",
+        "cheese",
+        "jam",
+        "bread",
+        "tea"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is often eaten raw in salads and is green?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "lettuce"
+      ],
+      "wrong_answers": [
+        "tomato",
+        "carrot",
+        "onion",
+        "potato",
+        "eggplant"
+      ],
+      "category": "food",
+      "difficulty": "easy"
     }
   ]
 }
