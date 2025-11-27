@@ -5484,7 +5484,8 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "trakai castle"
+        "trakai castle",
+        "trakai"
       ],
       "wrong_answers": [
         "kaunas castle",
@@ -5518,7 +5519,9 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "vilnius university"
+        "vilnius university",
+        "vu",
+        "vilnius"
       ],
       "wrong_answers": [
         "kaunas university",
@@ -11340,6 +11343,645 @@
         "rink"
       ],
       "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the official name of lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "republic of lithuania"
+      ],
+      "wrong_answers": [
+        "kingdom of lithuania",
+        "lithuanian empire",
+        "lithuania union",
+        "federal lithuania"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which continent is lithuania located on?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "europe"
+      ],
+      "wrong_answers": [
+        "asia",
+        "africa",
+        "south america",
+        "north america"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the largest city in lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "vilnius"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "klaipeda",
+        "riga",
+        "tallinn"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the phone calling code of lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "+370",
+        "370",
+        "0"
+      ],
+      "wrong_answers": [
+        "+371",
+        "+372",
+        "+48",
+        "+46"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country borders lithuania to the south?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "poland"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "estonia",
+        "finland",
+        "germany"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country borders lithuania to the east?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "belarus"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "estonia",
+        "poland",
+        "russia"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the internet country code (domain) for lithuania?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        ".lt"
+      ],
+      "wrong_answers": [
+        ".lv",
+        ".ee",
+        ".pl",
+        ".de"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the most popular religion in lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "catholicism",
+        "roman catholic"
+      ],
+      "wrong_answers": [
+        "protestant",
+        "islam",
+        "buddhism",
+        "orthodox"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which port city is on lithuania's coast?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "klaipeda"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "vilnius",
+        "trakai",
+        "siauliai"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which region of europe is lithuania located in?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "baltic region",
+        "baltic"
+      ],
+      "wrong_answers": [
+        "balkan",
+        "scandinavia",
+        "iberian",
+        "alpine"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which union did lithuania join in 2004?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "eu",
+        "european union"
+      ],
+      "wrong_answers": [
+        "nato",
+        "un",
+        "schengen only",
+        "eurozone only"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the traditional bread in lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "rye bread",
+        "black bread"
+      ],
+      "wrong_answers": [
+        "white bread",
+        "baguette",
+        "pita",
+        "cornbread"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which season is saltibarsciai usually eaten in lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "summer"
+      ],
+      "wrong_answers": [
+        "winter",
+        "spring",
+        "autumn",
+        "all year"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the largest river in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "nemunas"
+      ],
+      "wrong_answers": [
+        "nile",
+        "rhine",
+        "volga",
+        "thames"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Vilnius is known for its old town built in which style?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "baroque"
+      ],
+      "wrong_answers": [
+        "gothic",
+        "modern",
+        "renaissance",
+        "neoclassical"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian festival has bonfires in midsummer?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "jonines",
+        "saint john's",
+        "midsummer",
+        "rasa",
+        "st. john's",
+        "st. john",
+        "saint john"
+      ],
+      "wrong_answers": [
+        "christmas",
+        "easter",
+        "halloween",
+        "independence day"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is lithuania's main winter sport?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "ice hockey"
+      ],
+      "wrong_answers": [
+        "tennis",
+        "volleyball",
+        "swimming",
+        "cycling"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which state symbol is shown on lithuania's coat of arms?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "a knight on horseback",
+        "knight"
+      ],
+      "wrong_answers": [
+        "lion",
+        "eagle",
+        "bear",
+        "cross"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "When is lithuanian independence day celebrated?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "february 16",
+        "16th of february",
+        "16 february",
+        "feb 16",
+        "16 feb",
+        "february 16th"
+      ],
+      "wrong_answers": [
+        "march 11",
+        "july 4",
+        "january 1",
+        "june 6"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the word 'lithuania' mean?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "land of rain",
+        "rain land"
+      ],
+      "wrong_answers": [
+        "land of fire",
+        "snowy land",
+        "forest land",
+        "sun land"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Where is gediminas tower located?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vilnius"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "klaipeda",
+        "riga",
+        "tallinn"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which airport is the largest in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vilnius airport",
+        "vilnius international airport",
+        "vno"
+      ],
+      "wrong_answers": [
+        "kaunas airport",
+        "klaipeda airport",
+        "riga airport",
+        "tallinn airport"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the national bird of lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "stork",
+        "white stork"
+      ],
+      "wrong_answers": [
+        "sparrow",
+        "eagle",
+        "pigeon",
+        "owl"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which baltic states are lithuania's neighbors?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "latvia"
+      ],
+      "wrong_answers": [
+        "estonia",
+        "finland",
+        "sweden",
+        "norway"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the most common tree in lithuanian forests?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pine"
+      ],
+      "wrong_answers": [
+        "oak",
+        "maple",
+        "birch",
+        "spruce"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What time zone is lithuania in?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "eet",
+        "eastern european time",
+        "eastern european",
+        "+2"
+      ],
+      "wrong_answers": [
+        "gmt",
+        "pst",
+        "cet",
+        "ist"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian city is famous for its spa resorts and nemunas river?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "druskininkai"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "vilnius",
+        "klaipeda",
+        "siauliai"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which month does school traditionally start in lithuania?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "september"
+      ],
+      "wrong_answers": [
+        "january",
+        "march",
+        "june",
+        "december"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which natural area is known as lithuania's desert?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "curonian spit",
+        "curonian dunes",
+        "nerija",
+        "kursiu nerija",
+        "curonian"
+      ],
+      "wrong_answers": [
+        "niske dunes",
+        "blue sands",
+        "sand fields",
+        "rock valley"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country was lithuania once united with in a common state?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "poland"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "russia",
+        "germany",
+        "ukraine"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which body of water separates lithuania from sweden?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "baltic sea"
+      ],
+      "wrong_answers": [
+        "black sea",
+        "north sea",
+        "adriatic sea",
+        "atlantic ocean"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which drink is commonly used in lithuanian cold soup?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "kefir"
+      ],
+      "wrong_answers": [
+        "milk",
+        "yogurt",
+        "water",
+        "cream"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian city is known for amber and big pedestrian brigade?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "palanga"
+      ],
+      "wrong_answers": [
+        "vilnius",
+        "kaunas",
+        "klaipeda",
+        "riga"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary color of lithuanian basketball jerseys?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "green"
+      ],
+      "wrong_answers": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which famous duke is a national hero of lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vytautas",
+        "vytautas the great"
+      ],
+      "wrong_answers": [
+        "napoleon",
+        "alexander",
+        "ricardo",
+        "charles"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian city has a famous old wooden church?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "paluse"
+      ],
+      "wrong_answers": [
+        "vilnius",
+        "druskininkai",
+        "siauliai",
+        "klaipeda"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many colors are on lithuania's flag?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "three",
+        "3"
+      ],
+      "wrong_answers": [
+        "two",
+        "four",
+        "five",
+        "six"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is lithuania's national gemstone?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "amber"
+      ],
+      "wrong_answers": [
+        "ruby",
+        "diamond",
+        "jade",
+        "opal"
+      ],
+      "category": "lithuania",
       "difficulty": "easy"
     }
   ]
