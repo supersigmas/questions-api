@@ -13902,6 +13902,213 @@
       ],
       "category": "food",
       "difficulty": "easy"
+    },
+    {
+      "question": "Which fairy tale character wears a red hood?",
+      "points": 900,
+      "language": "en",
+      "answers": ["little red riding hood", "red riding hood", "red hood"],
+      "wrong_answers": ["rapunzel", "cinderella", "snow white", "aurora", "dorothy"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the main character in 'Charlie and the Chocolate Factory'?",
+      "points": 700,
+      "language": "en",
+      "answers": ["charlie bucket", "charlie"],
+      "wrong_answers": ["matilda", "greg", "harry", "peter", "max"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which animal is Babe in the book 'Babe'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["pig"],
+      "wrong_answers": ["cow", "horse", "mouse", "dog", "sheep"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Dorothy's dog in 'The Wizard of Oz'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["toto"],
+      "wrong_answers": ["buddy", "max", "spot", "rover", "tom"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl has very long hair in a fairy tale?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["rapunzel"],
+      "wrong_answers": ["cinderella", "belle", "snow white", "alice", "wendy"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of animal is Paddington?",
+      "points": 850,
+      "language": "en",
+      "answers": ["bear"],
+      "wrong_answers": ["dog", "mouse", "cat", "rabbit", "fox"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fairy tale character loses a glass slipper?",
+      "points": 900,
+      "language": "en",
+      "answers": ["cinderella"],
+      "wrong_answers": ["snow white", "rapunzel", "belle", "ariel", "dorothy"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the tiger in 'The Jungle Book'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["shere khan", "khan"],
+      "wrong_answers": ["baloo", "bagheera", "mowgli", "ka", "scar"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food does Winnie the Pooh love?",
+      "points": 700,
+      "language": "en",
+      "answers": ["honey"],
+      "wrong_answers": ["cake", "carrots", "candy", "juice", "milk"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl falls down a rabbit hole into a fantasy world?",
+      "points": 900,
+      "language": "en",
+      "answers": ["alice"],
+      "wrong_answers": ["lucy", "dorothy", "wendy", "matilda", "susan"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What color is the Cat in the Hat’s hat?",
+      "points": 800,
+      "language": "en",
+      "answers": ["red and white", "red white", "white and red", "white red"],
+      "wrong_answers": ["blue and white", "green", "yellow", "black", "orange"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Wind in the Willows'?",
+      "points": 900,
+      "language": "en",
+      "answers": ["kenneth grahame", "grahame"],
+      "wrong_answers": ["roald dahl", "kipling", "potter", "twain", "austen"],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which fairy tale features a talking mirror?",
+      "points": 950,
+      "language": "en",
+      "answers": ["snow white"],
+      "wrong_answers": ["cinderella", "rapunzel", "alice", "belle", "tinker bell"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Peter Pan’s home island called?",
+      "points": 950,
+      "language": "en",
+      "answers": ["neverland"],
+      "wrong_answers": ["wonderland", "narnia", "oz", "hogwarts", "atlantis"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Giving Tree'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["shel silverstein", "silverstein", "s. silverstein"],
+      "wrong_answers": ["dr. seuss", "dahl", "carroll", "potter", "twain"],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which character is known for saying 'to infinity and beyond'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["buzz lightyear", "buzz", "lightyear"],
+      "wrong_answers": ["woody", "pooh", "peter pan", "chase", "hobbes"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl lives with seven dwarfs?",
+      "points": 900,
+      "language": "en",
+      "answers": ["snow white"],
+      "wrong_answers": ["cinderella", "rapunzel", "belle", "alice", "wendy"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What magical object helps you fly in 'Peter Pan'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["pixie dust", "fairy dust", "dust"],
+      "wrong_answers": ["magic wand", "ring", "broom", "carpet", "hat"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Gruffalo'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["julia donaldson", "donaldson", "j. donaldson"],
+      "wrong_answers": ["roald dahl", "dr. seuss", "potter", "kipling", "lewis carroll"],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which animal chases Tom in 'Tom and Jerry' books?",
+      "points": 700,
+      "language": "en",
+      "answers": ["jerry", "mouse"],
+      "wrong_answers": ["dog", "cat", "bear", "fox", "tiger"],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who lives in a pumpkin in a nursery rhyme?",
+      "points": 700,
+      "language": "en",
+      "answers": ["little miss muffet"],
+      "wrong_answers": ["humpty dumpty", "mary lamb", "jack", "jill", "bo peep"],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which author wrote 'Coraline'?",
+      "points": 1000,
+      "language": "en",
+      "answers": ["neil gaiman", "gaiman", "n. gaiman"],
+      "wrong_answers": ["dahl", "twain", "rowling", "potter", "seuss"],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Who is the wizard in 'Harry Potter' that teaches potions?",
+      "points": 950,
+      "language": "en",
+      "answers": ["snape", "severus snape", "s. snape"],
+      "wrong_answers": ["dumbledore", "hagrid", "gandalf", "voldemort", "lupin"],
+      "category": "literature",
+      "difficulty": "easy"
     }
   ]
 }
