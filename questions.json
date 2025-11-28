@@ -5484,7 +5484,8 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "trakai castle"
+        "trakai castle",
+        "trakai"
       ],
       "wrong_answers": [
         "kaunas castle",
@@ -5518,7 +5519,9 @@
       "points": 900,
       "language": "en",
       "answers": [
-        "vilnius university"
+        "vilnius university",
+        "vu",
+        "vilnius"
       ],
       "wrong_answers": [
         "kaunas university",
@@ -11340,6 +11343,2976 @@
         "rink"
       ],
       "category": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the official name of lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "republic of lithuania"
+      ],
+      "wrong_answers": [
+        "kingdom of lithuania",
+        "lithuanian empire",
+        "lithuania union",
+        "federal lithuania"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which continent is lithuania located on?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "europe"
+      ],
+      "wrong_answers": [
+        "asia",
+        "africa",
+        "south america",
+        "north america"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the largest city in lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "vilnius"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "klaipeda",
+        "riga",
+        "tallinn"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the phone calling code of lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "+370",
+        "370",
+        "0"
+      ],
+      "wrong_answers": [
+        "+371",
+        "+372",
+        "+48",
+        "+46"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country borders lithuania to the south?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "poland"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "estonia",
+        "finland",
+        "germany"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country borders lithuania to the east?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "belarus"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "estonia",
+        "poland",
+        "russia"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the internet country code (domain) for lithuania?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        ".lt"
+      ],
+      "wrong_answers": [
+        ".lv",
+        ".ee",
+        ".pl",
+        ".de"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the most popular religion in lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "catholicism",
+        "roman catholic"
+      ],
+      "wrong_answers": [
+        "protestant",
+        "islam",
+        "buddhism",
+        "orthodox"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which port city is on lithuania's coast?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "klaipeda"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "vilnius",
+        "trakai",
+        "siauliai"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which region of europe is lithuania located in?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "baltic region",
+        "baltic"
+      ],
+      "wrong_answers": [
+        "balkan",
+        "scandinavia",
+        "iberian",
+        "alpine"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which union did lithuania join in 2004?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "eu",
+        "european union"
+      ],
+      "wrong_answers": [
+        "nato",
+        "un",
+        "schengen only",
+        "eurozone only"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the traditional bread in lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "rye bread",
+        "black bread"
+      ],
+      "wrong_answers": [
+        "white bread",
+        "baguette",
+        "pita",
+        "cornbread"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which season is saltibarsciai usually eaten in lithuania?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "summer"
+      ],
+      "wrong_answers": [
+        "winter",
+        "spring",
+        "autumn",
+        "all year"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the largest river in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "nemunas"
+      ],
+      "wrong_answers": [
+        "nile",
+        "rhine",
+        "volga",
+        "thames"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Vilnius is known for its old town built in which style?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "baroque"
+      ],
+      "wrong_answers": [
+        "gothic",
+        "modern",
+        "renaissance",
+        "neoclassical"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian festival has bonfires in midsummer?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "jonines",
+        "saint john's",
+        "midsummer",
+        "rasa",
+        "st. john's",
+        "st. john",
+        "saint john"
+      ],
+      "wrong_answers": [
+        "christmas",
+        "easter",
+        "halloween",
+        "independence day"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is lithuania's main winter sport?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "ice hockey"
+      ],
+      "wrong_answers": [
+        "tennis",
+        "volleyball",
+        "swimming",
+        "cycling"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which state symbol is shown on lithuania's coat of arms?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "a knight on horseback",
+        "knight"
+      ],
+      "wrong_answers": [
+        "lion",
+        "eagle",
+        "bear",
+        "cross"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "When is lithuanian independence day celebrated?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "february 16",
+        "16th of february",
+        "16 february",
+        "feb 16",
+        "16 feb",
+        "february 16th"
+      ],
+      "wrong_answers": [
+        "march 11",
+        "july 4",
+        "january 1",
+        "june 6"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does the word 'lithuania' mean?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "land of rain",
+        "rain land"
+      ],
+      "wrong_answers": [
+        "land of fire",
+        "snowy land",
+        "forest land",
+        "sun land"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Where is gediminas tower located?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vilnius"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "klaipeda",
+        "riga",
+        "tallinn"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which airport is the largest in lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vilnius airport",
+        "vilnius international airport",
+        "vno"
+      ],
+      "wrong_answers": [
+        "kaunas airport",
+        "klaipeda airport",
+        "riga airport",
+        "tallinn airport"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the national bird of lithuania?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "stork",
+        "white stork"
+      ],
+      "wrong_answers": [
+        "sparrow",
+        "eagle",
+        "pigeon",
+        "owl"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which baltic states are lithuania's neighbors?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "latvia"
+      ],
+      "wrong_answers": [
+        "estonia",
+        "finland",
+        "sweden",
+        "norway"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the most common tree in lithuanian forests?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pine"
+      ],
+      "wrong_answers": [
+        "oak",
+        "maple",
+        "birch",
+        "spruce"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What time zone is lithuania in?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "eet",
+        "eastern european time",
+        "eastern european",
+        "+2"
+      ],
+      "wrong_answers": [
+        "gmt",
+        "pst",
+        "cet",
+        "ist"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian city is famous for its spa resorts and nemunas river?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "druskininkai"
+      ],
+      "wrong_answers": [
+        "kaunas",
+        "vilnius",
+        "klaipeda",
+        "siauliai"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which month does school traditionally start in lithuania?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "september"
+      ],
+      "wrong_answers": [
+        "january",
+        "march",
+        "june",
+        "december"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which natural area is known as lithuania's desert?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "curonian spit",
+        "curonian dunes",
+        "nerija",
+        "kursiu nerija",
+        "curonian"
+      ],
+      "wrong_answers": [
+        "niske dunes",
+        "blue sands",
+        "sand fields",
+        "rock valley"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which country was lithuania once united with in a common state?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "poland"
+      ],
+      "wrong_answers": [
+        "latvia",
+        "russia",
+        "germany",
+        "ukraine"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which body of water separates lithuania from sweden?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "baltic sea"
+      ],
+      "wrong_answers": [
+        "black sea",
+        "north sea",
+        "adriatic sea",
+        "atlantic ocean"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which drink is commonly used in lithuanian cold soup?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "kefir"
+      ],
+      "wrong_answers": [
+        "milk",
+        "yogurt",
+        "water",
+        "cream"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian city is known for amber and big pedestrian brigade?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "palanga"
+      ],
+      "wrong_answers": [
+        "vilnius",
+        "kaunas",
+        "klaipeda",
+        "riga"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary color of lithuanian basketball jerseys?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "green"
+      ],
+      "wrong_answers": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which famous duke is a national hero of lithuania?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "vytautas",
+        "vytautas the great"
+      ],
+      "wrong_answers": [
+        "napoleon",
+        "alexander",
+        "ricardo",
+        "charles"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which lithuanian city has a famous old wooden church?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "paluse"
+      ],
+      "wrong_answers": [
+        "vilnius",
+        "druskininkai",
+        "siauliai",
+        "klaipeda"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many colors are on lithuania's flag?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "three",
+        "3"
+      ],
+      "wrong_answers": [
+        "two",
+        "four",
+        "five",
+        "six"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is lithuania's national gemstone?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "amber"
+      ],
+      "wrong_answers": [
+        "ruby",
+        "diamond",
+        "jade",
+        "opal"
+      ],
+      "category": "lithuania",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What color is Pac-Man?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "yellow"
+      ],
+      "wrong_answers": [
+        "red",
+        "blue",
+        "green",
+        "white",
+        "orange"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Mario's brother's name?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "luigi"
+      ],
+      "wrong_answers": [
+        "toad",
+        "wario",
+        "yoshi",
+        "bowser"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of animal is Sonic?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "hedgehog"
+      ],
+      "wrong_answers": [
+        "fox",
+        "cat",
+        "dog",
+        "rabbit"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game introduced the character Pikachu?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "pokemon",
+        "pokemon red",
+        "pokemon blue"
+      ],
+      "wrong_answers": [
+        "digimon",
+        "zelda",
+        "sonic",
+        "final fantasy"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main goal in Tetris?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "clear lines",
+        "remove lines",
+        "fit blocks",
+        "score points",
+        "score",
+        "points"
+      ],
+      "wrong_answers": [
+        "collect coins",
+        "defeat enemies",
+        "escape a maze",
+        "build a city"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main weapon used by Link in Zelda?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sword"
+      ],
+      "wrong_answers": [
+        "bow",
+        "staff",
+        "gun",
+        "hammer"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the princess in the Mario series?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "peach",
+        "princess peach"
+      ],
+      "wrong_answers": [
+        "zelda",
+        "daisy",
+        "rosalina",
+        "pauline"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What handheld console did Nintendo release in 1989?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "game boy"
+      ],
+      "wrong_answers": [
+        "ds",
+        "psp",
+        "game gear",
+        "switch"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game takes place in Hyrule?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "the legend of zelda",
+        "zelda"
+      ],
+      "wrong_answers": [
+        "mario",
+        "metroid",
+        "pokemon",
+        "pikmin"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of game is FIFA?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "football",
+        "soccer"
+      ],
+      "wrong_answers": [
+        "basketball",
+        "racing",
+        "strategy",
+        "horror"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company makes the Xbox?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "microsoft"
+      ],
+      "wrong_answers": [
+        "sony",
+        "nintendo",
+        "sega",
+        "atari"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the creator of Minecraft?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "notch",
+        "markus persson"
+      ],
+      "wrong_answers": [
+        "gabe newell",
+        "miyamoto",
+        "hideo kojima",
+        "phil spencer"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game features the creeper enemy?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "minecraft"
+      ],
+      "wrong_answers": [
+        "terraria",
+        "roblox",
+        "fortnite",
+        "stardew valley"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Mario’s dinosaur friend?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "yoshi"
+      ],
+      "wrong_answers": [
+        "bowser",
+        "kirby",
+        "toad",
+        "wario"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In which game do you catch pocket monsters?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "pokemon"
+      ],
+      "wrong_answers": [
+        "digimon",
+        "fifa",
+        "overwatch",
+        "fallout"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sport is featured in NBA 2K?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "basketball"
+      ],
+      "wrong_answers": [
+        "football",
+        "soccer",
+        "tennis",
+        "golf"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which console uses Joy-Con controllers?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "nintendo switch",
+        "switch"
+      ],
+      "wrong_answers": [
+        "xbox",
+        "playstation",
+        "wii",
+        "3ds"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the mascot of SEGA?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sonic"
+      ],
+      "wrong_answers": [
+        "mario",
+        "kirby",
+        "crash",
+        "pikachu"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which RPG game series features vaults and radiation?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "fallout"
+      ],
+      "wrong_answers": [
+        "metro",
+        "doom",
+        "bioshock",
+        "cyberpunk"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game features the character Kirby?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "kirby"
+      ],
+      "wrong_answers": [
+        "mario",
+        "zelda",
+        "metroid",
+        "pokemon"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main action of the game 'Just Dance'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "dancing",
+        "dance"
+      ],
+      "wrong_answers": [
+        "fighting",
+        "driving",
+        "building",
+        "shooting"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What company created the Switch console?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "nintendo"
+      ],
+      "wrong_answers": [
+        "sony",
+        "microsoft",
+        "sega",
+        "atari"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of game is Gran Turismo?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "racing"
+      ],
+      "wrong_answers": [
+        "strategy",
+        "horror",
+        "puzzle",
+        "platformer"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which city is featured in GTA: Vice City?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "vice city"
+      ],
+      "wrong_answers": [
+        "los santos",
+        "liberty city",
+        "new york",
+        "miami"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What genre is Call of Duty?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "shooter",
+        "fps"
+      ],
+      "wrong_answers": [
+        "puzzle",
+        "music",
+        "rpg",
+        "simulation"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you collect in Super Mario games?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "coins"
+      ],
+      "wrong_answers": [
+        "gems",
+        "cards",
+        "stars",
+        "bricks"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of game is Animal Crossing?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "life simulation",
+        "simulation"
+      ],
+      "wrong_answers": [
+        "horror",
+        "sports",
+        "racing",
+        "strategy"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which game is known for ‘battle royale’ mode which is more popular than main game?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "fortnite"
+      ],
+      "wrong_answers": [
+        "mario kart",
+        "minecraft",
+        "fifa",
+        "zelda"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What color is Luigi’s hat?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "green"
+      ],
+      "wrong_answers": [
+        "red",
+        "blue",
+        "yellow",
+        "white"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the famous kart racing game by Nintendo?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "mario kart"
+      ],
+      "wrong_answers": [
+        "sonic racing",
+        "f-zero",
+        "gran turismo",
+        "forza"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 7 times 6?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "42",
+        "forty two"
+      ],
+      "wrong_answers": [
+        "36",
+        "40",
+        "44",
+        "48",
+        "39"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is 20 divided by 5?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "4",
+        "four"
+      ],
+      "wrong_answers": [
+        "5",
+        "6",
+        "3",
+        "2",
+        "10"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the square root of 81?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "9",
+        "nine"
+      ],
+      "wrong_answers": [
+        "8",
+        "10",
+        "7",
+        "6",
+        "12"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What shape is a pizza?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "circle"
+      ],
+      "wrong_answers": [
+        "square",
+        "triangle",
+        "rectangle",
+        "pentagon",
+        "cube"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many sides does a triangle have?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "3",
+        "three"
+      ],
+      "wrong_answers": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "2"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What number is half of 20?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "10",
+        "ten"
+      ],
+      "wrong_answers": [
+        "5",
+        "8",
+        "12",
+        "15",
+        "20"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which number is smallest: 3, 7, or 9?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "3",
+        "three"
+      ],
+      "wrong_answers": [
+        "7",
+        "9",
+        "10",
+        "6",
+        "5"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is triple of 5?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "15",
+        "fifteen"
+      ],
+      "wrong_answers": [
+        "10",
+        "12",
+        "18",
+        "20",
+        "25"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many zeros are in one hundred?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "2",
+        "two"
+      ],
+      "wrong_answers": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "0"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What number comes before twenty?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "19",
+        "nineteen"
+      ],
+      "wrong_answers": [
+        "18",
+        "20",
+        "17",
+        "16",
+        "15"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many sides does a square have?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "4",
+        "four"
+      ],
+      "wrong_answers": [
+        "3",
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which number is even: 5, 7, or 8?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "8",
+        "eight"
+      ],
+      "wrong_answers": [
+        "5",
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which number is odd: 2, 4, or 9?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "9",
+        "nine"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "If you have 5 apples and eat 2, how many are left?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "3",
+        "three"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "1",
+        "6"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many days are in a week?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "7",
+        "seven"
+      ],
+      "wrong_answers": [
+        "5",
+        "6",
+        "8",
+        "10",
+        "9"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many months are in a year?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "12",
+        "twelve"
+      ],
+      "wrong_answers": [
+        "10",
+        "11",
+        "13",
+        "14",
+        "15"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many hours are in a day?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "24",
+        "twenty four"
+      ],
+      "wrong_answers": [
+        "12",
+        "18",
+        "20",
+        "30",
+        "48"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What shape has no corners?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "circle"
+      ],
+      "wrong_answers": [
+        "square",
+        "triangle",
+        "pentagon",
+        "star"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many minutes are in half an hour?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "30",
+        "thirty"
+      ],
+      "wrong_answers": [
+        "60",
+        "45",
+        "15",
+        "20",
+        "10"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many centimeters are in a meter?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "100",
+        "one hundred"
+      ],
+      "wrong_answers": [
+        "10",
+        "50",
+        "200",
+        "150",
+        "75"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many millimeters are in a centimeter?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "10",
+        "ten"
+      ],
+      "wrong_answers": [
+        "5",
+        "15",
+        "20",
+        "8",
+        "12"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the perimeter of a square with side 5?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "20",
+        "twenty"
+      ],
+      "wrong_answers": [
+        "25",
+        "30",
+        "15",
+        "10",
+        "5"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "If 8 + x = 12, what is x?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "4",
+        "four"
+      ],
+      "wrong_answers": [
+        "5",
+        "6",
+        "3",
+        "2",
+        "8"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "If a triangle has sides 3, 4, and 5, what is its longest side?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "5",
+        "five"
+      ],
+      "wrong_answers": [
+        "3",
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "category": "math",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What device do you use to take digital photos?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "camera",
+        "digital camera"
+      ],
+      "wrong_answers": [
+        "printer",
+        "router",
+        "keyboard",
+        "mouse",
+        "monitor"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you use to browse websites?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "web browser",
+        "browser"
+      ],
+      "wrong_answers": [
+        "editor",
+        "server",
+        "game",
+        "folder",
+        "database"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company makes the iPhone?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "apple"
+      ],
+      "wrong_answers": [
+        "google",
+        "samsung",
+        "nokia",
+        "sony",
+        "microsoft"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which key do you press to go to a new line?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "enter",
+        "return"
+      ],
+      "wrong_answers": [
+        "space",
+        "shift",
+        "backspace",
+        "tab",
+        "ctrl"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device stores large amounts of computer data?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "hard drive",
+        "hdd",
+        "ssd",
+        "solid state drive"
+      ],
+      "wrong_answers": [
+        "mouse",
+        "monitor",
+        "speaker",
+        "flashlight",
+        "battery"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is used to print documents?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "printer"
+      ],
+      "wrong_answers": [
+        "scanner",
+        "monitor",
+        "router",
+        "speaker",
+        "camera"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does 'www' stand for?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "world wide web"
+      ],
+      "wrong_answers": [
+        "wireless wide web",
+        "world web wide",
+        "web world wide",
+        "wide world web",
+        "world wide workshop"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What device do you use to listen to music privately?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "headphones",
+        "earphones"
+      ],
+      "wrong_answers": [
+        "speakers",
+        "router",
+        "microphone",
+        "scanner",
+        "printer"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device helps you project a presentation on a wall?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "projector"
+      ],
+      "wrong_answers": [
+        "scanner",
+        "mouse",
+        "keyboard",
+        "router",
+        "hard drive"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is a smartwatch?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "wearable device",
+        "watch"
+      ],
+      "wrong_answers": [
+        "printer",
+        "tablet",
+        "desktop",
+        "console",
+        "router"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Where do your deleted files go on a computer?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "recycle bin",
+        "trash"
+      ],
+      "wrong_answers": [
+        "desktop",
+        "folder",
+        "settings",
+        "internet",
+        "drive"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does a firewall protect?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "a computer network",
+        "network",
+        "computer",
+        "computer network"
+      ],
+      "wrong_answers": [
+        "printer",
+        "monitor",
+        "battery",
+        "speaker",
+        "mouse"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do we call software that fights viruses?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "antivirus",
+        "virus scanner"
+      ],
+      "wrong_answers": [
+        "monitor",
+        "processor",
+        "firewall",
+        "server",
+        "driver"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which key deletes text?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "backspace",
+        "delete"
+      ],
+      "wrong_answers": [
+        "enter",
+        "space",
+        "tab",
+        "shift",
+        "ctrl"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of connection does Ethernet provide?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "wired internet",
+        "wired network",
+        "wired connection",
+        "wired"
+      ],
+      "wrong_answers": [
+        "wireless connection",
+        "video connection",
+        "audio signal",
+        "satellite data",
+        "bluetooth"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does USB connect to a computer?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "peripheral devices",
+        "devices",
+        "external devices",
+        "peripherals"
+      ],
+      "wrong_answers": [
+        "internet only",
+        "only monitors",
+        "only routers",
+        "only phones",
+        "only keyboards"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a website that lets you search information (like google)?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "search engine",
+        "engine"
+      ],
+      "wrong_answers": [
+        "video player",
+        "editor",
+        "calendar",
+        "notepad",
+        "firewall"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which symbol is used in email addresses?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "@",
+        "at symbol"
+      ],
+      "wrong_answers": [
+        "#",
+        "$",
+        "&",
+        "%",
+        "!"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the term for messaging in real time online?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "chat",
+        "instant messaging",
+        "messaging"
+      ],
+      "wrong_answers": [
+        "browsing",
+        "printing",
+        "streaming",
+        "uploading",
+        "editing"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of device is used to scan barcodes?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "barcode scanner",
+        "scanner"
+      ],
+      "wrong_answers": [
+        "projector",
+        "mouse",
+        "router",
+        "printer",
+        "fan"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of files contain audio?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "mp3",
+        "wav",
+        "aac",
+        ".mp3",
+        ".wav",
+        ".aac"
+      ],
+      "wrong_answers": [
+        "pdf",
+        "png",
+        "xls",
+        "doc",
+        "zip"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is a high-speed internet connection called?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "broadband"
+      ],
+      "wrong_answers": [
+        "bluetooth",
+        "satellite",
+        "dial up",
+        "gps",
+        "offline mode"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does GPS help with?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "navigation",
+        "location tracking",
+        "finding places",
+        "location"
+      ],
+      "wrong_answers": [
+        "charging phones",
+        "sending emails",
+        "editing videos",
+        "scanning papers",
+        "printing photos"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is used to store temporary computer memory?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "ram"
+      ],
+      "wrong_answers": [
+        "rom",
+        "ssd",
+        "cpu",
+        "gpu",
+        "motherboard"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What converts digital files into printed paper?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "printer"
+      ],
+      "wrong_answers": [
+        "scanner",
+        "router",
+        "monitor",
+        "usb",
+        "speaker"
+      ],
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is known for its red color and small seeds on the outside?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "strawberry"
+      ],
+      "wrong_answers": [
+        "cherry",
+        "apple",
+        "grape",
+        "plum",
+        "peach"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What alcoholic drink is made from grapes and often used for toasts?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "wine",
+        "red wine",
+        "white wine",
+        "champagne"
+      ],
+      "wrong_answers": [
+        "juice",
+        "milk",
+        "water",
+        "tea",
+        "coffee"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which (cocktails) fruit is famous for being green and sour?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "lime",
+        "green lime"
+      ],
+      "wrong_answers": [
+        "lemon",
+        "grape",
+        "pear",
+        "apple",
+        "kiwi"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main ingredient in a salad?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "lettuce",
+        "vegetables"
+      ],
+      "wrong_answers": [
+        "fruit",
+        "meat",
+        "rice",
+        "pasta",
+        "bread"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a meal made outdoors on a grill?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "barbecue",
+        "bbq"
+      ],
+      "wrong_answers": [
+        "boil",
+        "fry",
+        "bake",
+        "roast",
+        "stew"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is famous for being yellow and used to make lemonade?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "lemon"
+      ],
+      "wrong_answers": [
+        "orange",
+        "lime",
+        "apple",
+        "banana",
+        "pear"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call bread that is toasted in the morning?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "toast"
+      ],
+      "wrong_answers": [
+        "bread",
+        "cracker",
+        "biscuit",
+        "waffle",
+        "cereal"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What cereal is typically eaten with milk for breakfast?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "cornflakes",
+        "cereal",
+        "oatmeal",
+        "muesli",
+        "corn flakes"
+      ],
+      "wrong_answers": [
+        "pasta",
+        "rice",
+        "toast",
+        "chicken",
+        "fish"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is added to tea to make it sweet?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "sugar",
+        "honey"
+      ],
+      "wrong_answers": [
+        "salt",
+        "pepper",
+        "oil",
+        "vinegar",
+        "water"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from fermented milk?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "yoghurt",
+        "yogurt",
+        "curd",
+        "kefir"
+      ],
+      "wrong_answers": [
+        "cheese",
+        "cream",
+        "butter",
+        "milk",
+        "ice cream"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sauce is commonly eaten with fries?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "ketchup",
+        "mayonnaise"
+      ],
+      "wrong_answers": [
+        "soy sauce",
+        "vinegar",
+        "oil",
+        "salt",
+        "chocolate"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which vegetable is long, green, and sometimes used in pickles?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "cucumber"
+      ],
+      "wrong_answers": [
+        "carrot",
+        "pepper",
+        "potato",
+        "eggplant",
+        "lettuce"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call water that has bubbles in it?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sparkling water",
+        "carbonated water",
+        "soda water",
+        "soda",
+        "sparkling",
+        "carbonated"
+      ],
+      "wrong_answers": [
+        "milk",
+        "juice",
+        "tea",
+        "flat water",
+        "soda"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main ingredient in scrambled eggs?",
+      "points": 600,
+      "language": "en",
+      "answers": [
+        "eggs"
+      ],
+      "wrong_answers": [
+        "milk",
+        "flour",
+        "bread",
+        "potato",
+        "rice"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is big, round and green on the outside but red inside?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "watermelon"
+      ],
+      "wrong_answers": [
+        "kiwi",
+        "apple",
+        "plum",
+        "grape",
+        "dragon fruit"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is commonly served in rolls and comes from the sea?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sushi"
+      ],
+      "wrong_answers": [
+        "burger",
+        "pizza",
+        "pasta",
+        "salad",
+        "chicken"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which dairy product is spread on bread and melts when heated?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "butter"
+      ],
+      "wrong_answers": [
+        "milk",
+        "cream",
+        "yogurt",
+        "water",
+        "sugar"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fruit is used to make raisins?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "grapes",
+        "grape"
+      ],
+      "wrong_answers": [
+        "apple",
+        "pear",
+        "cherry",
+        "plum",
+        "peach"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you cook in a rice cooker?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "rice"
+      ],
+      "wrong_answers": [
+        "pasta",
+        "potatoes",
+        "chicken",
+        "soup",
+        "cake"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food item is often eaten at picnics and made with two slices of bread?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "sandwich"
+      ],
+      "wrong_answers": [
+        "pizza",
+        "burger",
+        "sushi",
+        "taco",
+        "pasta"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is known for being spicy and red in color?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "chili",
+        "chili pepper",
+        "pepper",
+        "hot pepper"
+      ],
+      "wrong_answers": [
+        "milk",
+        "rice",
+        "bread",
+        "cabbage",
+        "apple"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which type of food is spaghetti?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "pasta"
+      ],
+      "wrong_answers": [
+        "vegetable",
+        "meat",
+        "fruit",
+        "dessert",
+        "drink"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of food is a croissant?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pastry"
+      ],
+      "wrong_answers": [
+        "cake",
+        "fruit",
+        "drink",
+        "vegetable",
+        "meat"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from potatoes and is crispy when fried?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "french fries",
+        "fries"
+      ],
+      "wrong_answers": [
+        "rice",
+        "bread",
+        "chicken",
+        "beef",
+        "tofu"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do you call a large meal eaten in the evening?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "dinner"
+      ],
+      "wrong_answers": [
+        "breakfast",
+        "lunch",
+        "snack",
+        "dessert",
+        "brunch"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which grain is used to make white bread?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "wheat"
+      ],
+      "wrong_answers": [
+        "rice",
+        "corn",
+        "barley",
+        "oats",
+        "buckwheat"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What drink is made from ground beans?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "coffee"
+      ],
+      "wrong_answers": [
+        "tea",
+        "juice",
+        "milk",
+        "soda",
+        "water"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of food is a burrito?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "mexican food",
+        "wrap"
+      ],
+      "wrong_answers": [
+        "dessert",
+        "fruit",
+        "vegetable",
+        "drink",
+        "salad"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food is made from cocoa beans?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "chocolate"
+      ],
+      "wrong_answers": [
+        "milk",
+        "cheese",
+        "jam",
+        "bread",
+        "tea"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which food is often eaten raw in salads and is green?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "lettuce"
+      ],
+      "wrong_answers": [
+        "tomato",
+        "carrot",
+        "onion",
+        "potato",
+        "eggplant"
+      ],
+      "category": "food",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fairy tale character wears a red hood?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "little red riding hood",
+        "red riding hood",
+        "red hood"
+      ],
+      "wrong_answers": [
+        "rapunzel",
+        "cinderella",
+        "snow white",
+        "aurora",
+        "dorothy"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who is the main character in 'Charlie and the Chocolate Factory'?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "charlie bucket",
+        "charlie"
+      ],
+      "wrong_answers": [
+        "matilda",
+        "greg",
+        "harry",
+        "peter",
+        "max"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which animal is Babe in the book 'Babe'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pig"
+      ],
+      "wrong_answers": [
+        "cow",
+        "horse",
+        "mouse",
+        "dog",
+        "sheep"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of Dorothy's dog in 'The Wizard of Oz'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "toto"
+      ],
+      "wrong_answers": [
+        "buddy",
+        "max",
+        "spot",
+        "rover",
+        "tom"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl has very long hair in a fairy tale?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "rapunzel"
+      ],
+      "wrong_answers": [
+        "cinderella",
+        "belle",
+        "snow white",
+        "alice",
+        "wendy"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What kind of animal is Paddington?",
+      "points": 850,
+      "language": "en",
+      "answers": [
+        "bear"
+      ],
+      "wrong_answers": [
+        "dog",
+        "mouse",
+        "cat",
+        "rabbit",
+        "fox"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which fairy tale character loses a glass slipper?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "cinderella"
+      ],
+      "wrong_answers": [
+        "snow white",
+        "rapunzel",
+        "belle",
+        "ariel",
+        "dorothy"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the name of the tiger in 'The Jungle Book'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "shere khan",
+        "khan"
+      ],
+      "wrong_answers": [
+        "baloo",
+        "bagheera",
+        "mowgli",
+        "ka",
+        "scar"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What food does Winnie the Pooh love?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "honey"
+      ],
+      "wrong_answers": [
+        "cake",
+        "carrots",
+        "candy",
+        "juice",
+        "milk"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl falls down a rabbit hole into a fantasy world?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "alice"
+      ],
+      "wrong_answers": [
+        "lucy",
+        "dorothy",
+        "wendy",
+        "matilda",
+        "susan"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What color is the Cat in the Hat’s hat?",
+      "points": 800,
+      "language": "en",
+      "answers": [
+        "red and white",
+        "red white",
+        "white and red",
+        "white red"
+      ],
+      "wrong_answers": [
+        "blue and white",
+        "green",
+        "yellow",
+        "black",
+        "orange"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Wind in the Willows'?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "kenneth grahame",
+        "grahame"
+      ],
+      "wrong_answers": [
+        "roald dahl",
+        "kipling",
+        "potter",
+        "twain",
+        "austen"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which fairy tale features a talking mirror?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "snow white"
+      ],
+      "wrong_answers": [
+        "cinderella",
+        "rapunzel",
+        "alice",
+        "belle",
+        "tinker bell"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is Peter Pan’s home island called?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "neverland"
+      ],
+      "wrong_answers": [
+        "wonderland",
+        "narnia",
+        "oz",
+        "hogwarts",
+        "atlantis"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Giving Tree'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "shel silverstein",
+        "silverstein",
+        "s. silverstein"
+      ],
+      "wrong_answers": [
+        "dr. seuss",
+        "dahl",
+        "carroll",
+        "potter",
+        "twain"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which character is known for saying 'to infinity and beyond'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "buzz lightyear",
+        "buzz",
+        "lightyear"
+      ],
+      "wrong_answers": [
+        "woody",
+        "pooh",
+        "peter pan",
+        "chase",
+        "hobbes"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which girl lives with seven dwarfs?",
+      "points": 900,
+      "language": "en",
+      "answers": [
+        "snow white"
+      ],
+      "wrong_answers": [
+        "cinderella",
+        "rapunzel",
+        "belle",
+        "alice",
+        "wendy"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What magical object helps you fly in 'Peter Pan'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "pixie dust",
+        "fairy dust",
+        "dust"
+      ],
+      "wrong_answers": [
+        "magic wand",
+        "ring",
+        "broom",
+        "carpet",
+        "hat"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who wrote 'The Gruffalo'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "julia donaldson",
+        "donaldson",
+        "j. donaldson"
+      ],
+      "wrong_answers": [
+        "roald dahl",
+        "dr. seuss",
+        "potter",
+        "kipling",
+        "lewis carroll"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which animal chases Tom in 'Tom and Jerry' books?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "jerry",
+        "mouse"
+      ],
+      "wrong_answers": [
+        "dog",
+        "cat",
+        "bear",
+        "fox",
+        "tiger"
+      ],
+      "category": "literature",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who lives in a pumpkin in a nursery rhyme?",
+      "points": 700,
+      "language": "en",
+      "answers": [
+        "little miss muffet"
+      ],
+      "wrong_answers": [
+        "humpty dumpty",
+        "mary lamb",
+        "jack",
+        "jill",
+        "bo peep"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Which author wrote 'Coraline'?",
+      "points": 1000,
+      "language": "en",
+      "answers": [
+        "neil gaiman",
+        "gaiman",
+        "n. gaiman"
+      ],
+      "wrong_answers": [
+        "dahl",
+        "twain",
+        "rowling",
+        "potter",
+        "seuss"
+      ],
+      "category": "literature",
+      "difficulty": "normal"
+    },
+    {
+      "question": "Who is the wizard in 'Harry Potter' that teaches potions?",
+      "points": 950,
+      "language": "en",
+      "answers": [
+        "snape",
+        "severus snape",
+        "s. snape"
+      ],
+      "wrong_answers": [
+        "dumbledore",
+        "hagrid",
+        "gandalf",
+        "voldemort",
+        "lupin"
+      ],
+      "category": "literature",
       "difficulty": "easy"
     }
   ]
