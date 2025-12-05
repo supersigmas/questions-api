@@ -8,7 +8,7 @@ data = data["data"]
 extracted_q = {"data": []}
 
 for q in data:
-    if q['category'] == "literature":
+    if q['category'] == "nature":
         # add question to extracted_q
         extracted_q["data"].append(q)
 
