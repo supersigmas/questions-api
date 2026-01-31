@@ -2,3 +2,4 @@ Flask
 requests
 Flask-Limiter
 flask-cors
+gunicorn
