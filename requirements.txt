@@ -3,3 +3,5 @@ requests
 Flask-Limiter
 flask-cors
 gunicorn
+openai
+python-dotenv

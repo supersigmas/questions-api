@@ -5,6 +5,7 @@ from flask import Flask, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 from flask_cors import CORS
+from enrichment import start_background_poller
 
 
 def collect_categories(data) -> list:
@@ -88,6 +89,8 @@ limiter = Limiter(
     default_limits=["10 per minute"],
     storage_uri="memory://",
 )
+
+start_background_poller()
 
 
 @app.route("/categories", methods=["GET"])
