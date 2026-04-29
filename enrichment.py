@@ -65,19 +65,29 @@ def _is_unique(question_text: str, existing_texts: set) -> bool:
 def _enrich_question(raw_q: dict) -> dict:
     client = _get_az_client()
     deployment = os.environ["AZURE_OPENAI_DEPLOYMENT"]
+    question_text = raw_q.get("question", "")[:80]
 
-    response = client.chat.completions.create(
-        model=deployment,
-        messages=[
-            {"role": "system", "content": _SYSTEM_PROMPT},
-            {"role": "user", "content": json.dumps(raw_q, ensure_ascii=False)},
-        ],
-        temperature=0.2,
-        max_tokens=512,
-    )
+    try:
+        response = client.chat.completions.create(
+            model=deployment,
+            messages=[
+                {"role": "system", "content": _SYSTEM_PROMPT},
+                {"role": "user", "content": json.dumps(raw_q, ensure_ascii=False)},
+            ],
+            temperature=0.2,
+            max_tokens=512,
+        )
 
-    content = response.choices[0].message.content.strip()
-    return json.loads(content)
+        content = response.choices[0].message.content.strip()
+        result = json.loads(content)
+        logger.debug("Enrichment succeeded: %s", question_text)
+        return result
+    except json.JSONDecodeError as e:
+        logger.error("Enrichment JSON parse failed for '%s': %s", question_text, e)
+        raise
+    except Exception as e:
+        logger.error("Enrichment API call failed for '%s': %s", question_text, e)
+        raise
 
 
 def _validate_question(q: dict) -> bool:
@@ -132,10 +142,10 @@ def _persist_question(q: dict) -> None:
 
 
 def _process_question(raw_q: dict, existing_texts: set) -> bool:
-    question_text = raw_q.get("question", "")
+    question_text = raw_q.get("question", "")[:80]
 
     if not _is_unique(question_text, existing_texts):
-        logger.info("Skipping duplicate: %s", question_text[:80])
+        logger.debug("Skipped duplicate: %s", question_text)
         return False
 
     existing_texts.add(question_text.strip().lower())
@@ -143,38 +153,46 @@ def _process_question(raw_q: dict, existing_texts: set) -> bool:
     try:
         enriched = _enrich_question(raw_q)
     except Exception as exc:
-        logger.warning("Enrich failed for question '%s': %s", question_text[:60], exc)
+        logger.error("ENRICHMENT FAILED: %s | Error: %s", question_text, str(exc)[:100])
         return False
 
     if not _validate_question(enriched):
-        logger.warning("Validation failed for question '%s'", question_text[:60])
+        logger.error("VALIDATION FAILED: %s | Invalid schema", question_text)
         return False
 
     try:
         _persist_question(enriched)
     except Exception as exc:
-        logger.error("Persist failed: %s", exc)
+        logger.error("PERSISTENCE FAILED: %s | Error: %s", question_text, str(exc)[:100])
         return False
 
-    logger.info("Added: %s", enriched["question"][:80])
+    logger.info("ENRICHMENT SUCCESS: %s | Category: %s | Difficulty: %s | Points: %d",
+                enriched["question"][:80], enriched["category"], enriched["difficulty"], enriched["points"])
     return True
 
 
 def _poll_once() -> None:
     try:
         raw_questions = _fetch_opentdb_questions()
-        logger.info("Fetched %d questions from opentdb.", len(raw_questions))
+        logger.info("=== POLL START === Fetched %d questions from opentdb", len(raw_questions))
 
         with _write_lock:
             with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
                 store = json.load(f)
         existing_texts = {q["question"].strip().lower() for q in store["data"]}
+        initial_count = len(store["data"])
 
         added = sum(_process_question(rq, existing_texts) for rq in raw_questions)
-        logger.info("Poll complete. Added %d new questions.", added)
+
+        with _write_lock:
+            with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+                final_count = len(json.load(f)["data"])
+
+        logger.info("=== POLL END === Success: %d | Failed: %d | Total questions: %d → %d",
+                    added, len(raw_questions) - added, initial_count, final_count)
 
     except Exception as exc:
-        logger.error("Poll cycle failed: %s", exc, exc_info=True)
+        logger.error("=== POLL FAILED === Critical error: %s", exc, exc_info=True)
 
 
 def _polling_loop() -> None:
@@ -186,4 +204,6 @@ def _polling_loop() -> None:
 def start_background_poller() -> None:
     t = threading.Thread(target=_polling_loop, daemon=True, name="enrichment-poller")
     t.start()
-    logger.info("Background question poller started (interval=%ds).", POLL_INTERVAL)
+    logger.info("=== ENRICHMENT POLLER STARTED === Interval: %ds | Model: %s | Endpoint: %s",
+                POLL_INTERVAL, os.environ.get("AZURE_OPENAI_DEPLOYMENT", "unknown"),
+                os.environ.get("AZURE_OPENAI_ENDPOINT", "unknown")[:30])
