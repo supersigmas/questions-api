@@ -16,6 +16,7 @@ def test_system_prompt_contains_which_of_these_rule():
     from enrichment import _SYSTEM_PROMPT
     assert "which of these" in _SYSTEM_PROMPT.lower()
     assert "one of the following" in _SYSTEM_PROMPT.lower()
+    assert "which one of" in _SYSTEM_PROMPT.lower()
 
 
 def test_enrich_question_passes_system_prompt_to_api():
@@ -48,7 +49,8 @@ def test_enrich_question_passes_system_prompt_to_api():
             result = _enrich_question(raw_q)
 
     call_args = client.chat.completions.create.call_args
-    messages = call_args.kwargs["messages"]
+    _, kwargs = call_args
+    messages = kwargs["messages"]
     system_msg = messages[0]
     assert system_msg["role"] == "system"
     assert "which of these" in system_msg["content"].lower()
