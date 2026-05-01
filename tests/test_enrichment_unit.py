@@ -230,3 +230,125 @@ def test_simplify_question_uses_correct_variant_prompt():
             assert system_msg["content"] == SIMPLIFY_PROMPTS[variant], (
                 f"Variant {variant} used wrong prompt"
             )
+
+
+def test_process_question_full_pipeline_success(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "embeddings.json").write_text(json.dumps({}))
+
+    import importlib
+    import enrichment
+    importlib.reload(enrichment)
+
+    raw_q = {
+        "question": "What is the capital of Germany?",
+        "correct_answer": "Berlin",
+        "incorrect_answers": ["Munich", "Hamburg", "Frankfurt"],
+        "category": "Geography",
+        "difficulty": "easy",
+        "type": "multiple",
+    }
+
+    pass1_result = {
+        "question": "What is the capital city of Germany?",
+        "answers": ["berlin"],
+        "wrong_answers": ["Munich", "Hamburg", "Frankfurt"],
+        "category": "geography",
+        "difficulty": "easy",
+        "points": 700,
+        "language": "en",
+    }
+
+    pass2_result = {
+        "question": "What is the capital city of Germany?",
+        "answers": ["berlin", "berlin germany", "the city of berlin"],
+        "wrong_answers": ["munich", "hamburg", "frankfurt"],
+    }
+
+    mock_resp1 = _make_mock_response(pass1_result)
+    mock_resp2 = _make_mock_response(pass2_result)
+    call_count = {"n": 0}
+
+    def fake_create(**kwargs):
+        call_count["n"] += 1
+        return mock_resp1 if call_count["n"] == 1 else mock_resp2
+
+    with patch("enrichment._get_az_client") as mock_client_fn, \
+         patch("enrichment._get_embedding", return_value=[0.1, 0.2, 0.3]):
+        client = MagicMock()
+        client.chat.completions.create.side_effect = fake_create
+        mock_client_fn.return_value = client
+
+        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o",
+                                        "AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT": "text-embedding-ada-002",
+                                        "DEDUP_THRESHOLD": "0.92"}):
+            store = {}
+            result = enrichment._process_question(raw_q, set(), store, variant=0)
+
+    assert result is True
+    saved = json.loads((tmp_path / "questions.json").read_text())
+    assert len(saved["data"]) == 1
+    assert saved["data"][0]["answers"] == ["berlin", "berlin germany", "the city of berlin"]
+
+
+def test_process_question_skips_semantic_duplicate(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "embeddings.json").write_text(json.dumps({}))
+
+    import importlib
+    import enrichment
+    importlib.reload(enrichment)
+
+    raw_q = {
+        "question": "What is the capital of France?",
+        "correct_answer": "Paris",
+        "incorrect_answers": ["Lyon", "Marseille", "Nice"],
+        "category": "Geography",
+        "difficulty": "easy",
+        "type": "multiple",
+    }
+
+    pass1_result = {
+        "question": "What is the capital of France?",
+        "answers": ["paris"],
+        "wrong_answers": ["Lyon", "Marseille", "Nice"],
+        "category": "geography",
+        "difficulty": "easy",
+        "points": 700,
+        "language": "en",
+    }
+    pass2_result = {
+        "question": "What is the capital of France?",
+        "answers": ["paris", "paris france", "city of paris"],
+        "wrong_answers": ["lyon", "marseille", "nice"],
+    }
+
+    mock_resp1 = _make_mock_response(pass1_result)
+    mock_resp2 = _make_mock_response(pass2_result)
+    call_count = {"n": 0}
+
+    def fake_create(**kwargs):
+        call_count["n"] += 1
+        return mock_resp1 if call_count["n"] == 1 else mock_resp2
+
+    existing_embedding = [1.0, 0.0, 0.0]
+    new_embedding = [0.999, 0.001, 0.0]
+
+    existing_store = {hashlib.md5(b"existing question").hexdigest(): existing_embedding}
+
+    with patch("enrichment._get_az_client") as mock_client_fn, \
+         patch("enrichment._get_embedding", return_value=new_embedding):
+        client = MagicMock()
+        client.chat.completions.create.side_effect = fake_create
+        mock_client_fn.return_value = client
+
+        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o",
+                                        "AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT": "text-embedding-ada-002",
+                                        "DEDUP_THRESHOLD": "0.92"}):
+            result = enrichment._process_question(raw_q, set(), existing_store, variant=0)
+
+    assert result is False
+    saved = json.loads((tmp_path / "questions.json").read_text())
+    assert len(saved["data"]) == 0

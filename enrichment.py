@@ -302,11 +302,11 @@ def _persist_question(q: dict) -> None:
         os.replace(tmp_path, QUESTIONS_FILE)
 
 
-def _process_question(raw_q: dict, existing_texts: set) -> bool:
+def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, variant: int) -> bool:
     question_text = raw_q.get("question", "")[:80]
 
     if not _is_unique(question_text, existing_texts):
-        logger.debug("Skipped duplicate: %s", question_text)
+        logger.debug("Skipped duplicate (exact): %s", question_text)
         return False
 
     existing_texts.add(question_text.strip().lower())
@@ -314,21 +314,49 @@ def _process_question(raw_q: dict, existing_texts: set) -> bool:
     try:
         enriched = _enrich_question(raw_q)
     except Exception as exc:
-        logger.error("ENRICHMENT FAILED: %s | Error: %s", question_text, str(exc)[:100])
+        logger.error("ENRICHMENT FAILED (pass1): %s | Error: %s", question_text, str(exc)[:100])
         return False
 
     if not _validate_question(enriched):
-        logger.error("VALIDATION FAILED: %s | Invalid schema", question_text)
+        logger.error("VALIDATION FAILED (pass1): %s | Invalid schema", question_text)
+        return False
+
+    try:
+        simplified = _simplify_question(enriched, variant)
+    except Exception as exc:
+        logger.error("ENRICHMENT FAILED (pass2): %s | Error: %s", question_text, str(exc)[:100])
+        return False
+
+    enriched["question"] = simplified["question"]
+    enriched["answers"] = simplified["answers"]
+    enriched["wrong_answers"] = simplified["wrong_answers"]
+
+    if not _validate_question(enriched):
+        logger.error("VALIDATION FAILED (pass2): %s | Invalid schema", question_text)
+        return False
+
+    try:
+        embedding = _get_embedding(enriched["question"])
+    except Exception as exc:
+        logger.error("EMBEDDING FAILED: %s | Error: %s", question_text, str(exc)[:100])
+        return False
+
+    if _is_semantic_duplicate(embedding, embeddings_store):
+        logger.info("Skipped semantic duplicate: %s", enriched["question"][:80])
         return False
 
     try:
         _persist_question(enriched)
+        _persist_embedding(enriched["question"], embedding, embeddings_store)
     except Exception as exc:
         logger.error("PERSISTENCE FAILED: %s | Error: %s", question_text, str(exc)[:100])
         return False
 
-    logger.info("ENRICHMENT SUCCESS: %s | Category: %s | Difficulty: %s | Points: %d",
-                enriched["question"][:80], enriched["category"], enriched["difficulty"], enriched["points"])
+    logger.info(
+        "ENRICHMENT SUCCESS: %s | Category: %s | Difficulty: %s | Points: %d | variant=%d",
+        enriched["question"][:80], enriched["category"], enriched["difficulty"],
+        enriched["points"], variant,
+    )
     return True
 
 
