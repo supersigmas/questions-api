@@ -360,7 +360,7 @@ def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, 
     return True
 
 
-def _poll_once() -> None:
+def _poll_once(embeddings_store: dict, variant: int) -> None:
     try:
         raw_questions = _fetch_opentdb_questions()
         logger.info("=== POLL START === Fetched %d questions from opentdb", len(raw_questions))
@@ -371,7 +371,7 @@ def _poll_once() -> None:
         existing_texts = {q["question"].strip().lower() for q in store["data"]}
         initial_count = len(store["data"])
 
-        added = sum(_process_question(rq, existing_texts) for rq in raw_questions)
+        added = sum(_process_question(rq, existing_texts, embeddings_store, variant) for rq in raw_questions)
 
         with _write_lock:
             with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
@@ -384,15 +384,24 @@ def _poll_once() -> None:
         logger.error("=== POLL FAILED === Critical error: %s", exc, exc_info=True)
 
 
-def _polling_loop() -> None:
+def _polling_loop(embeddings_store: dict, variant: int) -> None:
     while True:
-        _poll_once()
+        _poll_once(embeddings_store, variant)
         time.sleep(POLL_INTERVAL)
 
 
 def start_background_poller() -> None:
-    t = threading.Thread(target=_polling_loop, daemon=True, name="enrichment-poller")
+    variant = int(os.environ.get("PROMPT_VARIANT", "0"))
+    embeddings_store = _load_embeddings()
+    t = threading.Thread(
+        target=_polling_loop,
+        args=(embeddings_store, variant),
+        daemon=True,
+        name="enrichment-poller",
+    )
     t.start()
-    logger.info("=== ENRICHMENT POLLER STARTED === Interval: %ds | Model: %s | Endpoint: %s",
-                POLL_INTERVAL, os.environ.get("AZURE_OPENAI_DEPLOYMENT", "unknown"),
-                os.environ.get("AZURE_OPENAI_ENDPOINT", "unknown")[:30])
+    logger.info(
+        "=== ENRICHMENT POLLER STARTED === Interval: %ds | Model: %s | Endpoint: %s | Variant: %d",
+        POLL_INTERVAL, os.environ.get("AZURE_OPENAI_DEPLOYMENT", "unknown"),
+        os.environ.get("AZURE_OPENAI_ENDPOINT", "unknown")[:30], variant,
+    )
