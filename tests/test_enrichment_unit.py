@@ -164,3 +164,69 @@ def test_persist_embedding_adds_to_store(tmp_path, monkeypatch):
 
     saved = json.loads((tmp_path / "embeddings.json").read_text())
     assert key in saved
+
+
+def test_simplify_question_merges_fields_from_llm():
+    from enrichment import _simplify_question
+    enriched = {
+        "question": "What is the capital of France?",
+        "answers": ["paris"],
+        "wrong_answers": ["London", "Berlin", "Madrid"],
+        "category": "geography",
+        "difficulty": "easy",
+        "points": 700,
+        "language": "en",
+    }
+    mock_result = {
+        "question": "What city is the capital of France?",
+        "answers": ["paris", "paris france", "the city of paris"],
+        "wrong_answers": ["london", "berlin", "madrid"],
+    }
+    mock_resp = _make_mock_response(mock_result)
+
+    with patch("enrichment._get_az_client") as mock_client_fn:
+        client = MagicMock()
+        client.chat.completions.create.return_value = mock_resp
+        mock_client_fn.return_value = client
+
+        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o"}):
+            result = _simplify_question(enriched, variant=0)
+
+    assert result["question"] == "What city is the capital of France?"
+    assert len(result["answers"]) == 3
+    assert "paris" in result["answers"]
+
+
+def test_simplify_question_uses_correct_variant_prompt():
+    from enrichment import _simplify_question, SIMPLIFY_PROMPTS
+    enriched = {
+        "question": "Test question?",
+        "answers": ["answer"],
+        "wrong_answers": ["wrong1", "wrong2", "wrong3"],
+        "category": "general",
+        "difficulty": "easy",
+        "points": 700,
+        "language": "en",
+    }
+    mock_result = {
+        "question": "Test question?",
+        "answers": ["answer", "the answer", "an answer"],
+        "wrong_answers": ["wrong1", "wrong2", "wrong3"],
+    }
+
+    for variant in range(4):
+        mock_resp = _make_mock_response(mock_result)
+        with patch("enrichment._get_az_client") as mock_client_fn:
+            client = MagicMock()
+            client.chat.completions.create.return_value = mock_resp
+            mock_client_fn.return_value = client
+
+            with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o"}):
+                _simplify_question(enriched, variant=variant)
+
+            _, kwargs = client.chat.completions.create.call_args
+            messages = kwargs["messages"]
+            system_msg = messages[0]
+            assert system_msg["content"] == SIMPLIFY_PROMPTS[variant], (
+                f"Variant {variant} used wrong prompt"
+            )

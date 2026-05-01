@@ -218,6 +218,39 @@ def _enrich_question(raw_q: dict) -> dict:
         raise
 
 
+def _simplify_question(enriched: dict, variant: int) -> dict:
+    client = _get_az_client()
+    deployment = os.environ["AZURE_OPENAI_DEPLOYMENT"]
+    question_text = enriched.get("question", "")[:80]
+
+    payload = {
+        "question": enriched["question"],
+        "answers": enriched["answers"],
+        "wrong_answers": enriched["wrong_answers"],
+    }
+
+    try:
+        response = client.chat.completions.create(
+            model=deployment,
+            messages=[
+                {"role": "system", "content": SIMPLIFY_PROMPTS[variant]},
+                {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
+            ],
+            temperature=0.4,
+            max_tokens=512,
+        )
+        content = response.choices[0].message.content.strip()
+        result = json.loads(content)
+        logger.debug("Simplification succeeded (variant=%d): %s", variant, question_text)
+        return result
+    except json.JSONDecodeError as e:
+        logger.error("Simplification JSON parse failed for '%s': %s", question_text, e)
+        raise
+    except Exception as e:
+        logger.error("Simplification API call failed for '%s': %s", question_text, e)
+        raise
+
+
 def _validate_question(q: dict) -> bool:
     if not isinstance(q, dict):
         return False
