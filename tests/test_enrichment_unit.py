@@ -72,3 +72,42 @@ def test_simplify_prompts_all_require_minimum_three_answers():
         assert "minimum 3" in prompt or "at least 3" in prompt, (
             f"Variant {i} prompt does not mention minimum 3 answer variations"
         )
+
+
+def test_cosine_similarity_identical_vectors():
+    from enrichment import _cosine_similarity
+    v = [1.0, 0.0, 0.5]
+    assert abs(_cosine_similarity(v, v) - 1.0) < 1e-6
+
+
+def test_cosine_similarity_orthogonal_vectors():
+    from enrichment import _cosine_similarity
+    a = [1.0, 0.0]
+    b = [0.0, 1.0]
+    assert abs(_cosine_similarity(a, b)) < 1e-6
+
+
+def test_is_semantic_duplicate_above_threshold():
+    from enrichment import _is_semantic_duplicate
+    import hashlib
+    store = {
+        hashlib.md5(b"existing").hexdigest(): [1.0, 0.0, 0.0],
+    }
+    with patch.dict("os.environ", {"DEDUP_THRESHOLD": "0.92"}):
+        assert _is_semantic_duplicate([0.999, 0.001, 0.0], store) is True
+
+
+def test_is_semantic_duplicate_below_threshold():
+    from enrichment import _is_semantic_duplicate
+    import hashlib
+    store = {
+        hashlib.md5(b"existing").hexdigest(): [1.0, 0.0, 0.0],
+    }
+    with patch.dict("os.environ", {"DEDUP_THRESHOLD": "0.92"}):
+        assert _is_semantic_duplicate([0.0, 1.0, 0.0], store) is False
+
+
+def test_is_semantic_duplicate_empty_store():
+    from enrichment import _is_semantic_duplicate
+    with patch.dict("os.environ", {"DEDUP_THRESHOLD": "0.92"}):
+        assert _is_semantic_duplicate([1.0, 0.0], {}) is False

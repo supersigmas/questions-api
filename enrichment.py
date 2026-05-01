@@ -1,3 +1,4 @@
+import hashlib
 import json
 import logging
 import os
@@ -5,6 +6,7 @@ import tempfile
 import threading
 import time
 
+import numpy as np
 import requests
 from dotenv import load_dotenv
 from openai import AzureOpenAI
@@ -24,6 +26,7 @@ VALID_CATEGORIES = {
 VALID_DIFFICULTIES = {"easy", "normal"}
 
 _write_lock = threading.Lock()
+_embeddings_lock = threading.Lock()
 
 _SYSTEM_PROMPT = """You are a data transformation assistant converting a trivia question to a specific schema.
 
@@ -106,6 +109,27 @@ def _get_az_client() -> AzureOpenAI:
         api_key=os.environ["AZURE_OPENAI_API_KEY"],
         api_version="2024-02-15-preview",
     )
+
+
+def _get_embedding(text: str) -> list:
+    client = _get_az_client()
+    deployment = os.environ["AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT"]
+    response = client.embeddings.create(model=deployment, input=text)
+    return response.data[0].embedding
+
+
+def _cosine_similarity(a: list, b: list) -> float:
+    va = np.array(a, dtype=np.float32)
+    vb = np.array(b, dtype=np.float32)
+    return float(np.dot(va, vb) / (np.linalg.norm(va) * np.linalg.norm(vb)))
+
+
+def _is_semantic_duplicate(embedding: list, store: dict) -> bool:
+    threshold = float(os.environ.get("DEDUP_THRESHOLD", "0.92"))
+    for vec in store.values():
+        if _cosine_similarity(embedding, vec) >= threshold:
+            return True
+    return False
 
 
 def _fetch_opentdb_questions() -> list:
