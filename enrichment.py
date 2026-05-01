@@ -132,6 +132,51 @@ def _is_semantic_duplicate(embedding: list, store: dict) -> bool:
     return False
 
 
+def _save_embeddings(store: dict) -> None:
+    with tempfile.NamedTemporaryFile(
+        "w", dir=".", suffix=".tmp", delete=False, encoding="utf-8"
+    ) as tmp:
+        json.dump(store, tmp, ensure_ascii=False)
+        tmp_path = tmp.name
+    os.replace(tmp_path, EMBEDDINGS_FILE)
+
+
+def _load_embeddings() -> dict:
+    if os.path.exists(EMBEDDINGS_FILE):
+        with open(EMBEDDINGS_FILE, "r", encoding="utf-8") as f:
+            store = json.load(f)
+    else:
+        store = {}
+
+    with _write_lock:
+        with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+            questions = json.load(f)["data"]
+
+    to_backfill = [
+        q for q in questions
+        if hashlib.md5(q["question"].encode()).hexdigest() not in store
+    ]
+
+    if to_backfill:
+        logger.info("Backfilling embeddings for %d questions", len(to_backfill))
+        for q in to_backfill:
+            try:
+                key = hashlib.md5(q["question"].encode()).hexdigest()
+                store[key] = _get_embedding(q["question"])
+            except Exception as e:
+                logger.warning("Backfill embedding failed for '%s': %s", q["question"][:60], e)
+        _save_embeddings(store)
+
+    return store
+
+
+def _persist_embedding(question_text: str, embedding: list, store: dict) -> None:
+    with _embeddings_lock:
+        key = hashlib.md5(question_text.encode()).hexdigest()
+        store[key] = embedding
+        _save_embeddings(store)
+
+
 def _fetch_opentdb_questions() -> list:
     response = requests.get(OPENTDB_URL, timeout=10)
     response.raise_for_status()

@@ -1,4 +1,6 @@
+import hashlib
 import json
+import os
 from unittest.mock import MagicMock, patch
 
 
@@ -111,3 +113,54 @@ def test_is_semantic_duplicate_empty_store():
     from enrichment import _is_semantic_duplicate
     with patch.dict("os.environ", {"DEDUP_THRESHOLD": "0.92"}):
         assert _is_semantic_duplicate([1.0, 0.0], {}) is False
+
+
+def test_save_and_load_embeddings_roundtrip(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+
+    # create a minimal questions.json
+    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+
+    import importlib
+    import enrichment
+    importlib.reload(enrichment)
+
+    store = {"abc123": [0.1, 0.2, 0.3]}
+    enrichment._save_embeddings(store)
+
+    assert (tmp_path / "embeddings.json").exists()
+    loaded = json.loads((tmp_path / "embeddings.json").read_text())
+    assert loaded == store
+
+
+def test_load_embeddings_creates_file_if_missing(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+
+    import importlib
+    import enrichment
+    importlib.reload(enrichment)
+
+    with patch("enrichment._get_embedding", return_value=[0.1, 0.2]):
+        result = enrichment._load_embeddings()
+
+    assert isinstance(result, dict)
+
+
+def test_persist_embedding_adds_to_store(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "embeddings.json").write_text(json.dumps({}))
+
+    import importlib
+    import enrichment
+    importlib.reload(enrichment)
+
+    store = {}
+    enrichment._persist_embedding("What is 2+2?", [0.5, 0.5], store)
+
+    key = hashlib.md5("What is 2+2?".encode()).hexdigest()
+    assert key in store
+    assert store[key] == [0.5, 0.5]
+
+    saved = json.loads((tmp_path / "embeddings.json").read_text())
+    assert key in saved
