@@ -55,3 +55,20 @@ def test_enrich_question_passes_system_prompt_to_api():
     assert system_msg["role"] == "system"
     assert "which of these" in system_msg["content"].lower()
     assert result["question"] == mock_result["question"]
+
+
+def test_simplify_prompts_has_four_variants():
+    from enrichment import SIMPLIFY_PROMPTS
+    assert len(SIMPLIFY_PROMPTS) == 4
+    for i in range(4):
+        assert i in SIMPLIFY_PROMPTS
+        assert isinstance(SIMPLIFY_PROMPTS[i], str)
+        assert len(SIMPLIFY_PROMPTS[i]) > 50
+
+
+def test_simplify_prompts_all_require_minimum_three_answers():
+    from enrichment import SIMPLIFY_PROMPTS
+    for i, prompt in SIMPLIFY_PROMPTS.items():
+        assert "minimum 3" in prompt or "at least 3" in prompt, (
+            f"Variant {i} prompt does not mention minimum 3 answer variations"
+        )

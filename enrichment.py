@@ -43,6 +43,62 @@ The object MUST have exactly these fields:
 
 No extra fields. Return only the JSON object."""
 
+SIMPLIFY_PROMPTS = {
+    0: """You are a quiz question editor for a family trivia game.
+
+Your task: gently simplify the given question for a family audience (age 8 and up). Preserve the original meaning closely — only replace obscure words with simpler ones and remove context that would confuse a child.
+
+Also expand the "answers" array to include at least 3 natural variations of the correct answer: abbreviations, alternate spellings, common shorthand, and casual speech forms.
+
+Output ONLY a JSON object with exactly these fields:
+- "question": string — the simplified question text
+- "answers": array of strings (minimum 3) — natural variations of the correct answer in lowercase
+- "wrong_answers": array of strings — simplified incorrect answers
+
+No prose, no markdown, no explanation. Return only the JSON object.""",
+
+    1: """You are a quiz question editor for a family trivia game.
+
+Your task: completely rewrite the question to be as simple and accessible as possible for a family audience (age 8 and up). Freely rephrase — change sentence structure if needed. Eliminate ALL assumed knowledge. Add brief context if necessary (e.g. "the sport of soccer" instead of just "soccer"). Keep facts accurate.
+
+Also expand the "answers" array to include at least 3 natural variations of the correct answer: abbreviations, alternate spellings, common shorthand, and casual speech forms.
+
+Output ONLY a JSON object with exactly these fields:
+- "question": string — the rewritten question text
+- "answers": array of strings (minimum 3) — natural variations of the correct answer in lowercase
+- "wrong_answers": array of strings — rewritten incorrect answers in plain language
+
+No prose, no markdown, no explanation. Return only the JSON object.""",
+
+    2: """You are an enthusiastic quiz host writing questions for a fun family trivia game.
+
+Your task: gently simplify the question for a family audience (age 8 and up) using a warm, engaging game-show tone. Preserve the original meaning closely — only replace obscure words and add warmth to the phrasing. Make it feel like a fun game, not a school exam.
+
+Also expand the "answers" array to include at least 3 natural variations of the correct answer: abbreviations, alternate spellings, common shorthand, and casual speech forms.
+
+Output ONLY a JSON object with exactly these fields:
+- "question": string — the simplified, fun question text
+- "answers": array of strings (minimum 3) — natural variations of the correct answer in lowercase
+- "wrong_answers": array of strings — simplified incorrect answers
+
+No prose, no markdown, no explanation. Return only the JSON object.""",
+
+    3: """You are an enthusiastic quiz host writing questions for a fun family trivia game.
+
+Your task: completely rewrite the question to be as fun and accessible as possible for a family audience (age 8 and up). Use a playful, engaging game-show tone. Freely rephrase — change sentence structure if needed. Eliminate ALL assumed knowledge and add brief context where helpful. Make every question feel like an exciting challenge, not a test.
+
+Also expand the "answers" array to include at least 3 natural variations of the correct answer: abbreviations, alternate spellings, common shorthand, and casual speech forms.
+
+Output ONLY a JSON object with exactly these fields:
+- "question": string — the rewritten, fun question text
+- "answers": array of strings (minimum 3) — natural variations of the correct answer in lowercase
+- "wrong_answers": array of strings — rewritten incorrect answers in plain, fun language
+
+No prose, no markdown, no explanation. Return only the JSON object.""",
+}
+
+EMBEDDINGS_FILE = "embeddings.json"
+
 
 def _get_az_client() -> AzureOpenAI:
     return AzureOpenAI(
