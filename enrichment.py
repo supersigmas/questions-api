@@ -146,13 +146,24 @@ def _is_semantic_duplicate(embedding: list, store: dict) -> bool:
     return False
 
 
+def _atomic_replace(src: str, dst: str) -> None:
+    for attempt in range(10):
+        try:
+            os.replace(src, dst)
+            return
+        except PermissionError:
+            if attempt == 9:
+                raise
+            time.sleep(0.05)
+
+
 def _save_embeddings(store: dict) -> None:
     with tempfile.NamedTemporaryFile(
         "w", dir=".", suffix=".tmp", delete=False, encoding="utf-8"
     ) as tmp:
         json.dump(store, tmp, ensure_ascii=False)
         tmp_path = tmp.name
-    os.replace(tmp_path, EMBEDDINGS_FILE)
+    _atomic_replace(tmp_path, EMBEDDINGS_FILE)
 
 
 def _load_embeddings() -> dict:
@@ -322,7 +333,7 @@ def _persist_question(q: dict) -> None:
             json.dump(store, tmp, indent=2, ensure_ascii=False)
             tmp_path = tmp.name
 
-        os.replace(tmp_path, QUESTIONS_FILE)
+        _atomic_replace(tmp_path, QUESTIONS_FILE)
 
 
 def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, variant: int) -> bool:
