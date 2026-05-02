@@ -17,8 +17,9 @@ def _make_mock_response(content: dict) -> MagicMock:
 def test_system_prompt_contains_which_of_these_rule():
     from enrichment import _SYSTEM_PROMPT
     assert "which of these" in _SYSTEM_PROMPT.lower()
-    assert "one of the following" in _SYSTEM_PROMPT.lower()
-    assert "which one of" in _SYSTEM_PROMPT.lower()
+    assert "of the following" in _SYSTEM_PROMPT.lower()
+    assert "was not" in _SYSTEM_PROMPT.lower()
+    assert "negative-knowledge" in _SYSTEM_PROMPT.lower()
 
 
 def test_enrich_question_passes_system_prompt_to_api():

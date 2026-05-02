@@ -32,8 +32,11 @@ _SYSTEM_PROMPT = """You are a data transformation assistant converting a trivia 
 
 Output ONLY a single valid JSON object. No prose, no markdown, no explanation.
 
-IMPORTANT: If the question contains "which of these", "one of the following", "which one of", or any phrasing that assumes the player can see a list of options, rewrite it as a self-contained question that makes sense without options.
-Example: "Which of these NHL teams originally played in Atlanta?" → "What is the name of the NHL team that originally played in Atlanta before relocating?"
+IMPORTANT: Rewrite any question that cannot be answered without seeing a list of options, OR that asks what was NOT / did NOT / is NOT true (negative-knowledge questions are confusing without options). Rewrite as a clear positive-knowledge question using the correct answer as your guide.
+Examples:
+- "Which of these NHL teams originally played in Atlanta?" → "What is the name of the NHL team that originally played in Atlanta before relocating?"
+- "Which actor was not in the 2016 movie Suicide Squad?" → "Which actor appeared in the 2016 movie Suicide Squad?" (flip to ask about the correct_answer instead)
+- "Which of the following is NOT a mammal?" → "Is a [correct_answer] classified as a mammal?"
 
 The object MUST have exactly these fields:
 - "question": string — question text with HTML entities decoded (&amp;→&, &#039;→'), rewritten if it was list-dependent
