@@ -111,11 +111,22 @@ def _get_az_client() -> AzureOpenAI:
     )
 
 
+_embedding_model = None
+_embedding_model_lock = threading.Lock()
+
+
+def _get_embedding_model():
+    global _embedding_model
+    if _embedding_model is None:
+        with _embedding_model_lock:
+            if _embedding_model is None:
+                from sentence_transformers import SentenceTransformer
+                _embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+    return _embedding_model
+
+
 def _get_embedding(text: str) -> list:
-    client = _get_az_client()
-    deployment = os.environ["AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT"]
-    response = client.embeddings.create(model=deployment, input=text)
-    return response.data[0].embedding
+    return _get_embedding_model().encode(text).tolist()
 
 
 def _cosine_similarity(a: list, b: list) -> float:
