@@ -121,7 +121,10 @@ def _get_embedding(text: str) -> list:
 def _cosine_similarity(a: list, b: list) -> float:
     va = np.array(a, dtype=np.float32)
     vb = np.array(b, dtype=np.float32)
-    return float(np.dot(va, vb) / (np.linalg.norm(va) * np.linalg.norm(vb)))
+    norm = np.linalg.norm(va) * np.linalg.norm(vb)
+    if norm == 0:
+        return 0.0
+    return float(np.dot(va, vb) / norm)
 
 
 def _is_semantic_duplicate(embedding: list, store: dict) -> bool:
@@ -142,11 +145,13 @@ def _save_embeddings(store: dict) -> None:
 
 
 def _load_embeddings() -> dict:
+    store = {}
     if os.path.exists(EMBEDDINGS_FILE):
-        with open(EMBEDDINGS_FILE, "r", encoding="utf-8") as f:
-            store = json.load(f)
-    else:
-        store = {}
+        try:
+            with open(EMBEDDINGS_FILE, "r", encoding="utf-8") as f:
+                store = json.load(f)
+        except (json.JSONDecodeError, OSError) as e:
+            logger.warning("Could not load embeddings sidecar, starting fresh: %s", e)
 
     with _write_lock:
         with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
@@ -323,13 +328,12 @@ def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, 
 
     try:
         simplified = _simplify_question(enriched, variant)
+        enriched["question"] = simplified["question"]
+        enriched["answers"] = simplified["answers"]
+        enriched["wrong_answers"] = simplified["wrong_answers"]
     except Exception as exc:
         logger.error("ENRICHMENT FAILED (pass2): %s | Error: %s", question_text, str(exc)[:100])
         return False
-
-    enriched["question"] = simplified["question"]
-    enriched["answers"] = simplified["answers"]
-    enriched["wrong_answers"] = simplified["wrong_answers"]
 
     if not _validate_question(enriched):
         logger.error("VALIDATION FAILED (pass2): %s | Invalid schema", question_text)
@@ -392,6 +396,8 @@ def _polling_loop(embeddings_store: dict, variant: int) -> None:
 
 def start_background_poller() -> None:
     variant = int(os.environ.get("PROMPT_VARIANT", "0"))
+    if variant not in SIMPLIFY_PROMPTS:
+        raise ValueError(f"PROMPT_VARIANT={variant} is not valid; must be one of {list(SIMPLIFY_PROMPTS)}")
     embeddings_store = _load_embeddings()
     t = threading.Thread(
         target=_polling_loop,
