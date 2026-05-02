@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 QUESTIONS_FILE = "questions.json"
 OPENTDB_URL = "https://opentdb.com/api.php?amount=20&difficulty=easy&type=multiple"
-POLL_INTERVAL = 360  # 10 fetches per hour
+POLL_INTERVAL = 720  # 10 fetches per hour
 
 VALID_CATEGORIES = {
     "geography", "science", "history", "entertainment",
