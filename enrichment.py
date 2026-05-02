@@ -194,12 +194,19 @@ def _persist_embedding(question_text: str, embedding: list, store: dict) -> None
 
 
 def _fetch_opentdb_questions() -> list:
-    response = requests.get(OPENTDB_URL, timeout=10)
-    response.raise_for_status()
-    payload = response.json()
-    if payload.get("response_code") != 0:
-        raise ValueError(f"opentdb non-zero response_code: {payload.get('response_code')}")
-    return payload["results"]
+    wait_times = [15, 30, 60]
+    for attempt, wait in enumerate(wait_times, start=1):
+        response = requests.get(OPENTDB_URL, timeout=10)
+        if response.status_code == 429:
+            logger.warning("opentdb rate limited (429), waiting %ds before retry %d/%d", wait, attempt, len(wait_times))
+            time.sleep(wait)
+            continue
+        response.raise_for_status()
+        payload = response.json()
+        if payload.get("response_code") != 0:
+            raise ValueError(f"opentdb non-zero response_code: {payload.get('response_code')}")
+        return payload["results"]
+    raise requests.exceptions.HTTPError("opentdb 429 persisted after all retries; skipping poll cycle")
 
 
 def _is_unique(question_text: str, existing_texts: set) -> bool:
