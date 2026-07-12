@@ -391,12 +391,20 @@ def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, 
         logger.info("Skipped semantic duplicate: %s", enriched["question"][:80])
         return False
 
+    enriched["source_id"] = _source_id(enriched["question"])
+
     try:
         _persist_question(enriched)
         _persist_embedding(enriched["question"], embedding, embeddings_store)
     except Exception as exc:
         logger.error("PERSISTENCE FAILED: %s | Error: %s", question_text, str(exc)[:100])
         return False
+
+    try:
+        from translation import translate_and_persist
+        translate_and_persist(enriched, set())
+    except Exception as exc:
+        logger.error("INLINE TRANSLATION FAILED: %s | Error: %s", question_text, str(exc)[:100])
 
     logger.info(
         "ENRICHMENT SUCCESS: %s | Category: %s | Difficulty: %s | Points: %d | variant=%d",

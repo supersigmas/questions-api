@@ -398,3 +398,28 @@ def test_validate_rejects_empty_source_id_when_present():
     q = _valid_lt_question()
     q["source_id"] = ""
     assert _validate_question(q) is False
+
+
+def test_process_question_triggers_translation_after_persist():
+    from unittest.mock import patch
+    import enrichment
+
+    raw_q = {"question": "Q?", "correct_answer": "a", "incorrect_answers": ["b"],
+             "category": "Science", "difficulty": "easy", "type": "multiple"}
+    enriched = {"question": "Q enriched?", "answers": ["a"], "wrong_answers": ["b"],
+                "category": "science", "difficulty": "easy", "points": 700, "language": "en"}
+
+    with patch.object(enrichment, "_enrich_question", return_value=enriched), \
+         patch.object(enrichment, "_simplify_question", return_value={
+             "question": "Q enriched?", "answers": ["a"], "wrong_answers": ["b"]}), \
+         patch.object(enrichment, "_get_embedding", return_value=[0.0, 0.1]), \
+         patch.object(enrichment, "_is_semantic_duplicate", return_value=False), \
+         patch.object(enrichment, "_persist_question"), \
+         patch.object(enrichment, "_persist_embedding"), \
+         patch("translation.translate_and_persist") as mock_tap:
+        ok = enrichment._process_question(raw_q, set(), {}, variant=0)
+
+    assert ok is True
+    mock_tap.assert_called_once()
+    passed_source = mock_tap.call_args[0][0]
+    assert "source_id" in passed_source
