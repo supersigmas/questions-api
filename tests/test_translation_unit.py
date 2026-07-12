@@ -176,3 +176,40 @@ def test_translate_and_persist_skips_when_persist_raises():
 
     assert added == 0
     assert (sid, "lt") not in existing
+
+
+def test_backfill_run_translates_english_records():
+    import translate_questions
+    from unittest.mock import patch
+    data = [
+        {"question": "Q1", "answers": ["a"], "wrong_answers": ["b"],
+         "category": "geography", "difficulty": "easy", "points": 700, "language": "en"},
+        {"question": "Q2", "answers": ["c"], "wrong_answers": ["d"],
+         "category": "science", "difficulty": "easy", "points": 700, "language": "en"},
+    ]
+    calls = []
+
+    def fake_tap(source_q, existing):
+        calls.append(source_q["question"])
+        return 6
+
+    with patch.object(translate_questions, "_read_all", return_value=data), \
+         patch.object(translate_questions, "translate_and_persist", side_effect=fake_tap):
+        total = translate_questions.run(language=None, limit=None)
+
+    assert total == 12
+    assert calls == ["Q1", "Q2"]
+
+
+def test_backfill_respects_limit():
+    import translate_questions
+    from unittest.mock import patch
+    data = [
+        {"question": f"Q{i}", "answers": ["a"], "wrong_answers": ["b"],
+         "category": "geography", "difficulty": "easy", "points": 700, "language": "en"}
+        for i in range(5)
+    ]
+    with patch.object(translate_questions, "_read_all", return_value=data), \
+         patch.object(translate_questions, "translate_and_persist", return_value=1) as m:
+        translate_questions.run(language=None, limit=2)
+    assert m.call_count == 2
