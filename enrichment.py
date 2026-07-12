@@ -401,6 +401,8 @@ def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, 
         return False
 
     try:
+        # A freshly enriched question is unique by construction, so no prior
+        # (source_id, language) pairs can exist; pass an empty set.
         from translation import translate_and_persist
         translate_and_persist(enriched, set())
     except Exception as exc:

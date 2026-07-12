@@ -98,7 +98,7 @@ def translate_and_persist(source_q: dict, existing: set) -> int:
     as translations are persisted so callers stay idempotent within a run.
     Returns the number of translations added.
     """
-    sid = _source_id(source_q["question"])
+    sid = source_q.get("source_id") or _source_id(source_q["question"])
     added = 0
     for lang in sorted(TARGET_LANGUAGES):
         if (sid, lang) in existing:
