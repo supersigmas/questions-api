@@ -39,3 +39,28 @@ def test_languages_requires_auth(client):
     test_client, _ = client
     resp = test_client.get("/languages")
     assert resp.status_code == 401
+
+
+MIXED = [
+    {"question": "en-geo", "answers": ["a"], "wrong_answers": ["b"],
+     "category": "geography", "difficulty": "easy", "points": 700, "language": "en"},
+    {"question": "lt-geo", "answers": ["a"], "wrong_answers": ["b"],
+     "category": "geography", "difficulty": "easy", "points": 700,
+     "language": "lt", "source_id": "s1"},
+]
+
+
+def test_questions_defaults_to_english(client):
+    test_client, app_module = client
+    with patch.object(app_module, "_load_questions", return_value=MIXED):
+        resp = test_client.get("/questions?count=10", headers=AUTH)
+    qs = resp.get_json()["questions"]
+    assert qs and all(q["language"] == "en" for q in qs)
+
+
+def test_questions_filters_by_language(client):
+    test_client, app_module = client
+    with patch.object(app_module, "_load_questions", return_value=MIXED):
+        resp = test_client.get("/questions?language=lt&count=10", headers=AUTH)
+    qs = resp.get_json()["questions"]
+    assert qs and all(q["language"] == "lt" for q in qs)

@@ -151,8 +151,11 @@ def get_questions():
     category = request.args.get("category")
     questions_count = request.args.get("count", default=20, type=int)
     difficulty = request.args.get("difficulty", default="easy", type=str)
+    language = request.args.get("language", default="en", type=str)
 
     data = _load_questions()
+    data = [q for q in data if q.get("language", "en") == language]
+
     if category:
         questions = get_questions_count(data, category, questions_count, difficulty)
     else:
