@@ -31,6 +31,11 @@ _setup_logging()
 logger = logging.getLogger(__name__)
 
 
+def _load_questions() -> list:
+    with open("questions.json", "r", encoding="utf-8") as f:
+        return json.load(f)["data"]
+
+
 def collect_categories(data) -> list:
     """
     Collect all categories from the data
@@ -129,10 +134,7 @@ def get_category():
     if not validate_bearer_token(request.headers):
         return {"error": "Invalid bearer token"}, 401
 
-    f = open("questions.json", "r")
-    data = json.load(f)
-
-    data = data["data"]
+    data = _load_questions()
     categories = collect_categories(data)
     random.shuffle(categories)
     categories = categories[:4]
@@ -150,15 +152,28 @@ def get_questions():
     questions_count = request.args.get("count", default=20, type=int)
     difficulty = request.args.get("difficulty", default="easy", type=str)
 
-    f = open("questions.json", "r")
-    data = json.load(f)
-
-    data = data["data"]
+    data = _load_questions()
     if category:
         questions = get_questions_count(data, category, questions_count, difficulty)
     else:
         questions = get_questions_count(data=data, difficulty=difficulty, count=questions_count)
     return {"questions": questions}, 200
+
+
+@app.route("/languages", methods=["GET"])
+@limiter.limit("10 per minute")
+def get_languages():
+    if not validate_bearer_token(request.headers):
+        return {"error": "Invalid bearer token"}, 401
+
+    data = _load_questions()
+    counts = {}
+    for item in data:
+        code = item.get("language", "en")
+        counts[code] = counts.get(code, 0) + 1
+
+    languages = [{"code": c, "count": n} for c, n in sorted(counts.items())]
+    return {"languages": languages}, 200
 
 
 if __name__ == "__main__":
