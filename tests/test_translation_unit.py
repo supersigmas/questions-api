@@ -140,3 +140,39 @@ def test_translate_and_persist_skips_invalid_result():
 
     assert added == 0
     mock_persist.assert_not_called()
+
+
+def test_translate_and_persist_skips_when_translation_raises():
+    from translation import translate_and_persist, _source_id
+    src = _source_en()
+    sid = _source_id(src["question"])
+    existing = {(sid, l) for l in ("de", "es", "fr", "ru", "hi")}  # only "lt" missing
+
+    with patch("translation._translate_question", side_effect=RuntimeError("api down")), \
+         patch("translation._persist_question") as mock_persist:
+        added = translate_and_persist(src, existing)
+
+    assert added == 0
+    mock_persist.assert_not_called()
+    assert (sid, "lt") not in existing
+
+
+def test_translate_and_persist_skips_when_persist_raises():
+    from translation import translate_and_persist, _source_id
+    src = _source_en()
+    sid = _source_id(src["question"])
+    existing = {(sid, l) for l in ("de", "es", "fr", "ru", "hi")}  # only "lt" missing
+
+    def ok_translate(source_q, lang):
+        return {
+            "question": "x", "answers": ["a"], "wrong_answers": ["b"],
+            "category": "geography", "difficulty": "normal", "points": 800,
+            "language": lang, "source_id": sid,
+        }
+
+    with patch("translation._translate_question", side_effect=ok_translate), \
+         patch("translation._persist_question", side_effect=OSError("disk full")):
+        added = translate_and_persist(src, existing)
+
+    assert added == 0
+    assert (sid, "lt") not in existing
