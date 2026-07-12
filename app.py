@@ -1,11 +1,34 @@
 """Flask app module """
 import json
+import logging
+import os
 import random
 from flask import Flask, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 from flask_cors import CORS
 from enrichment import start_background_poller
+
+
+def _setup_logging() -> None:
+    log_file = os.environ.get("LOG_FILE", "logs/app.log")
+    os.makedirs(os.path.dirname(log_file) or ".", exist_ok=True)
+    fmt = logging.Formatter("%(asctime)s %(levelname)-8s %(name)s: %(message)s")
+
+    stream_handler = logging.StreamHandler()
+    stream_handler.setFormatter(fmt)
+
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setFormatter(fmt)
+
+    root = logging.getLogger()
+    root.setLevel(logging.INFO)
+    root.addHandler(stream_handler)
+    root.addHandler(file_handler)
+
+
+_setup_logging()
+logger = logging.getLogger(__name__)
 
 
 def collect_categories(data) -> list:
@@ -93,15 +116,16 @@ limiter = Limiter(
 start_background_poller()
 
 
+@app.after_request
+def log_request(response):
+    qs = request.query_string.decode()
+    logger.info("REQUEST %s %s%s → %d", request.method, request.path, f"?{qs}" if qs else "", response.status_code)
+    return response
+
+
 @app.route("/categories", methods=["GET"])
 @limiter.limit("10 per minute")
 def get_category():
-    """
-    Get all categories
-    :return: list of categories
-    """
-
-    # Validate bearer token
     if not validate_bearer_token(request.headers):
         return {"error": "Invalid bearer token"}, 401
 
@@ -111,8 +135,6 @@ def get_category():
     data = data["data"]
     categories = collect_categories(data)
     random.shuffle(categories)
-
-    # get top 5 categories
     categories = categories[:4]
 
     return {"categories": categories}, 200
@@ -121,22 +143,11 @@ def get_category():
 @app.route("/questions", methods=["GET"])
 @limiter.limit("10 per minute")
 def get_questions():
-    """
-    Get 20 questions
-    :return: list of questions
-    """
-
-    # Validate bearer token
     if not validate_bearer_token(request.headers):
         return {"error": "Invalid bearer token"}, 401
 
-    # get categories from request
     category = request.args.get("category")
-
-    # get questions count from request
     questions_count = request.args.get("count", default=20, type=int)
-
-    # get difficulty from request
     difficulty = request.args.get("difficulty", default="easy", type=str)
 
     f = open("questions.json", "r")
