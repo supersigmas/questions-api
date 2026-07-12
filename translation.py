@@ -5,6 +5,7 @@ import os
 from enrichment import (
     TARGET_LANGUAGES,
     _get_az_client,
+    _persist_question,
     _source_id,
     _validate_question,
 )
@@ -76,3 +77,48 @@ def _translate_question(source_q: dict, lang: str) -> dict:
         "language": lang,
         "source_id": _source_id(source_q["question"]),
     }
+
+
+def _existing_pairs(data: list) -> set:
+    """Set of (source_id, language) already present among translation records."""
+    pairs = set()
+    for q in data:
+        if q.get("language") == "en":
+            continue
+        sid = q.get("source_id")
+        if sid:
+            pairs.add((sid, q["language"]))
+    return pairs
+
+
+def translate_and_persist(source_q: dict, existing: set) -> int:
+    """Translate one English question into all missing target languages.
+
+    `existing` is a mutable set of (source_id, language); it is updated in place
+    as translations are persisted so callers stay idempotent within a run.
+    Returns the number of translations added.
+    """
+    sid = _source_id(source_q["question"])
+    added = 0
+    for lang in sorted(TARGET_LANGUAGES):
+        if (sid, lang) in existing:
+            continue
+        try:
+            translated = _translate_question(source_q, lang)
+        except Exception as exc:
+            logger.error("TRANSLATION FAILED: %s (%s) | %s",
+                         source_q["question"][:80], lang, str(exc)[:100])
+            continue
+        if not _validate_question(translated):
+            logger.error("TRANSLATION INVALID: %s (%s)", source_q["question"][:80], lang)
+            continue
+        try:
+            _persist_question(translated)
+        except Exception as exc:
+            logger.error("TRANSLATION PERSIST FAILED: %s (%s) | %s",
+                         source_q["question"][:80], lang, str(exc)[:100])
+            continue
+        existing.add((sid, lang))
+        added += 1
+        logger.info("TRANSLATION SUCCESS: %s | %s", source_q["question"][:80], lang)
+    return added

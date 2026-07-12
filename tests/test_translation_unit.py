@@ -70,3 +70,73 @@ def test_translate_question_passes_target_language_to_prompt():
     _, kwargs = client.chat.completions.create.call_args
     joined = " ".join(m["content"] for m in kwargs["messages"])
     assert "de" in joined or "German" in joined
+
+
+def test_existing_pairs_collects_source_id_language():
+    from translation import _existing_pairs
+    data = [
+        {"question": "Q1", "language": "en"},
+        {"question": "t", "language": "lt", "source_id": "sid1"},
+        {"question": "t", "language": "de", "source_id": "sid1"},
+    ]
+    pairs = _existing_pairs(data)
+    assert ("sid1", "lt") in pairs
+    assert ("sid1", "de") in pairs
+
+
+def test_translate_and_persist_skips_existing_languages():
+    from translation import translate_and_persist, _source_id
+    src = _source_en()
+    sid = _source_id(src["question"])
+    existing = {(sid, "lt"), (sid, "de"), (sid, "es"),
+                (sid, "fr"), (sid, "ru"), (sid, "hi")}
+
+    with patch("translation._translate_question") as mock_tr, \
+         patch("translation._persist_question") as mock_persist:
+        added = translate_and_persist(src, existing)
+
+    assert added == 0
+    mock_tr.assert_not_called()
+    mock_persist.assert_not_called()
+
+
+def test_translate_and_persist_translates_missing_languages():
+    from translation import translate_and_persist, _source_id
+    src = _source_en()
+    sid = _source_id(src["question"])
+    existing = {(sid, "de"), (sid, "es"), (sid, "fr"), (sid, "ru"), (sid, "hi")}
+
+    def fake_translate(source_q, lang):
+        return {
+            "question": "x", "answers": ["a"], "wrong_answers": ["b"],
+            "category": "geography", "difficulty": "normal", "points": 800,
+            "language": lang, "source_id": sid,
+        }
+
+    with patch("translation._translate_question", side_effect=fake_translate) as mock_tr, \
+         patch("translation._persist_question") as mock_persist:
+        added = translate_and_persist(src, existing)
+
+    assert added == 1  # only "lt" was missing
+    mock_tr.assert_called_once_with(src, "lt")
+    mock_persist.assert_called_once()
+    assert existing == {(sid, l) for l in ("de", "es", "fr", "ru", "hi", "lt")}
+
+
+def test_translate_and_persist_skips_invalid_result():
+    from translation import translate_and_persist, _source_id
+    src = _source_en()
+    sid = _source_id(src["question"])
+    existing = {(sid, l) for l in ("de", "es", "fr", "ru", "hi")}
+
+    def bad_translate(source_q, lang):
+        return {"question": "", "answers": [], "wrong_answers": [],
+                "category": "geography", "difficulty": "normal", "points": 800,
+                "language": lang, "source_id": sid}
+
+    with patch("translation._translate_question", side_effect=bad_translate), \
+         patch("translation._persist_question") as mock_persist:
+        added = translate_and_persist(src, existing)
+
+    assert added == 0
+    mock_persist.assert_not_called()
