@@ -25,6 +25,9 @@ VALID_CATEGORIES = {
 }
 VALID_DIFFICULTIES = {"easy", "normal"}
 
+TARGET_LANGUAGES = {"de", "es", "fr", "lt", "ru", "hi"}
+VALID_LANGUAGES = {"en"} | TARGET_LANGUAGES
+
 _write_lock = threading.Lock()
 _embeddings_lock = threading.Lock()
 
@@ -104,6 +107,10 @@ No prose, no markdown, no explanation. Return only the JSON object.""",
 }
 
 EMBEDDINGS_FILE = "embeddings.json"
+
+
+def _source_id(text: str) -> str:
+    return hashlib.md5(text.encode()).hexdigest()
 
 
 def _get_az_client() -> AzureOpenAI:
@@ -209,6 +216,7 @@ def _persist_embedding(question_text: str, embedding: list, store: dict) -> None
 
 def _fetch_opentdb_questions() -> list:
     wait_times = [15, 30, 60]
+    logger.info("Fetching questions from opentdb (up to %d retries)", len(wait_times))
     for attempt, wait in enumerate(wait_times, start=1):
         response = requests.get(OPENTDB_URL, timeout=10)
         if response.status_code == 429:
@@ -312,7 +320,9 @@ def _validate_question(q: dict) -> bool:
         return False
     if not isinstance(q["points"], int) or not (700 <= q["points"] <= 1000):
         return False
-    if q["language"] != "en":
+    if q["language"] not in VALID_LANGUAGES:
+        return False
+    if "source_id" in q and (not isinstance(q["source_id"], str) or not q["source_id"]):
         return False
 
     return True

@@ -353,3 +353,48 @@ def test_process_question_skips_semantic_duplicate(tmp_path, monkeypatch):
     assert result is False
     saved = json.loads((tmp_path / "questions.json").read_text())
     assert len(saved["data"]) == 0
+
+
+def test_valid_languages_includes_targets():
+    from enrichment import VALID_LANGUAGES, TARGET_LANGUAGES
+    assert TARGET_LANGUAGES == {"de", "es", "fr", "lt", "ru", "hi"}
+    assert VALID_LANGUAGES == {"en"} | TARGET_LANGUAGES
+
+
+def test_source_id_is_md5_of_text():
+    import hashlib
+    from enrichment import _source_id
+    text = "What is the largest ocean on Earth?"
+    assert _source_id(text) == hashlib.md5(text.encode()).hexdigest()
+
+
+def _valid_lt_question():
+    return {
+        "question": "Koks didziausias vandenynas Zemeje?",
+        "answers": ["ramusis vandenynas", "ramusis"],
+        "wrong_answers": ["Atlanto vandenynas", "Indijos vandenynas"],
+        "category": "geography",
+        "difficulty": "normal",
+        "points": 800,
+        "language": "lt",
+        "source_id": "abc123",
+    }
+
+
+def test_validate_accepts_target_language():
+    from enrichment import _validate_question
+    assert _validate_question(_valid_lt_question()) is True
+
+
+def test_validate_rejects_unknown_language():
+    from enrichment import _validate_question
+    q = _valid_lt_question()
+    q["language"] = "xx"
+    assert _validate_question(q) is False
+
+
+def test_validate_rejects_empty_source_id_when_present():
+    from enrichment import _validate_question
+    q = _valid_lt_question()
+    q["source_id"] = ""
+    assert _validate_question(q) is False
