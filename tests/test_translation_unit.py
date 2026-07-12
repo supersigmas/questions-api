@@ -213,3 +213,30 @@ def test_backfill_respects_limit():
          patch.object(translate_questions, "translate_and_persist", return_value=1) as m:
         translate_questions.run(language=None, limit=2)
     assert m.call_count == 2
+
+
+def test_backfill_language_flag_restricts_to_one_language():
+    import translate_questions
+    from unittest.mock import patch
+    from enrichment import _source_id, TARGET_LANGUAGES
+    data = [
+        {"question": "Q1", "answers": ["a"], "wrong_answers": ["b"],
+         "category": "geography", "difficulty": "easy", "points": 700, "language": "en"},
+    ]
+    sid = _source_id("Q1")
+    captured = {}
+
+    def capture_tap(source_q, existing):
+        # snapshot the set as seen for this question
+        captured["existing"] = set(existing)
+        return 0
+
+    with patch.object(translate_questions, "_read_all", return_value=data), \
+         patch.object(translate_questions, "translate_and_persist", side_effect=capture_tap):
+        translate_questions.run(language="lt", limit=None)
+
+    # every non-chosen target language is pre-blocked for this source
+    for other in TARGET_LANGUAGES - {"lt"}:
+        assert (sid, other) in captured["existing"]
+    # the chosen language is NOT pre-blocked, so it remains translatable
+    assert (sid, "lt") not in captured["existing"]
