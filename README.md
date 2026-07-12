@@ -67,3 +67,20 @@ docker stop <container_id>
 ### License
 
 This project is licensed under the MIT License.
+
+## Translations
+
+Questions can be served in multiple languages (en, de, es, fr, lt, ru, hi).
+
+- `GET /languages` lists the languages currently available (with counts).
+- `GET /questions?language=<code>` returns questions in that language (defaults to `en`).
+
+New questions are translated automatically as they are ingested. To backfill translations for the existing corpus:
+
+```bash
+python translate_questions.py              # all target languages
+python translate_questions.py --language lt # only Lithuanian
+python translate_questions.py --limit 50    # first 50 English questions
+```
+
+Translation uses the same Azure OpenAI configuration as enrichment (`AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_DEPLOYMENT`).

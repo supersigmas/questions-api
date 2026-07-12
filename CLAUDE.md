@@ -32,12 +32,16 @@ All endpoints require `Authorization: Bearer my_token` header. Rate limit is 10 
 
 - `GET /categories` — returns 4 randomly selected categories from `questions.json`
 - `GET /questions?category=<cat>&count=<n>&difficulty=<easy|...>` — returns randomized questions; defaults to count=20, difficulty=easy
+- `GET /questions?language=<code>` — filters by language (default `en`); supported codes: en, de, es, fr, lt, ru, hi
+- `GET /languages` — returns the language codes present in the corpus, each with a question count
 
 ## Architecture
 
 All data lives in `questions.json` (structure: `{"data": [...]}`) where each item has `category`, `difficulty`, and question fields. The file is read on every request (no caching).
 
 **`app.py`** — the entire Flask application: auth validation, rate limiting (flask-limiter, in-memory storage), CORS, and two route handlers.
+
+**`translation.py`** — translates English questions into target languages (de, es, fr, lt, ru, hi) via Azure OpenAI, one (question, language) pair per call. Translated records copy category/difficulty/points from the source and carry `source_id` (md5 of the English question text) plus their `language`. Translations skip embedding/semantic-dedup; idempotency is keyed on `(source_id, language)`. New questions are translated inline by the enrichment poller; `translate_questions.py` backfills the existing corpus (idempotent, interrupt-safe): `python translate_questions.py [--language <code>] [--limit <n>]`.
 
 **`extractions.py` / `checs.py`** — standalone utility scripts for inspecting `questions.json` (category/difficulty counts, filtering). Not part of the API; run directly with `python <script>.py`.
 
