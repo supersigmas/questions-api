@@ -167,13 +167,26 @@ def _atomic_replace(src: str, dst: str) -> None:
             time.sleep(0.05)
 
 
-def _save_embeddings(store: dict) -> None:
+def _atomic_write_json(data, path: str, **dump_kwargs) -> None:
+    """Atomically write `data` as JSON to `path`, writing through symlinks.
+
+    If `path` is a symlink (e.g. a release-dir file symlinked into shared/ so
+    it survives deploys), resolve to the real target and write the temp file
+    alongside it. os.replace onto a symlink would otherwise replace the symlink
+    itself with a regular file, silently breaking cross-deploy persistence.
+    """
+    target = os.path.realpath(path)
+    target_dir = os.path.dirname(target) or "."
     with tempfile.NamedTemporaryFile(
-        "w", dir=".", suffix=".tmp", delete=False, encoding="utf-8"
+        "w", dir=target_dir, suffix=".tmp", delete=False, encoding="utf-8"
     ) as tmp:
-        json.dump(store, tmp, ensure_ascii=False)
+        json.dump(data, tmp, ensure_ascii=False, **dump_kwargs)
         tmp_path = tmp.name
-    _atomic_replace(tmp_path, EMBEDDINGS_FILE)
+    _atomic_replace(tmp_path, target)
+
+
+def _save_embeddings(store: dict) -> None:
+    _atomic_write_json(store, EMBEDDINGS_FILE)
 
 
 def _load_embeddings() -> dict:
@@ -340,13 +353,7 @@ def _persist_question(q: dict) -> None:
 
         store["data"].append(q)
 
-        with tempfile.NamedTemporaryFile(
-            "w", dir=".", suffix=".tmp", delete=False, encoding="utf-8"
-        ) as tmp:
-            json.dump(store, tmp, indent=2, ensure_ascii=False)
-            tmp_path = tmp.name
-
-        _atomic_replace(tmp_path, QUESTIONS_FILE)
+        _atomic_write_json(store, QUESTIONS_FILE, indent=2)
 
 
 def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, variant: int) -> bool:

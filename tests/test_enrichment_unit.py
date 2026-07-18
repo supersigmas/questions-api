@@ -423,3 +423,30 @@ def test_process_question_triggers_translation_after_persist():
     mock_tap.assert_called_once()
     passed_source = mock_tap.call_args[0][0]
     assert "source_id" in passed_source
+
+
+def test_atomic_write_json_preserves_symlink_and_writes_through(tmp_path):
+    """When the target path is a symlink into a shared dir, the atomic write
+    must update the real file and leave the symlink intact (not clobber it
+    with a regular file). This is what keeps enriched data persistent across
+    releases-based deploys."""
+    from enrichment import _atomic_write_json
+
+    shared = tmp_path / "shared"
+    shared.mkdir()
+    real = shared / "questions.json"
+    real.write_text(json.dumps({"data": ["old"]}), encoding="utf-8")
+
+    release = tmp_path / "release"
+    release.mkdir()
+    link = release / "questions.json"
+    link.symlink_to(real)
+
+    _atomic_write_json({"data": ["new"]}, str(link))
+
+    # symlink must survive
+    assert os.path.islink(link), "symlink was replaced with a regular file"
+    # real file in shared/ must hold the new content
+    assert json.loads(real.read_text(encoding="utf-8")) == {"data": ["new"]}
+    # reading through the symlink sees new content too
+    assert json.loads(link.read_text(encoding="utf-8")) == {"data": ["new"]}
