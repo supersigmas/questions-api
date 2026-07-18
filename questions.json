@@ -814,7 +814,7 @@
         "ada lovelace",
         "dorothy hodgkin",
         "barbara mcclintock",
-        "ir\u00c3\u00a8ne joliot-curie"
+        "irÃ¨ne joliot-curie"
       ],
       "category": "history",
       "difficulty": "normal"
@@ -1055,7 +1055,7 @@
       "difficulty": "easy"
     },
     {
-      "question": "What is the name of sonic the hedgehog\u00e2\u20ac\u2122s sidekick?",
+      "question": "What is the name of sonic the hedgehogâ€™s sidekick?",
       "points": 800,
       "language": "en",
       "answers": [
@@ -1892,10 +1892,10 @@
       ],
       "wrong_answers": [
         "rio de janeiro",
-        "s\u00c3\u00a3o paulo",
+        "sÃ£o paulo",
         "buenos aires",
         "lima",
-        "bogot\u00c3\u00a1"
+        "bogotÃ¡"
       ],
       "category": "geography",
       "difficulty": "easy"
@@ -3023,7 +3023,7 @@
         "leif erikson",
         "amerigo vespucci",
         "james cook",
-        "hern\u00c3\u00a1n cort\u00c3\u00a9s"
+        "hernÃ¡n cortÃ©s"
       ],
       "category": "history",
       "difficulty": "easy"
@@ -7630,7 +7630,7 @@
       ],
       "wrong_answers": [
         "jane austen",
-        "charlotte bront\u00c3\u00ab",
+        "charlotte brontÃ«",
         "emily dickinson",
         "mary shelley",
         "virginia woolf"
@@ -14922,6 +14922,321 @@
       ],
       "category": "nature",
       "difficulty": "normal"
+    },
+    {
+      "question": "Which country features a maple leaf on its flag?",
+      "answers": [
+        "Canada",
+        "canada"
+      ],
+      "wrong_answers": [
+        "Mexico",
+        "Brazil",
+        "India"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "How many albums did King Gizzard & the Lizard Wizard release in 2017?",
+      "answers": [
+        "5"
+      ],
+      "wrong_answers": [
+        "3",
+        "6",
+        "2"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
+      "answers": [
+        "Microsoft",
+        "microsoft"
+      ],
+      "wrong_answers": [
+        "Apple",
+        "Google",
+        "Yahoo"
+      ],
+      "category": "technology",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+      "answers": [
+        "air"
+      ],
+      "wrong_answers": [
+        "The Schwartz",
+        "Princess Lonestar",
+        "Meatballs"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "Which of these characters in \"Stranger Things\" has the power of Telekinesis?",
+      "answers": [
+        "Eleven",
+        "eleven"
+      ],
+      "wrong_answers": [
+        "Mike",
+        "Lucas",
+        "Karen"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+      "answers": [
+        "Seinfeld",
+        "seinfeld"
+      ],
+      "wrong_answers": [
+        "Frasier",
+        "Becker",
+        "Friends"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "British actor David Morrissey stars as which role in \"The Walking Dead\"?",
+      "answers": [
+        "The Governor",
+        "governor"
+      ],
+      "wrong_answers": [
+        "Negan",
+        "Rick Grimes",
+        "Daryl Dixon"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "How many countries does the United States share a land border with?",
+      "answers": [
+        "2",
+        "two"
+      ],
+      "wrong_answers": [
+        "1",
+        "3",
+        "4"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "What is the equation for the area of a sphere?",
+      "answers": [
+        "(4/3)πr^3",
+        "4/3 πr^3",
+        "four thirds πr cubed"
+      ],
+      "wrong_answers": [
+        "4πr^2",
+        "(1/3)πhr^2",
+        "πr^4"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "What year was the game Dishonored released?",
+      "answers": [
+        "2012"
+      ],
+      "wrong_answers": [
+        "2011",
+        "2008",
+        "2013"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "Which car tire manufacturer is famous for its \"P Zero\" line?",
+      "answers": [
+        "pirelli"
+      ],
+      "wrong_answers": [
+        "Goodyear",
+        "Bridgestone",
+        "Michelin"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+      "answers": [
+        "New Zealand",
+        "new zealand"
+      ],
+      "wrong_answers": [
+        "South Africa",
+        "Australia",
+        "Madagascar"
+      ],
+      "category": "nature",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "If you are caught \"Goldbricking\", what are you doing wrong?",
+      "answers": [
+        "slacking"
+      ],
+      "wrong_answers": [
+        "smoking",
+        "stealing",
+        "cheating"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "What is the boss round featured in the \"Call Of Duty: Zombies\" map \"Five\"?",
+      "answers": [
+        "The Pentagon Thief",
+        "pentagon thief"
+      ],
+      "wrong_answers": [
+        "Hellhounds",
+        "Jumping Jacks",
+        "Napalm Zombie"
+      ],
+      "category": "entertainment",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "What is the name of the company in Lethal Company?",
+      "answers": [
+        "The Company",
+        "company"
+      ],
+      "wrong_answers": [
+        "Planet Scrap Co.",
+        "Lethal Robotics",
+        "Gordian Shipping Co."
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "What do sailors call the front of a boat?",
+      "answers": [
+        "bow"
+      ],
+      "wrong_answers": [
+        "Stern",
+        "Port",
+        "Starboard"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "Who invented the first ever chocolate bar, in 1847?",
+      "answers": [
+        "Joseph Fry",
+        "joseph fry"
+      ],
+      "wrong_answers": [
+        "Andrew Johnson",
+        "John Cadbury",
+        "John Tyler"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "When was the website reddit founded?",
+      "answers": [
+        "2005"
+      ],
+      "wrong_answers": [
+        "2008",
+        "2004",
+        "2006"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "In what year did the nuclear power plant in Chernobyl melt down?",
+      "answers": [
+        "1986",
+        "nineteen eighty-six",
+        "eighty-six"
+      ],
+      "wrong_answers": [
+        "1991",
+        "1975",
+        "1998"
+      ],
+      "category": "history",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "question": "In golf, what name is given to a hole score of two under par?",
+      "answers": [
+        "Eagle",
+        "eagle"
+      ],
+      "wrong_answers": [
+        "Birdie",
+        "Bogey",
+        "Albatross"
+      ],
+      "category": "sports",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
     }
   ]
 }
