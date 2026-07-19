@@ -7,7 +7,7 @@ from flask import Flask, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 from flask_cors import CORS
-from enrichment import start_background_poller
+from enrichment import start_background_poller, TARGET_LANGUAGES
 
 
 def _setup_logging() -> None:
@@ -31,9 +31,44 @@ _setup_logging()
 logger = logging.getLogger(__name__)
 
 
-def _load_questions() -> list:
+TRANSLATIONS_DIR = "translations"
+
+
+def _lang_file(lang: str) -> str:
+    return os.path.join(TRANSLATIONS_DIR, f"questions_{lang}.json")
+
+
+def _load_originals() -> list:
     with open("questions.json", "r", encoding="utf-8") as f:
         return json.load(f)["data"]
+
+
+def _load_questions(language: str = "en") -> list:
+    originals = _load_originals()
+    if language == "en":
+        return originals
+    path = _lang_file(language)
+    if not os.path.exists(path):
+        return []
+    with open(path, "r", encoding="utf-8") as f:
+        translated = json.load(f)["data"]
+    by_id = {q["id"]: q for q in originals if q.get("id")}
+    merged = []
+    for t in translated:
+        base = by_id.get(t["id"])
+        if not base:
+            continue
+        merged.append({
+            "id": t["id"],
+            "question": t["question"],
+            "answers": t["answers"],
+            "wrong_answers": t["wrong_answers"],
+            "category": base["category"],
+            "difficulty": base["difficulty"],
+            "points": base["points"],
+            "language": language,
+        })
+    return merged
 
 
 def collect_categories(data) -> list:
@@ -153,8 +188,7 @@ def get_questions():
     difficulty = request.args.get("difficulty", default="easy", type=str)
     language = request.args.get("language", default="en", type=str)
 
-    data = _load_questions()
-    data = [q for q in data if q.get("language", "en") == language]
+    data = _load_questions(language)
 
     if category:
         questions = get_questions_count(data, category, questions_count, difficulty)
@@ -169,11 +203,11 @@ def get_languages():
     if not validate_bearer_token(request.headers):
         return {"error": "Invalid bearer token"}, 401
 
-    data = _load_questions()
-    counts = {}
-    for item in data:
-        code = item.get("language", "en")
-        counts[code] = counts.get(code, 0) + 1
+    counts = {"en": len(_load_originals())}
+    for lang in sorted(TARGET_LANGUAGES):
+        merged = _load_questions(lang)
+        if merged:
+            counts[lang] = len(merged)
 
     languages = [{"code": c, "count": n} for c, n in sorted(counts.items())]
     return {"languages": languages}, 200
