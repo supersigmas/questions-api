@@ -3,12 +3,11 @@ from unittest.mock import MagicMock, patch
 
 
 def _make_mock_response(content: dict) -> MagicMock:
-    msg = MagicMock()
-    msg.content = json.dumps(content)
-    choice = MagicMock()
-    choice.message = msg
+    block = MagicMock()
+    block.type = "text"
+    block.text = json.dumps(content)
     resp = MagicMock()
-    resp.choices = [choice]
+    resp.content = [block]
     return resp
 
 
@@ -39,12 +38,11 @@ def test_translate_question_sets_language_and_copies_fields():
     }
     mock_resp = _make_mock_response(mock_result)
 
-    with patch("translation._get_az_client") as mock_client_fn:
+    with patch("translation._get_anthropic_client") as mock_client_fn:
         client = MagicMock()
-        client.chat.completions.create.return_value = mock_resp
+        client.messages.create.return_value = mock_resp
         mock_client_fn.return_value = client
-        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o"}):
-            result = _translate_question(_source_en(), "lt")
+        result = _translate_question(_source_en(), "lt")
 
     assert result["language"] == "lt"
     assert result["question"] == mock_result["question"]
@@ -61,14 +59,13 @@ def test_translate_question_passes_target_language_to_prompt():
     mock_resp = _make_mock_response({
         "question": "x", "answers": ["a"], "wrong_answers": ["b"],
     })
-    with patch("translation._get_az_client") as mock_client_fn:
+    with patch("translation._get_anthropic_client") as mock_client_fn:
         client = MagicMock()
-        client.chat.completions.create.return_value = mock_resp
+        client.messages.create.return_value = mock_resp
         mock_client_fn.return_value = client
-        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o"}):
-            _translate_question(_source_en(), "de")
-    _, kwargs = client.chat.completions.create.call_args
-    joined = " ".join(m["content"] for m in kwargs["messages"])
+        _translate_question(_source_en(), "de")
+    _, kwargs = client.messages.create.call_args
+    joined = kwargs["system"] + " ".join(m["content"] for m in kwargs["messages"])
     assert "de" in joined or "German" in joined
 
 
@@ -240,3 +237,26 @@ def test_backfill_language_flag_restricts_to_one_language():
         assert (sid, other) in captured["existing"]
     # the chosen language is NOT pre-blocked, so it remains translatable
     assert (sid, "lt") not in captured["existing"]
+
+
+def test_lang_file_path():
+    from translation import _lang_file
+    assert _lang_file("fr").replace("\\", "/").endswith("translations/questions_fr.json")
+
+
+def test_load_translated_ids_empty_when_missing(tmp_path, monkeypatch):
+    import translation
+    monkeypatch.chdir(tmp_path)
+    assert translation._load_translated_ids("fr") == set()
+
+
+def test_append_translations_writes_and_dedups(tmp_path, monkeypatch):
+    import json, translation
+    monkeypatch.chdir(tmp_path)
+    recs = [{"id": "a", "question": "qa", "answers": ["x"], "wrong_answers": ["y"]}]
+    translation._append_translations("fr", recs)
+    translation._append_translations("fr", recs + [
+        {"id": "b", "question": "qb", "answers": ["1"], "wrong_answers": ["2"]}])
+    data = json.loads((tmp_path / "translations" / "questions_fr.json").read_text())["data"]
+    assert [r["id"] for r in data] == ["a", "b"]
+    assert translation._load_translated_ids("fr") == {"a", "b"}
