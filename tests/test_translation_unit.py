@@ -3,12 +3,11 @@ from unittest.mock import MagicMock, patch
 
 
 def _make_mock_response(content: dict) -> MagicMock:
-    msg = MagicMock()
-    msg.content = json.dumps(content)
-    choice = MagicMock()
-    choice.message = msg
+    block = MagicMock()
+    block.type = "text"
+    block.text = json.dumps(content)
     resp = MagicMock()
-    resp.choices = [choice]
+    resp.content = [block]
     return resp
 
 
@@ -39,12 +38,11 @@ def test_translate_question_sets_language_and_copies_fields():
     }
     mock_resp = _make_mock_response(mock_result)
 
-    with patch("translation._get_az_client") as mock_client_fn:
+    with patch("translation._get_anthropic_client") as mock_client_fn:
         client = MagicMock()
-        client.chat.completions.create.return_value = mock_resp
+        client.messages.create.return_value = mock_resp
         mock_client_fn.return_value = client
-        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o"}):
-            result = _translate_question(_source_en(), "lt")
+        result = _translate_question(_source_en(), "lt")
 
     assert result["language"] == "lt"
     assert result["question"] == mock_result["question"]
@@ -61,14 +59,13 @@ def test_translate_question_passes_target_language_to_prompt():
     mock_resp = _make_mock_response({
         "question": "x", "answers": ["a"], "wrong_answers": ["b"],
     })
-    with patch("translation._get_az_client") as mock_client_fn:
+    with patch("translation._get_anthropic_client") as mock_client_fn:
         client = MagicMock()
-        client.chat.completions.create.return_value = mock_resp
+        client.messages.create.return_value = mock_resp
         mock_client_fn.return_value = client
-        with patch.dict("os.environ", {"AZURE_OPENAI_DEPLOYMENT": "gpt-4o"}):
-            _translate_question(_source_en(), "de")
-    _, kwargs = client.chat.completions.create.call_args
-    joined = " ".join(m["content"] for m in kwargs["messages"])
+        _translate_question(_source_en(), "de")
+    _, kwargs = client.messages.create.call_args
+    joined = kwargs["system"] + " ".join(m["content"] for m in kwargs["messages"])
     assert "de" in joined or "German" in joined
 
 
@@ -178,65 +175,100 @@ def test_translate_and_persist_skips_when_persist_raises():
     assert (sid, "lt") not in existing
 
 
-def test_backfill_run_translates_english_records():
-    import translate_questions
-    from unittest.mock import patch
-    data = [
-        {"question": "Q1", "answers": ["a"], "wrong_answers": ["b"],
-         "category": "geography", "difficulty": "easy", "points": 700, "language": "en"},
-        {"question": "Q2", "answers": ["c"], "wrong_answers": ["d"],
-         "category": "science", "difficulty": "easy", "points": 700, "language": "en"},
-    ]
-    calls = []
-
-    def fake_tap(source_q, existing):
-        calls.append(source_q["question"])
-        return 6
-
-    with patch.object(translate_questions, "_read_all", return_value=data), \
-         patch.object(translate_questions, "translate_and_persist", side_effect=fake_tap):
-        total = translate_questions.run(language=None, limit=None)
-
-    assert total == 12
-    assert calls == ["Q1", "Q2"]
+def test_lang_file_path():
+    from translation import _lang_file
+    assert _lang_file("fr").replace("\\", "/").endswith("translations/questions_fr.json")
 
 
-def test_backfill_respects_limit():
-    import translate_questions
-    from unittest.mock import patch
-    data = [
-        {"question": f"Q{i}", "answers": ["a"], "wrong_answers": ["b"],
-         "category": "geography", "difficulty": "easy", "points": 700, "language": "en"}
-        for i in range(5)
-    ]
-    with patch.object(translate_questions, "_read_all", return_value=data), \
-         patch.object(translate_questions, "translate_and_persist", return_value=1) as m:
-        translate_questions.run(language=None, limit=2)
-    assert m.call_count == 2
+def test_load_translated_ids_empty_when_missing(tmp_path, monkeypatch):
+    import translation
+    monkeypatch.chdir(tmp_path)
+    assert translation._load_translated_ids("fr") == set()
 
 
-def test_backfill_language_flag_restricts_to_one_language():
-    import translate_questions
-    from unittest.mock import patch
-    from enrichment import _source_id, TARGET_LANGUAGES
-    data = [
-        {"question": "Q1", "answers": ["a"], "wrong_answers": ["b"],
-         "category": "geography", "difficulty": "easy", "points": 700, "language": "en"},
-    ]
-    sid = _source_id("Q1")
-    captured = {}
+def test_append_translations_writes_and_dedups(tmp_path, monkeypatch):
+    import json, translation
+    monkeypatch.chdir(tmp_path)
+    recs = [{"id": "a", "question": "qa", "answers": ["x"], "wrong_answers": ["y"]}]
+    translation._append_translations("fr", recs)
+    translation._append_translations("fr", recs + [
+        {"id": "b", "question": "qb", "answers": ["1"], "wrong_answers": ["2"]}])
+    data = json.loads((tmp_path / "translations" / "questions_fr.json").read_text())["data"]
+    assert [r["id"] for r in data] == ["a", "b"]
+    assert translation._load_translated_ids("fr") == {"a", "b"}
 
-    def capture_tap(source_q, existing):
-        # snapshot the set as seen for this question
-        captured["existing"] = set(existing)
-        return 0
 
-    with patch.object(translate_questions, "_read_all", return_value=data), \
-         patch.object(translate_questions, "translate_and_persist", side_effect=capture_tap):
-        translate_questions.run(language="lt", limit=None)
+def test_build_batch_request_lists_missing_langs():
+    from translation import _build_batch_request, ANTHROPIC_TRANSLATION_MODEL
+    q = {"id": "abc", "question": "Q?", "answers": ["a"], "wrong_answers": ["b"]}
+    req = _build_batch_request(q, ["fr", "de"])
+    assert req["custom_id"] == "abc"
+    sysp = req["params"]["system"]
+    assert "French (fr)" in sysp and "German (de)" in sysp
+    assert req["params"]["model"] == ANTHROPIC_TRANSLATION_MODEL
+    assert req["params"]["messages"][0]["content"]
 
-    # every non-chosen target language is pre-blocked for this source
-    for other in TARGET_LANGUAGES - {"lt"}:
-        assert (sid, other) in captured["existing"]
-    # the chosen language is NOT pre-blocked, so it remains translatable
-    assert (sid, "lt") not in captured["existing"]
+
+def test_parse_batch_translation_tolerates_fence():
+    from translation import _parse_batch_translation
+    raw = '```json\n{"fr": {"question":"x","answers":["a"],"wrong_answers":["b"]}}\n```'
+    parsed = _parse_batch_translation(raw)
+    assert parsed["fr"]["question"] == "x"
+
+
+def test_translation_record_shape():
+    from translation import _translation_record
+    rec = _translation_record("id1", {"question": "q", "answers": ["a"], "wrong_answers": ["b"]})
+    assert rec == {"id": "id1", "question": "q", "answers": ["a"], "wrong_answers": ["b"]}
+
+
+def test_batch_run_translates_missing_language(tmp_path, monkeypatch):
+    import json, hashlib, translate_questions
+    from unittest.mock import MagicMock
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "questions.json").write_text(json.dumps({"data": [
+        {"question": "Q1", "answers": ["a"], "wrong_answers": ["b", "c", "d"],
+         "category": "geo", "difficulty": "easy", "points": 700, "language": "en"}]}))
+    qid = hashlib.md5("Q1".encode()).hexdigest()
+
+    client = MagicMock()
+    batch = MagicMock(id="batch_1", processing_status="ended")
+    client.messages.batches.create.return_value = batch
+    client.messages.batches.retrieve.return_value = batch
+    block = MagicMock(type="text")
+    block.text = json.dumps({
+        "fr": {"question": "Q1-fr", "answers": ["a"], "wrong_answers": ["b", "c", "d"]},
+        "de": {"question": "Q1-de", "answers": ["a"], "wrong_answers": ["b", "c", "d"]},
+    })
+    res = MagicMock(custom_id=qid)
+    res.result.type = "succeeded"
+    res.result.message.content = [block]
+    client.messages.batches.results.return_value = [res]
+
+    monkeypatch.setattr(translate_questions, "_get_anthropic_client", lambda: client)
+    monkeypatch.setattr(translate_questions, "BATCH_POLL_INTERVAL", 0)
+
+    total = translate_questions.run(language="fr")
+    assert total == 1
+    fr = json.loads((tmp_path / "translations" / "questions_fr.json").read_text())["data"]
+    assert fr[0]["id"] == qid and fr[0]["question"] == "Q1-fr"
+    assert not (tmp_path / "translations" / "questions_de.json").exists()
+    orig = json.loads((tmp_path / "questions.json").read_text())["data"]
+    assert orig[0]["id"] == qid  # id stamped back into originals
+
+
+def test_batch_run_skips_when_all_present(tmp_path, monkeypatch):
+    import json, hashlib, translate_questions
+    from unittest.mock import MagicMock
+    monkeypatch.chdir(tmp_path)
+    qid = hashlib.md5("Q1".encode()).hexdigest()
+    (tmp_path / "questions.json").write_text(json.dumps({"data": [
+        {"question": "Q1", "id": qid, "answers": ["a"], "wrong_answers": ["b", "c", "d"],
+         "category": "geo", "difficulty": "easy", "points": 700, "language": "en"}]}))
+    (tmp_path / "translations").mkdir()
+    (tmp_path / "translations" / "questions_fr.json").write_text(json.dumps({"data": [
+        {"id": qid, "question": "x", "answers": ["a"], "wrong_answers": ["b", "c", "d"]}]}))
+    client = MagicMock()
+    monkeypatch.setattr(translate_questions, "_get_anthropic_client", lambda: client)
+    assert translate_questions.run(language="fr") == 0
+    client.messages.batches.create.assert_not_called()

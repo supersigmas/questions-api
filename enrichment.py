@@ -113,6 +113,17 @@ def _source_id(text: str) -> str:
     return hashlib.md5(text.encode()).hexdigest()
 
 
+def _stamp_ids(data: list) -> bool:
+    """Add `id = md5(question)` to any record missing one. Returns True if any
+    id was added (the store then needs to be persisted)."""
+    changed = False
+    for q in data:
+        if not q.get("id"):
+            q["id"] = _source_id(q["question"])
+            changed = True
+    return changed
+
+
 def _get_az_client() -> AzureOpenAI:
     return AzureOpenAI(
         azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
@@ -167,13 +178,26 @@ def _atomic_replace(src: str, dst: str) -> None:
             time.sleep(0.05)
 
 
-def _save_embeddings(store: dict) -> None:
+def _atomic_write_json(data, path: str, **dump_kwargs) -> None:
+    """Atomically write `data` as JSON to `path`, writing through symlinks.
+
+    If `path` is a symlink (e.g. a release-dir file symlinked into shared/ so
+    it survives deploys), resolve to the real target and write the temp file
+    alongside it. os.replace onto a symlink would otherwise replace the symlink
+    itself with a regular file, silently breaking cross-deploy persistence.
+    """
+    target = os.path.realpath(path)
+    target_dir = os.path.dirname(target) or "."
     with tempfile.NamedTemporaryFile(
-        "w", dir=".", suffix=".tmp", delete=False, encoding="utf-8"
+        "w", dir=target_dir, suffix=".tmp", delete=False, encoding="utf-8"
     ) as tmp:
-        json.dump(store, tmp, ensure_ascii=False)
+        json.dump(data, tmp, ensure_ascii=False, **dump_kwargs)
         tmp_path = tmp.name
-    _atomic_replace(tmp_path, EMBEDDINGS_FILE)
+    _atomic_replace(tmp_path, target)
+
+
+def _save_embeddings(store: dict) -> None:
+    _atomic_write_json(store, EMBEDDINGS_FILE)
 
 
 def _load_embeddings() -> dict:
@@ -338,15 +362,10 @@ def _persist_question(q: dict) -> None:
             logger.info("Skipping duplicate (race): %s", q["question"][:80])
             return
 
+        q["id"] = q.get("id") or _source_id(q["question"])
         store["data"].append(q)
 
-        with tempfile.NamedTemporaryFile(
-            "w", dir=".", suffix=".tmp", delete=False, encoding="utf-8"
-        ) as tmp:
-            json.dump(store, tmp, indent=2, ensure_ascii=False)
-            tmp_path = tmp.name
-
-        _atomic_replace(tmp_path, QUESTIONS_FILE)
+        _atomic_write_json(store, QUESTIONS_FILE, indent=2)
 
 
 def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, variant: int) -> bool:
@@ -399,14 +418,6 @@ def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, 
     except Exception as exc:
         logger.error("PERSISTENCE FAILED: %s | Error: %s", question_text, str(exc)[:100])
         return False
-
-    try:
-        # A freshly enriched question is unique by construction, so no prior
-        # (source_id, language) pairs can exist; pass an empty set.
-        from translation import translate_and_persist
-        translate_and_persist(enriched, set())
-    except Exception as exc:
-        logger.error("INLINE TRANSLATION FAILED: %s | Error: %s", question_text, str(exc)[:100])
 
     logger.info(
         "ENRICHMENT SUCCESS: %s | Category: %s | Difficulty: %s | Points: %d | variant=%d",

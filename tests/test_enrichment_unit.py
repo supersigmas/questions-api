@@ -400,26 +400,62 @@ def test_validate_rejects_empty_source_id_when_present():
     assert _validate_question(q) is False
 
 
-def test_process_question_triggers_translation_after_persist():
-    from unittest.mock import patch
-    import enrichment
+def test_atomic_write_json_preserves_symlink_and_writes_through(tmp_path):
+    """When the target path is a symlink into a shared dir, the atomic write
+    must update the real file and leave the symlink intact (not clobber it
+    with a regular file). This is what keeps enriched data persistent across
+    releases-based deploys."""
+    from enrichment import _atomic_write_json
 
-    raw_q = {"question": "Q?", "correct_answer": "a", "incorrect_answers": ["b"],
-             "category": "Science", "difficulty": "easy", "type": "multiple"}
-    enriched = {"question": "Q enriched?", "answers": ["a"], "wrong_answers": ["b"],
-                "category": "science", "difficulty": "easy", "points": 700, "language": "en"}
+    shared = tmp_path / "shared"
+    shared.mkdir()
+    real = shared / "questions.json"
+    real.write_text(json.dumps({"data": ["old"]}), encoding="utf-8")
 
-    with patch.object(enrichment, "_enrich_question", return_value=enriched), \
-         patch.object(enrichment, "_simplify_question", return_value={
-             "question": "Q enriched?", "answers": ["a"], "wrong_answers": ["b"]}), \
-         patch.object(enrichment, "_get_embedding", return_value=[0.0, 0.1]), \
-         patch.object(enrichment, "_is_semantic_duplicate", return_value=False), \
-         patch.object(enrichment, "_persist_question"), \
-         patch.object(enrichment, "_persist_embedding"), \
-         patch("translation.translate_and_persist") as mock_tap:
-        ok = enrichment._process_question(raw_q, set(), {}, variant=0)
+    release = tmp_path / "release"
+    release.mkdir()
+    link = release / "questions.json"
+    link.symlink_to(real)
 
-    assert ok is True
-    mock_tap.assert_called_once()
-    passed_source = mock_tap.call_args[0][0]
-    assert "source_id" in passed_source
+    _atomic_write_json({"data": ["new"]}, str(link))
+
+    # symlink must survive
+    assert os.path.islink(link), "symlink was replaced with a regular file"
+    # real file in shared/ must hold the new content
+    assert json.loads(real.read_text(encoding="utf-8")) == {"data": ["new"]}
+    # reading through the symlink sees new content too
+    assert json.loads(link.read_text(encoding="utf-8")) == {"data": ["new"]}
+
+
+def test_stamp_ids_adds_md5_id_when_missing():
+    import hashlib
+    from enrichment import _stamp_ids
+    data = [{"question": "What is 2+2?"}, {"question": "Sky?", "id": "keep"}]
+    changed = _stamp_ids(data)
+    assert changed is True
+    assert data[0]["id"] == hashlib.md5("What is 2+2?".encode()).hexdigest()
+    assert data[1]["id"] == "keep"
+
+
+def test_stamp_ids_idempotent():
+    from enrichment import _stamp_ids
+    data = [{"question": "Q", "id": "x"}]
+    assert _stamp_ids(data) is False
+
+
+def test_persist_question_stamps_id(tmp_path, monkeypatch):
+    import json, hashlib, enrichment
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    monkeypatch.setattr(enrichment, "_is_unique", lambda q, existing: True)
+    enrichment._persist_question({
+        "question": "New Q?", "answers": ["a"], "wrong_answers": ["b", "c", "d"],
+        "category": "c", "difficulty": "easy", "points": 700, "language": "en",
+    })
+    data = json.loads((tmp_path / "questions.json").read_text())["data"]
+    assert data[0]["id"] == hashlib.md5("New Q?".encode()).hexdigest()
+
+
+def test_poller_has_no_inline_translation():
+    import inspect, enrichment
+    assert "translate_and_persist" not in inspect.getsource(enrichment)

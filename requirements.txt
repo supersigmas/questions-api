@@ -7,3 +7,4 @@ openai
 python-dotenv
 numpy
 sentence-transformers
+anthropic>=0.45.0

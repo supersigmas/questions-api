@@ -2,15 +2,76 @@ import json
 import logging
 import os
 
+import anthropic
+
 from enrichment import (
     TARGET_LANGUAGES,
-    _get_az_client,
+    _atomic_write_json,
     _persist_question,
     _source_id,
     _validate_question,
 )
 
 logger = logging.getLogger(__name__)
+
+# Translation runs on Claude (Anthropic). Override the model via env if desired
+# (e.g. ANTHROPIC_TRANSLATION_MODEL=claude-haiku-4-5 for cheaper bulk runs).
+ANTHROPIC_TRANSLATION_MODEL = os.environ.get(
+    "ANTHROPIC_TRANSLATION_MODEL", "claude-opus-4-8"
+)
+
+_anthropic_client = None
+
+
+def _get_anthropic_client() -> "anthropic.Anthropic":
+    global _anthropic_client
+    if _anthropic_client is None:
+        _anthropic_client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
+    return _anthropic_client
+
+
+TRANSLATIONS_DIR = "translations"
+
+
+def _lang_file(lang: str) -> str:
+    return os.path.join(TRANSLATIONS_DIR, f"questions_{lang}.json")
+
+
+def _load_translated_ids(lang: str) -> set:
+    path = _lang_file(lang)
+    if not os.path.exists(path):
+        return set()
+    with open(path, "r", encoding="utf-8") as f:
+        return {r["id"] for r in json.load(f)["data"]}
+
+
+def _append_translations(lang: str, records: list) -> None:
+    """Append translated records to the per-language file, skipping ids already
+    present. Writes atomically (through symlinks)."""
+    path = _lang_file(lang)
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            store = json.load(f)
+    else:
+        os.makedirs(TRANSLATIONS_DIR, exist_ok=True)
+        store = {"data": []}
+    have = {r["id"] for r in store["data"]}
+    for rec in records:
+        if rec["id"] not in have:
+            store["data"].append(rec)
+            have.add(rec["id"])
+    _atomic_write_json(store, path, indent=2)
+
+
+def _extract_json(text: str) -> str:
+    """Return the JSON object from a model response, tolerating a stray
+    ```json ... ``` markdown fence around it."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("\n", 1)[-1]  # drop the opening ``` / ```json line
+        if text.endswith("```"):
+            text = text[: -3]
+    return text.strip()
 
 LANGUAGE_NAMES = {
     "de": "German",
@@ -35,10 +96,60 @@ The object MUST have exactly these fields:
 Preserve the meaning and difficulty. Do not add or remove answer options.
 Return only the JSON object."""
 
+ALL_LANGS_SYSTEM_PROMPT = """You are a translation assistant for a family trivia game.
+
+Translate the given English trivia question into EACH of these languages: {lang_list}.
+
+Output ONLY a single valid JSON object. No prose, no markdown. The object maps
+each language code to an object with exactly these fields:
+- "question": string - the question translated naturally into that language
+- "answers": array of strings - natural LOWERCASE variants of the correct answer (keep 1-3 items, same meaning as the source)
+- "wrong_answers": array of strings - the incorrect answers translated
+
+Example shape: {{"fr": {{"question": "...", "answers": ["..."], "wrong_answers": ["..."]}}}}
+
+Preserve meaning and difficulty. Do not add or remove answer options.
+Use these language codes exactly: {lang_codes}. Return only the JSON object."""
+
+
+def _build_batch_request(source_q: dict, langs: list) -> dict:
+    lang_list = ", ".join(f"{LANGUAGE_NAMES[l]} ({l})" for l in langs)
+    system_prompt = ALL_LANGS_SYSTEM_PROMPT.format(
+        lang_list=lang_list, lang_codes=", ".join(langs)
+    )
+    payload = {
+        "question": source_q["question"],
+        "answers": source_q["answers"],
+        "wrong_answers": source_q["wrong_answers"],
+    }
+    return {
+        "custom_id": source_q["id"],
+        "params": {
+            "model": ANTHROPIC_TRANSLATION_MODEL,
+            "max_tokens": 2048,
+            "system": system_prompt,
+            "messages": [
+                {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
+            ],
+        },
+    }
+
+
+def _parse_batch_translation(text: str) -> dict:
+    return json.loads(_extract_json(text))
+
+
+def _translation_record(qid: str, lang_obj: dict) -> dict:
+    return {
+        "id": qid,
+        "question": lang_obj["question"],
+        "answers": lang_obj["answers"],
+        "wrong_answers": lang_obj["wrong_answers"],
+    }
+
 
 def _translate_question(source_q: dict, lang: str) -> dict:
-    client = _get_az_client()
-    deployment = os.environ["AZURE_OPENAI_DEPLOYMENT"]
+    client = _get_anthropic_client()
     system_prompt = TRANSLATION_SYSTEM_PROMPT.format(
         language_name=LANGUAGE_NAMES[lang], language_code=lang
     )
@@ -49,17 +160,16 @@ def _translate_question(source_q: dict, lang: str) -> dict:
     }
     preview = source_q.get("question", "")[:80]
     try:
-        response = client.chat.completions.create(
-            model=deployment,
+        response = client.messages.create(
+            model=ANTHROPIC_TRANSLATION_MODEL,
+            max_tokens=1024,
+            system=system_prompt,
             messages=[
-                {"role": "system", "content": system_prompt},
                 {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
             ],
-            temperature=0.2,
-            max_tokens=512,
         )
-        content = response.choices[0].message.content.strip()
-        translated = json.loads(content)
+        content = next(b.text for b in response.content if b.type == "text")
+        translated = json.loads(_extract_json(content))
     except json.JSONDecodeError as e:
         logger.error("Translation JSON parse failed (%s) for '%s': %s", lang, preview, e)
         raise
