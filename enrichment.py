@@ -113,6 +113,17 @@ def _source_id(text: str) -> str:
     return hashlib.md5(text.encode()).hexdigest()
 
 
+def _stamp_ids(data: list) -> bool:
+    """Add `id = md5(question)` to any record missing one. Returns True if any
+    id was added (the store then needs to be persisted)."""
+    changed = False
+    for q in data:
+        if not q.get("id"):
+            q["id"] = _source_id(q["question"])
+            changed = True
+    return changed
+
+
 def _get_az_client() -> AzureOpenAI:
     return AzureOpenAI(
         azure_endpoint=os.environ["AZURE_OPENAI_ENDPOINT"],
@@ -351,6 +362,7 @@ def _persist_question(q: dict) -> None:
             logger.info("Skipping duplicate (race): %s", q["question"][:80])
             return
 
+        q["id"] = q.get("id") or _source_id(q["question"])
         store["data"].append(q)
 
         _atomic_write_json(store, QUESTIONS_FILE, indent=2)

@@ -450,3 +450,32 @@ def test_atomic_write_json_preserves_symlink_and_writes_through(tmp_path):
     assert json.loads(real.read_text(encoding="utf-8")) == {"data": ["new"]}
     # reading through the symlink sees new content too
     assert json.loads(link.read_text(encoding="utf-8")) == {"data": ["new"]}
+
+
+def test_stamp_ids_adds_md5_id_when_missing():
+    import hashlib
+    from enrichment import _stamp_ids
+    data = [{"question": "What is 2+2?"}, {"question": "Sky?", "id": "keep"}]
+    changed = _stamp_ids(data)
+    assert changed is True
+    assert data[0]["id"] == hashlib.md5("What is 2+2?".encode()).hexdigest()
+    assert data[1]["id"] == "keep"
+
+
+def test_stamp_ids_idempotent():
+    from enrichment import _stamp_ids
+    data = [{"question": "Q", "id": "x"}]
+    assert _stamp_ids(data) is False
+
+
+def test_persist_question_stamps_id(tmp_path, monkeypatch):
+    import json, hashlib, enrichment
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    monkeypatch.setattr(enrichment, "_is_unique", lambda q, existing: True)
+    enrichment._persist_question({
+        "question": "New Q?", "answers": ["a"], "wrong_answers": ["b", "c", "d"],
+        "category": "c", "difficulty": "easy", "points": 700, "language": "en",
+    })
+    data = json.loads((tmp_path / "questions.json").read_text())["data"]
+    assert data[0]["id"] == hashlib.md5("New Q?".encode()).hexdigest()
