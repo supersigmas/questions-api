@@ -260,3 +260,27 @@ def test_append_translations_writes_and_dedups(tmp_path, monkeypatch):
     data = json.loads((tmp_path / "translations" / "questions_fr.json").read_text())["data"]
     assert [r["id"] for r in data] == ["a", "b"]
     assert translation._load_translated_ids("fr") == {"a", "b"}
+
+
+def test_build_batch_request_lists_missing_langs():
+    from translation import _build_batch_request, ANTHROPIC_TRANSLATION_MODEL
+    q = {"id": "abc", "question": "Q?", "answers": ["a"], "wrong_answers": ["b"]}
+    req = _build_batch_request(q, ["fr", "de"])
+    assert req["custom_id"] == "abc"
+    sysp = req["params"]["system"]
+    assert "French (fr)" in sysp and "German (de)" in sysp
+    assert req["params"]["model"] == ANTHROPIC_TRANSLATION_MODEL
+    assert req["params"]["messages"][0]["content"]
+
+
+def test_parse_batch_translation_tolerates_fence():
+    from translation import _parse_batch_translation
+    raw = '```json\n{"fr": {"question":"x","answers":["a"],"wrong_answers":["b"]}}\n```'
+    parsed = _parse_batch_translation(raw)
+    assert parsed["fr"]["question"] == "x"
+
+
+def test_translation_record_shape():
+    from translation import _translation_record
+    rec = _translation_record("id1", {"question": "q", "answers": ["a"], "wrong_answers": ["b"]})
+    assert rec == {"id": "id1", "question": "q", "answers": ["a"], "wrong_answers": ["b"]}

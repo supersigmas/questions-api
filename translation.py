@@ -96,6 +96,57 @@ The object MUST have exactly these fields:
 Preserve the meaning and difficulty. Do not add or remove answer options.
 Return only the JSON object."""
 
+ALL_LANGS_SYSTEM_PROMPT = """You are a translation assistant for a family trivia game.
+
+Translate the given English trivia question into EACH of these languages: {lang_list}.
+
+Output ONLY a single valid JSON object. No prose, no markdown. The object maps
+each language code to an object with exactly these fields:
+- "question": string - the question translated naturally into that language
+- "answers": array of strings - natural LOWERCASE variants of the correct answer (keep 1-3 items, same meaning as the source)
+- "wrong_answers": array of strings - the incorrect answers translated
+
+Example shape: {{"fr": {{"question": "...", "answers": ["..."], "wrong_answers": ["..."]}}}}
+
+Preserve meaning and difficulty. Do not add or remove answer options.
+Use these language codes exactly: {lang_codes}. Return only the JSON object."""
+
+
+def _build_batch_request(source_q: dict, langs: list) -> dict:
+    lang_list = ", ".join(f"{LANGUAGE_NAMES[l]} ({l})" for l in langs)
+    system_prompt = ALL_LANGS_SYSTEM_PROMPT.format(
+        lang_list=lang_list, lang_codes=", ".join(langs)
+    )
+    payload = {
+        "question": source_q["question"],
+        "answers": source_q["answers"],
+        "wrong_answers": source_q["wrong_answers"],
+    }
+    return {
+        "custom_id": source_q["id"],
+        "params": {
+            "model": ANTHROPIC_TRANSLATION_MODEL,
+            "max_tokens": 2048,
+            "system": system_prompt,
+            "messages": [
+                {"role": "user", "content": json.dumps(payload, ensure_ascii=False)},
+            ],
+        },
+    }
+
+
+def _parse_batch_translation(text: str) -> dict:
+    return json.loads(_extract_json(text))
+
+
+def _translation_record(qid: str, lang_obj: dict) -> dict:
+    return {
+        "id": qid,
+        "question": lang_obj["question"],
+        "answers": lang_obj["answers"],
+        "wrong_answers": lang_obj["wrong_answers"],
+    }
+
 
 def _translate_question(source_q: dict, lang: str) -> dict:
     client = _get_anthropic_client()
