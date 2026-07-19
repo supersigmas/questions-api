@@ -400,31 +400,6 @@ def test_validate_rejects_empty_source_id_when_present():
     assert _validate_question(q) is False
 
 
-def test_process_question_triggers_translation_after_persist():
-    from unittest.mock import patch
-    import enrichment
-
-    raw_q = {"question": "Q?", "correct_answer": "a", "incorrect_answers": ["b"],
-             "category": "Science", "difficulty": "easy", "type": "multiple"}
-    enriched = {"question": "Q enriched?", "answers": ["a"], "wrong_answers": ["b"],
-                "category": "science", "difficulty": "easy", "points": 700, "language": "en"}
-
-    with patch.object(enrichment, "_enrich_question", return_value=enriched), \
-         patch.object(enrichment, "_simplify_question", return_value={
-             "question": "Q enriched?", "answers": ["a"], "wrong_answers": ["b"]}), \
-         patch.object(enrichment, "_get_embedding", return_value=[0.0, 0.1]), \
-         patch.object(enrichment, "_is_semantic_duplicate", return_value=False), \
-         patch.object(enrichment, "_persist_question"), \
-         patch.object(enrichment, "_persist_embedding"), \
-         patch("translation.translate_and_persist") as mock_tap:
-        ok = enrichment._process_question(raw_q, set(), {}, variant=0)
-
-    assert ok is True
-    mock_tap.assert_called_once()
-    passed_source = mock_tap.call_args[0][0]
-    assert "source_id" in passed_source
-
-
 def test_atomic_write_json_preserves_symlink_and_writes_through(tmp_path):
     """When the target path is a symlink into a shared dir, the atomic write
     must update the real file and leave the symlink intact (not clobber it
@@ -479,3 +454,8 @@ def test_persist_question_stamps_id(tmp_path, monkeypatch):
     })
     data = json.loads((tmp_path / "questions.json").read_text())["data"]
     assert data[0]["id"] == hashlib.md5("New Q?".encode()).hexdigest()
+
+
+def test_poller_has_no_inline_translation():
+    import inspect, enrichment
+    assert "translate_and_persist" not in inspect.getsource(enrichment)

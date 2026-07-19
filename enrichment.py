@@ -419,14 +419,6 @@ def _process_question(raw_q: dict, existing_texts: set, embeddings_store: dict, 
         logger.error("PERSISTENCE FAILED: %s | Error: %s", question_text, str(exc)[:100])
         return False
 
-    try:
-        # A freshly enriched question is unique by construction, so no prior
-        # (source_id, language) pairs can exist; pass an empty set.
-        from translation import translate_and_persist
-        translate_and_persist(enriched, set())
-    except Exception as exc:
-        logger.error("INLINE TRANSLATION FAILED: %s | Error: %s", question_text, str(exc)[:100])
-
     logger.info(
         "ENRICHMENT SUCCESS: %s | Category: %s | Difficulty: %s | Points: %d | variant=%d",
         enriched["question"][:80], enriched["category"], enriched["difficulty"],
