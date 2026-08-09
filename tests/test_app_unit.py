@@ -81,7 +81,8 @@ def test_questions_filters_by_language(client):
 
 def _seed(tmp_path):
     import json
-    (tmp_path / "questions.json").write_text(json.dumps({"data": [
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": [
         {"id": "1", "question": "Q", "answers": ["a"], "wrong_answers": ["b"],
          "category": "geo", "difficulty": "easy", "points": 700, "language": "en"}]}))
 
@@ -97,7 +98,7 @@ def test_load_questions_merges_translation_metadata(tmp_path, monkeypatch):
     import json, app
     monkeypatch.chdir(tmp_path)
     _seed(tmp_path)
-    (tmp_path / "translations").mkdir()
+    (tmp_path / "translations").mkdir(exist_ok=True)
     (tmp_path / "translations" / "questions_fr.json").write_text(json.dumps({"data": [
         {"id": "1", "question": "Q-fr", "answers": ["a-fr"], "wrong_answers": ["b-fr"]}]}))
     fr = app._load_questions("fr")
@@ -111,7 +112,7 @@ def test_load_questions_skips_unknown_ids(tmp_path, monkeypatch):
     import json, app
     monkeypatch.chdir(tmp_path)
     _seed(tmp_path)
-    (tmp_path / "translations").mkdir()
+    (tmp_path / "translations").mkdir(exist_ok=True)
     (tmp_path / "translations" / "questions_fr.json").write_text(json.dumps({"data": [
         {"id": "999", "question": "orphan", "answers": ["a"], "wrong_answers": ["b"]}]}))
     assert app._load_questions("fr") == []

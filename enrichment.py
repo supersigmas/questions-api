@@ -15,7 +15,7 @@ load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-QUESTIONS_FILE = "questions.json"
+QUESTIONS_FILE = "translations/questions_en.json"
 OPENTDB_URL = "https://opentdb.com/api.php?amount=20&difficulty=easy&type=multiple"
 POLL_INTERVAL = 720  # 10 fetches per hour
 

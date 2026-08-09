@@ -2,7 +2,7 @@
 
 import json
 
-f = open("questions.json", "r")
+f = open("translations/questions_en.json", "r")
 data = json.load(f)
 
 data = data["data"]
@@ -57,7 +57,7 @@ print(d)
 
 from collections import defaultdict
 
-with open("questions.json", "r") as f:
+with open("translations/questions_en.json", "r") as f:
     data = json.load(f)["data"]
 
 # category -> difficulty -> count
