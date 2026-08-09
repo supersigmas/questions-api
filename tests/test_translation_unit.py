@@ -226,7 +226,8 @@ def test_batch_run_translates_missing_language(tmp_path, monkeypatch):
     import json, hashlib, translate_questions
     from unittest.mock import MagicMock
     monkeypatch.chdir(tmp_path)
-    (tmp_path / "questions.json").write_text(json.dumps({"data": [
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": [
         {"question": "Q1", "answers": ["a"], "wrong_answers": ["b", "c", "d"],
          "category": "geo", "difficulty": "easy", "points": 700, "language": "en"}]}))
     qid = hashlib.md5("Q1".encode()).hexdigest()
@@ -253,7 +254,7 @@ def test_batch_run_translates_missing_language(tmp_path, monkeypatch):
     fr = json.loads((tmp_path / "translations" / "questions_fr.json").read_text())["data"]
     assert fr[0]["id"] == qid and fr[0]["question"] == "Q1-fr"
     assert not (tmp_path / "translations" / "questions_de.json").exists()
-    orig = json.loads((tmp_path / "questions.json").read_text())["data"]
+    orig = json.loads((tmp_path / "translations" / "questions_en.json").read_text())["data"]
     assert orig[0]["id"] == qid  # id stamped back into originals
 
 
@@ -262,10 +263,10 @@ def test_batch_run_skips_when_all_present(tmp_path, monkeypatch):
     from unittest.mock import MagicMock
     monkeypatch.chdir(tmp_path)
     qid = hashlib.md5("Q1".encode()).hexdigest()
-    (tmp_path / "questions.json").write_text(json.dumps({"data": [
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": [
         {"question": "Q1", "id": qid, "answers": ["a"], "wrong_answers": ["b", "c", "d"],
          "category": "geo", "difficulty": "easy", "points": 700, "language": "en"}]}))
-    (tmp_path / "translations").mkdir()
     (tmp_path / "translations" / "questions_fr.json").write_text(json.dumps({"data": [
         {"id": qid, "question": "x", "answers": ["a"], "wrong_answers": ["b", "c", "d"]}]}))
     client = MagicMock()

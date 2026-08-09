@@ -29,7 +29,7 @@ BAD_PATTERNS = re.compile(
     re.IGNORECASE,
 )
 
-QUESTIONS_FILE = "questions.json"
+QUESTIONS_FILE = "translations/questions_en.json"
 
 
 def needs_cleanup(q: dict) -> bool:

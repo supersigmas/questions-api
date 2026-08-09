@@ -120,7 +120,8 @@ def test_save_and_load_embeddings_roundtrip(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
 
     # create a minimal questions.json
-    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": []}))
 
     import importlib
     import enrichment
@@ -136,7 +137,8 @@ def test_save_and_load_embeddings_roundtrip(tmp_path, monkeypatch):
 
 def test_load_embeddings_creates_file_if_missing(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
-    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": []}))
 
     import importlib
     import enrichment
@@ -235,7 +237,8 @@ def test_simplify_question_uses_correct_variant_prompt():
 
 def test_process_question_full_pipeline_success(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
-    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": []}))
     (tmp_path / "embeddings.json").write_text(json.dumps({}))
 
     import importlib
@@ -288,14 +291,15 @@ def test_process_question_full_pipeline_success(tmp_path, monkeypatch):
             result = enrichment._process_question(raw_q, set(), store, variant=0)
 
     assert result is True
-    saved = json.loads((tmp_path / "questions.json").read_text())
+    saved = json.loads((tmp_path / "translations" / "questions_en.json").read_text())
     assert len(saved["data"]) == 1
     assert saved["data"][0]["answers"] == ["berlin", "berlin germany", "the city of berlin"]
 
 
 def test_process_question_skips_semantic_duplicate(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
-    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": []}))
     (tmp_path / "embeddings.json").write_text(json.dumps({}))
 
     import importlib
@@ -351,7 +355,7 @@ def test_process_question_skips_semantic_duplicate(tmp_path, monkeypatch):
             result = enrichment._process_question(raw_q, set(), existing_store, variant=0)
 
     assert result is False
-    saved = json.loads((tmp_path / "questions.json").read_text())
+    saved = json.loads((tmp_path / "translations" / "questions_en.json").read_text())
     assert len(saved["data"]) == 0
 
 
@@ -446,13 +450,14 @@ def test_stamp_ids_idempotent():
 def test_persist_question_stamps_id(tmp_path, monkeypatch):
     import json, hashlib, enrichment
     monkeypatch.chdir(tmp_path)
-    (tmp_path / "questions.json").write_text(json.dumps({"data": []}))
+    (tmp_path / "translations").mkdir(exist_ok=True)
+    (tmp_path / "translations" / "questions_en.json").write_text(json.dumps({"data": []}))
     monkeypatch.setattr(enrichment, "_is_unique", lambda q, existing: True)
     enrichment._persist_question({
         "question": "New Q?", "answers": ["a"], "wrong_answers": ["b", "c", "d"],
         "category": "c", "difficulty": "easy", "points": 700, "language": "en",
     })
-    data = json.loads((tmp_path / "questions.json").read_text())["data"]
+    data = json.loads((tmp_path / "translations" / "questions_en.json").read_text())["data"]
     assert data[0]["id"] == hashlib.md5("New Q?".encode()).hexdigest()
 
 

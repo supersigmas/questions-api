@@ -1,6 +1,6 @@
 import json
 
-f = open("questions.json", "r")
+f = open("translations/questions_en.json", "r")
 data = json.load(f)
 
 data = data["data"]

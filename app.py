@@ -39,7 +39,7 @@ def _lang_file(lang: str) -> str:
 
 
 def _load_originals() -> list:
-    with open("questions.json", "r", encoding="utf-8") as f:
+    with open("translations/questions_en.json", "r", encoding="utf-8") as f:
         return json.load(f)["data"]
 
 
