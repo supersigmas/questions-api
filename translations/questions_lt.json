@@ -68706,6 +68706,518 @@
       "points": 700,
       "language": "lt",
       "id": "4e89a9eb790e99486fc682d889ec6ad7"
+    },
+    {
+      "id": "268ddf666ff1b10e0dc3ba27e846b625",
+      "question": "Kokia yra Kinijos sostinė?",
+      "answers": [
+        "pekinas"
+      ],
+      "wrong_answers": [
+        "Šanchajus",
+        "Guangdžou",
+        "Šendženas",
+        "Honkongas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "3936fa4107bc618d9d170939457f37db",
+      "question": "Kokia yra Tailando sostinė?",
+      "answers": [
+        "bankokas"
+      ],
+      "wrong_answers": [
+        "Čiang Majus",
+        "Puketas",
+        "Pataja",
+        "Ajutaja"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "aa57e0a8a25eee068208535a06563aa0",
+      "question": "Kuri Azijos šalis vadinama Tekančios saulės šalimi?",
+      "answers": [
+        "japonija"
+      ],
+      "wrong_answers": [
+        "Kinija",
+        "Pietų Korėja",
+        "Tailandas",
+        "Vietnamas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "16dd03991a0a544cf815268bc56010d6",
+      "question": "Kurioje šalyje yra Didžioji siena?",
+      "answers": [
+        "kinija"
+      ],
+      "wrong_answers": [
+        "Mongolija",
+        "Japonija",
+        "Indija",
+        "Nepalas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f5d8c5f0d5cc70bfccf6f18e9b7ebb7a",
+      "question": "Kokia yra Vietnamo sostinė?",
+      "answers": [
+        "hanojus"
+      ],
+      "wrong_answers": [
+        "Hošimino miestas",
+        "Danangas",
+        "Hujė",
+        "Haifongas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ccc372ee8d8da5c8cccc4c2ec8c67f34",
+      "question": "Kuri yra ilgiausia Azijos upė?",
+      "answers": [
+        "jangdzė"
+      ],
+      "wrong_answers": [
+        "Geltonoji upė",
+        "Mekongas",
+        "Gangas",
+        "Indas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "839028727c6adaf7a494abd46c4e862d",
+      "question": "Kurioje šalyje yra Fudžio kalnas?",
+      "answers": [
+        "japonija"
+      ],
+      "wrong_answers": [
+        "Kinija",
+        "Pietų Korėja",
+        "Nepalas",
+        "Indonezija"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "93d1ec8bec3de1586c028436e48f345f",
+      "question": "Kokia yra Filipinų sostinė?",
+      "answers": [
+        "manila"
+      ],
+      "wrong_answers": [
+        "Sebu",
+        "Davao",
+        "Kvezon Sitis",
+        "Makatis"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5df5b6bef6cbb4e4a863e2147cea8ec8",
+      "question": "Kuri šalis garsėja suši išradimu?",
+      "answers": [
+        "japonija"
+      ],
+      "wrong_answers": [
+        "Kinija",
+        "Tailandas",
+        "Pietų Korėja",
+        "Vietnamas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "650e802e0a89e1ed27ce418441b5c7f1",
+      "question": "Kokia yra Malaizijos sostinė?",
+      "answers": [
+        "kvala lumpūras"
+      ],
+      "wrong_answers": [
+        "Džordžtaunas",
+        "Džohor Baru",
+        "Putradžaja",
+        "Ipohas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "4112d021c3adbe94ab94e8e8cd1c3c23",
+      "question": "Kokia yra Pakistano sostinė?",
+      "answers": [
+        "islamabadas"
+      ],
+      "wrong_answers": [
+        "Karačis",
+        "Lahoras",
+        "Ravalpindis",
+        "Faisalabadas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "b518a3e238839e4d9bc5aa46ec0c9398",
+      "question": "Kurioje šalyje natūraliai gyvena didžioji panda?",
+      "answers": [
+        "kinija"
+      ],
+      "wrong_answers": [
+        "Japonija",
+        "Indija",
+        "Nepalas",
+        "Tailandas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "d2d849345508e0ded17f20b18c433d6b",
+      "question": "Kokia yra Nepalo sostinė?",
+      "answers": [
+        "katmandu"
+      ],
+      "wrong_answers": [
+        "Pokhara",
+        "Lalitpuras",
+        "Biratnagaras",
+        "Bharatpuras"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "195855a56c0ab149b89c6baa4f75cd08",
+      "question": "Kuriame žemyne yra Himalajų kalnagūbris?",
+      "answers": [
+        "azija"
+      ],
+      "wrong_answers": [
+        "Afrika",
+        "Europa",
+        "Pietų Amerika",
+        "Okeanija"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c28bdfdd71a8551345dce055ff4d26c4",
+      "question": "Kokia yra Kazachstano sostinė?",
+      "answers": [
+        "astana"
+      ],
+      "wrong_answers": [
+        "Almata",
+        "Šymkentas",
+        "Karaganda",
+        "Nur Sultanas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "b7e061392aaf52af3558dbd820c2278a",
+      "question": "Kuri Azijos šalis susideda iš daugiau nei 17 000 salų?",
+      "answers": [
+        "indonezija"
+      ],
+      "wrong_answers": [
+        "Filipinai",
+        "Japonija",
+        "Malaizija",
+        "Maldyvai"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "3a400a36b514ae0c114a67c7e39c92c7",
+      "question": "Kuri yra mažiausia Azijos šalis pagal plotą?",
+      "answers": [
+        "maldyvai"
+      ],
+      "wrong_answers": [
+        "Singapūras",
+        "Bahreinas",
+        "Brunėjus",
+        "Butanas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "c3eb8793e966d99fdd52d5d0555ff278",
+      "question": "Kuri jūra yra tarp Japonijos ir Korėjos pusiasalio?",
+      "answers": [
+        "japonijos jūra"
+      ],
+      "wrong_answers": [
+        "Geltonoji jūra",
+        "Rytų Kinijos jūra",
+        "Pietų Kinijos jūra",
+        "Filipinų jūra"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "a43560910c68f94e1ebdd312dc38d78b",
+      "question": "Kokia yra Mongolijos sostinė?",
+      "answers": [
+        "ulan batoras"
+      ],
+      "wrong_answers": [
+        "Erdenetas",
+        "Darchanas",
+        "Čoibalsanas",
+        "Astana"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "dff546b9e9c4a3ee79832b9fc19a64d5",
+      "question": "Kuri šalis anksčiau buvo žinoma kaip Siamas?",
+      "answers": [
+        "tailandas"
+      ],
+      "wrong_answers": [
+        "Mianmaras",
+        "Kambodža",
+        "Vietnamas",
+        "Laosas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "d424dd1898142c3e380c1d7c0135ba5f",
+      "question": "Kurioje šalyje yra Angkor Vato šventyklų kompleksas?",
+      "answers": [
+        "kambodža"
+      ],
+      "wrong_answers": [
+        "Tailandas",
+        "Vietnamas",
+        "Laosas",
+        "Mianmaras"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "fc7add58fd15d9b29ffe67a2db51e891",
+      "question": "Kokia yra Mianmaro sostinė?",
+      "answers": [
+        "naipidas",
+        "naypyidaw"
+      ],
+      "wrong_answers": [
+        "Jangonas",
+        "Mandalajus",
+        "Bagas",
+        "Maulamjainas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "ccc135f78de5787f276a85ce2ae42a5b",
+      "question": "Kokia yra Kambodžos sostinė?",
+      "answers": [
+        "pnompenis"
+      ],
+      "wrong_answers": [
+        "Siem Reapas",
+        "Batambangas",
+        "Sihanukvilis",
+        "Angkoras"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "4182a699794fe375842691d4348b5a63",
+      "question": "Kokia yra Irano sostinė?",
+      "answers": [
+        "teheranas"
+      ],
+      "wrong_answers": [
+        "Isfahanas",
+        "Mešhedas",
+        "Širazas",
+        "Tebrizas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "a43dd756d893926aeb39aa8f3195ae64",
+      "question": "Kokia yra Saudo Arabijos sostinė?",
+      "answers": [
+        "rijadas"
+      ],
+      "wrong_answers": [
+        "Džida",
+        "Meka",
+        "Medina",
+        "Damamas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "532e4a325461908871b0c3d819deb578",
+      "question": "Kuriame mieste stovi Burj Chalifa, aukščiausias pastatas pasaulyje?",
+      "answers": [
+        "dubajus"
+      ],
+      "wrong_answers": [
+        "Abu Dabis",
+        "Doha",
+        "Rijadas",
+        "Šanchajus"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ef61ae1b806a0d1c303df7903b8ae59e",
+      "question": "Kokia yra Irako sostinė?",
+      "answers": [
+        "bagdadas"
+      ],
+      "wrong_answers": [
+        "Basra",
+        "Mosulas",
+        "Erbilis",
+        "Kirkukas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "25a075200ba5770cb619e73546034dfe",
+      "question": "Kokia yra Turkijos sostinė?",
+      "answers": [
+        "ankara"
+      ],
+      "wrong_answers": [
+        "Stambulas",
+        "Izmiras",
+        "Bursa",
+        "Antalija"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "47d366c6010fc231500ce94b037fa3f7",
+      "question": "Kuri šalis yra kovos meno taekvondo gimtinė?",
+      "answers": [
+        "pietų korėja",
+        "korėja"
+      ],
+      "wrong_answers": [
+        "Japonija",
+        "Kinija",
+        "Tailandas",
+        "Vietnamas"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "b3e5e9f23c03b8f4c0a7bc34aad32f62",
+      "question": "Kokia yra Uzbekistano sostinė?",
+      "answers": [
+        "taškentas"
+      ],
+      "wrong_answers": [
+        "Samarkandas",
+        "Buchara",
+        "Namanganas",
+        "Andidžanas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
     }
   ]
 }

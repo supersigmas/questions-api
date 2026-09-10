@@ -68860,6 +68860,519 @@
       "points": 700,
       "language": "de",
       "id": "4e89a9eb790e99486fc682d889ec6ad7"
+    },
+    {
+      "id": "268ddf666ff1b10e0dc3ba27e846b625",
+      "question": "Was ist die Hauptstadt von China?",
+      "answers": [
+        "peking"
+      ],
+      "wrong_answers": [
+        "Shanghai",
+        "Guangzhou",
+        "Shenzhen",
+        "Hongkong"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "3936fa4107bc618d9d170939457f37db",
+      "question": "Was ist die Hauptstadt von Thailand?",
+      "answers": [
+        "bangkok"
+      ],
+      "wrong_answers": [
+        "Chiang Mai",
+        "Phuket",
+        "Pattaya",
+        "Ayutthaya"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "aa57e0a8a25eee068208535a06563aa0",
+      "question": "Welches asiatische Land ist als das Land der aufgehenden Sonne bekannt?",
+      "answers": [
+        "japan"
+      ],
+      "wrong_answers": [
+        "China",
+        "Südkorea",
+        "Thailand",
+        "Vietnam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "16dd03991a0a544cf815268bc56010d6",
+      "question": "In welchem Land befindet sich die Große Mauer?",
+      "answers": [
+        "china"
+      ],
+      "wrong_answers": [
+        "Mongolei",
+        "Japan",
+        "Indien",
+        "Nepal"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "f5d8c5f0d5cc70bfccf6f18e9b7ebb7a",
+      "question": "Was ist die Hauptstadt von Vietnam?",
+      "answers": [
+        "hanoi"
+      ],
+      "wrong_answers": [
+        "Ho-Chi-Minh-Stadt",
+        "Da Nang",
+        "Hue",
+        "Hai Phong"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "ccc372ee8d8da5c8cccc4c2ec8c67f34",
+      "question": "Welcher ist der längste Fluss Asiens?",
+      "answers": [
+        "jangtse",
+        "jangtsekiang"
+      ],
+      "wrong_answers": [
+        "Gelber Fluss",
+        "Mekong",
+        "Ganges",
+        "Indus"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "839028727c6adaf7a494abd46c4e862d",
+      "question": "In welchem Land befindet sich der Berg Fuji?",
+      "answers": [
+        "japan"
+      ],
+      "wrong_answers": [
+        "China",
+        "Südkorea",
+        "Nepal",
+        "Indonesien"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "93d1ec8bec3de1586c028436e48f345f",
+      "question": "Was ist die Hauptstadt der Philippinen?",
+      "answers": [
+        "manila"
+      ],
+      "wrong_answers": [
+        "Cebu",
+        "Davao",
+        "Quezon City",
+        "Makati"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "5df5b6bef6cbb4e4a863e2147cea8ec8",
+      "question": "Welches Land ist für die Erfindung von Sushi berühmt?",
+      "answers": [
+        "japan"
+      ],
+      "wrong_answers": [
+        "China",
+        "Thailand",
+        "Südkorea",
+        "Vietnam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "650e802e0a89e1ed27ce418441b5c7f1",
+      "question": "Was ist die Hauptstadt von Malaysia?",
+      "answers": [
+        "kuala lumpur"
+      ],
+      "wrong_answers": [
+        "George Town",
+        "Johor Bahru",
+        "Putrajaya",
+        "Ipoh"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "4112d021c3adbe94ab94e8e8cd1c3c23",
+      "question": "Was ist die Hauptstadt von Pakistan?",
+      "answers": [
+        "islamabad"
+      ],
+      "wrong_answers": [
+        "Karatschi",
+        "Lahore",
+        "Rawalpindi",
+        "Faisalabad"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "b518a3e238839e4d9bc5aa46ec0c9398",
+      "question": "In welchem Land ist der Große Panda natürlich heimisch?",
+      "answers": [
+        "china"
+      ],
+      "wrong_answers": [
+        "Japan",
+        "Indien",
+        "Nepal",
+        "Thailand"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "d2d849345508e0ded17f20b18c433d6b",
+      "question": "Was ist die Hauptstadt von Nepal?",
+      "answers": [
+        "kathmandu"
+      ],
+      "wrong_answers": [
+        "Pokhara",
+        "Lalitpur",
+        "Biratnagar",
+        "Bharatpur"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "195855a56c0ab149b89c6baa4f75cd08",
+      "question": "Auf welchem Kontinent liegt das Himalaya-Gebirge?",
+      "answers": [
+        "asien"
+      ],
+      "wrong_answers": [
+        "Afrika",
+        "Europa",
+        "Südamerika",
+        "Ozeanien"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "c28bdfdd71a8551345dce055ff4d26c4",
+      "question": "Was ist die Hauptstadt von Kasachstan?",
+      "answers": [
+        "astana"
+      ],
+      "wrong_answers": [
+        "Almaty",
+        "Schymkent",
+        "Karaganda",
+        "Nur-Sultan"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "b7e061392aaf52af3558dbd820c2278a",
+      "question": "Welches asiatische Land besteht aus über 17.000 Inseln?",
+      "answers": [
+        "indonesien"
+      ],
+      "wrong_answers": [
+        "Philippinen",
+        "Japan",
+        "Malaysia",
+        "Malediven"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "3a400a36b514ae0c114a67c7e39c92c7",
+      "question": "Welches ist das flächenmäßig kleinste Land Asiens?",
+      "answers": [
+        "malediven"
+      ],
+      "wrong_answers": [
+        "Singapur",
+        "Bahrain",
+        "Brunei",
+        "Bhutan"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "c3eb8793e966d99fdd52d5d0555ff278",
+      "question": "Welches Meer liegt zwischen Japan und der koreanischen Halbinsel?",
+      "answers": [
+        "japanisches meer"
+      ],
+      "wrong_answers": [
+        "Gelbes Meer",
+        "Ostchinesisches Meer",
+        "Südchinesisches Meer",
+        "Philippinensee"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "a43560910c68f94e1ebdd312dc38d78b",
+      "question": "Was ist die Hauptstadt der Mongolei?",
+      "answers": [
+        "ulaanbaatar",
+        "ulan bator"
+      ],
+      "wrong_answers": [
+        "Erdenet",
+        "Darchan",
+        "Tschoibalsan",
+        "Astana"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "dff546b9e9c4a3ee79832b9fc19a64d5",
+      "question": "Welches Land war früher als Siam bekannt?",
+      "answers": [
+        "thailand"
+      ],
+      "wrong_answers": [
+        "Myanmar",
+        "Kambodscha",
+        "Vietnam",
+        "Laos"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "d424dd1898142c3e380c1d7c0135ba5f",
+      "question": "In welchem Land befindet sich die Tempelanlage Angkor Wat?",
+      "answers": [
+        "kambodscha"
+      ],
+      "wrong_answers": [
+        "Thailand",
+        "Vietnam",
+        "Laos",
+        "Myanmar"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "fc7add58fd15d9b29ffe67a2db51e891",
+      "question": "Was ist die Hauptstadt von Myanmar?",
+      "answers": [
+        "naypyidaw"
+      ],
+      "wrong_answers": [
+        "Yangon",
+        "Mandalay",
+        "Bago",
+        "Mawlamyaing"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
+    },
+    {
+      "id": "ccc135f78de5787f276a85ce2ae42a5b",
+      "question": "Was ist die Hauptstadt von Kambodscha?",
+      "answers": [
+        "phnom penh"
+      ],
+      "wrong_answers": [
+        "Siem Reap",
+        "Battambang",
+        "Sihanoukville",
+        "Angkor"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "4182a699794fe375842691d4348b5a63",
+      "question": "Was ist die Hauptstadt des Iran?",
+      "answers": [
+        "teheran"
+      ],
+      "wrong_answers": [
+        "Isfahan",
+        "Maschhad",
+        "Schiras",
+        "Täbris"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "a43dd756d893926aeb39aa8f3195ae64",
+      "question": "Was ist die Hauptstadt von Saudi-Arabien?",
+      "answers": [
+        "riad"
+      ],
+      "wrong_answers": [
+        "Dschidda",
+        "Mekka",
+        "Medina",
+        "Dammam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "532e4a325461908871b0c3d819deb578",
+      "question": "In welcher Stadt steht der Burj Khalifa, das höchste Gebäude der Welt?",
+      "answers": [
+        "dubai"
+      ],
+      "wrong_answers": [
+        "Abu Dhabi",
+        "Doha",
+        "Riad",
+        "Shanghai"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "ef61ae1b806a0d1c303df7903b8ae59e",
+      "question": "Was ist die Hauptstadt des Irak?",
+      "answers": [
+        "bagdad"
+      ],
+      "wrong_answers": [
+        "Basra",
+        "Mossul",
+        "Erbil",
+        "Kirkuk"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "25a075200ba5770cb619e73546034dfe",
+      "question": "Was ist die Hauptstadt der Türkei?",
+      "answers": [
+        "ankara"
+      ],
+      "wrong_answers": [
+        "Istanbul",
+        "Izmir",
+        "Bursa",
+        "Antalya"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "47d366c6010fc231500ce94b037fa3f7",
+      "question": "Welches Land ist der Geburtsort der Kampfkunst Taekwondo?",
+      "answers": [
+        "südkorea",
+        "korea"
+      ],
+      "wrong_answers": [
+        "Japan",
+        "China",
+        "Thailand",
+        "Vietnam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "b3e5e9f23c03b8f4c0a7bc34aad32f62",
+      "question": "Was ist die Hauptstadt von Usbekistan?",
+      "answers": [
+        "taschkent"
+      ],
+      "wrong_answers": [
+        "Samarkand",
+        "Buchara",
+        "Namangan",
+        "Andischan"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "de"
     }
   ]
 }

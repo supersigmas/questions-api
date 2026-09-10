@@ -68702,6 +68702,517 @@
       "points": 700,
       "language": "ru",
       "id": "4e89a9eb790e99486fc682d889ec6ad7"
+    },
+    {
+      "id": "268ddf666ff1b10e0dc3ba27e846b625",
+      "question": "Какая столица Китая?",
+      "answers": [
+        "пекин"
+      ],
+      "wrong_answers": [
+        "Шанхай",
+        "Гуанчжоу",
+        "Шэньчжэнь",
+        "Гонконг"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "3936fa4107bc618d9d170939457f37db",
+      "question": "Какая столица Таиланда?",
+      "answers": [
+        "бангкок"
+      ],
+      "wrong_answers": [
+        "Чиангмай",
+        "Пхукет",
+        "Паттайя",
+        "Аюттхая"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "aa57e0a8a25eee068208535a06563aa0",
+      "question": "Какую азиатскую страну называют Страной восходящего солнца?",
+      "answers": [
+        "япония"
+      ],
+      "wrong_answers": [
+        "Китай",
+        "Южная Корея",
+        "Таиланд",
+        "Вьетнам"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "16dd03991a0a544cf815268bc56010d6",
+      "question": "В какой стране находится Великая стена?",
+      "answers": [
+        "китай"
+      ],
+      "wrong_answers": [
+        "Монголия",
+        "Япония",
+        "Индия",
+        "Непал"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f5d8c5f0d5cc70bfccf6f18e9b7ebb7a",
+      "question": "Какая столица Вьетнама?",
+      "answers": [
+        "ханой"
+      ],
+      "wrong_answers": [
+        "Хошимин",
+        "Дананг",
+        "Хюэ",
+        "Хайфон"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ccc372ee8d8da5c8cccc4c2ec8c67f34",
+      "question": "Какая самая длинная река в Азии?",
+      "answers": [
+        "янцзы"
+      ],
+      "wrong_answers": [
+        "Хуанхэ",
+        "Меконг",
+        "Ганг",
+        "Инд"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "839028727c6adaf7a494abd46c4e862d",
+      "question": "В какой стране находится гора Фудзи?",
+      "answers": [
+        "япония"
+      ],
+      "wrong_answers": [
+        "Китай",
+        "Южная Корея",
+        "Непал",
+        "Индонезия"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "93d1ec8bec3de1586c028436e48f345f",
+      "question": "Какая столица Филиппин?",
+      "answers": [
+        "манила"
+      ],
+      "wrong_answers": [
+        "Себу",
+        "Давао",
+        "Кесон-Сити",
+        "Макати"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5df5b6bef6cbb4e4a863e2147cea8ec8",
+      "question": "Какая страна известна изобретением суши?",
+      "answers": [
+        "япония"
+      ],
+      "wrong_answers": [
+        "Китай",
+        "Таиланд",
+        "Южная Корея",
+        "Вьетнам"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "650e802e0a89e1ed27ce418441b5c7f1",
+      "question": "Какая столица Малайзии?",
+      "answers": [
+        "куала-лумпур"
+      ],
+      "wrong_answers": [
+        "Джорджтаун",
+        "Джохор-Бару",
+        "Путраджая",
+        "Ипох"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "4112d021c3adbe94ab94e8e8cd1c3c23",
+      "question": "Какая столица Пакистана?",
+      "answers": [
+        "исламабад"
+      ],
+      "wrong_answers": [
+        "Карачи",
+        "Лахор",
+        "Равалпинди",
+        "Фейсалабад"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "b518a3e238839e4d9bc5aa46ec0c9398",
+      "question": "В какой стране в природе обитает большая панда?",
+      "answers": [
+        "китай"
+      ],
+      "wrong_answers": [
+        "Япония",
+        "Индия",
+        "Непал",
+        "Таиланд"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "d2d849345508e0ded17f20b18c433d6b",
+      "question": "Какая столица Непала?",
+      "answers": [
+        "катманду"
+      ],
+      "wrong_answers": [
+        "Покхара",
+        "Лалитпур",
+        "Биратнагар",
+        "Бхаратпур"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "195855a56c0ab149b89c6baa4f75cd08",
+      "question": "На каком континенте находятся Гималаи?",
+      "answers": [
+        "азия"
+      ],
+      "wrong_answers": [
+        "Африка",
+        "Европа",
+        "Южная Америка",
+        "Океания"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "c28bdfdd71a8551345dce055ff4d26c4",
+      "question": "Какая столица Казахстана?",
+      "answers": [
+        "астана"
+      ],
+      "wrong_answers": [
+        "Алматы",
+        "Шымкент",
+        "Караганда",
+        "Нур-Султан"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "b7e061392aaf52af3558dbd820c2278a",
+      "question": "Какая азиатская страна состоит из более чем 17 000 островов?",
+      "answers": [
+        "индонезия"
+      ],
+      "wrong_answers": [
+        "Филиппины",
+        "Япония",
+        "Малайзия",
+        "Мальдивы"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "3a400a36b514ae0c114a67c7e39c92c7",
+      "question": "Какая страна самая маленькая в Азии по площади?",
+      "answers": [
+        "мальдивы"
+      ],
+      "wrong_answers": [
+        "Сингапур",
+        "Бахрейн",
+        "Бруней",
+        "Бутан"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "c3eb8793e966d99fdd52d5d0555ff278",
+      "question": "Какое море находится между Японией и Корейским полуостровом?",
+      "answers": [
+        "японское море"
+      ],
+      "wrong_answers": [
+        "Жёлтое море",
+        "Восточно-Китайское море",
+        "Южно-Китайское море",
+        "Филиппинское море"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "a43560910c68f94e1ebdd312dc38d78b",
+      "question": "Какая столица Монголии?",
+      "answers": [
+        "улан-батор"
+      ],
+      "wrong_answers": [
+        "Эрдэнэт",
+        "Дархан",
+        "Чойбалсан",
+        "Астана"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "dff546b9e9c4a3ee79832b9fc19a64d5",
+      "question": "Какая страна раньше называлась Сиам?",
+      "answers": [
+        "таиланд"
+      ],
+      "wrong_answers": [
+        "Мьянма",
+        "Камбоджа",
+        "Вьетнам",
+        "Лаос"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "d424dd1898142c3e380c1d7c0135ba5f",
+      "question": "В какой стране находится храмовый комплекс Ангкор-Ват?",
+      "answers": [
+        "камбоджа"
+      ],
+      "wrong_answers": [
+        "Таиланд",
+        "Вьетнам",
+        "Лаос",
+        "Мьянма"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "fc7add58fd15d9b29ffe67a2db51e891",
+      "question": "Какая столица Мьянмы?",
+      "answers": [
+        "нейпьидо"
+      ],
+      "wrong_answers": [
+        "Янгон",
+        "Мандалай",
+        "Баго",
+        "Моламьяйн"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "ccc135f78de5787f276a85ce2ae42a5b",
+      "question": "Какая столица Камбоджи?",
+      "answers": [
+        "пномпень"
+      ],
+      "wrong_answers": [
+        "Сиемреап",
+        "Баттамбанг",
+        "Сиануквиль",
+        "Ангкор"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "4182a699794fe375842691d4348b5a63",
+      "question": "Какая столица Ирана?",
+      "answers": [
+        "тегеран"
+      ],
+      "wrong_answers": [
+        "Исфахан",
+        "Мешхед",
+        "Шираз",
+        "Тебриз"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "a43dd756d893926aeb39aa8f3195ae64",
+      "question": "Какая столица Саудовской Аравии?",
+      "answers": [
+        "эр-рияд"
+      ],
+      "wrong_answers": [
+        "Джидда",
+        "Мекка",
+        "Медина",
+        "Даммам"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "532e4a325461908871b0c3d819deb578",
+      "question": "В каком городе находится Бурдж-Халифа, самое высокое здание в мире?",
+      "answers": [
+        "дубай"
+      ],
+      "wrong_answers": [
+        "Абу-Даби",
+        "Доха",
+        "Эр-Рияд",
+        "Шанхай"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ef61ae1b806a0d1c303df7903b8ae59e",
+      "question": "Какая столица Ирака?",
+      "answers": [
+        "багдад"
+      ],
+      "wrong_answers": [
+        "Басра",
+        "Мосул",
+        "Эрбиль",
+        "Киркук"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "25a075200ba5770cb619e73546034dfe",
+      "question": "Какая столица Турции?",
+      "answers": [
+        "анкара"
+      ],
+      "wrong_answers": [
+        "Стамбул",
+        "Измир",
+        "Бурса",
+        "Анталья"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "47d366c6010fc231500ce94b037fa3f7",
+      "question": "Какая страна является родиной боевого искусства тхэквондо?",
+      "answers": [
+        "южная корея",
+        "корея"
+      ],
+      "wrong_answers": [
+        "Япония",
+        "Китай",
+        "Таиланд",
+        "Вьетнам"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "b3e5e9f23c03b8f4c0a7bc34aad32f62",
+      "question": "Какая столица Узбекистана?",
+      "answers": [
+        "ташкент"
+      ],
+      "wrong_answers": [
+        "Самарканд",
+        "Бухара",
+        "Наманган",
+        "Андижан"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
     }
   ]
 }

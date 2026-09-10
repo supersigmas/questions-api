@@ -68808,6 +68808,522 @@
       "points": 700,
       "language": "es",
       "id": "4e89a9eb790e99486fc682d889ec6ad7"
+    },
+    {
+      "id": "268ddf666ff1b10e0dc3ba27e846b625",
+      "question": "¿Cuál es la capital de China?",
+      "answers": [
+        "pekín",
+        "beijing"
+      ],
+      "wrong_answers": [
+        "Shanghái",
+        "Cantón",
+        "Shenzhen",
+        "Hong Kong"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "3936fa4107bc618d9d170939457f37db",
+      "question": "¿Cuál es la capital de Tailandia?",
+      "answers": [
+        "bangkok"
+      ],
+      "wrong_answers": [
+        "Chiang Mai",
+        "Phuket",
+        "Pattaya",
+        "Ayutthaya"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "aa57e0a8a25eee068208535a06563aa0",
+      "question": "¿Qué país asiático es conocido como el País del Sol Naciente?",
+      "answers": [
+        "japón"
+      ],
+      "wrong_answers": [
+        "China",
+        "Corea del Sur",
+        "Tailandia",
+        "Vietnam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "16dd03991a0a544cf815268bc56010d6",
+      "question": "¿En qué país se encuentra la Gran Muralla?",
+      "answers": [
+        "china"
+      ],
+      "wrong_answers": [
+        "Mongolia",
+        "Japón",
+        "India",
+        "Nepal"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "f5d8c5f0d5cc70bfccf6f18e9b7ebb7a",
+      "question": "¿Cuál es la capital de Vietnam?",
+      "answers": [
+        "hanói"
+      ],
+      "wrong_answers": [
+        "Ciudad Ho Chi Minh",
+        "Da Nang",
+        "Hue",
+        "Hai Phong"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "ccc372ee8d8da5c8cccc4c2ec8c67f34",
+      "question": "¿Cuál es el río más largo de Asia?",
+      "answers": [
+        "yangtsé"
+      ],
+      "wrong_answers": [
+        "Río Amarillo",
+        "Mekong",
+        "Ganges",
+        "Indo"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "839028727c6adaf7a494abd46c4e862d",
+      "question": "¿En qué país se encuentra el monte Fuji?",
+      "answers": [
+        "japón"
+      ],
+      "wrong_answers": [
+        "China",
+        "Corea del Sur",
+        "Nepal",
+        "Indonesia"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "93d1ec8bec3de1586c028436e48f345f",
+      "question": "¿Cuál es la capital de Filipinas?",
+      "answers": [
+        "manila"
+      ],
+      "wrong_answers": [
+        "Cebú",
+        "Davao",
+        "Quezon City",
+        "Makati"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "5df5b6bef6cbb4e4a863e2147cea8ec8",
+      "question": "¿Qué país es famoso por inventar el sushi?",
+      "answers": [
+        "japón"
+      ],
+      "wrong_answers": [
+        "China",
+        "Tailandia",
+        "Corea del Sur",
+        "Vietnam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "650e802e0a89e1ed27ce418441b5c7f1",
+      "question": "¿Cuál es la capital de Malasia?",
+      "answers": [
+        "kuala lumpur"
+      ],
+      "wrong_answers": [
+        "George Town",
+        "Johor Bahru",
+        "Putrajaya",
+        "Ipoh"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "4112d021c3adbe94ab94e8e8cd1c3c23",
+      "question": "¿Cuál es la capital de Pakistán?",
+      "answers": [
+        "islamabad"
+      ],
+      "wrong_answers": [
+        "Karachi",
+        "Lahore",
+        "Rawalpindi",
+        "Faisalabad"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "b518a3e238839e4d9bc5aa46ec0c9398",
+      "question": "¿En qué país vive de forma natural el oso panda gigante?",
+      "answers": [
+        "china"
+      ],
+      "wrong_answers": [
+        "Japón",
+        "India",
+        "Nepal",
+        "Tailandia"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "d2d849345508e0ded17f20b18c433d6b",
+      "question": "¿Cuál es la capital de Nepal?",
+      "answers": [
+        "katmandú"
+      ],
+      "wrong_answers": [
+        "Pokhara",
+        "Lalitpur",
+        "Biratnagar",
+        "Bharatpur"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "195855a56c0ab149b89c6baa4f75cd08",
+      "question": "¿En qué continente se encuentra la cordillera del Himalaya?",
+      "answers": [
+        "asia"
+      ],
+      "wrong_answers": [
+        "África",
+        "Europa",
+        "América del Sur",
+        "Oceanía"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "c28bdfdd71a8551345dce055ff4d26c4",
+      "question": "¿Cuál es la capital de Kazajistán?",
+      "answers": [
+        "astaná"
+      ],
+      "wrong_answers": [
+        "Almatý",
+        "Shymkent",
+        "Karagandá",
+        "Nur-Sultán"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "b7e061392aaf52af3558dbd820c2278a",
+      "question": "¿Qué país asiático está formado por más de 17.000 islas?",
+      "answers": [
+        "indonesia"
+      ],
+      "wrong_answers": [
+        "Filipinas",
+        "Japón",
+        "Malasia",
+        "Maldivas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "3a400a36b514ae0c114a67c7e39c92c7",
+      "question": "¿Cuál es el país más pequeño de Asia por superficie?",
+      "answers": [
+        "maldivas",
+        "las maldivas"
+      ],
+      "wrong_answers": [
+        "Singapur",
+        "Baréin",
+        "Brunéi",
+        "Bután"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "c3eb8793e966d99fdd52d5d0555ff278",
+      "question": "¿Qué mar se encuentra entre Japón y la península de Corea?",
+      "answers": [
+        "mar del japón"
+      ],
+      "wrong_answers": [
+        "Mar Amarillo",
+        "Mar de China Oriental",
+        "Mar de China Meridional",
+        "Mar de Filipinas"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "a43560910c68f94e1ebdd312dc38d78b",
+      "question": "¿Cuál es la capital de Mongolia?",
+      "answers": [
+        "ulán bator",
+        "ulaanbaatar"
+      ],
+      "wrong_answers": [
+        "Erdenet",
+        "Darjan",
+        "Choibalsan",
+        "Astaná"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "dff546b9e9c4a3ee79832b9fc19a64d5",
+      "question": "¿Qué país se conocía anteriormente como Siam?",
+      "answers": [
+        "tailandia"
+      ],
+      "wrong_answers": [
+        "Myanmar",
+        "Camboya",
+        "Vietnam",
+        "Laos"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "d424dd1898142c3e380c1d7c0135ba5f",
+      "question": "¿En qué país se encuentra el complejo de templos de Angkor Wat?",
+      "answers": [
+        "camboya"
+      ],
+      "wrong_answers": [
+        "Tailandia",
+        "Vietnam",
+        "Laos",
+        "Myanmar"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "fc7add58fd15d9b29ffe67a2db51e891",
+      "question": "¿Cuál es la capital de Myanmar?",
+      "answers": [
+        "naipyidó",
+        "naypyidaw"
+      ],
+      "wrong_answers": [
+        "Rangún",
+        "Mandalay",
+        "Bago",
+        "Mawlamyine"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "ccc135f78de5787f276a85ce2ae42a5b",
+      "question": "¿Cuál es la capital de Camboya?",
+      "answers": [
+        "nom pen",
+        "phnom penh"
+      ],
+      "wrong_answers": [
+        "Siem Riep",
+        "Battambang",
+        "Sihanoukville",
+        "Angkor"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "4182a699794fe375842691d4348b5a63",
+      "question": "¿Cuál es la capital de Irán?",
+      "answers": [
+        "teherán"
+      ],
+      "wrong_answers": [
+        "Isfahán",
+        "Mashhad",
+        "Shiraz",
+        "Tabriz"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "a43dd756d893926aeb39aa8f3195ae64",
+      "question": "¿Cuál es la capital de Arabia Saudita?",
+      "answers": [
+        "riad"
+      ],
+      "wrong_answers": [
+        "Yeda",
+        "La Meca",
+        "Medina",
+        "Dammam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "532e4a325461908871b0c3d819deb578",
+      "question": "¿En qué ciudad se encuentra el Burj Khalifa, el edificio más alto del mundo?",
+      "answers": [
+        "dubái"
+      ],
+      "wrong_answers": [
+        "Abu Dabi",
+        "Doha",
+        "Riad",
+        "Shanghái"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "ef61ae1b806a0d1c303df7903b8ae59e",
+      "question": "¿Cuál es la capital de Irak?",
+      "answers": [
+        "bagdad"
+      ],
+      "wrong_answers": [
+        "Basora",
+        "Mosul",
+        "Erbil",
+        "Kirkuk"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "25a075200ba5770cb619e73546034dfe",
+      "question": "¿Cuál es la capital de Turquía?",
+      "answers": [
+        "ankara"
+      ],
+      "wrong_answers": [
+        "Estambul",
+        "Esmirna",
+        "Bursa",
+        "Antalya"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "47d366c6010fc231500ce94b037fa3f7",
+      "question": "¿Cuál es el país de origen del arte marcial taekwondo?",
+      "answers": [
+        "corea del sur",
+        "corea"
+      ],
+      "wrong_answers": [
+        "Japón",
+        "China",
+        "Tailandia",
+        "Vietnam"
+      ],
+      "category": "asia",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "b3e5e9f23c03b8f4c0a7bc34aad32f62",
+      "question": "¿Cuál es la capital de Uzbekistán?",
+      "answers": [
+        "taskent"
+      ],
+      "wrong_answers": [
+        "Samarcanda",
+        "Bujará",
+        "Namangán",
+        "Andiyán"
+      ],
+      "category": "asia",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "es"
     }
   ]
 }
