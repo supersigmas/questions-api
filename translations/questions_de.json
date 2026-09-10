@@ -3386,11 +3386,11 @@
         "gump"
       ],
       "wrong_answers": [
-        "pulp fiction",
-        "the shawshank redemption",
-        "the lion king",
-        "schindler's list",
-        "the usual suspects"
+        "Pulp Fiction",
+        "die verurteilten",
+        "der könig der löwen",
+        "schindlers liste",
+        "die üblichen verdächtigen"
       ],
       "category": "movies",
       "difficulty": "normal",
@@ -3483,7 +3483,7 @@
       "wrong_answers": [
         "star trek",
         "alien",
-        "the matrix",
+        "matrix",
         "battlestar galactica",
         "independence day"
       ],
@@ -3520,10 +3520,10 @@
       ],
       "wrong_answers": [
         "the green mile",
-        "castaway",
+        "cast away – verschollen",
         "rain man",
         "goodfellas",
-        "the shawshank redemption"
+        "die verurteilten"
       ],
       "category": "movies",
       "difficulty": "normal",
@@ -3577,10 +3577,10 @@
       ],
       "wrong_answers": [
         "aladdin",
-        "beauty and the beast",
+        "die schöne und das biest",
         "mulan",
         "pocahontas",
-        "the little mermaid"
+        "arielle, die meerjungfrau"
       ],
       "category": "movies",
       "difficulty": "easy",
@@ -3615,7 +3615,7 @@
       ],
       "wrong_answers": [
         "the italian job",
-        "the town",
+        "the town – stadt ohne gnade",
         "heat",
         "swordfish",
         "inception"
@@ -3673,9 +3673,9 @@
       ],
       "wrong_answers": [
         "shrek",
-        "monsters inc.",
-        "finding nemo",
-        "the incredibles",
+        "die monster ag",
+        "findet nemo",
+        "die unglaublichen",
         "cars"
       ],
       "category": "movies",
@@ -4685,7 +4685,7 @@
         "blade runner",
         "alien",
         "guardians of the galaxy",
-        "the fifth element"
+        "das fünfte element"
       ],
       "category": "movies",
       "difficulty": "easy",
@@ -4739,9 +4739,9 @@
       ],
       "wrong_answers": [
         "toy story",
-        "finding nemo",
+        "findet nemo",
         "spirited away",
-        "monsters inc",
+        "die monster ag",
         "ice age"
       ],
       "category": "movies",
@@ -4798,7 +4798,7 @@
         "titanic",
         "star wars",
         "jurassic world",
-        "frozen"
+        "die eiskönigin"
       ],
       "category": "movies",
       "difficulty": "easy",
@@ -4926,8 +4926,8 @@
         "frozen"
       ],
       "wrong_answers": [
-        "tangled",
-        "brave",
+        "rapunzel – neu verföhnt",
+        "merida – legende der highlands",
         "moana",
         "encanto",
         "soul"
@@ -6146,11 +6146,11 @@
         "ratatouille"
       ],
       "wrong_answers": [
-        "finding nemo",
-        "up",
+        "findet nemo",
+        "oben",
         "toy story",
         "shrek",
-        "frozen"
+        "die eiskönigin"
       ],
       "category": "movies",
       "difficulty": "easy",
@@ -7085,7 +7085,7 @@
       ],
       "wrong_answers": [
         "bambi",
-        "zootopia",
+        "zoomania",
         "aladdin",
         "mulan",
         "tarzan"
@@ -21511,7 +21511,7 @@
       ],
       "wrong_answers": [
         "Cory in the House",
-        "The Emperor's New School",
+        "des kaisers neue schule",
         "Hannah Montana"
       ],
       "category": "entertainment",
@@ -39744,8 +39744,8 @@
         "fight club film"
       ],
       "wrong_answers": [
-        "The Island",
-        "Unthinkable",
+        "the island – flucht aus paradise",
+        "unthinkable",
         "American Pie"
       ],
       "category": "entertainment",
@@ -40554,9 +40554,9 @@
         "the 6th sense"
       ],
       "wrong_answers": [
-        "The Fifth Element",
-        "Die Hard",
-        "Armageddon"
+        "das fünfte element",
+        "stirb langsam",
+        "armageddon – das jüngste gericht"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -61864,8 +61864,8 @@
       ],
       "wrong_answers": [
         "toy story",
-        "james and the giant peach",
-        "the hunchback of notre dame"
+        "james und der riesenpfirsich",
+        "der glöckner von notre dame"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62440,7 +62440,7 @@
       "wrong_answers": [
         "ted",
         "spy kids",
-        "pirates of the caribbean"
+        "fluch der karibik"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62741,7 +62741,7 @@
       ],
       "wrong_answers": [
         "flash gordon",
-        "labyrinth",
+        "die reise ins labyrinth",
         "howard the duck"
       ],
       "category": "entertainment",
@@ -64437,8 +64437,8 @@
         "tron"
       ],
       "wrong_answers": [
-        "the hateful eight",
-        "the giver",
+        "the hateful 8",
+        "hüter der erinnerung",
         "true grit"
       ],
       "category": "entertainment",
@@ -65461,7 +65461,7 @@
         "fightclub"
       ],
       "wrong_answers": [
-        "the island",
+        "the island – flucht aus paradise",
         "unthinkable",
         "american pie"
       ],
@@ -65990,7 +65990,7 @@
       "wrong_answers": [
         "ted",
         "spy kids",
-        "pirates of the caribbean"
+        "fluch der karibik"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -66928,8 +66928,8 @@
       ],
       "wrong_answers": [
         "tron",
-        "the lion king",
-        "101 dalmatians"
+        "der könig der löwen",
+        "101 dalmatiner"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -66998,7 +66998,7 @@
       ],
       "wrong_answers": [
         "cory in the house",
-        "the emperor's new school",
+        "des kaisers neue schule",
         "hannah montana"
       ],
       "category": "entertainment",
@@ -67067,7 +67067,7 @@
       ],
       "wrong_answers": [
         "spider-man 3",
-        "shrek the third",
+        "shrek der dritte",
         "ratatouille"
       ],
       "category": "entertainment",
@@ -67101,8 +67101,8 @@
       ],
       "wrong_answers": [
         "hop",
-        "rise of the guardians",
-        "alice in wonderland"
+        "die hüter des lichts",
+        "alice im wunderland"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -67541,8 +67541,8 @@
         "tron"
       ],
       "wrong_answers": [
-        "the hateful eight",
-        "the giver",
+        "the hateful 8",
+        "hüter der erinnerung",
         "true grit"
       ],
       "category": "entertainment",
