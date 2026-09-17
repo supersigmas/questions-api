@@ -10,11 +10,11 @@
         "pacifikas"
       ],
       "wrong_answers": [
-        "Atlanto vandenynas",
-        "Indijos vandenynas",
-        "Arkties vandenynas",
-        "Pietų vandenynas",
-        "Viduržemio jūra"
+        "atlanto vandenynas",
+        "indijos vandenynas",
+        "arkties vandenynas",
+        "pietų vandenynas",
+        "viduržemio jūra"
       ],
       "category": "geography",
       "difficulty": "normal",
@@ -30,11 +30,11 @@
         "a. einšteinas"
       ],
       "wrong_answers": [
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Stephen Hawking",
-        "Nikola Tesla",
-        "Marie Curie"
+        "isaac newton",
+        "galileo galilei",
+        "stephen hawking",
+        "nikola tesla",
+        "marie curie"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -49,11 +49,11 @@
         "italijos respublika"
       ],
       "wrong_answers": [
-        "Prancūzija",
-        "Graikija",
-        "Jungtinės Valstijos",
-        "Ispanija",
-        "Vokietija"
+        "prancūzija",
+        "graikija",
+        "jungtinės valstijos",
+        "ispanija",
+        "vokietija"
       ],
       "category": "food",
       "difficulty": "normal",
@@ -68,11 +68,11 @@
         "planeta merkurijus"
       ],
       "wrong_answers": [
-        "Marsas",
-        "Venera",
-        "Plutonas",
-        "Žemė",
-        "Neptūnas"
+        "marsas",
+        "venera",
+        "plutonas",
+        "žemė",
+        "neptūnas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -87,11 +87,11 @@
         "divandenilio monoksidas"
       ],
       "wrong_answers": [
-        "CO2",
-        "O2",
-        "NaCl",
-        "H2SO4",
-        "CH4"
+        "co2",
+        "o2",
+        "nacl",
+        "h2so4",
+        "ch4"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -106,11 +106,11 @@
         "kinijos liaudies respublika"
       ],
       "wrong_answers": [
-        "Jungtinės Valstijos",
-        "Indija",
-        "Rusija",
-        "Brazilija",
-        "Vokietija"
+        "jungtinės valstijos",
+        "indija",
+        "rusija",
+        "brazilija",
+        "vokietija"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -125,11 +125,11 @@
         "tinker bell"
       ],
       "wrong_answers": [
-        "Wendy",
-        "Pixie",
-        "Fėjų dulkės",
-        "Silvermist",
-        "Rosetta"
+        "wendy",
+        "pixie",
+        "fėjų dulkės",
+        "silvermist",
+        "rosetta"
       ],
       "category": "literature",
       "difficulty": "normal",
@@ -144,11 +144,11 @@
         "nilo upė"
       ],
       "wrong_answers": [
-        "Amazonė",
-        "Jangdzė",
-        "Misisipė",
-        "Dunojus",
-        "Kongas"
+        "amazonė",
+        "jangdzė",
+        "misisipė",
+        "dunojus",
+        "kongas"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -163,11 +163,11 @@
         "o2"
       ],
       "wrong_answers": [
-        "Anglis",
-        "Vandenilis",
-        "Azotas",
-        "Helis",
-        "Argonas"
+        "anglis",
+        "vandenilis",
+        "azotas",
+        "helis",
+        "argonas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -182,11 +182,11 @@
         "tokijo miestas"
       ],
       "wrong_answers": [
-        "Seulas",
-        "Pekinas",
-        "Bankokas",
-        "Šanchajus",
-        "Kiotas"
+        "seulas",
+        "pekinas",
+        "bankokas",
+        "šanchajus",
+        "kiotas"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -202,11 +202,11 @@
         "tolkinas"
       ],
       "wrong_answers": [
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "J.K. Rowling",
-        "Mark Twain",
-        "H.P. Lovecraft"
+        "c.s. lewis",
+        "george r.r. martin",
+        "j.k. rowling",
+        "mark twain",
+        "h.p. lovecraft"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -239,11 +239,11 @@
         "širdis"
       ],
       "wrong_answers": [
-        "Kepenys",
-        "Smegenys",
-        "Plaučiai",
-        "Inkstai",
-        "Skrandis"
+        "kepenys",
+        "smegenys",
+        "plaučiai",
+        "inkstai",
+        "skrandis"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -258,11 +258,11 @@
         "hg"
       ],
       "wrong_answers": [
-        "Geležis",
-        "Auksas",
-        "Sidabras",
-        "Varis",
-        "Aliuminis"
+        "geležis",
+        "auksas",
+        "sidabras",
+        "varis",
+        "aliuminis"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -277,11 +277,11 @@
         "procesorius"
       ],
       "wrong_answers": [
-        "Kompiuterio galios blokas",
-        "Centrinė programos paslauga",
-        "Valdymo apdorojimo įrenginys",
-        "Pagrindinio apdorojimo paslauga",
-        "Centralizuotas apdorojimo įrenginys"
+        "kompiuterio galios blokas",
+        "centrinė programos paslauga",
+        "valdymo apdorojimo įrenginys",
+        "pagrindinio apdorojimo paslauga",
+        "centralizuotas apdorojimo įrenginys"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -296,11 +296,11 @@
         "natūralus deimantas"
       ],
       "wrong_answers": [
-        "Auksas",
-        "Plienas",
-        "Kvarcas",
-        "Geležis",
-        "Grafitas"
+        "auksas",
+        "plienas",
+        "kvarcas",
+        "geležis",
+        "grafitas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -315,11 +315,11 @@
         "n2"
       ],
       "wrong_answers": [
-        "Deguonis",
-        "Anglies dioksidas",
-        "Vandenilis",
-        "Helis",
-        "Argonas"
+        "deguonis",
+        "anglies dioksidas",
+        "vandenilis",
+        "helis",
+        "argonas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -335,11 +335,11 @@
         "s. spilbergas"
       ],
       "wrong_answers": [
-        "James Cameron",
-        "George Lucas",
-        "Christopher Nolan",
-        "Quentin Tarantino",
-        "Tim Burton"
+        "james cameron",
+        "george lucas",
+        "christopher nolan",
+        "quentin tarantino",
+        "tim burton"
       ],
       "category": "movies",
       "difficulty": "normal",
@@ -354,11 +354,11 @@
         "planeta marsas"
       ],
       "wrong_answers": [
-        "Venera",
-        "Jupiteris",
-        "Saturnas",
-        "Merkurijus",
-        "Neptūnas"
+        "venera",
+        "jupiteris",
+        "saturnas",
+        "merkurijus",
+        "neptūnas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -374,11 +374,11 @@
         "v. šekspyras"
       ],
       "wrong_answers": [
-        "Charles Dickens",
-        "Jane Austen",
-        "Mark Twain",
-        "Leo Tolstojus",
-        "George Orwell"
+        "charles dickens",
+        "jane austen",
+        "mark twain",
+        "leo tolstojus",
+        "george orwell"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -392,11 +392,11 @@
         "au"
       ],
       "wrong_answers": [
-        "Ag",
-        "Fe",
-        "Pb",
-        "Cu",
-        "Pt"
+        "ag",
+        "fe",
+        "pb",
+        "cu",
+        "pt"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -641,10 +641,10 @@
         "212"
       ],
       "wrong_answers": [
-        "90 laipsnių Celsijaus",
-        "110 laipsnių Celsijaus",
-        "150 laipsnių Farenheito",
-        "200 laipsnių Farenheito"
+        "90 laipsnių celsijaus",
+        "110 laipsnių celsijaus",
+        "150 laipsnių farenheito",
+        "200 laipsnių farenheito"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -658,11 +658,11 @@
         "afrika"
       ],
       "wrong_answers": [
-        "Azija",
-        "Europa",
-        "Šiaurės Amerika",
-        "Pietų Amerika",
-        "Australija"
+        "azija",
+        "europa",
+        "šiaurės amerika",
+        "pietų amerika",
+        "australija"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -733,11 +733,11 @@
         "na"
       ],
       "wrong_answers": [
-        "S",
-        "So",
-        "Sn",
-        "Sa",
-        "Mg"
+        "s",
+        "so",
+        "sn",
+        "sa",
+        "mg"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -770,11 +770,11 @@
         "australija"
       ],
       "wrong_answers": [
-        "Brazilija",
-        "Pietų Afrika",
-        "Meksika",
-        "Indija",
-        "Indonezija"
+        "brazilija",
+        "pietų afrika",
+        "meksika",
+        "indija",
+        "indonezija"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -808,11 +808,11 @@
         "saulė"
       ],
       "wrong_answers": [
-        "Alfa Kentauro",
-        "Sirijus",
-        "Betelgeizė",
-        "Poliarinė žvaigždė",
-        "Vega"
+        "alfa kentauro",
+        "sirijus",
+        "betelgeizė",
+        "poliarinė žvaigždė",
+        "vega"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -981,11 +981,11 @@
         "a. veskeris"
       ],
       "wrong_answers": [
-        "Chris Redfield",
-        "Ada Wong",
-        "Nemesis",
-        "Hunk",
-        "Leon Kennedy"
+        "chris redfield",
+        "ada wong",
+        "nemesis",
+        "hunk",
+        "leon kennedy"
       ],
       "category": "gaming",
       "difficulty": "normal",
@@ -1040,11 +1040,11 @@
         "h. kojima"
       ],
       "wrong_answers": [
-        "Shigeru Miyamoto",
-        "Yu Suzuki",
-        "Sakurai",
-        "Tetsuya Nomura",
-        "Keiji Inafune"
+        "shigeru miyamoto",
+        "yu suzuki",
+        "sakurai",
+        "tetsuya nomura",
+        "keiji inafune"
       ],
       "category": "gaming",
       "difficulty": "normal",
@@ -1095,11 +1095,11 @@
         "inky"
       ],
       "wrong_answers": [
-        "Blinky",
-        "Pinky",
-        "Clyde",
-        "Ghosty",
-        "Winky"
+        "blinky",
+        "pinky",
+        "clyde",
+        "ghosty",
+        "winky"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1113,11 +1113,11 @@
         "tails"
       ],
       "wrong_answers": [
-        "Knuckles",
-        "Shadow",
-        "Amy",
-        "Vector",
-        "Silver"
+        "knuckles",
+        "shadow",
+        "amy",
+        "vector",
+        "silver"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1167,11 +1167,11 @@
         "azerotas"
       ],
       "wrong_answers": [
-        "Draenor",
-        "Outland",
-        "Terranova",
-        "Nexus",
-        "Pandaria"
+        "draenor",
+        "outland",
+        "terranova",
+        "nexus",
+        "pandaria"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1203,11 +1203,11 @@
         "shang tsung"
       ],
       "wrong_answers": [
-        "Scorpion",
-        "Raiden",
-        "Liu Kang",
-        "Sub-Zero",
-        "Quan Chi"
+        "scorpion",
+        "raiden",
+        "liu kang",
+        "sub-zero",
+        "quan chi"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1280,11 +1280,11 @@
         "p. alenas"
       ],
       "wrong_answers": [
-        "Steve Wozniak",
-        "Larry Page",
-        "Steve Jobs",
-        "Mark Zuckerberg",
-        "Elon Musk"
+        "steve wozniak",
+        "larry page",
+        "steve jobs",
+        "mark zuckerberg",
+        "elon musk"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -1514,11 +1514,11 @@
         "e. maskas"
       ],
       "wrong_answers": [
-        "Tim Cook",
-        "Jeff Bezos",
-        "Bill Gates",
-        "Mark Zuckerberg",
-        "Richard Branson"
+        "tim cook",
+        "jeff bezos",
+        "bill gates",
+        "mark zuckerberg",
+        "richard branson"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -15581,9 +15581,9 @@
         "orą"
       ],
       "wrong_answers": [
-        "The Schwartz",
-        "Princess Lonestar",
-        "Meatballs"
+        "the schwartz",
+        "princess lonestar",
+        "meatballs"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15598,9 +15598,9 @@
         "eleven"
       ],
       "wrong_answers": [
-        "Mike",
-        "Lucas",
-        "Karen"
+        "mike",
+        "lucas",
+        "karen"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15614,9 +15614,9 @@
         "seinfeld"
       ],
       "wrong_answers": [
-        "Frasier",
-        "Becker",
-        "Friends"
+        "frasier",
+        "becker",
+        "friends"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15631,9 +15631,9 @@
         "gubernatorius"
       ],
       "wrong_answers": [
-        "Negan",
-        "Rick Grimes",
-        "Daryl Dixon"
+        "negan",
+        "rick grimes",
+        "daryl dixon"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15696,9 +15696,9 @@
         "pirelli"
       ],
       "wrong_answers": [
-        "Goodyear",
-        "Bridgestone",
-        "Michelin"
+        "goodyear",
+        "bridgestone",
+        "michelin"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -15744,9 +15744,9 @@
         "the pentagon thief"
       ],
       "wrong_answers": [
-        "Hellhounds",
-        "Jumping Jacks",
-        "Napalm Zombie"
+        "hellhounds",
+        "jumping jacks",
+        "napalm zombie"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15760,9 +15760,9 @@
         "the company"
       ],
       "wrong_answers": [
-        "Planet Scrap Co.",
-        "Lethal Robotics",
-        "Gordian Shipping Co."
+        "planet scrap co.",
+        "lethal robotics",
+        "gordian shipping co."
       ],
       "category": "general",
       "difficulty": "easy",
@@ -16336,8 +16336,8 @@
         "chikorita, cyndaquil, totodile"
       ],
       "wrong_answers": [
-        "Bulbasaur, Charmander, Squirtle",
-        "Treecko, Torchic, Mudkip",
+        "bulbasaur, charmander, squirtle",
+        "treecko, torchic, mudkip",
         "žolinis, ugninis, vandeninis"
       ],
       "category": "entertainment",
@@ -19841,9 +19841,9 @@
         "ponas nukas"
       ],
       "wrong_answers": [
-        "Mr. Resetti",
-        "Gracie",
-        "K.K. Slider"
+        "mr. resetti",
+        "gracie",
+        "k.k. slider"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -27067,7 +27067,7 @@
       "answers": [
         "omas",
         "omai",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -42614,7 +42614,7 @@
       "question": "Koks simbolis naudojamas poslinkiui žymėti moksle?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta"
       ],
       "wrong_answers": [
@@ -47531,7 +47531,7 @@
       "question": "Kokia raidė naudojama poslinkiui žymėti fizikoje?",
       "answers": [
         "delta",
-        "Δ",
+        "δ",
         "delta simbolis"
       ],
       "wrong_answers": [
@@ -48921,9 +48921,9 @@
         "smkr"
       ],
       "wrong_answers": [
-        "Jockey",
-        "Hunter",
-        "Boomer"
+        "jockey",
+        "hunter",
+        "boomer"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -49750,9 +49750,9 @@
         "numalšinti"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -49836,7 +49836,7 @@
       "question": "Koks yra poslinkio simbolis fizikoje?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "deltar"
       ],
       "wrong_answers": [
@@ -50233,7 +50233,7 @@
       "answers": [
         "omas",
         "omai",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -50290,9 +50290,9 @@
         "med gun"
       ],
       "wrong_answers": [
-        "Scattergun",
-        "Grenade Launcher",
-        "Rocket Launcher"
+        "scattergun",
+        "grenade launcher",
+        "rocket launcher"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -52918,9 +52918,9 @@
         "numalšinti"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53656,9 +53656,9 @@
         "playstation"
       ],
       "wrong_answers": [
-        "PS2",
-        "PS3",
-        "PS4"
+        "ps2",
+        "ps3",
+        "ps4"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -54538,9 +54538,9 @@
         "city-17"
       ],
       "wrong_answers": [
-        "City 18",
-        "City 6",
-        "City 45"
+        "city 18",
+        "city 6",
+        "city 45"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -54772,9 +54772,9 @@
         "parkview mall"
       ],
       "wrong_answers": [
-        "Liberty Mall",
-        "Twin Pines Mall",
-        "Central Square Mall"
+        "liberty mall",
+        "twin pines mall",
+        "central square mall"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -55312,9 +55312,9 @@
         "city17"
       ],
       "wrong_answers": [
-        "City 18",
-        "City 6",
-        "City 45"
+        "city 18",
+        "city 6",
+        "city 45"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -56106,9 +56106,9 @@
         "raminimas"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57223,9 +57223,9 @@
         "nuraminimas"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57403,9 +57403,9 @@
         "city-17"
       ],
       "wrong_answers": [
-        "City 18",
-        "City 6",
-        "City 45"
+        "city 18",
+        "city 6",
+        "city 45"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -58393,9 +58393,9 @@
         "medic ginklas"
       ],
       "wrong_answers": [
-        "Scattergun",
-        "Grenade Launcher",
-        "Rocket Launcher"
+        "scattergun",
+        "grenade launcher",
+        "rocket launcher"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -58555,9 +58555,9 @@
         "parkview mall"
       ],
       "wrong_answers": [
-        "Liberty Mall",
-        "Twin Pines Mall",
-        "Central Square Mall"
+        "liberty mall",
+        "twin pines mall",
+        "central square mall"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -60424,7 +60424,7 @@
       "question": "Koks simbolis matematikoje naudojamas poslinkiui žymėti?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta-r"
       ],
       "wrong_answers": [
@@ -68714,10 +68714,10 @@
         "pekinas"
       ],
       "wrong_answers": [
-        "Šanchajus",
-        "Guangdžou",
-        "Šendženas",
-        "Honkongas"
+        "šanchajus",
+        "guangdžou",
+        "šendženas",
+        "honkongas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68731,10 +68731,10 @@
         "bankokas"
       ],
       "wrong_answers": [
-        "Čiang Majus",
-        "Puketas",
-        "Pataja",
-        "Ajutaja"
+        "čiang majus",
+        "puketas",
+        "pataja",
+        "ajutaja"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68748,10 +68748,10 @@
         "japonija"
       ],
       "wrong_answers": [
-        "Kinija",
-        "Pietų Korėja",
-        "Tailandas",
-        "Vietnamas"
+        "kinija",
+        "pietų korėja",
+        "tailandas",
+        "vietnamas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68765,10 +68765,10 @@
         "kinija"
       ],
       "wrong_answers": [
-        "Mongolija",
-        "Japonija",
-        "Indija",
-        "Nepalas"
+        "mongolija",
+        "japonija",
+        "indija",
+        "nepalas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68782,10 +68782,10 @@
         "hanojus"
       ],
       "wrong_answers": [
-        "Hošimino miestas",
-        "Danangas",
-        "Hujė",
-        "Haifongas"
+        "hošimino miestas",
+        "danangas",
+        "hujė",
+        "haifongas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68799,10 +68799,10 @@
         "jangdzė"
       ],
       "wrong_answers": [
-        "Geltonoji upė",
-        "Mekongas",
-        "Gangas",
-        "Indas"
+        "geltonoji upė",
+        "mekongas",
+        "gangas",
+        "indas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68816,10 +68816,10 @@
         "japonija"
       ],
       "wrong_answers": [
-        "Kinija",
-        "Pietų Korėja",
-        "Nepalas",
-        "Indonezija"
+        "kinija",
+        "pietų korėja",
+        "nepalas",
+        "indonezija"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68833,10 +68833,10 @@
         "manila"
       ],
       "wrong_answers": [
-        "Sebu",
-        "Davao",
-        "Kvezon Sitis",
-        "Makatis"
+        "sebu",
+        "davao",
+        "kvezon sitis",
+        "makatis"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68850,10 +68850,10 @@
         "japonija"
       ],
       "wrong_answers": [
-        "Kinija",
-        "Tailandas",
-        "Pietų Korėja",
-        "Vietnamas"
+        "kinija",
+        "tailandas",
+        "pietų korėja",
+        "vietnamas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68867,10 +68867,10 @@
         "kvala lumpūras"
       ],
       "wrong_answers": [
-        "Džordžtaunas",
-        "Džohor Baru",
-        "Putradžaja",
-        "Ipohas"
+        "džordžtaunas",
+        "džohor baru",
+        "putradžaja",
+        "ipohas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68884,10 +68884,10 @@
         "islamabadas"
       ],
       "wrong_answers": [
-        "Karačis",
-        "Lahoras",
-        "Ravalpindis",
-        "Faisalabadas"
+        "karačis",
+        "lahoras",
+        "ravalpindis",
+        "faisalabadas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68901,10 +68901,10 @@
         "kinija"
       ],
       "wrong_answers": [
-        "Japonija",
-        "Indija",
-        "Nepalas",
-        "Tailandas"
+        "japonija",
+        "indija",
+        "nepalas",
+        "tailandas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68918,10 +68918,10 @@
         "katmandu"
       ],
       "wrong_answers": [
-        "Pokhara",
-        "Lalitpuras",
-        "Biratnagaras",
-        "Bharatpuras"
+        "pokhara",
+        "lalitpuras",
+        "biratnagaras",
+        "bharatpuras"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68935,10 +68935,10 @@
         "azija"
       ],
       "wrong_answers": [
-        "Afrika",
-        "Europa",
-        "Pietų Amerika",
-        "Okeanija"
+        "afrika",
+        "europa",
+        "pietų amerika",
+        "okeanija"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68952,10 +68952,10 @@
         "astana"
       ],
       "wrong_answers": [
-        "Almata",
-        "Šymkentas",
-        "Karaganda",
-        "Nur Sultanas"
+        "almata",
+        "šymkentas",
+        "karaganda",
+        "nur sultanas"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -68969,10 +68969,10 @@
         "indonezija"
       ],
       "wrong_answers": [
-        "Filipinai",
-        "Japonija",
-        "Malaizija",
-        "Maldyvai"
+        "filipinai",
+        "japonija",
+        "malaizija",
+        "maldyvai"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -68986,10 +68986,10 @@
         "maldyvai"
       ],
       "wrong_answers": [
-        "Singapūras",
-        "Bahreinas",
-        "Brunėjus",
-        "Butanas"
+        "singapūras",
+        "bahreinas",
+        "brunėjus",
+        "butanas"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69003,10 +69003,10 @@
         "japonijos jūra"
       ],
       "wrong_answers": [
-        "Geltonoji jūra",
-        "Rytų Kinijos jūra",
-        "Pietų Kinijos jūra",
-        "Filipinų jūra"
+        "geltonoji jūra",
+        "rytų kinijos jūra",
+        "pietų kinijos jūra",
+        "filipinų jūra"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69020,10 +69020,10 @@
         "ulan batoras"
       ],
       "wrong_answers": [
-        "Erdenetas",
-        "Darchanas",
-        "Čoibalsanas",
-        "Astana"
+        "erdenetas",
+        "darchanas",
+        "čoibalsanas",
+        "astana"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69037,10 +69037,10 @@
         "tailandas"
       ],
       "wrong_answers": [
-        "Mianmaras",
-        "Kambodža",
-        "Vietnamas",
-        "Laosas"
+        "mianmaras",
+        "kambodža",
+        "vietnamas",
+        "laosas"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69054,10 +69054,10 @@
         "kambodža"
       ],
       "wrong_answers": [
-        "Tailandas",
-        "Vietnamas",
-        "Laosas",
-        "Mianmaras"
+        "tailandas",
+        "vietnamas",
+        "laosas",
+        "mianmaras"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69072,10 +69072,10 @@
         "naypyidaw"
       ],
       "wrong_answers": [
-        "Jangonas",
-        "Mandalajus",
-        "Bagas",
-        "Maulamjainas"
+        "jangonas",
+        "mandalajus",
+        "bagas",
+        "maulamjainas"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69089,10 +69089,10 @@
         "pnompenis"
       ],
       "wrong_answers": [
-        "Siem Reapas",
-        "Batambangas",
-        "Sihanukvilis",
-        "Angkoras"
+        "siem reapas",
+        "batambangas",
+        "sihanukvilis",
+        "angkoras"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69106,10 +69106,10 @@
         "teheranas"
       ],
       "wrong_answers": [
-        "Isfahanas",
-        "Mešhedas",
-        "Širazas",
-        "Tebrizas"
+        "isfahanas",
+        "mešhedas",
+        "širazas",
+        "tebrizas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69123,10 +69123,10 @@
         "rijadas"
       ],
       "wrong_answers": [
-        "Džida",
-        "Meka",
-        "Medina",
-        "Damamas"
+        "džida",
+        "meka",
+        "medina",
+        "damamas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69140,10 +69140,10 @@
         "dubajus"
       ],
       "wrong_answers": [
-        "Abu Dabis",
-        "Doha",
-        "Rijadas",
-        "Šanchajus"
+        "abu dabis",
+        "doha",
+        "rijadas",
+        "šanchajus"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69157,10 +69157,10 @@
         "bagdadas"
       ],
       "wrong_answers": [
-        "Basra",
-        "Mosulas",
-        "Erbilis",
-        "Kirkukas"
+        "basra",
+        "mosulas",
+        "erbilis",
+        "kirkukas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69174,10 +69174,10 @@
         "ankara"
       ],
       "wrong_answers": [
-        "Stambulas",
-        "Izmiras",
-        "Bursa",
-        "Antalija"
+        "stambulas",
+        "izmiras",
+        "bursa",
+        "antalija"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69192,10 +69192,10 @@
         "korėja"
       ],
       "wrong_answers": [
-        "Japonija",
-        "Kinija",
-        "Tailandas",
-        "Vietnamas"
+        "japonija",
+        "kinija",
+        "tailandas",
+        "vietnamas"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69209,14 +69209,709 @@
         "taškentas"
       ],
       "wrong_answers": [
-        "Samarkandas",
-        "Buchara",
-        "Namanganas",
-        "Andidžanas"
+        "samarkandas",
+        "buchara",
+        "namanganas",
+        "andidžanas"
       ],
       "category": "asia",
       "difficulty": "normal",
       "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "555df48bdac60b96c1ae6bef89897993",
+      "question": "Koks yra šalčiausias žemynas Žemėje?",
+      "answers": [
+        "antarktida"
+      ],
+      "wrong_answers": [
+        "afrika",
+        "azija",
+        "europa",
+        "australija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "e0198e9ecd870db3270bc0e13953616d",
+      "question": "Koks yra šalčiausias vandenynas Žemėje?",
+      "answers": [
+        "arkties vandenynas",
+        "arktis"
+      ],
+      "wrong_answers": [
+        "ramusis vandenynas",
+        "atlanto vandenynas",
+        "indijos vandenynas",
+        "pietų vandenynas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "fb668909f55fd99a7534beb77f8f5591",
+      "question": "Koks yra šalčiausias metų laikas?",
+      "answers": [
+        "žiema"
+      ],
+      "wrong_answers": [
+        "vasara",
+        "pavasaris",
+        "ruduo",
+        "musonas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "8ce5ef8b6d5bc6c5e0efaf48a785a6b7",
+      "question": "Kaip vadinamas užšalęs vanduo, krentantis iš dangaus baltomis snaigėmis?",
+      "answers": [
+        "sniegas"
+      ],
+      "wrong_answers": [
+        "lietus",
+        "kruša",
+        "šlapdriba",
+        "šerkšnas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "9059e96758fc0991fa6b14cc2e8dc196",
+      "question": "Kaip vadinamas didelis plūduriuojantis ledo luitas vandenyne?",
+      "answers": [
+        "ledkalnis"
+      ],
+      "wrong_answers": [
+        "ledynas",
+        "ledo skydas",
+        "snaigė",
+        "lavina"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "8004e21720e7e004953b8ede329d3dd8",
+      "question": "Kaip vadinama lėtai judanti ledo masė sausumoje?",
+      "answers": [
+        "ledynas"
+      ],
+      "wrong_answers": [
+        "ledkalnis",
+        "lavina",
+        "pūga",
+        "fjordas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "0b70927e475766becce4504f9bb4b1c0",
+      "question": "Kaip vadinama sniego audra su stipriu vėju ir prastu matomumu?",
+      "answers": [
+        "pūga"
+      ],
+      "wrong_answers": [
+        "uraganas",
+        "viesulas",
+        "musonas",
+        "dulksna"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "8d2549dbf2f64cab74adef6a562d0036",
+      "question": "Kuri JAV valstija yra šalčiausia?",
+      "answers": [
+        "aliaska"
+      ],
+      "wrong_answers": [
+        "teksasas",
+        "florida",
+        "havajai",
+        "arizona"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "4f431995e7d4dbe98e5459df423c75e6",
+      "question": "Kokia yra didžiausia pasaulio sala, didžiąja dalimi padengta ledu?",
+      "answers": [
+        "grenlandija"
+      ],
+      "wrong_answers": [
+        "islandija",
+        "madagaskaras",
+        "borneo",
+        "naujoji gvinėja"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "78220bba05595403f1426b123c77d0e7",
+      "question": "Koks užšalęs, bemedis biomas randamas tolimoje šiaurėje?",
+      "answers": [
+        "tundra"
+      ],
+      "wrong_answers": [
+        "atogrąžų miškas",
+        "savana",
+        "dykuma",
+        "prerija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "14ec6f3e213935d203d7ce02ffec7afa",
+      "question": "Kaip vadinama nuolat įšalusi žemė?",
+      "answers": [
+        "amžinasis įšalas"
+      ],
+      "wrong_answers": [
+        "uoliena",
+        "dirvožemis",
+        "liūnas",
+        "molis"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "94e60e5f0d084f5a3bcf83068a459e47",
+      "question": "Kuris polius yra Antarktidoje?",
+      "answers": [
+        "pietų polius"
+      ],
+      "wrong_answers": [
+        "šiaurės ašigalis",
+        "magnetinis polius",
+        "pusiaujas",
+        "vėžio atogrąža"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "6244834dba8fb31f8774409d49a96044",
+      "question": "Kuri įsivaizduojama linija žymi šaltojo šiaurės poliarinio regiono ribą?",
+      "answers": [
+        "šiaurės poliaratis",
+        "poliaratis"
+      ],
+      "wrong_answers": [
+        "pusiaujas",
+        "grinvičo dienovidinis",
+        "ožiaragio atogrąža",
+        "datos keitimo linija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "8fd34317092f60e940b8b3e69b0b14a8",
+      "question": "Koks yra šalčiausias pasaulio sostinės miestas?",
+      "answers": [
+        "ulan batoras",
+        "ulanbatoras"
+      ],
+      "wrong_answers": [
+        "maskva",
+        "helsinkis",
+        "reikjavikas",
+        "otava"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c45730f97606987e977d25aa8b716bbc",
+      "question": "Ulan Batoras yra kurios šalies sostinė?",
+      "answers": [
+        "mongolija"
+      ],
+      "wrong_answers": [
+        "rusija",
+        "kazachstanas",
+        "kinija",
+        "nepalas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "1627f0b53d0abd8da788a02127497068",
+      "question": "Kuris Šiaurės regionas Šiaurės poliaratyje garsėja sniegu ir šiaurės elniais?",
+      "answers": [
+        "laplandija"
+      ],
+      "wrong_answers": [
+        "bavarija",
+        "toskana",
+        "andalūzija",
+        "provansas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "814faccbffc98662b94a64e8249b9b33",
+      "question": "Kuo daugiausia padengta Antarktida?",
+      "answers": [
+        "ledu",
+        "ledo skydu"
+      ],
+      "wrong_answers": [
+        "smėliu",
+        "mišku",
+        "pievomis",
+        "vulkanine uoliena"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "bb1803bcbb77fac2013dcb54099445d1",
+      "question": "Koks didelis baltas lokys gyvena šaltoje Arktyje?",
+      "answers": [
+        "baltasis lokys",
+        "poliarinis lokys"
+      ],
+      "wrong_answers": [
+        "grizlis",
+        "panda",
+        "lūpūnas",
+        "malajinis lokys"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "8d343ed797f8beaabdf88270d66a6095",
+      "question": "Kuri tyrimų stotis užfiksavo šalčiausią natūralią temperatūrą Žemėje?",
+      "answers": [
+        "vostok stotis",
+        "vostok"
+      ],
+      "wrong_answers": [
+        "mcmurdo stotis",
+        "amundsen-scott stotis",
+        "palmer stotis",
+        "casey stotis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d27577afee4974ed7eeb0cdfe9a53742",
+      "question": "Kuris Rusijos kaimas dažnai vadinamas šalčiausia nuolat gyvenama vieta Žemėje?",
+      "answers": [
+        "oimiakonas"
+      ],
+      "wrong_answers": [
+        "norilskas",
+        "jakutskas",
+        "magadanas",
+        "irkutskas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "43a2439445d81dbcf3ab90d8d6418f37",
+      "question": "Kurioje šalyje yra šaltieji Oimiakono ir Verchojansko miestai?",
+      "answers": [
+        "rusija"
+      ],
+      "wrong_answers": [
+        "mongolija",
+        "kanada",
+        "kazachstanas",
+        "suomija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "e37ef5d763d136a0c2c5128b8684fcc2",
+      "question": "Kuris didelis gėlavandenis ežeras Sibire užšąla kiekvieną žiemą?",
+      "answers": [
+        "baikalo ežeras",
+        "baikalas"
+      ],
+      "wrong_answers": [
+        "viktorijos ežeras",
+        "kaspijos jūra",
+        "titikakos ežeras",
+        "didysis meškos ežeras"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "57f826527a773a179e36731e7abd4091",
+      "question": "Kuri šalis valdo Vostok stotį Antarktidoje?",
+      "answers": [
+        "rusija"
+      ],
+      "wrong_answers": [
+        "jungtinės valstijos",
+        "norvegija",
+        "australija",
+        "jungtinė karalystė"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "dbdecb39f4105be0e61eec191ee2689d",
+      "question": "Kuriai šaliai priklauso šaltoji Grenlandijos teritorija?",
+      "answers": [
+        "danija"
+      ],
+      "wrong_answers": [
+        "norvegija",
+        "islandija",
+        "kanada",
+        "švedija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "3e1cf5989b73b4bc77e6ef14c7fa5032",
+      "question": "Kuri Kanados teritorija Arktyje patiria ekstremalų šaltį?",
+      "answers": [
+        "nunavutas"
+      ],
+      "wrong_answers": [
+        "ontarijas",
+        "kvebekas",
+        "alberta",
+        "manitoba"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "148113c102774f52c6ced382ccfb12ee",
+      "question": "Kokia yra šalčiausia dykumos rūšis Žemėje?",
+      "answers": [
+        "poliarinė dykuma",
+        "antarktinė dykuma"
+      ],
+      "wrong_answers": [
+        "sachara",
+        "gobis",
+        "atakama",
+        "arabijos dykuma"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d51c6204dbb7240cbac13bef887c517d",
+      "question": "Kuriame žemyne yra Pietų polius?",
+      "answers": [
+        "antarktida"
+      ],
+      "wrong_answers": [
+        "pietų amerika",
+        "australija",
+        "afrika",
+        "azija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d8a05aeaa6e0f2d7107807f1c79c31c1",
+      "question": "Kokia buvo maždaug šalčiausia kada nors Žemėje užfiksuota natūrali temperatūra Celsijaus laipsniais?",
+      "answers": [
+        "-89",
+        "-89,2",
+        "minus 89"
+      ],
+      "wrong_answers": [
+        "-50",
+        "-70",
+        "-100",
+        "-120"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "1233ff68fd851083acccd64751956e8f",
+      "question": "Kokia yra absoliutaus nulio temperatūra maždaug Celsijaus laipsniais?",
+      "answers": [
+        "-273",
+        "-273,15",
+        "minus 273"
+      ],
+      "wrong_answers": [
+        "0",
+        "-100",
+        "-173",
+        "-373"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "6d2b15700adee24d10a82b9b7d612ea9",
+      "question": "Kuri temperatūros skalė prasideda nuo absoliutaus nulio?",
+      "answers": [
+        "kelvinas"
+      ],
+      "wrong_answers": [
+        "celsijus",
+        "farenheitas",
+        "niutonas",
+        "reomiuras"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "cec7f9440cebb4680655d889f5e1a562",
+      "question": "Kuris JAV Minesotos miestas pramintas 'Tautos šaldytuvu'?",
+      "answers": [
+        "international falls"
+      ],
+      "wrong_answers": [
+        "dulutas",
+        "mineapolis",
+        "fargas",
+        "bismarkas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0c432a5481816b51a834a4393140c0e0",
+      "question": "Kuris Aliaskos miestas garsėja itin šaltomis žiemomis krašto viduje?",
+      "answers": [
+        "fērbanksas",
+        "fairbanks"
+      ],
+      "wrong_answers": [
+        "ankoridžas",
+        "džuno",
+        "sitka",
+        "kodiakas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "1f500ffdb8f72db273991ae4b0081004",
+      "question": "Kaip vadinamas užšalęs vanduo, dengiantis Arkties vandenyno paviršių?",
+      "answers": [
+        "jūros ledas"
+      ],
+      "wrong_answers": [
+        "ledkalniai",
+        "ledynai",
+        "amžinasis įšalas",
+        "sniego danga"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "79bdfc544453af5cded54a2abea241df",
+      "question": "Kaip vadinamas staigus sniego nuošliauža kalno šlaitu?",
+      "answers": [
+        "lavina",
+        "sniego griūtis"
+      ],
+      "wrong_answers": [
+        "nuošliauža",
+        "pūga",
+        "uolų nuošliauža",
+        "cunamis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "c9a890b773647a3291e6aee9b30b60da",
+      "question": "Kaip vadinamas šiaurinis poliarinis regionas aplink Šiaurės ašigalį?",
+      "answers": [
+        "arktis"
+      ],
+      "wrong_answers": [
+        "antarktis",
+        "tundra",
+        "sibiras",
+        "skandinavija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "6757cbbc7552ec5dd566a386801eb783",
+      "question": "Kaip vadinamas procesas, kai skystas vanduo virsta kietu ledu?",
+      "answers": [
+        "užšalimas",
+        "kietėjimas"
+      ],
+      "wrong_answers": [
+        "tirpimas",
+        "virimas",
+        "kondensacija",
+        "garavimas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d757e13d5ff22cc35a224c04dde0a723",
+      "question": "Kaip vadinamas gilus plyšys ledyne?",
+      "answers": [
+        "ledyno plyšys"
+      ],
+      "wrong_answers": [
+        "kanjonas",
+        "fjordas",
+        "tarpeklis",
+        "griova"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2ca46db0ad32d079446b9620dc5d6df0",
+      "question": "Kaip vadinamas siauras, ledynų išraižytas jūros įlankos ruožas, dažnas Norvegijoje?",
+      "answers": [
+        "fjordas"
+      ],
+      "wrong_answers": [
+        "įlanka",
+        "lagūna",
+        "sąsiauris",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "7392badb242e24555a43654eda82e9d4",
+      "question": "Sibiras, vienas šalčiausių apgyvendintų regionų, priklauso kuriai šaliai?",
+      "answers": [
+        "rusija"
+      ],
+      "wrong_answers": [
+        "mongolija",
+        "kinija",
+        "kazachstanas",
+        "kanada"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2eb2405ed3d400d08842d23ee22ec650",
+      "question": "Koks neskraidantis juodai baltas paukštis gyvena šaltoje Antarktidoje?",
+      "answers": [
+        "pingvinas"
+      ],
+      "wrong_answers": [
+        "baltasis lokys",
+        "šarkis",
+        "albatrosas",
+        "poliarinė žuvėdra"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
       "language": "lt"
     }
   ]

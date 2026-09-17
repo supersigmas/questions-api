@@ -15594,9 +15594,9 @@
         "воздух"
       ],
       "wrong_answers": [
-        "The Schwartz",
-        "Princess Lonestar",
-        "Meatballs"
+        "the schwartz",
+        "princess lonestar",
+        "meatballs"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15611,9 +15611,9 @@
         "eleven"
       ],
       "wrong_answers": [
-        "Mike",
-        "Lucas",
-        "Karen"
+        "mike",
+        "lucas",
+        "karen"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15628,9 +15628,9 @@
         "seinfeld"
       ],
       "wrong_answers": [
-        "Frasier",
-        "Becker",
-        "Friends"
+        "frasier",
+        "becker",
+        "friends"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15644,9 +15644,9 @@
         "губернатор"
       ],
       "wrong_answers": [
-        "Negan",
-        "Rick Grimes",
-        "Daryl Dixon"
+        "negan",
+        "rick grimes",
+        "daryl dixon"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15709,9 +15709,9 @@
         "pirelli"
       ],
       "wrong_answers": [
-        "Goodyear",
-        "Bridgestone",
-        "Michelin"
+        "goodyear",
+        "bridgestone",
+        "michelin"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -15757,9 +15757,9 @@
         "the pentagon thief"
       ],
       "wrong_answers": [
-        "Hellhounds",
-        "Jumping Jacks",
-        "Napalm Zombie"
+        "hellhounds",
+        "jumping jacks",
+        "napalm zombie"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15773,9 +15773,9 @@
         "the company"
       ],
       "wrong_answers": [
-        "Planet Scrap Co.",
-        "Lethal Robotics",
-        "Gordian Shipping Co."
+        "planet scrap co.",
+        "lethal robotics",
+        "gordian shipping co."
       ],
       "category": "general",
       "difficulty": "easy",
@@ -15854,9 +15854,9 @@
         "eagle"
       ],
       "wrong_answers": [
-        "Birdie",
-        "Bogey",
-        "Albatross"
+        "birdie",
+        "bogey",
+        "albatross"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -16350,8 +16350,8 @@
         "чикорита, циндаквил, тотодайл"
       ],
       "wrong_answers": [
-        "Bulbasaur, Charmander, Squirtle",
-        "Treecko, Torchic, Mudkip",
+        "bulbasaur, charmander, squirtle",
+        "treecko, torchic, mudkip",
         "травяной, огненный, водяной"
       ],
       "category": "entertainment",
@@ -16366,9 +16366,9 @@
         "shout"
       ],
       "wrong_answers": [
-        "Scream",
-        "Yell",
-        "Shriek"
+        "scream",
+        "yell",
+        "shriek"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -16415,9 +16415,9 @@
         "девилз"
       ],
       "wrong_answers": [
-        "Нью-Йорк Айлендерс",
-        "Калгари Флэймз",
-        "Даллас Старз"
+        "нью-йорк айлендерс",
+        "калгари флэймз",
+        "даллас старз"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -16597,9 +16597,9 @@
         "dark souls"
       ],
       "wrong_answers": [
-        "Final Fantasy",
-        "Monster Hunter",
-        "The Legend of Zelda"
+        "final fantasy",
+        "monster hunter",
+        "the legend of zelda"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -16662,9 +16662,9 @@
         "битва королей"
       ],
       "wrong_answers": [
-        "Танец с драконами",
-        "Буря мечей",
-        "Пир стервятников"
+        "танец с драконами",
+        "буря мечей",
+        "пир стервятников"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19855,9 +19855,9 @@
         "мистер нук"
       ],
       "wrong_answers": [
-        "мистер Ресетти",
-        "Грейси",
-        "K.K. Slider"
+        "мистер ресетти",
+        "грейси",
+        "k.k. slider"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -20108,9 +20108,9 @@
         "предположение навье"
       ],
       "wrong_answers": [
-        "гипотеза Бёрча — Свиннертон-Дайера",
-        "гипотеза Римана",
-        "гипотеза Пуанкаре"
+        "гипотеза бёрча — свиннертон-дайера",
+        "гипотеза римана",
+        "гипотеза пуанкаре"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -27078,7 +27078,7 @@
       "answers": [
         "ом",
         "омы",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "мо",
@@ -42619,7 +42619,7 @@
       "question": "Какой символ используется для обозначения смещения в науке?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta"
       ],
       "wrong_answers": [
@@ -47536,7 +47536,7 @@
       "question": "Какая буква используется для обозначения перемещения в физике?",
       "answers": [
         "дельта",
-        "Δ",
+        "δ",
         "символ дельта"
       ],
       "wrong_answers": [
@@ -48926,9 +48926,9 @@
         "smkr"
       ],
       "wrong_answers": [
-        "Jockey",
-        "Hunter",
-        "Boomer"
+        "jockey",
+        "hunter",
+        "boomer"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -49754,9 +49754,9 @@
         "усмирение"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -49840,7 +49840,7 @@
       "question": "Какой символ используется для перемещения в физике?",
       "answers": [
         "дельта r",
-        "Δr",
+        "δr",
         "deltar"
       ],
       "wrong_answers": [
@@ -50237,7 +50237,7 @@
       "answers": [
         "ом",
         "омы",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -50294,9 +50294,9 @@
         "med gun"
       ],
       "wrong_answers": [
-        "Scattergun",
-        "Grenade Launcher",
-        "Rocket Launcher"
+        "scattergun",
+        "grenade launcher",
+        "rocket launcher"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -52922,9 +52922,9 @@
         "усмирение"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53660,9 +53660,9 @@
         "playstation"
       ],
       "wrong_answers": [
-        "PS2",
-        "PS3",
-        "PS4"
+        "ps2",
+        "ps3",
+        "ps4"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -56110,9 +56110,9 @@
         "умиротворять"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57118,10 +57118,10 @@
         "класс medic"
       ],
       "wrong_answers": [
-        "Healer",
-        "Demoman",
-        "Pyro",
-        "Spy"
+        "healer",
+        "demoman",
+        "pyro",
+        "spy"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57227,9 +57227,9 @@
         "умиротворять"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -58397,9 +58397,9 @@
         "медицинская пушка"
       ],
       "wrong_answers": [
-        "Scattergun",
-        "Grenade Launcher",
-        "Rocket Launcher"
+        "scattergun",
+        "grenade launcher",
+        "rocket launcher"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -60428,7 +60428,7 @@
       "question": "Какой символ используется для обозначения перемещения в математике?",
       "answers": [
         "дельта r",
-        "Δr",
+        "δr",
         "дельта-r"
       ],
       "wrong_answers": [
@@ -68710,10 +68710,10 @@
         "пекин"
       ],
       "wrong_answers": [
-        "Шанхай",
-        "Гуанчжоу",
-        "Шэньчжэнь",
-        "Гонконг"
+        "шанхай",
+        "гуанчжоу",
+        "шэньчжэнь",
+        "гонконг"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68727,10 +68727,10 @@
         "бангкок"
       ],
       "wrong_answers": [
-        "Чиангмай",
-        "Пхукет",
-        "Паттайя",
-        "Аюттхая"
+        "чиангмай",
+        "пхукет",
+        "паттайя",
+        "аюттхая"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68744,10 +68744,10 @@
         "япония"
       ],
       "wrong_answers": [
-        "Китай",
-        "Южная Корея",
-        "Таиланд",
-        "Вьетнам"
+        "китай",
+        "южная корея",
+        "таиланд",
+        "вьетнам"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68761,10 +68761,10 @@
         "китай"
       ],
       "wrong_answers": [
-        "Монголия",
-        "Япония",
-        "Индия",
-        "Непал"
+        "монголия",
+        "япония",
+        "индия",
+        "непал"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68778,10 +68778,10 @@
         "ханой"
       ],
       "wrong_answers": [
-        "Хошимин",
-        "Дананг",
-        "Хюэ",
-        "Хайфон"
+        "хошимин",
+        "дананг",
+        "хюэ",
+        "хайфон"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68795,10 +68795,10 @@
         "янцзы"
       ],
       "wrong_answers": [
-        "Хуанхэ",
-        "Меконг",
-        "Ганг",
-        "Инд"
+        "хуанхэ",
+        "меконг",
+        "ганг",
+        "инд"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68812,10 +68812,10 @@
         "япония"
       ],
       "wrong_answers": [
-        "Китай",
-        "Южная Корея",
-        "Непал",
-        "Индонезия"
+        "китай",
+        "южная корея",
+        "непал",
+        "индонезия"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68829,10 +68829,10 @@
         "манила"
       ],
       "wrong_answers": [
-        "Себу",
-        "Давао",
-        "Кесон-Сити",
-        "Макати"
+        "себу",
+        "давао",
+        "кесон-сити",
+        "макати"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68846,10 +68846,10 @@
         "япония"
       ],
       "wrong_answers": [
-        "Китай",
-        "Таиланд",
-        "Южная Корея",
-        "Вьетнам"
+        "китай",
+        "таиланд",
+        "южная корея",
+        "вьетнам"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68863,10 +68863,10 @@
         "куала-лумпур"
       ],
       "wrong_answers": [
-        "Джорджтаун",
-        "Джохор-Бару",
-        "Путраджая",
-        "Ипох"
+        "джорджтаун",
+        "джохор-бару",
+        "путраджая",
+        "ипох"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68880,10 +68880,10 @@
         "исламабад"
       ],
       "wrong_answers": [
-        "Карачи",
-        "Лахор",
-        "Равалпинди",
-        "Фейсалабад"
+        "карачи",
+        "лахор",
+        "равалпинди",
+        "фейсалабад"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68897,10 +68897,10 @@
         "китай"
       ],
       "wrong_answers": [
-        "Япония",
-        "Индия",
-        "Непал",
-        "Таиланд"
+        "япония",
+        "индия",
+        "непал",
+        "таиланд"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68914,10 +68914,10 @@
         "катманду"
       ],
       "wrong_answers": [
-        "Покхара",
-        "Лалитпур",
-        "Биратнагар",
-        "Бхаратпур"
+        "покхара",
+        "лалитпур",
+        "биратнагар",
+        "бхаратпур"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68931,10 +68931,10 @@
         "азия"
       ],
       "wrong_answers": [
-        "Африка",
-        "Европа",
-        "Южная Америка",
-        "Океания"
+        "африка",
+        "европа",
+        "южная америка",
+        "океания"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68948,10 +68948,10 @@
         "астана"
       ],
       "wrong_answers": [
-        "Алматы",
-        "Шымкент",
-        "Караганда",
-        "Нур-Султан"
+        "алматы",
+        "шымкент",
+        "караганда",
+        "нур-султан"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -68965,10 +68965,10 @@
         "индонезия"
       ],
       "wrong_answers": [
-        "Филиппины",
-        "Япония",
-        "Малайзия",
-        "Мальдивы"
+        "филиппины",
+        "япония",
+        "малайзия",
+        "мальдивы"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -68982,10 +68982,10 @@
         "мальдивы"
       ],
       "wrong_answers": [
-        "Сингапур",
-        "Бахрейн",
-        "Бруней",
-        "Бутан"
+        "сингапур",
+        "бахрейн",
+        "бруней",
+        "бутан"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -68999,10 +68999,10 @@
         "японское море"
       ],
       "wrong_answers": [
-        "Жёлтое море",
-        "Восточно-Китайское море",
-        "Южно-Китайское море",
-        "Филиппинское море"
+        "жёлтое море",
+        "восточно-китайское море",
+        "южно-китайское море",
+        "филиппинское море"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69016,10 +69016,10 @@
         "улан-батор"
       ],
       "wrong_answers": [
-        "Эрдэнэт",
-        "Дархан",
-        "Чойбалсан",
-        "Астана"
+        "эрдэнэт",
+        "дархан",
+        "чойбалсан",
+        "астана"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69033,10 +69033,10 @@
         "таиланд"
       ],
       "wrong_answers": [
-        "Мьянма",
-        "Камбоджа",
-        "Вьетнам",
-        "Лаос"
+        "мьянма",
+        "камбоджа",
+        "вьетнам",
+        "лаос"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69050,10 +69050,10 @@
         "камбоджа"
       ],
       "wrong_answers": [
-        "Таиланд",
-        "Вьетнам",
-        "Лаос",
-        "Мьянма"
+        "таиланд",
+        "вьетнам",
+        "лаос",
+        "мьянма"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69067,10 +69067,10 @@
         "нейпьидо"
       ],
       "wrong_answers": [
-        "Янгон",
-        "Мандалай",
-        "Баго",
-        "Моламьяйн"
+        "янгон",
+        "мандалай",
+        "баго",
+        "моламьяйн"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69084,10 +69084,10 @@
         "пномпень"
       ],
       "wrong_answers": [
-        "Сиемреап",
-        "Баттамбанг",
-        "Сиануквиль",
-        "Ангкор"
+        "сиемреап",
+        "баттамбанг",
+        "сиануквиль",
+        "ангкор"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69101,10 +69101,10 @@
         "тегеран"
       ],
       "wrong_answers": [
-        "Исфахан",
-        "Мешхед",
-        "Шираз",
-        "Тебриз"
+        "исфахан",
+        "мешхед",
+        "шираз",
+        "тебриз"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69118,10 +69118,10 @@
         "эр-рияд"
       ],
       "wrong_answers": [
-        "Джидда",
-        "Мекка",
-        "Медина",
-        "Даммам"
+        "джидда",
+        "мекка",
+        "медина",
+        "даммам"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69135,10 +69135,10 @@
         "дубай"
       ],
       "wrong_answers": [
-        "Абу-Даби",
-        "Доха",
-        "Эр-Рияд",
-        "Шанхай"
+        "абу-даби",
+        "доха",
+        "эр-рияд",
+        "шанхай"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69152,10 +69152,10 @@
         "багдад"
       ],
       "wrong_answers": [
-        "Басра",
-        "Мосул",
-        "Эрбиль",
-        "Киркук"
+        "басра",
+        "мосул",
+        "эрбиль",
+        "киркук"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69169,10 +69169,10 @@
         "анкара"
       ],
       "wrong_answers": [
-        "Стамбул",
-        "Измир",
-        "Бурса",
-        "Анталья"
+        "стамбул",
+        "измир",
+        "бурса",
+        "анталья"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69187,10 +69187,10 @@
         "корея"
       ],
       "wrong_answers": [
-        "Япония",
-        "Китай",
-        "Таиланд",
-        "Вьетнам"
+        "япония",
+        "китай",
+        "таиланд",
+        "вьетнам"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69204,14 +69204,708 @@
         "ташкент"
       ],
       "wrong_answers": [
-        "Самарканд",
-        "Бухара",
-        "Наманган",
-        "Андижан"
+        "самарканд",
+        "бухара",
+        "наманган",
+        "андижан"
       ],
       "category": "asia",
       "difficulty": "normal",
       "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "555df48bdac60b96c1ae6bef89897993",
+      "question": "Какой самый холодный континент на Земле?",
+      "answers": [
+        "антарктида"
+      ],
+      "wrong_answers": [
+        "африка",
+        "азия",
+        "европа",
+        "австралия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "e0198e9ecd870db3270bc0e13953616d",
+      "question": "Какой самый холодный океан на Земле?",
+      "answers": [
+        "северный ледовитый океан"
+      ],
+      "wrong_answers": [
+        "тихий океан",
+        "атлантический океан",
+        "индийский океан",
+        "южный океан"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "fb668909f55fd99a7534beb77f8f5591",
+      "question": "Какое самое холодное время года?",
+      "answers": [
+        "зима"
+      ],
+      "wrong_answers": [
+        "лето",
+        "весна",
+        "осень",
+        "муссон"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "8ce5ef8b6d5bc6c5e0efaf48a785a6b7",
+      "question": "Как называется замёрзшая вода, падающая с неба белыми хлопьями?",
+      "answers": [
+        "снег"
+      ],
+      "wrong_answers": [
+        "дождь",
+        "град",
+        "мокрый снег",
+        "иней"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "9059e96758fc0991fa6b14cc2e8dc196",
+      "question": "Как называется большая плавающая глыба льда в океане?",
+      "answers": [
+        "айсберг"
+      ],
+      "wrong_answers": [
+        "ледник",
+        "ледяной щит",
+        "снежинка",
+        "лавина"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "8004e21720e7e004953b8ede329d3dd8",
+      "question": "Как называется медленно движущаяся масса льда на суше?",
+      "answers": [
+        "ледник"
+      ],
+      "wrong_answers": [
+        "айсберг",
+        "лавина",
+        "метель",
+        "фьорд"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "0b70927e475766becce4504f9bb4b1c0",
+      "question": "Как называется снежная буря с сильным ветром и плохой видимостью?",
+      "answers": [
+        "метель",
+        "буран",
+        "вьюга"
+      ],
+      "wrong_answers": [
+        "ураган",
+        "торнадо",
+        "муссон",
+        "морось"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "8d2549dbf2f64cab74adef6a562d0036",
+      "question": "Какой штат США самый холодный?",
+      "answers": [
+        "аляска"
+      ],
+      "wrong_answers": [
+        "техас",
+        "флорида",
+        "гавайи",
+        "аризона"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "4f431995e7d4dbe98e5459df423c75e6",
+      "question": "Какой самый большой остров в мире, покрытый в основном льдом?",
+      "answers": [
+        "гренландия"
+      ],
+      "wrong_answers": [
+        "исландия",
+        "мадагаскар",
+        "борнео",
+        "новая гвинея"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "78220bba05595403f1426b123c77d0e7",
+      "question": "Какой мёрзлый безлесный биом встречается на крайнем севере?",
+      "answers": [
+        "тундра"
+      ],
+      "wrong_answers": [
+        "тропический лес",
+        "саванна",
+        "пустыня",
+        "прерия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "14ec6f3e213935d203d7ce02ffec7afa",
+      "question": "Как называется постоянно мёрзлый грунт?",
+      "answers": [
+        "вечная мерзлота",
+        "многолетняя мерзлота"
+      ],
+      "wrong_answers": [
+        "скальная порода",
+        "почва",
+        "зыбучий песок",
+        "глина"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "94e60e5f0d084f5a3bcf83068a459e47",
+      "question": "Какой полюс находится в Антарктиде?",
+      "answers": [
+        "южный полюс"
+      ],
+      "wrong_answers": [
+        "северный полюс",
+        "магнитный полюс",
+        "экватор",
+        "тропик рака"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "6244834dba8fb31f8774409d49a96044",
+      "question": "Какая воображаемая линия обозначает границу холодной северной полярной области?",
+      "answers": [
+        "северный полярный круг",
+        "полярный круг"
+      ],
+      "wrong_answers": [
+        "экватор",
+        "нулевой меридиан",
+        "тропик козерога",
+        "линия перемены дат"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "8fd34317092f60e940b8b3e69b0b14a8",
+      "question": "Какая самая холодная столица в мире?",
+      "answers": [
+        "улан-батор"
+      ],
+      "wrong_answers": [
+        "москва",
+        "хельсинки",
+        "рейкьявик",
+        "оттава"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "c45730f97606987e977d25aa8b716bbc",
+      "question": "Улан-Батор — столица какой страны?",
+      "answers": [
+        "монголия"
+      ],
+      "wrong_answers": [
+        "россия",
+        "казахстан",
+        "китай",
+        "непал"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "1627f0b53d0abd8da788a02127497068",
+      "question": "Какой скандинавский регион за полярным кругом известен снегом и северными оленями?",
+      "answers": [
+        "лапландия"
+      ],
+      "wrong_answers": [
+        "бавария",
+        "тоскана",
+        "андалусия",
+        "прованс"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "814faccbffc98662b94a64e8249b9b33",
+      "question": "Чем в основном покрыта Антарктида?",
+      "answers": [
+        "льдом",
+        "ледяным щитом"
+      ],
+      "wrong_answers": [
+        "песком",
+        "лесом",
+        "травой",
+        "вулканической породой"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "bb1803bcbb77fac2013dcb54099445d1",
+      "question": "Какой большой белый медведь живёт в холодной Арктике?",
+      "answers": [
+        "белый медведь"
+      ],
+      "wrong_answers": [
+        "гризли",
+        "панда",
+        "медведь-губач",
+        "малайский медведь"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "8d343ed797f8beaabdf88270d66a6095",
+      "question": "Какая научная станция зафиксировала самую низкую естественную температуру на Земле?",
+      "answers": [
+        "станция восток",
+        "восток"
+      ],
+      "wrong_answers": [
+        "станция мак-мердо",
+        "станция амундсен-скотт",
+        "станция палмер",
+        "станция кейси"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d27577afee4974ed7eeb0cdfe9a53742",
+      "question": "Какое российское село часто называют самым холодным постоянно населённым местом на Земле?",
+      "answers": [
+        "оймякон"
+      ],
+      "wrong_answers": [
+        "норильск",
+        "якутск",
+        "магадан",
+        "иркутск"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "43a2439445d81dbcf3ab90d8d6418f37",
+      "question": "В какой стране находятся холодные посёлки Оймякон и Верхоянск?",
+      "answers": [
+        "россия"
+      ],
+      "wrong_answers": [
+        "монголия",
+        "канада",
+        "казахстан",
+        "финляндия"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "e37ef5d763d136a0c2c5128b8684fcc2",
+      "question": "Какое большое пресноводное озеро в Сибири замерзает каждую зиму?",
+      "answers": [
+        "озеро байкал",
+        "байкал"
+      ],
+      "wrong_answers": [
+        "озеро виктория",
+        "каспийское море",
+        "озеро титикака",
+        "большое медвежье озеро"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "57f826527a773a179e36731e7abd4091",
+      "question": "Какая страна управляет станцией Восток в Антарктиде?",
+      "answers": [
+        "россия"
+      ],
+      "wrong_answers": [
+        "сша",
+        "норвегия",
+        "австралия",
+        "великобритания"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "dbdecb39f4105be0e61eec191ee2689d",
+      "question": "Какой стране принадлежит холодная территория Гренландии?",
+      "answers": [
+        "дания"
+      ],
+      "wrong_answers": [
+        "норвегия",
+        "исландия",
+        "канада",
+        "швеция"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "3e1cf5989b73b4bc77e6ef14c7fa5032",
+      "question": "Какая канадская территория в Арктике испытывает экстремальный холод?",
+      "answers": [
+        "нунавут"
+      ],
+      "wrong_answers": [
+        "онтарио",
+        "квебек",
+        "альберта",
+        "манитоба"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "148113c102774f52c6ced382ccfb12ee",
+      "question": "Какой самый холодный тип пустыни на Земле?",
+      "answers": [
+        "полярная пустыня",
+        "арктическая пустыня"
+      ],
+      "wrong_answers": [
+        "сахара",
+        "гоби",
+        "атакама",
+        "аравийская пустыня"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d51c6204dbb7240cbac13bef887c517d",
+      "question": "На каком континенте находится Южный полюс?",
+      "answers": [
+        "антарктида"
+      ],
+      "wrong_answers": [
+        "южная америка",
+        "австралия",
+        "африка",
+        "азия"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d8a05aeaa6e0f2d7107807f1c79c31c1",
+      "question": "Какой примерно была самая низкая естественная температура, зафиксированная на Земле, в градусах Цельсия?",
+      "answers": [
+        "-89",
+        "-89,2",
+        "минус 89"
+      ],
+      "wrong_answers": [
+        "-50",
+        "-70",
+        "-100",
+        "-120"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "1233ff68fd851083acccd64751956e8f",
+      "question": "Чему примерно равен абсолютный ноль в градусах Цельсия?",
+      "answers": [
+        "-273",
+        "-273,15",
+        "минус 273"
+      ],
+      "wrong_answers": [
+        "0",
+        "-100",
+        "-173",
+        "-373"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "6d2b15700adee24d10a82b9b7d612ea9",
+      "question": "Какая температурная шкала начинается с абсолютного нуля?",
+      "answers": [
+        "кельвин"
+      ],
+      "wrong_answers": [
+        "цельсий",
+        "фаренгейт",
+        "ньютон",
+        "реомюр"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "cec7f9440cebb4680655d889f5e1a562",
+      "question": "Какой город США в Миннесоте прозвали 'холодильником нации'?",
+      "answers": [
+        "интернешнл-фолс"
+      ],
+      "wrong_answers": [
+        "дулут",
+        "миннеаполис",
+        "фарго",
+        "бисмарк"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "0c432a5481816b51a834a4393140c0e0",
+      "question": "Какой город Аляски известен крайне холодными зимами во внутренней части?",
+      "answers": [
+        "фэрбанкс"
+      ],
+      "wrong_answers": [
+        "анкоридж",
+        "джуно",
+        "ситка",
+        "кадьяк"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "1f500ffdb8f72db273991ae4b0081004",
+      "question": "Как называется замёрзшая вода, покрывающая поверхность Северного Ледовитого океана?",
+      "answers": [
+        "морской лёд"
+      ],
+      "wrong_answers": [
+        "айсберги",
+        "ледники",
+        "вечная мерзлота",
+        "снежный покров"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "79bdfc544453af5cded54a2abea241df",
+      "question": "Как называется внезапный сход снега по склону горы?",
+      "answers": [
+        "лавина"
+      ],
+      "wrong_answers": [
+        "оползень",
+        "метель",
+        "камнепад",
+        "цунами"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "c9a890b773647a3291e6aee9b30b60da",
+      "question": "Как называется северная полярная область вокруг Северного полюса?",
+      "answers": [
+        "арктика"
+      ],
+      "wrong_answers": [
+        "антарктика",
+        "тундра",
+        "сибирь",
+        "скандинавия"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "6757cbbc7552ec5dd566a386801eb783",
+      "question": "Как называется процесс превращения жидкой воды в твёрдый лёд?",
+      "answers": [
+        "замерзание",
+        "кристаллизация"
+      ],
+      "wrong_answers": [
+        "плавление",
+        "кипение",
+        "конденсация",
+        "испарение"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d757e13d5ff22cc35a224c04dde0a723",
+      "question": "Как называется глубокая трещина в леднике?",
+      "answers": [
+        "ледниковая трещина",
+        "трещина"
+      ],
+      "wrong_answers": [
+        "каньон",
+        "фьорд",
+        "ущелье",
+        "овраг"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2ca46db0ad32d079446b9620dc5d6df0",
+      "question": "Как называется узкий морской залив, образованный ледниками и распространённый в Норвегии?",
+      "answers": [
+        "фьорд"
+      ],
+      "wrong_answers": [
+        "бухта",
+        "лагуна",
+        "пролив",
+        "дельта"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "7392badb242e24555a43654eda82e9d4",
+      "question": "Сибирь, один из самых холодных населённых регионов, входит в состав какой страны?",
+      "answers": [
+        "россия"
+      ],
+      "wrong_answers": [
+        "монголия",
+        "китай",
+        "казахстан",
+        "канада"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2eb2405ed3d400d08842d23ee22ec650",
+      "question": "Какая нелетающая чёрно-белая птица живёт в холодной Антарктиде?",
+      "answers": [
+        "пингвин"
+      ],
+      "wrong_answers": [
+        "белый медведь",
+        "тупик",
+        "альбатрос",
+        "полярная крачка"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
       "language": "ru"
     }
   ]

@@ -40,6 +40,15 @@ All endpoints require `Authorization: Bearer my_token` header. Rate limit is 10 
 - `GET /questions?language=<code>` — filters by language (default `en`); supported codes: en, de, es, fr, lt, ru, hi
 - `GET /languages` — returns the language codes present in the corpus, each with a question count
 
+## Adding questions
+
+When adding trivia questions (manually or via a batch script), follow
+**`QUESTIONS_AUTHORING.md`** — it defines the record schema, formatting
+conventions, the all-or-nothing language rule (6 active langs: en, de, es, fr,
+lt, ru; `hi` excluded for now), and the three-layer duplication guard
+(id idempotency + MiniLM semantic dedup at threshold 0.92 + within-batch).
+Run `python verify_parity.py` after any batch to confirm the language files agree.
+
 ## Architecture
 
 English questions live in `translations/questions_en.json` (structure: `{"data": [...]}`) where each item has `id`, `category`, `difficulty`, and question fields — this is the source of truth and the join key (`id`) for every other language. Translated questions live alongside it in `translations/questions_<lang>.json` (de, es, fr, lt, ru, hi), each a self-contained record (`id`, `question`, `answers`, `wrong_answers`, `category`, `difficulty`, `points`, `language`) matched back to English by `id`. All files are read on every request (no caching).

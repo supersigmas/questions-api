@@ -10,11 +10,11 @@
         "pacifique"
       ],
       "wrong_answers": [
-        "Océan Atlantique",
-        "Océan Indien",
-        "Océan Arctique",
-        "Océan Austral",
-        "Mer Méditerranée"
+        "océan atlantique",
+        "océan indien",
+        "océan arctique",
+        "océan austral",
+        "mer méditerranée"
       ],
       "category": "geography",
       "difficulty": "normal",
@@ -30,11 +30,11 @@
         "a. einstein"
       ],
       "wrong_answers": [
-        "Isaac Newton",
-        "Galilée",
-        "Stephen Hawking",
-        "Nikola Tesla",
-        "Marie Curie"
+        "isaac newton",
+        "galilée",
+        "stephen hawking",
+        "nikola tesla",
+        "marie curie"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -49,11 +49,11 @@
         "république italienne"
       ],
       "wrong_answers": [
-        "France",
-        "Grèce",
-        "États-Unis",
-        "Espagne",
-        "Allemagne"
+        "france",
+        "grèce",
+        "états-unis",
+        "espagne",
+        "allemagne"
       ],
       "category": "food",
       "difficulty": "normal",
@@ -68,11 +68,11 @@
         "la planète mercure"
       ],
       "wrong_answers": [
-        "Mars",
-        "Vénus",
-        "Pluton",
-        "Terre",
-        "Neptune"
+        "mars",
+        "vénus",
+        "pluton",
+        "terre",
+        "neptune"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -87,11 +87,11 @@
         "monoxyde de dihydrogène"
       ],
       "wrong_answers": [
-        "CO2",
-        "O2",
-        "NaCl",
-        "H2SO4",
-        "CH4"
+        "co2",
+        "o2",
+        "nacl",
+        "h2so4",
+        "ch4"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -106,11 +106,11 @@
         "république populaire de chine"
       ],
       "wrong_answers": [
-        "États-Unis",
-        "Inde",
-        "Russie",
-        "Brésil",
-        "Allemagne"
+        "états-unis",
+        "inde",
+        "russie",
+        "brésil",
+        "allemagne"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -125,11 +125,11 @@
         "clochette"
       ],
       "wrong_answers": [
-        "Wendy",
-        "Pixie",
-        "Poussière de fée",
-        "Silvermist",
-        "Rosetta"
+        "wendy",
+        "pixie",
+        "poussière de fée",
+        "silvermist",
+        "rosetta"
       ],
       "category": "literature",
       "difficulty": "normal",
@@ -145,11 +145,11 @@
         "fleuve nil"
       ],
       "wrong_answers": [
-        "Amazone",
-        "Yangtsé",
-        "Mississippi",
-        "Danube",
-        "Congo"
+        "amazone",
+        "yangtsé",
+        "mississippi",
+        "danube",
+        "congo"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -164,11 +164,11 @@
         "o2"
       ],
       "wrong_answers": [
-        "Carbone",
-        "Hydrogène",
-        "Azote",
-        "Hélium",
-        "Argon"
+        "carbone",
+        "hydrogène",
+        "azote",
+        "hélium",
+        "argon"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -183,11 +183,11 @@
         "ville de tokyo"
       ],
       "wrong_answers": [
-        "Séoul",
-        "Pékin",
-        "Bangkok",
-        "Shanghai",
-        "Kyoto"
+        "séoul",
+        "pékin",
+        "bangkok",
+        "shanghai",
+        "kyoto"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -203,11 +203,11 @@
         "tolkien"
       ],
       "wrong_answers": [
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "J.K. Rowling",
-        "Mark Twain",
-        "H.P. Lovecraft"
+        "c.s. lewis",
+        "george r.r. martin",
+        "j.k. rowling",
+        "mark twain",
+        "h.p. lovecraft"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -241,11 +241,11 @@
         "le cœur"
       ],
       "wrong_answers": [
-        "Foie",
-        "Cerveau",
-        "Poumons",
-        "Reins",
-        "Estomac"
+        "foie",
+        "cerveau",
+        "poumons",
+        "reins",
+        "estomac"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -260,11 +260,11 @@
         "hg"
       ],
       "wrong_answers": [
-        "Fer",
-        "Or",
-        "Argent",
-        "Cuivre",
-        "Aluminium"
+        "fer",
+        "or",
+        "argent",
+        "cuivre",
+        "aluminium"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -279,11 +279,11 @@
         "processeur"
       ],
       "wrong_answers": [
-        "Unité de puissance informatique",
-        "Utilitaire central de programme",
-        "Unité de contrôle de traitement",
-        "Utilitaire de traitement central",
-        "Unité de traitement centralisée"
+        "unité de puissance informatique",
+        "utilitaire central de programme",
+        "unité de contrôle de traitement",
+        "utilitaire de traitement central",
+        "unité de traitement centralisée"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -298,11 +298,11 @@
         "diamant naturel"
       ],
       "wrong_answers": [
-        "Or",
-        "Acier",
-        "Quartz",
-        "Fer",
-        "Graphite"
+        "or",
+        "acier",
+        "quartz",
+        "fer",
+        "graphite"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -317,11 +317,11 @@
         "n2"
       ],
       "wrong_answers": [
-        "Oxygène",
-        "Dioxyde de carbone",
-        "Hydrogène",
-        "Hélium",
-        "Argon"
+        "oxygène",
+        "dioxyde de carbone",
+        "hydrogène",
+        "hélium",
+        "argon"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -337,11 +337,11 @@
         "s. spielberg"
       ],
       "wrong_answers": [
-        "James Cameron",
-        "George Lucas",
-        "Christopher Nolan",
-        "Quentin Tarantino",
-        "Tim Burton"
+        "james cameron",
+        "george lucas",
+        "christopher nolan",
+        "quentin tarantino",
+        "tim burton"
       ],
       "category": "movies",
       "difficulty": "normal",
@@ -357,11 +357,11 @@
         "planète mars"
       ],
       "wrong_answers": [
-        "Vénus",
-        "Jupiter",
-        "Saturne",
-        "Mercure",
-        "Neptune"
+        "vénus",
+        "jupiter",
+        "saturne",
+        "mercure",
+        "neptune"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -377,11 +377,11 @@
         "w. shakespeare"
       ],
       "wrong_answers": [
-        "Charles Dickens",
-        "Jane Austen",
-        "Mark Twain",
-        "Léon Tolstoï",
-        "George Orwell"
+        "charles dickens",
+        "jane austen",
+        "mark twain",
+        "léon tolstoï",
+        "george orwell"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -395,11 +395,11 @@
         "au"
       ],
       "wrong_answers": [
-        "Ag",
-        "Fe",
-        "Pb",
-        "Cu",
-        "Pt"
+        "ag",
+        "fe",
+        "pb",
+        "cu",
+        "pt"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -737,11 +737,11 @@
         "na"
       ],
       "wrong_answers": [
-        "S",
-        "So",
-        "Sn",
-        "Sa",
-        "Mg"
+        "s",
+        "so",
+        "sn",
+        "sa",
+        "mg"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -987,11 +987,11 @@
         "a. wesker"
       ],
       "wrong_answers": [
-        "Chris Redfield",
-        "Ada Wong",
-        "Nemesis",
-        "Hunk",
-        "Leon Kennedy"
+        "chris redfield",
+        "ada wong",
+        "nemesis",
+        "hunk",
+        "leon kennedy"
       ],
       "category": "gaming",
       "difficulty": "normal",
@@ -1046,11 +1046,11 @@
         "h. kojima"
       ],
       "wrong_answers": [
-        "Shigeru Miyamoto",
-        "Yu Suzuki",
-        "Sakurai",
-        "Tetsuya Nomura",
-        "Keiji Inafune"
+        "shigeru miyamoto",
+        "yu suzuki",
+        "sakurai",
+        "tetsuya nomura",
+        "keiji inafune"
       ],
       "category": "gaming",
       "difficulty": "normal",
@@ -1101,11 +1101,11 @@
         "inky"
       ],
       "wrong_answers": [
-        "Blinky",
-        "Pinky",
-        "Clyde",
-        "Ghosty",
-        "Winky"
+        "blinky",
+        "pinky",
+        "clyde",
+        "ghosty",
+        "winky"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1120,11 +1120,11 @@
         "miles tails prower"
       ],
       "wrong_answers": [
-        "Knuckles",
-        "Shadow",
-        "Amy",
-        "Vector",
-        "Silver"
+        "knuckles",
+        "shadow",
+        "amy",
+        "vector",
+        "silver"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1174,11 +1174,11 @@
         "azeroth"
       ],
       "wrong_answers": [
-        "Draenor",
-        "Outland",
-        "Terranova",
-        "Nexus",
-        "Pandaria"
+        "draenor",
+        "outland",
+        "terranova",
+        "nexus",
+        "pandaria"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1210,11 +1210,11 @@
         "shang tsung"
       ],
       "wrong_answers": [
-        "Scorpion",
-        "Raiden",
-        "Liu Kang",
-        "Sub-Zero",
-        "Quan Chi"
+        "scorpion",
+        "raiden",
+        "liu kang",
+        "sub-zero",
+        "quan chi"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1287,11 +1287,11 @@
         "p. allen"
       ],
       "wrong_answers": [
-        "Steve Wozniak",
-        "Larry Page",
-        "Steve Jobs",
-        "Mark Zuckerberg",
-        "Elon Musk"
+        "steve wozniak",
+        "larry page",
+        "steve jobs",
+        "mark zuckerberg",
+        "elon musk"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -1526,11 +1526,11 @@
         "e. musk"
       ],
       "wrong_answers": [
-        "Tim Cook",
-        "Jeff Bezos",
-        "Bill Gates",
-        "Mark Zuckerberg",
-        "Richard Branson"
+        "tim cook",
+        "jeff bezos",
+        "bill gates",
+        "mark zuckerberg",
+        "richard branson"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -15643,9 +15643,9 @@
         "l'air"
       ],
       "wrong_answers": [
-        "The Schwartz",
-        "Princess Lonestar",
-        "Meatballs"
+        "the schwartz",
+        "princess lonestar",
+        "meatballs"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15660,9 +15660,9 @@
         "eleven"
       ],
       "wrong_answers": [
-        "Mike",
-        "Lucas",
-        "Karen"
+        "mike",
+        "lucas",
+        "karen"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15676,9 +15676,9 @@
         "seinfeld"
       ],
       "wrong_answers": [
-        "Frasier",
-        "Becker",
-        "Friends"
+        "frasier",
+        "becker",
+        "friends"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15693,9 +15693,9 @@
         "gouverneur"
       ],
       "wrong_answers": [
-        "Negan",
-        "Rick Grimes",
-        "Daryl Dixon"
+        "negan",
+        "rick grimes",
+        "daryl dixon"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15758,9 +15758,9 @@
         "pirelli"
       ],
       "wrong_answers": [
-        "Goodyear",
-        "Bridgestone",
-        "Michelin"
+        "goodyear",
+        "bridgestone",
+        "michelin"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -15806,9 +15806,9 @@
         "the pentagon thief"
       ],
       "wrong_answers": [
-        "Hellhounds",
-        "Jumping Jacks",
-        "Napalm Zombie"
+        "hellhounds",
+        "jumping jacks",
+        "napalm zombie"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15822,9 +15822,9 @@
         "the company"
       ],
       "wrong_answers": [
-        "Planet Scrap Co.",
-        "Lethal Robotics",
-        "Gordian Shipping Co."
+        "planet scrap co.",
+        "lethal robotics",
+        "gordian shipping co."
       ],
       "category": "general",
       "difficulty": "easy",
@@ -16398,8 +16398,8 @@
         "chikorita, cyndaquil, totodile"
       ],
       "wrong_answers": [
-        "Bulbasaur, Charmander, Squirtle",
-        "Treecko, Torchic, Mudkip",
+        "bulbasaur, charmander, squirtle",
+        "treecko, torchic, mudkip",
         "herbeux, ardent, aqueux"
       ],
       "category": "entertainment",
@@ -19913,9 +19913,9 @@
         "monsieur nook"
       ],
       "wrong_answers": [
-        "Mr. Resetti",
-        "Gracie",
-        "K.K. Slider"
+        "mr. resetti",
+        "gracie",
+        "k.k. slider"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -27140,7 +27140,7 @@
       "answers": [
         "ohm",
         "ohms",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -42687,7 +42687,7 @@
       "question": "Quel symbole est utilisé pour le déplacement en sciences ?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta"
       ],
       "wrong_answers": [
@@ -47604,7 +47604,7 @@
       "question": "Quelle lettre est utilisée pour indiquer le déplacement en physique ?",
       "answers": [
         "delta",
-        "Δ",
+        "δ",
         "symbole delta"
       ],
       "wrong_answers": [
@@ -49823,9 +49823,9 @@
         "apaiser"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -49909,7 +49909,7 @@
       "question": "Quel est le symbole du déplacement en physique ?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "deltar"
       ],
       "wrong_answers": [
@@ -50306,7 +50306,7 @@
       "answers": [
         "ohm",
         "ohms",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -50363,9 +50363,9 @@
         "med gun"
       ],
       "wrong_answers": [
-        "Scattergun",
-        "Grenade Launcher",
-        "Rocket Launcher"
+        "scattergun",
+        "grenade launcher",
+        "rocket launcher"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -52991,9 +52991,9 @@
         "apaiser"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -56179,9 +56179,9 @@
         "pacifier"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57296,9 +57296,9 @@
         "pacifier"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -60497,7 +60497,7 @@
       "question": "Quel symbole est utilisé pour le déplacement en mathématiques ?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta-r"
       ],
       "wrong_answers": [
@@ -68803,10 +68803,10 @@
         "pékin"
       ],
       "wrong_answers": [
-        "Shanghai",
-        "Canton",
-        "Shenzhen",
-        "Hong Kong"
+        "shanghai",
+        "canton",
+        "shenzhen",
+        "hong kong"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68820,10 +68820,10 @@
         "bangkok"
       ],
       "wrong_answers": [
-        "Chiang Mai",
-        "Phuket",
-        "Pattaya",
-        "Ayutthaya"
+        "chiang mai",
+        "phuket",
+        "pattaya",
+        "ayutthaya"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68837,10 +68837,10 @@
         "japon"
       ],
       "wrong_answers": [
-        "Chine",
-        "Corée du Sud",
-        "Thaïlande",
-        "Vietnam"
+        "chine",
+        "corée du sud",
+        "thaïlande",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68854,10 +68854,10 @@
         "chine"
       ],
       "wrong_answers": [
-        "Mongolie",
-        "Japon",
-        "Inde",
-        "Népal"
+        "mongolie",
+        "japon",
+        "inde",
+        "népal"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68871,10 +68871,10 @@
         "hanoï"
       ],
       "wrong_answers": [
-        "Hô Chi Minh-Ville",
-        "Da Nang",
-        "Hué",
-        "Hai Phong"
+        "hô chi minh-ville",
+        "da nang",
+        "hué",
+        "hai phong"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68889,10 +68889,10 @@
         "yang-tsé"
       ],
       "wrong_answers": [
-        "Fleuve Jaune",
-        "Mékong",
-        "Gange",
-        "Indus"
+        "fleuve jaune",
+        "mékong",
+        "gange",
+        "indus"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68906,10 +68906,10 @@
         "japon"
       ],
       "wrong_answers": [
-        "Chine",
-        "Corée du Sud",
-        "Népal",
-        "Indonésie"
+        "chine",
+        "corée du sud",
+        "népal",
+        "indonésie"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68923,10 +68923,10 @@
         "manille"
       ],
       "wrong_answers": [
-        "Cebu",
-        "Davao",
-        "Quezon City",
-        "Makati"
+        "cebu",
+        "davao",
+        "quezon city",
+        "makati"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68940,10 +68940,10 @@
         "japon"
       ],
       "wrong_answers": [
-        "Chine",
-        "Thaïlande",
-        "Corée du Sud",
-        "Vietnam"
+        "chine",
+        "thaïlande",
+        "corée du sud",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68957,10 +68957,10 @@
         "kuala lumpur"
       ],
       "wrong_answers": [
-        "George Town",
-        "Johor Bahru",
-        "Putrajaya",
-        "Ipoh"
+        "george town",
+        "johor bahru",
+        "putrajaya",
+        "ipoh"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68974,10 +68974,10 @@
         "islamabad"
       ],
       "wrong_answers": [
-        "Karachi",
-        "Lahore",
-        "Rawalpindi",
-        "Faisalabad"
+        "karachi",
+        "lahore",
+        "rawalpindi",
+        "faisalabad"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68991,10 +68991,10 @@
         "chine"
       ],
       "wrong_answers": [
-        "Japon",
-        "Inde",
-        "Népal",
-        "Thaïlande"
+        "japon",
+        "inde",
+        "népal",
+        "thaïlande"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69008,10 +69008,10 @@
         "katmandou"
       ],
       "wrong_answers": [
-        "Pokhara",
-        "Lalitpur",
-        "Biratnagar",
-        "Bharatpur"
+        "pokhara",
+        "lalitpur",
+        "biratnagar",
+        "bharatpur"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69025,10 +69025,10 @@
         "asie"
       ],
       "wrong_answers": [
-        "Afrique",
-        "Europe",
-        "Amérique du Sud",
-        "Océanie"
+        "afrique",
+        "europe",
+        "amérique du sud",
+        "océanie"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69042,10 +69042,10 @@
         "astana"
       ],
       "wrong_answers": [
-        "Almaty",
-        "Chymkent",
-        "Karaganda",
-        "Noursoultan"
+        "almaty",
+        "chymkent",
+        "karaganda",
+        "noursoultan"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69059,10 +69059,10 @@
         "indonésie"
       ],
       "wrong_answers": [
-        "Philippines",
-        "Japon",
-        "Malaisie",
-        "Maldives"
+        "philippines",
+        "japon",
+        "malaisie",
+        "maldives"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69077,10 +69077,10 @@
         "les maldives"
       ],
       "wrong_answers": [
-        "Singapour",
-        "Bahreïn",
-        "Brunei",
-        "Bhoutan"
+        "singapour",
+        "bahreïn",
+        "brunei",
+        "bhoutan"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69094,10 +69094,10 @@
         "mer du japon"
       ],
       "wrong_answers": [
-        "Mer Jaune",
-        "Mer de Chine orientale",
-        "Mer de Chine méridionale",
-        "Mer des Philippines"
+        "mer jaune",
+        "mer de chine orientale",
+        "mer de chine méridionale",
+        "mer des philippines"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69111,10 +69111,10 @@
         "oulan-bator"
       ],
       "wrong_answers": [
-        "Erdenet",
-        "Darkhan",
-        "Tchoïbalsan",
-        "Astana"
+        "erdenet",
+        "darkhan",
+        "tchoïbalsan",
+        "astana"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69128,10 +69128,10 @@
         "thaïlande"
       ],
       "wrong_answers": [
-        "Birmanie",
-        "Cambodge",
-        "Vietnam",
-        "Laos"
+        "birmanie",
+        "cambodge",
+        "vietnam",
+        "laos"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69145,10 +69145,10 @@
         "cambodge"
       ],
       "wrong_answers": [
-        "Thaïlande",
-        "Vietnam",
-        "Laos",
-        "Birmanie"
+        "thaïlande",
+        "vietnam",
+        "laos",
+        "birmanie"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69162,10 +69162,10 @@
         "naypyidaw"
       ],
       "wrong_answers": [
-        "Rangoun",
-        "Mandalay",
-        "Bago",
-        "Mawlamyine"
+        "rangoun",
+        "mandalay",
+        "bago",
+        "mawlamyine"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69179,10 +69179,10 @@
         "phnom penh"
       ],
       "wrong_answers": [
-        "Siem Reap",
-        "Battambang",
-        "Sihanoukville",
-        "Angkor"
+        "siem reap",
+        "battambang",
+        "sihanoukville",
+        "angkor"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69196,10 +69196,10 @@
         "téhéran"
       ],
       "wrong_answers": [
-        "Ispahan",
-        "Machhad",
-        "Chiraz",
-        "Tabriz"
+        "ispahan",
+        "machhad",
+        "chiraz",
+        "tabriz"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69213,10 +69213,10 @@
         "riyad"
       ],
       "wrong_answers": [
-        "Djeddah",
-        "La Mecque",
-        "Médine",
-        "Dammam"
+        "djeddah",
+        "la mecque",
+        "médine",
+        "dammam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69230,10 +69230,10 @@
         "dubaï"
       ],
       "wrong_answers": [
-        "Abou Dabi",
-        "Doha",
-        "Riyad",
-        "Shanghai"
+        "abou dabi",
+        "doha",
+        "riyad",
+        "shanghai"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69247,10 +69247,10 @@
         "bagdad"
       ],
       "wrong_answers": [
-        "Bassora",
-        "Mossoul",
-        "Erbil",
-        "Kirkouk"
+        "bassora",
+        "mossoul",
+        "erbil",
+        "kirkouk"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69264,10 +69264,10 @@
         "ankara"
       ],
       "wrong_answers": [
-        "Istanbul",
-        "Izmir",
-        "Bursa",
-        "Antalya"
+        "istanbul",
+        "izmir",
+        "bursa",
+        "antalya"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69282,10 +69282,10 @@
         "corée"
       ],
       "wrong_answers": [
-        "Japon",
-        "Chine",
-        "Thaïlande",
-        "Vietnam"
+        "japon",
+        "chine",
+        "thaïlande",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69299,14 +69299,711 @@
         "tachkent"
       ],
       "wrong_answers": [
-        "Samarcande",
-        "Boukhara",
-        "Namangan",
-        "Andijan"
+        "samarcande",
+        "boukhara",
+        "namangan",
+        "andijan"
       ],
       "category": "asia",
       "difficulty": "normal",
       "points": 900,
+      "language": "fr"
+    },
+    {
+      "id": "555df48bdac60b96c1ae6bef89897993",
+      "question": "Quel est le continent le plus froid de la Terre ?",
+      "answers": [
+        "antarctique"
+      ],
+      "wrong_answers": [
+        "afrique",
+        "asie",
+        "europe",
+        "australie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "e0198e9ecd870db3270bc0e13953616d",
+      "question": "Quel est l'océan le plus froid de la Terre ?",
+      "answers": [
+        "océan arctique",
+        "arctique"
+      ],
+      "wrong_answers": [
+        "océan pacifique",
+        "océan atlantique",
+        "océan indien",
+        "océan austral"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "fb668909f55fd99a7534beb77f8f5591",
+      "question": "Quelle est la saison la plus froide de l'année ?",
+      "answers": [
+        "hiver"
+      ],
+      "wrong_answers": [
+        "été",
+        "printemps",
+        "automne",
+        "mousson"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "8ce5ef8b6d5bc6c5e0efaf48a785a6b7",
+      "question": "Comment appelle-t-on l'eau gelée qui tombe du ciel en flocons blancs ?",
+      "answers": [
+        "neige"
+      ],
+      "wrong_answers": [
+        "pluie",
+        "grêle",
+        "grésil",
+        "givre"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "9059e96758fc0991fa6b14cc2e8dc196",
+      "question": "Comment appelle-t-on un gros bloc de glace qui flotte dans l'océan ?",
+      "answers": [
+        "iceberg"
+      ],
+      "wrong_answers": [
+        "glacier",
+        "calotte glaciaire",
+        "flocon de neige",
+        "avalanche"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "8004e21720e7e004953b8ede329d3dd8",
+      "question": "Comment appelle-t-on une masse de glace qui se déplace lentement sur terre ?",
+      "answers": [
+        "glacier"
+      ],
+      "wrong_answers": [
+        "iceberg",
+        "avalanche",
+        "blizzard",
+        "fjord"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "0b70927e475766becce4504f9bb4b1c0",
+      "question": "Comment appelle-t-on une tempête de neige avec des vents forts et une faible visibilité ?",
+      "answers": [
+        "blizzard",
+        "tempête de neige"
+      ],
+      "wrong_answers": [
+        "ouragan",
+        "tornade",
+        "mousson",
+        "bruine"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "8d2549dbf2f64cab74adef6a562d0036",
+      "question": "Quel est l'État américain le plus froid ?",
+      "answers": [
+        "alaska"
+      ],
+      "wrong_answers": [
+        "texas",
+        "floride",
+        "hawaï",
+        "arizona"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "4f431995e7d4dbe98e5459df423c75e6",
+      "question": "Quelle est la plus grande île du monde, recouverte en grande partie de glace ?",
+      "answers": [
+        "groenland"
+      ],
+      "wrong_answers": [
+        "islande",
+        "madagascar",
+        "bornéo",
+        "nouvelle-guinée"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "78220bba05595403f1426b123c77d0e7",
+      "question": "Quel biome gelé et sans arbres trouve-t-on dans le grand nord ?",
+      "answers": [
+        "toundra"
+      ],
+      "wrong_answers": [
+        "forêt tropicale",
+        "savane",
+        "désert",
+        "prairie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "14ec6f3e213935d203d7ce02ffec7afa",
+      "question": "Comment appelle-t-on un sol gelé en permanence ?",
+      "answers": [
+        "pergélisol",
+        "permafrost"
+      ],
+      "wrong_answers": [
+        "substrat rocheux",
+        "terre arable",
+        "sables mouvants",
+        "argile"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "94e60e5f0d084f5a3bcf83068a459e47",
+      "question": "Quel pôle se trouve en Antarctique ?",
+      "answers": [
+        "pôle sud"
+      ],
+      "wrong_answers": [
+        "pôle nord",
+        "pôle magnétique",
+        "équateur",
+        "tropique du cancer"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "6244834dba8fb31f8774409d49a96044",
+      "question": "Quelle ligne imaginaire marque la limite de la froide région polaire nord ?",
+      "answers": [
+        "cercle polaire arctique",
+        "cercle arctique"
+      ],
+      "wrong_answers": [
+        "équateur",
+        "méridien de greenwich",
+        "tropique du capricorne",
+        "ligne de changement de date"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "8fd34317092f60e940b8b3e69b0b14a8",
+      "question": "Quelle est la capitale la plus froide du monde ?",
+      "answers": [
+        "oulan-bator",
+        "ulaanbaatar"
+      ],
+      "wrong_answers": [
+        "moscou",
+        "helsinki",
+        "reykjavik",
+        "ottawa"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "c45730f97606987e977d25aa8b716bbc",
+      "question": "Oulan-Bator est la capitale de quel pays ?",
+      "answers": [
+        "mongolie"
+      ],
+      "wrong_answers": [
+        "russie",
+        "kazakhstan",
+        "chine",
+        "népal"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "1627f0b53d0abd8da788a02127497068",
+      "question": "Quelle région nordique située dans le cercle arctique est célèbre pour la neige et les rennes ?",
+      "answers": [
+        "laponie"
+      ],
+      "wrong_answers": [
+        "bavière",
+        "toscane",
+        "andalousie",
+        "provence"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "814faccbffc98662b94a64e8249b9b33",
+      "question": "De quoi l'Antarctique est-il principalement recouvert ?",
+      "answers": [
+        "glace",
+        "une calotte glaciaire"
+      ],
+      "wrong_answers": [
+        "sable",
+        "forêt",
+        "prairie",
+        "roche volcanique"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "bb1803bcbb77fac2013dcb54099445d1",
+      "question": "Quel grand ours blanc vit dans l'Arctique froid ?",
+      "answers": [
+        "ours polaire"
+      ],
+      "wrong_answers": [
+        "grizzly",
+        "panda",
+        "ours lippu",
+        "ours malais"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "8d343ed797f8beaabdf88270d66a6095",
+      "question": "Quelle station de recherche a enregistré la température naturelle la plus froide sur Terre ?",
+      "answers": [
+        "station vostok",
+        "vostok"
+      ],
+      "wrong_answers": [
+        "station mcmurdo",
+        "station amundsen-scott",
+        "station palmer",
+        "station casey"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d27577afee4974ed7eeb0cdfe9a53742",
+      "question": "Quel village russe est souvent appelé l'endroit habité en permanence le plus froid de la Terre ?",
+      "answers": [
+        "oïmiakon"
+      ],
+      "wrong_answers": [
+        "norilsk",
+        "iakoutsk",
+        "magadan",
+        "irkoutsk"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "43a2439445d81dbcf3ab90d8d6418f37",
+      "question": "Dans quel pays se trouvent les villes froides d'Oïmiakon et de Verkhoïansk ?",
+      "answers": [
+        "russie"
+      ],
+      "wrong_answers": [
+        "mongolie",
+        "canada",
+        "kazakhstan",
+        "finlande"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "e37ef5d763d136a0c2c5128b8684fcc2",
+      "question": "Quel grand lac d'eau douce de Sibérie gèle chaque hiver ?",
+      "answers": [
+        "lac baïkal",
+        "baïkal"
+      ],
+      "wrong_answers": [
+        "lac victoria",
+        "mer caspienne",
+        "lac titicaca",
+        "grand lac de l'ours"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "57f826527a773a179e36731e7abd4091",
+      "question": "La station Vostok en Antarctique est exploitée par quel pays ?",
+      "answers": [
+        "russie"
+      ],
+      "wrong_answers": [
+        "états-unis",
+        "norvège",
+        "australie",
+        "royaume-uni"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "dbdecb39f4105be0e61eec191ee2689d",
+      "question": "À quel pays appartient le froid territoire du Groenland ?",
+      "answers": [
+        "danemark"
+      ],
+      "wrong_answers": [
+        "norvège",
+        "islande",
+        "canada",
+        "suède"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "3e1cf5989b73b4bc77e6ef14c7fa5032",
+      "question": "Quel territoire canadien de l'Arctique connaît un froid extrême ?",
+      "answers": [
+        "nunavut"
+      ],
+      "wrong_answers": [
+        "ontario",
+        "québec",
+        "alberta",
+        "manitoba"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "148113c102774f52c6ced382ccfb12ee",
+      "question": "Quel est le type de désert le plus froid de la Terre ?",
+      "answers": [
+        "désert polaire",
+        "désert antarctique"
+      ],
+      "wrong_answers": [
+        "sahara",
+        "gobi",
+        "atacama",
+        "désert d'arabie"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d51c6204dbb7240cbac13bef887c517d",
+      "question": "Sur quel continent se trouve le pôle Sud ?",
+      "answers": [
+        "antarctique"
+      ],
+      "wrong_answers": [
+        "amérique du sud",
+        "australie",
+        "afrique",
+        "asie"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d8a05aeaa6e0f2d7107807f1c79c31c1",
+      "question": "Quelle a été approximativement la température naturelle la plus froide jamais enregistrée sur Terre, en Celsius ?",
+      "answers": [
+        "-89",
+        "-89,2",
+        "moins 89"
+      ],
+      "wrong_answers": [
+        "-50",
+        "-70",
+        "-100",
+        "-120"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "1233ff68fd851083acccd64751956e8f",
+      "question": "Quel est le zéro absolu, approximativement, en degrés Celsius ?",
+      "answers": [
+        "-273",
+        "-273,15",
+        "moins 273"
+      ],
+      "wrong_answers": [
+        "0",
+        "-100",
+        "-173",
+        "-373"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "6d2b15700adee24d10a82b9b7d612ea9",
+      "question": "Quelle échelle de température commence au zéro absolu ?",
+      "answers": [
+        "kelvin"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "fahrenheit",
+        "newton",
+        "réaumur"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "cec7f9440cebb4680655d889f5e1a562",
+      "question": "Quelle ville américaine du Minnesota est surnommée la « glacière de la nation » ?",
+      "answers": [
+        "international falls"
+      ],
+      "wrong_answers": [
+        "duluth",
+        "minneapolis",
+        "fargo",
+        "bismarck"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0c432a5481816b51a834a4393140c0e0",
+      "question": "Quelle ville d'Alaska est connue pour ses hivers extrêmement froids à l'intérieur des terres ?",
+      "answers": [
+        "fairbanks"
+      ],
+      "wrong_answers": [
+        "anchorage",
+        "juneau",
+        "sitka",
+        "kodiak"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "1f500ffdb8f72db273991ae4b0081004",
+      "question": "Comment appelle-t-on l'eau gelée qui recouvre la surface de l'océan Arctique ?",
+      "answers": [
+        "banquise",
+        "glace de mer"
+      ],
+      "wrong_answers": [
+        "icebergs",
+        "glaciers",
+        "pergélisol",
+        "manteau neigeux"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "79bdfc544453af5cded54a2abea241df",
+      "question": "Comment appelle-t-on une chute soudaine de neige le long d'une pente de montagne ?",
+      "answers": [
+        "avalanche"
+      ],
+      "wrong_answers": [
+        "glissement de terrain",
+        "blizzard",
+        "chute de pierres",
+        "tsunami"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "c9a890b773647a3291e6aee9b30b60da",
+      "question": "Comment appelle-t-on la région polaire nord centrée sur le pôle Nord ?",
+      "answers": [
+        "l'arctique",
+        "arctique"
+      ],
+      "wrong_answers": [
+        "antarctique",
+        "toundra",
+        "sibérie",
+        "scandinavie"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "6757cbbc7552ec5dd566a386801eb783",
+      "question": "Comment appelle-t-on le processus par lequel l'eau liquide se transforme en glace solide ?",
+      "answers": [
+        "congélation",
+        "solidification"
+      ],
+      "wrong_answers": [
+        "fusion",
+        "ébullition",
+        "condensation",
+        "évaporation"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d757e13d5ff22cc35a224c04dde0a723",
+      "question": "Comment appelle-t-on une fissure profonde dans un glacier ?",
+      "answers": [
+        "crevasse"
+      ],
+      "wrong_answers": [
+        "canyon",
+        "fjord",
+        "gorge",
+        "ravin"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2ca46db0ad32d079446b9620dc5d6df0",
+      "question": "Comment appelle-t-on une étroite entrée de mer creusée par les glaciers, fréquente en Norvège ?",
+      "answers": [
+        "fjord"
+      ],
+      "wrong_answers": [
+        "baie",
+        "lagune",
+        "détroit",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "7392badb242e24555a43654eda82e9d4",
+      "question": "La Sibérie, l'une des régions habitées les plus froides, fait partie de quel pays ?",
+      "answers": [
+        "russie"
+      ],
+      "wrong_answers": [
+        "mongolie",
+        "chine",
+        "kazakhstan",
+        "canada"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2eb2405ed3d400d08842d23ee22ec650",
+      "question": "Quel oiseau noir et blanc incapable de voler vit dans l'Antarctique froid ?",
+      "answers": [
+        "manchot",
+        "pingouin"
+      ],
+      "wrong_answers": [
+        "ours polaire",
+        "macareux",
+        "albatros",
+        "sterne arctique"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
       "language": "fr"
     }
   ]
