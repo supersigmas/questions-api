@@ -70498,6 +70498,1403 @@
       "difficulty": "normal",
       "points": 800,
       "language": "ru"
+    },
+    {
+      "id": "e06a7a5d6bd4029b270116ce3fa5c5a5",
+      "question": "Какая планета знаменита своими яркими кольцами?",
+      "answers": [
+        "сатурн"
+      ],
+      "wrong_answers": [
+        "юпитер",
+        "марс",
+        "венера",
+        "меркурий"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "dd57d6a70e6accec053afd6f7102a958",
+      "question": "Как называется единственный естественный спутник Земли?",
+      "answers": [
+        "луна"
+      ],
+      "wrong_answers": [
+        "фобос",
+        "титан",
+        "европа",
+        "ио"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "113b436fab61fe3c233c92ad765c45a3",
+      "question": "На какой планете мы живём?",
+      "answers": [
+        "земля",
+        "земле"
+      ],
+      "wrong_answers": [
+        "марс",
+        "венера",
+        "юпитер",
+        "сатурн"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "32303032d717a1070aa1be6fb888563b",
+      "question": "Что находится в центре нашей Солнечной системы?",
+      "answers": [
+        "солнце"
+      ],
+      "wrong_answers": [
+        "земля",
+        "луна",
+        "юпитер",
+        "чёрная дыра"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "39e060a28acaba8f717b20442c6e31c3",
+      "question": "Какая планета была переклассифицирована в карликовую планету в 2006 году?",
+      "answers": [
+        "плутон"
+      ],
+      "wrong_answers": [
+        "нептун",
+        "церера",
+        "меркурий",
+        "эрида"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "6e677a584c660f537e3148de8e45c8b3",
+      "question": "Какая планета находится дальше всего от Солнца?",
+      "answers": [
+        "нептун"
+      ],
+      "wrong_answers": [
+        "уран",
+        "плутон",
+        "сатурн",
+        "юпитер"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "1583e32d8af2e7ab2536abec44a2aa5b",
+      "question": "Как называется космический камень, сгорающий в атмосфере Земли?",
+      "answers": [
+        "метеор",
+        "падающая звезда"
+      ],
+      "wrong_answers": [
+        "комета",
+        "спутник",
+        "планета",
+        "звезда"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f37bf98164ae61c44d0b642036737708",
+      "question": "Как называется космический объект с длинным светящимся хвостом?",
+      "answers": [
+        "комета"
+      ],
+      "wrong_answers": [
+        "астероид",
+        "планета",
+        "луна",
+        "галактика"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "2a8a27133655b0d9c49dbb875acd116c",
+      "question": "Частью какой галактики является наша Солнечная система?",
+      "answers": [
+        "млечный путь"
+      ],
+      "wrong_answers": [
+        "андромеда",
+        "треугольник",
+        "сомбреро",
+        "водоворот"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "135c101c9b5588898c4a6fe817c868ec",
+      "question": "Кто был первым человеком, ступившим на Луну?",
+      "answers": [
+        "нил армстронг",
+        "армстронг"
+      ],
+      "wrong_answers": [
+        "базз олдрин",
+        "юрий гагарин",
+        "майкл коллинз",
+        "джон гленн"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "18cbe31501ffd73cf69b68f587aed91c",
+      "question": "Как называется естественный объект, вращающийся вокруг планеты?",
+      "answers": [
+        "луна",
+        "спутник"
+      ],
+      "wrong_answers": [
+        "звезда",
+        "комета",
+        "астероид",
+        "галактика"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f32211d95b2a6f9e2ea79c87453e0e66",
+      "question": "Какое космическое агентство высадило первых людей на Луну?",
+      "answers": [
+        "наса",
+        "nasa"
+      ],
+      "wrong_answers": [
+        "ека",
+        "роскосмос",
+        "isro",
+        "spacex"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "eef83762a71eebb8a968f14b202926f1",
+      "question": "Из чего в основном состоит Солнце?",
+      "answers": [
+        "водород",
+        "водород и гелий"
+      ],
+      "wrong_answers": [
+        "кислород",
+        "железо",
+        "камень",
+        "вода"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "7f870419b0faae79a48d9c49647da39e",
+      "question": "Примерно за сколько дней Земля совершает оборот вокруг Солнца?",
+      "answers": [
+        "365",
+        "365 дней",
+        "год"
+      ],
+      "wrong_answers": [
+        "30",
+        "100",
+        "500",
+        "1000"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "0a394d70c5be7e7a2bd9867a327552c7",
+      "question": "Какая планета наклонена набок и вращается почти лёжа?",
+      "answers": [
+        "уран"
+      ],
+      "wrong_answers": [
+        "нептун",
+        "сатурн",
+        "венера",
+        "марс"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "f879b817d9f93c571130562966a73601",
+      "question": "Как называется гигантский шторм на Юпитере?",
+      "answers": [
+        "большое красное пятно"
+      ],
+      "wrong_answers": [
+        "большое тёмное пятно",
+        "глаз юпитера",
+        "красный шторм",
+        "большой вихрь"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "0039d947b15c4e70f3b675b71c218640",
+      "question": "У какой планеты самые короткие сутки в Солнечной системе?",
+      "answers": [
+        "юпитер"
+      ],
+      "wrong_answers": [
+        "меркурий",
+        "земля",
+        "венера",
+        "марс"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "3bfe6614a3a1a802493f74cbe0928540",
+      "question": "Какой спутник самый большой во всей Солнечной системе?",
+      "answers": [
+        "ганимед"
+      ],
+      "wrong_answers": [
+        "титан",
+        "каллисто",
+        "луна",
+        "ио"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2ac9b2c13427b6d96fa66d7696a9b0cf",
+      "question": "Какая планета вращается в направлении, противоположном большинству других планет?",
+      "answers": [
+        "венера"
+      ],
+      "wrong_answers": [
+        "марс",
+        "меркурий",
+        "юпитер",
+        "нептун"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "bbbb5c567ce179098d34166991842a43",
+      "question": "Как называется самый высокий вулкан в Солнечной системе?",
+      "answers": [
+        "олимп",
+        "гора олимп"
+      ],
+      "wrong_answers": [
+        "мауна-кеа",
+        "эверест",
+        "долина маринер",
+        "гора гюйгенса"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "cd7b3d53660566e11369536af3fac168",
+      "question": "На какой планете находится гигантский каньон Долина Маринер?",
+      "answers": [
+        "марс",
+        "марсе"
+      ],
+      "wrong_answers": [
+        "венера",
+        "меркурий",
+        "земля",
+        "титан"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "e910624c7466a58875da0e1937b34a2a",
+      "question": "Сколько спутников у Марса?",
+      "answers": [
+        "2",
+        "два"
+      ],
+      "wrong_answers": [
+        "1",
+        "0",
+        "4",
+        "12"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "8eab6b0af7178e33a3d75c997a4be778",
+      "question": "Как называются два спутника Марса?",
+      "answers": [
+        "фобос и деймос"
+      ],
+      "wrong_answers": [
+        "титан и рея",
+        "ио и европа",
+        "кастор и поллукс",
+        "ромул и рем"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "8d8a8fc452efe56364d93ba8ef142e80",
+      "question": "Какой ледяной спутник Юпитера, как считается, скрывает океан под своей корой?",
+      "answers": [
+        "европа"
+      ],
+      "wrong_answers": [
+        "ио",
+        "каллисто",
+        "титан",
+        "тритон"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "a6fc538f8e6a62617c0b25f28367fffa",
+      "question": "Какую планету иногда называют близнецом Земли из-за схожего размера?",
+      "answers": [
+        "венера"
+      ],
+      "wrong_answers": [
+        "марс",
+        "меркурий",
+        "нептун",
+        "уран"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "40583e595edef0e369d7654abfe585a8",
+      "question": "Как в совокупности называют четыре ближайшие к Солнцу планеты?",
+      "answers": [
+        "планеты земной группы",
+        "каменистые планеты",
+        "внутренние планеты"
+      ],
+      "wrong_answers": [
+        "газовые гиганты",
+        "ледяные гиганты",
+        "карликовые планеты",
+        "внешние планеты"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "8775881597afb08c0b2b7f236fa3579f",
+      "question": "Юпитер и Сатурн относятся к какому типу планет?",
+      "answers": [
+        "газовые гиганты",
+        "газовый гигант"
+      ],
+      "wrong_answers": [
+        "каменистые планеты",
+        "карликовые планеты",
+        "ледяные планеты",
+        "планеты земной группы"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "99e81790d30938e6ac995fc0c4e7aeeb",
+      "question": "Какая космическая миссия впервые высадила людей на Луну в 1969 году?",
+      "answers": [
+        "аполлон-11",
+        "аполлон 11"
+      ],
+      "wrong_answers": [
+        "аполлон-13",
+        "джемини-4",
+        "восток-1",
+        "союз-1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "b0b84ce6bd1de4ac8578784624b0e025",
+      "question": "Кто был первым человеком, совершившим полёт в космос?",
+      "answers": [
+        "юрий гагарин",
+        "гагарин"
+      ],
+      "wrong_answers": [
+        "нил армстронг",
+        "алан шепард",
+        "джон гленн",
+        "валентина терешкова"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "7de9101c02de2ccc92fc91cbbaea4f03",
+      "question": "Примерно за какое время солнечный свет достигает Земли?",
+      "answers": [
+        "8 минут",
+        "около 8 минут",
+        "восемь минут"
+      ],
+      "wrong_answers": [
+        "1 секунду",
+        "1 час",
+        "1 день",
+        "30 секунд"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "e275f62abe59182157c6199451ccf728",
+      "question": "Что происходит во время солнечного затмения?",
+      "answers": [
+        "луна закрывает солнце",
+        "луна проходит перед солнцем"
+      ],
+      "wrong_answers": [
+        "земля закрывает солнце",
+        "солнце гаснет",
+        "луна краснеет",
+        "земля перестаёт вращаться"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "c785daf863f948886ee506a24f662d44",
+      "question": "На какой планете самые сильные ветры в Солнечной системе?",
+      "answers": [
+        "нептун",
+        "нептуне"
+      ],
+      "wrong_answers": [
+        "юпитер",
+        "сатурн",
+        "уран",
+        "венера"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "0c350ef4724b1f78d4f8e13c3318e5a6",
+      "question": "Какое тело в Солнечной системе наиболее вулканически активно?",
+      "answers": [
+        "ио"
+      ],
+      "wrong_answers": [
+        "европа",
+        "титан",
+        "венера",
+        "марс"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "a43e99cd1f8d222295cb2b805a182553",
+      "question": "Какой самый крупный объект в поясе астероидов?",
+      "answers": [
+        "церера"
+      ],
+      "wrong_answers": [
+        "веста",
+        "паллада",
+        "эрос",
+        "юнона"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2ecb1053725a7cd92c53c27d8bf741c4",
+      "question": "Какой планете требуется больше всего времени на оборот вокруг Солнца?",
+      "answers": [
+        "нептун",
+        "нептуну"
+      ],
+      "wrong_answers": [
+        "уран",
+        "сатурн",
+        "юпитер",
+        "марс"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2f9b08d9fc252721b75404ee9f629ce7",
+      "question": "Как называется область ледяных тел за Нептуном?",
+      "answers": [
+        "пояс койпера"
+      ],
+      "wrong_answers": [
+        "пояс астероидов",
+        "облако оорта",
+        "пояс ван аллена",
+        "гелиосфера"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "0434162b85d07d24dc2259d92e188383",
+      "question": "У какой планеты сутки длиннее её года?",
+      "answers": [
+        "венера",
+        "венеры"
+      ],
+      "wrong_answers": [
+        "меркурий",
+        "марс",
+        "уран",
+        "нептун"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "865df54cce814880f286861ec2c2f569",
+      "question": "Какой был первый искусственный спутник, запущенный в космос?",
+      "answers": [
+        "спутник-1",
+        "спутник"
+      ],
+      "wrong_answers": [
+        "эксплорер-1",
+        "восток-1",
+        "аполлон-1",
+        "вояджер-1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "e32eaa3200267661f23b39cf07794226",
+      "question": "Какой космический аппарат является самым удалённым от Земли рукотворным объектом?",
+      "answers": [
+        "вояджер-1",
+        "вояджер"
+      ],
+      "wrong_answers": [
+        "вояджер-2",
+        "пионер-10",
+        "новые горизонты",
+        "кассини"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "ca895bf5fa3f0fc8b4e0cce36b089f94",
+      "question": "У каких двух планет вообще нет спутников?",
+      "answers": [
+        "меркурий и венера",
+        "венера и меркурий"
+      ],
+      "wrong_answers": [
+        "марс и земля",
+        "уран и нептун",
+        "юпитер и сатурн",
+        "земля и венера"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "25c9f86b7288e7d58b6bbc5a0cd10e07",
+      "question": "Какая горная цепь тянется вдоль западного края Южной Америки?",
+      "answers": [
+        "анды"
+      ],
+      "wrong_answers": [
+        "альпы",
+        "скалистые горы",
+        "гималаи",
+        "урал"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "05e710c48b0911d733b87dfedd8c9df8",
+      "question": "Какая столица Аргентины?",
+      "answers": [
+        "буэнос-айрес"
+      ],
+      "wrong_answers": [
+        "сантьяго",
+        "монтевидео",
+        "лима",
+        "асунсьон"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "95eaa6861af7ef2b58b5fdc37d20417f",
+      "question": "Какая столица Перу?",
+      "answers": [
+        "лима"
+      ],
+      "wrong_answers": [
+        "кито",
+        "ла-пас",
+        "богота",
+        "сантьяго"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "867a7e43f031adf3054940e2b0543a8a",
+      "question": "На каком языке больше всего говорят в Бразилии?",
+      "answers": [
+        "португальский"
+      ],
+      "wrong_answers": [
+        "испанский",
+        "английский",
+        "французский",
+        "итальянский"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "038505a8af0179518be4af90a71c0dc6",
+      "question": "В какой южноамериканской стране находится Мачу-Пикчу?",
+      "answers": [
+        "перу"
+      ],
+      "wrong_answers": [
+        "боливия",
+        "чили",
+        "эквадор",
+        "колумбия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "c7e40b364019f6735f2acd477f7b3dbc",
+      "question": "Какая длинная и узкая страна тянется вдоль западного побережья Южной Америки?",
+      "answers": [
+        "чили"
+      ],
+      "wrong_answers": [
+        "перу",
+        "аргентина",
+        "эквадор",
+        "колумбия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "cec9a554ee9206ba79bea599b30e8db1",
+      "question": "Какая южноамериканская страна названа в честь пересекающего её экватора?",
+      "answers": [
+        "эквадор"
+      ],
+      "wrong_answers": [
+        "колумбия",
+        "перу",
+        "бразилия",
+        "венесуэла"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "93a50ea6496dd50e4bb80eafb6d6afc8",
+      "question": "Какая страна знаменита танцем танго и ковбоями-гаучо?",
+      "answers": [
+        "аргентина"
+      ],
+      "wrong_answers": [
+        "бразилия",
+        "перу",
+        "чили",
+        "колумбия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "3a2c31ed414e7d3a3f44a70992795edb",
+      "question": "Какой большой тропический лес покрывает значительную часть севера Южной Америки?",
+      "answers": [
+        "амазония",
+        "амазонский лес"
+      ],
+      "wrong_answers": [
+        "конго",
+        "тайга",
+        "лес борнео",
+        "эверглейдс"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "2957950dcb6fbaaadbe3168c7da6af04",
+      "question": "Какая яркая птица с огромным клювом живёт в тропических лесах Южной Америки?",
+      "answers": [
+        "тукан"
+      ],
+      "wrong_answers": [
+        "пингвин",
+        "страус",
+        "фламинго",
+        "сова"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "0a765c8638a0ecc5c0c208cd2ce7670d",
+      "question": "Какое шерстистое животное из Анд разводят ради мягкой шерсти?",
+      "answers": [
+        "лама",
+        "альпака"
+      ],
+      "wrong_answers": [
+        "верблюд",
+        "коза",
+        "як",
+        "осёл"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ac8e4a6c6d3e1b7693172e5a95927185",
+      "question": "Какая южноамериканская страна знаменита кофе и городом Медельин?",
+      "answers": [
+        "колумбия"
+      ],
+      "wrong_answers": [
+        "венесуэла",
+        "эквадор",
+        "перу",
+        "боливия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "c072f1e5f28e12492bd160a52630a0b7",
+      "question": "Какая столица Чили?",
+      "answers": [
+        "сантьяго"
+      ],
+      "wrong_answers": [
+        "вальпараисо",
+        "лима",
+        "буэнос-айрес",
+        "монтевидео"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5c240ae173fa74c3ce4848425d44ce83",
+      "question": "Какой океан омывает восточное побережье Южной Америки?",
+      "answers": [
+        "атлантический океан",
+        "атлантика"
+      ],
+      "wrong_answers": [
+        "тихий океан",
+        "индийский океан",
+        "северный ледовитый океан",
+        "южный океан"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "2fdabf04a6bbfcfc9c17337c2d387f6a",
+      "question": "Какая южноамериканская страна провела и выиграла первый чемпионат мира по футболу?",
+      "answers": [
+        "уругвай"
+      ],
+      "wrong_answers": [
+        "бразилия",
+        "аргентина",
+        "чили",
+        "перу"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "88c241fb6d6678aa7c61904310b952a9",
+      "question": "Какая столица Колумбии?",
+      "answers": [
+        "богота"
+      ],
+      "wrong_answers": [
+        "медельин",
+        "кали",
+        "каракас",
+        "кито"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "b5bdf0aaee69ef0613f79966b26bebc2",
+      "question": "Какие острова, известные уникальной фауной, принадлежат Эквадору?",
+      "answers": [
+        "галапагосские острова",
+        "галапагосы"
+      ],
+      "wrong_answers": [
+        "фолклендские острова",
+        "канарские острова",
+        "азорские острова",
+        "остров пасхи"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "2efbbd65e961c8f166f4a22c14067882",
+      "question": "Какая страна самая большая в Южной Америке по площади?",
+      "answers": [
+        "бразилия"
+      ],
+      "wrong_answers": [
+        "аргентина",
+        "перу",
+        "колумбия",
+        "боливия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "4cb24cdf8412b8eaf66b6b9dba5a8525",
+      "question": "Какой яркий фестиваль с парадами и самбой ежегодно проходит в Бразилии?",
+      "answers": [
+        "карнавал"
+      ],
+      "wrong_answers": [
+        "октоберфест",
+        "дивали",
+        "холи",
+        "марди гра"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f43acf3f412a6204489fb471d43ac6a0",
+      "question": "Какой самый высокий водопад в мире, находящийся в Венесуэле?",
+      "answers": [
+        "анхель",
+        "водопад анхель"
+      ],
+      "wrong_answers": [
+        "ниагарский водопад",
+        "игуасу",
+        "виктория",
+        "тугела"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "daef70df4e77f4c1284fa699e1eedc43",
+      "question": "Какая древняя империя построила Мачу-Пикчу высоко в Андах?",
+      "answers": [
+        "инки",
+        "империя инков"
+      ],
+      "wrong_answers": [
+        "ацтеки",
+        "майя",
+        "ольмеки",
+        "римская империя"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "b3246fae3c3e36764e2c2d47142eda8b",
+      "question": "Какое озеро высоко в Андах является самым высокогорным крупным судоходным озером в мире?",
+      "answers": [
+        "титикака",
+        "озеро титикака"
+      ],
+      "wrong_answers": [
+        "байкал",
+        "виктория",
+        "маракайбо",
+        "поопо"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "22286c6c028ac9b4febfd2ecbc2f96aa",
+      "question": "Какие две страны Южной Америки не имеют выхода к морю?",
+      "answers": [
+        "боливия и парагвай",
+        "парагвай и боливия"
+      ],
+      "wrong_answers": [
+        "чили и перу",
+        "эквадор и уругвай",
+        "бразилия и гайана",
+        "колумбия и венесуэла"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d08e015f599b30e2919034cb702fecdc",
+      "question": "Какая самая высокая гора в Южной Америке?",
+      "answers": [
+        "аконкагуа"
+      ],
+      "wrong_answers": [
+        "чимборасо",
+        "уаскаран",
+        "охос-дель-саладо",
+        "ильимани"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "1f615ffd2b22f88c3b7d2295085224e9",
+      "question": "Боливийский Салар-де-Уюни — крупнейший в мире что?",
+      "answers": [
+        "солончак",
+        "соляная пустыня"
+      ],
+      "wrong_answers": [
+        "песчаная пустыня",
+        "ледник",
+        "кратер",
+        "болото"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "647b61f2cd7cf2dcdd6c8bfceaf507ba",
+      "question": "Какой южный регион, разделяемый Чили и Аргентиной, известен ледниками и степью?",
+      "answers": [
+        "патагония"
+      ],
+      "wrong_answers": [
+        "амазония",
+        "пампасы",
+        "гран-чако",
+        "альтиплано"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "f647f5639a0e42242d441b768c5940a1",
+      "question": "Как называются обширные плодородные равнины Аргентины?",
+      "answers": [
+        "пампасы",
+        "пампа"
+      ],
+      "wrong_answers": [
+        "прерии",
+        "степи",
+        "саванна",
+        "аутбэк"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "4057bfc326abad782d617bc13047f7cb",
+      "question": "Водопады Игуасу находятся на границе каких двух стран?",
+      "answers": [
+        "аргентины и бразилии",
+        "бразилии и аргентины"
+      ],
+      "wrong_answers": [
+        "чили и перу",
+        "боливии и парагвая",
+        "колумбии и эквадора",
+        "уругвая и аргентины"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "48d3420d9951855c0597e46c8bea53ea",
+      "question": "У какой страны самая высокогорная столица в мире — выше 3600 метров?",
+      "answers": [
+        "боливия"
+      ],
+      "wrong_answers": [
+        "перу",
+        "эквадор",
+        "колумбия",
+        "чили"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "cffc6d71a914a69a9805eb1cb1791d5e",
+      "question": "Какая столица Венесуэлы?",
+      "answers": [
+        "каракас"
+      ],
+      "wrong_answers": [
+        "маракайбо",
+        "богота",
+        "джорджтаун",
+        "кито"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "1909e770d6ac46e44e639804f880a7aa",
+      "question": "Какая крупная змея южноамериканских болот входит в число самых тяжёлых в мире?",
+      "answers": [
+        "анаконда"
+      ],
+      "wrong_answers": [
+        "питон",
+        "кобра",
+        "удав",
+        "гадюка"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "5b08b3cd68a252b66a60ff917dc4f679",
+      "question": "Какая южноамериканская страна названа в честь исследователя Христофора Колумба?",
+      "answers": [
+        "колумбия"
+      ],
+      "wrong_answers": [
+        "венесуэла",
+        "боливия",
+        "эквадор",
+        "перу"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "7b5bcb154987e1f46c737d284da621bb",
+      "question": "В честь кого названа Боливия?",
+      "answers": [
+        "симона боливара",
+        "боливара"
+      ],
+      "wrong_answers": [
+        "колумба",
+        "писарро",
+        "магеллана",
+        "кортеса"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "4bb19f6a56da4738d09e1e0e8e65b584",
+      "question": "Какая столица Уругвая?",
+      "answers": [
+        "монтевидео"
+      ],
+      "wrong_answers": [
+        "асунсьон",
+        "буэнос-айрес",
+        "сантьяго",
+        "ла-пас"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "3ec6f888f2056559fa0327cb96f97e62",
+      "question": "Какая маленькая рыба с острыми зубами знаменита в реках Амазонки?",
+      "answers": [
+        "пиранья"
+      ],
+      "wrong_answers": [
+        "акула",
+        "сом",
+        "лосось",
+        "форель"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d81f3cbd83662b63714f6e9315c5d765",
+      "question": "У какой южноамериканской страны столица Джорджтаун?",
+      "answers": [
+        "гайана"
+      ],
+      "wrong_answers": [
+        "суринам",
+        "венесуэла",
+        "бразилия",
+        "парагвай"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "82eb0fe69ed37fe672df1a916cdc4824",
+      "question": "Какая страна является крупнейшим производителем кофе в Южной Америке?",
+      "answers": [
+        "бразилия"
+      ],
+      "wrong_answers": [
+        "колумбия",
+        "перу",
+        "эквадор",
+        "боливия"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "730b4ff8db2ad3bed9b22cb9010c5d05",
+      "question": "Загадочные линии Наска — гигантские рисунки, находящиеся в какой стране?",
+      "answers": [
+        "перу"
+      ],
+      "wrong_answers": [
+        "чили",
+        "боливия",
+        "мексика",
+        "бразилия"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "9766fc00beb75cd25f3f909db7765119",
+      "question": "Какая южноамериканская страна по форме напоминает длинный перец чили вдоль Тихого океана?",
+      "answers": [
+        "чили"
+      ],
+      "wrong_answers": [
+        "перу",
+        "эквадор",
+        "колумбия",
+        "бразилия"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f755b93548254d547392a162339e94be",
+      "question": "Какой самый популярный вид спорта в Южной Америке?",
+      "answers": [
+        "футбол"
+      ],
+      "wrong_answers": [
+        "крикет",
+        "хоккей",
+        "бейсбол",
+        "регби"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
     }
   ]
 }
