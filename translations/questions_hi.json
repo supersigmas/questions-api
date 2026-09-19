@@ -7604,24 +7604,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "किस देश ने ग्रेट वॉल का निर्माण किया?",
-      "points": 900,
-      "language": "hi",
-      "answers": [
-        "चीन"
-      ],
-      "wrong_answers": [
-        "जापान",
-        "भारत",
-        "मंगोलिया",
-        "रूस",
-        "वियतनाम"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "1912 में डूबने वाले जहाज़ का नाम क्या था?",
       "points": 900,
       "language": "hi",
@@ -11568,24 +11550,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "किस देश ने अमेरिका को स्टैच्यू ऑफ लिबर्टी उपहार में दी?",
-      "points": 750,
-      "language": "hi",
-      "answers": [
-        "फ्रांस"
-      ],
-      "wrong_answers": [
-        "इंग्लैंड",
-        "इटली",
-        "स्पेन",
-        "जर्मनी",
-        "कनाडा"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "मध्यकाल में घोड़ों पर सवार कवचधारी योद्धाओं को क्या कहा जाता था?",
       "points": 650,
       "language": "hi",
@@ -13282,25 +13246,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "एक सप्ताह में कितने दिन होते हैं?",
-      "points": 700,
-      "language": "hi",
-      "answers": [
-        "7",
-        "सात"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "एक साल में कितने महीने होते हैं?",
       "points": 700,
       "language": "hi",
@@ -13318,25 +13263,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "एक दिन में कितने घंटे होते हैं?",
-      "points": 700,
-      "language": "hi",
-      "answers": [
-        "24",
-        "चौबीस"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "किस आकृति के कोने नहीं होते?",
@@ -15012,23 +14938,6 @@
       "category": "nature",
       "difficulty": "easy",
       "id": "5cc437d0643922261e1a51582e36f6c9"
-    },
-    {
-      "question": "रिक्टर स्केल से किस प्राकृतिक आपदा को मापा जाता है?",
-      "points": 900,
-      "language": "hi",
-      "answers": [
-        "भूकंप"
-      ],
-      "wrong_answers": [
-        "बवंडर",
-        "तूफान",
-        "सुनामी",
-        "ज्वालामुखी विस्फोट"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
     },
     {
       "question": "पौधों की कोशिकाओं में प्रकाश संश्लेषण मुख्य रूप से कहाँ होता है?",
@@ -18359,8 +18268,8 @@
         "पैंथर"
       ],
       "wrong_answers": [
-        "मार्डर III",
-        "माटिल्डा II",
+        "मार्डर iii",
+        "माटिल्डा ii",
         "टाइगर टैंक"
       ],
       "category": "history",
@@ -19025,7 +18934,7 @@
       "wrong_answers": [
         "हाउसेस ऑफ द होली",
         "फिजिकल ग्रैफिटी",
-        "लेड ज़ेपेलिन III"
+        "लेड ज़ेपेलिन iii"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19402,9 +19311,9 @@
         "spartan-ii"
       ],
       "wrong_answers": [
-        "स्पार्टन-I",
-        "स्पार्टन-III",
-        "स्पार्टन-IV"
+        "स्पार्टन-i",
+        "स्पार्टन-iii",
+        "स्पार्टन-iv"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -21389,9 +21298,9 @@
         "h20"
       ],
       "wrong_answers": [
-        "C12H6O2",
-        "CO2",
-        "H"
+        "c12h6o2",
+        "co2",
+        "h"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -22721,9 +22630,9 @@
         "midi"
       ],
       "wrong_answers": [
-        "Musical Interface of Digital Instruments",
-        "Modular Interface of Digital Instruments",
-        "Musical Instrument Data Interface"
+        "musical interface of digital instruments",
+        "modular interface of digital instruments",
+        "musical instrument data interface"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -22901,9 +22810,9 @@
         "gta फाइव और gta san andreas"
       ],
       "wrong_answers": [
-        "जीटीए V और जीटीए वाइस सिटी",
-        "जीटीए IV और जीटीए सैन एंड्रियास",
-        "जीटीए IV और जीटीए वाइस सिटी"
+        "जीटीए v और जीटीए वाइस सिटी",
+        "जीटीए iv और जीटीए सैन एंड्रियास",
+        "जीटीए iv और जीटीए वाइस सिटी"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -23441,9 +23350,9 @@
         "ctrl c"
       ],
       "wrong_answers": [
-        "Ctrl + X",
-        "Alt + C",
-        "Alt + X"
+        "ctrl + x",
+        "alt + c",
+        "alt + x"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -25528,9 +25437,9 @@
         "हीलियम"
       ],
       "wrong_answers": [
-        "H",
-        "Hg",
-        "Hs"
+        "h",
+        "hg",
+        "hs"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -27042,7 +26951,7 @@
       "answers": [
         "ओम",
         "ओह्म",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "एमएचओ",
@@ -27732,9 +27641,9 @@
         "पारा"
       ],
       "wrong_answers": [
-        "Me",
-        "Mc",
-        "Hy"
+        "me",
+        "mc",
+        "hy"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -29354,9 +29263,9 @@
         "x अक्षर"
       ],
       "wrong_answers": [
-        "W",
-        "U",
-        "J"
+        "w",
+        "u",
+        "j"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -29588,9 +29497,9 @@
         "h-g"
       ],
       "wrong_answers": [
-        "Me",
-        "Mc",
-        "Hy"
+        "me",
+        "mc",
+        "hy"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -31730,9 +31639,9 @@
         "5"
       ],
       "wrong_answers": [
-        "X",
-        "III",
-        "IV"
+        "x",
+        "iii",
+        "iv"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -42587,7 +42496,7 @@
       "question": "विज्ञान में विस्थापन के लिए किस प्रतीक का इस्तेमाल होता है?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta"
       ],
       "wrong_answers": [
@@ -43528,7 +43437,7 @@
         "ww2"
       ],
       "wrong_answers": [
-        "वर्ल्ड वॉर I",
+        "वर्ल्ड वॉर i",
         "वियतनाम वॉर",
         "इराक वॉर"
       ],
@@ -45564,32 +45473,14 @@
       ],
       "wrong_answers": [
         "जीटीए वी एंड जीटीए वाइस सिटी",
-        "जीटीए IV एंड जीटीए सैन एंड्रियास",
-        "जीटीए IV एंड जीटीए वाइस सिटी"
+        "जीटीए iv एंड जीटीए सैन एंड्रियास",
+        "जीटीए iv एंड जीटीए वाइस सिटी"
       ],
       "category": "entertainment",
       "difficulty": "easy",
       "points": 700,
       "language": "hi",
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
-    },
-    {
-      "question": "स्पेन की राजधानी क्या है?",
-      "answers": [
-        "मैड्रिड",
-        "मैड्रिड स्पेन",
-        "मैड्रिड शहर"
-      ],
-      "wrong_answers": [
-        "मैड्रिड",
-        "अलीकांटे",
-        "लिस्बन"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "hi",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
     },
     {
       "question": "समाजवाद के विचार के लिए कौन जाना जाता है?",
@@ -47504,7 +47395,7 @@
       "question": "भौतिकी में विस्थापन दर्शाने के लिए किस अक्षर का उपयोग किया जाता है?",
       "answers": [
         "डेल्टा",
-        "Δ",
+        "δ",
         "डेल्टा प्रतीक"
       ],
       "wrong_answers": [
@@ -49808,7 +49699,7 @@
       "question": "भौतिकी में विस्थापन का प्रतीक क्या है?",
       "answers": [
         "डेल्टा r",
-        "Δr",
+        "δr",
         "deltar"
       ],
       "wrong_answers": [
@@ -50100,9 +49991,9 @@
         "स्पार्टन टू"
       ],
       "wrong_answers": [
-        "स्पार्टन-I",
-        "स्पार्टन-III",
-        "स्पार्टन-IV"
+        "स्पार्टन-i",
+        "स्पार्टन-iii",
+        "स्पार्टन-iv"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -50205,7 +50096,7 @@
       "answers": [
         "ओम",
         "ओह्म्स",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "म्हो",
@@ -52530,9 +52421,9 @@
         "ff x-2"
       ],
       "wrong_answers": [
-        "फाइनल फैंटेसी IX",
-        "फाइनल फैंटेसी V",
-        "फाइनल फैंटेसी XIII-2"
+        "फाइनल फैंटेसी ix",
+        "फाइनल फैंटेसी v",
+        "फाइनल फैंटेसी xiii-2"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -55609,9 +55500,9 @@
         "final fantasy 10-2"
       ],
       "wrong_answers": [
-        "फाइनल फैंटेसी IX",
-        "फाइनल फैंटेसी V",
-        "फाइनल फैंटेसी XIII-2"
+        "फाइनल फैंटेसी ix",
+        "फाइनल फैंटेसी v",
+        "फाइनल फैंटेसी xiii-2"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -60239,8 +60130,8 @@
       ],
       "wrong_answers": [
         "जीटीए वी एंड जीटीए वाइस सिटी",
-        "जीटीए IV एंड जीटीए सैन एंड्रियास",
-        "जीटीए IV एंड जीटीए वाइस सिटी"
+        "जीटीए iv एंड जीटीए सैन एंड्रियास",
+        "जीटीए iv एंड जीटीए वाइस सिटी"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -60396,7 +60287,7 @@
       "question": "गणित में विस्थापन के लिए कौन सा चिन्ह इस्तेमाल होता है?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta-r"
       ],
       "wrong_answers": [
@@ -65859,8 +65750,8 @@
       ],
       "wrong_answers": [
         "जीटीए वाइस सिटी",
-        "जीटीए IV",
-        "ग्रैंड थेफ्ट ऑटो III"
+        "जीटीए iv",
+        "ग्रैंड थेफ्ट ऑटो iii"
       ],
       "category": "entertainment",
       "difficulty": "easy",

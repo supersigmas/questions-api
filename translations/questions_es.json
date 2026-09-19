@@ -10,11 +10,11 @@
         "pacífico"
       ],
       "wrong_answers": [
-        "Océano Atlántico",
-        "Océano Índico",
-        "Océano Ártico",
-        "Océano Austral",
-        "Mar Mediterráneo"
+        "océano atlántico",
+        "océano índico",
+        "océano ártico",
+        "océano austral",
+        "mar mediterráneo"
       ],
       "category": "geography",
       "difficulty": "normal",
@@ -30,11 +30,11 @@
         "a. einstein"
       ],
       "wrong_answers": [
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Stephen Hawking",
-        "Nikola Tesla",
-        "Marie Curie"
+        "isaac newton",
+        "galileo galilei",
+        "stephen hawking",
+        "nikola tesla",
+        "marie curie"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -49,11 +49,11 @@
         "república italiana"
       ],
       "wrong_answers": [
-        "Francia",
-        "Grecia",
-        "Estados Unidos",
-        "España",
-        "Alemania"
+        "francia",
+        "grecia",
+        "estados unidos",
+        "españa",
+        "alemania"
       ],
       "category": "food",
       "difficulty": "normal",
@@ -68,11 +68,11 @@
         "el planeta mercurio"
       ],
       "wrong_answers": [
-        "Marte",
-        "Venus",
-        "Plutón",
-        "Tierra",
-        "Neptuno"
+        "marte",
+        "venus",
+        "plutón",
+        "tierra",
+        "neptuno"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -87,11 +87,11 @@
         "monóxido de dihidrógeno"
       ],
       "wrong_answers": [
-        "CO2",
-        "O2",
-        "NaCl",
-        "H2SO4",
-        "CH4"
+        "co2",
+        "o2",
+        "nacl",
+        "h2so4",
+        "ch4"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -106,11 +106,11 @@
         "república popular china"
       ],
       "wrong_answers": [
-        "Estados Unidos",
-        "India",
-        "Rusia",
-        "Brasil",
-        "Alemania"
+        "estados unidos",
+        "india",
+        "rusia",
+        "brasil",
+        "alemania"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -125,11 +125,11 @@
         "tinker bell"
       ],
       "wrong_answers": [
-        "Wendy",
-        "Pixie",
-        "Polvo de hada",
-        "Silvermist",
-        "Rosetta"
+        "wendy",
+        "pixie",
+        "polvo de hada",
+        "silvermist",
+        "rosetta"
       ],
       "category": "literature",
       "difficulty": "normal",
@@ -145,11 +145,11 @@
         "nilo"
       ],
       "wrong_answers": [
-        "Río Amazonas",
-        "Río Yangtsé",
-        "Río Misisipi",
-        "Río Danubio",
-        "Río Congo"
+        "río amazonas",
+        "río yangtsé",
+        "río misisipi",
+        "río danubio",
+        "río congo"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -164,11 +164,11 @@
         "o2"
       ],
       "wrong_answers": [
-        "Carbono",
-        "Hidrógeno",
-        "Nitrógeno",
-        "Helio",
-        "Argón"
+        "carbono",
+        "hidrógeno",
+        "nitrógeno",
+        "helio",
+        "argón"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -183,11 +183,11 @@
         "ciudad de tokio"
       ],
       "wrong_answers": [
-        "Seúl",
-        "Pekín",
-        "Bangkok",
-        "Shanghái",
-        "Kioto"
+        "seúl",
+        "pekín",
+        "bangkok",
+        "shanghái",
+        "kioto"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -203,11 +203,11 @@
         "tolkien"
       ],
       "wrong_answers": [
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "J.K. Rowling",
-        "Mark Twain",
-        "H.P. Lovecraft"
+        "c.s. lewis",
+        "george r.r. martin",
+        "j.k. rowling",
+        "mark twain",
+        "h.p. lovecraft"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -241,11 +241,11 @@
         "el corazón"
       ],
       "wrong_answers": [
-        "Hígado",
-        "Cerebro",
-        "Pulmones",
-        "Riñones",
-        "Estómago"
+        "hígado",
+        "cerebro",
+        "pulmones",
+        "riñones",
+        "estómago"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -260,11 +260,11 @@
         "hg"
       ],
       "wrong_answers": [
-        "Hierro",
-        "Oro",
-        "Plata",
-        "Cobre",
-        "Aluminio"
+        "hierro",
+        "oro",
+        "plata",
+        "cobre",
+        "aluminio"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -279,11 +279,11 @@
         "procesador"
       ],
       "wrong_answers": [
-        "Unidad de Potencia de Computadora",
-        "Utilidad Central de Programa",
-        "Unidad de Control de Procesamiento",
-        "Utilidad de Procesamiento Central",
-        "Unidad de Procesamiento Centralizado"
+        "unidad de potencia de computadora",
+        "utilidad central de programa",
+        "unidad de control de procesamiento",
+        "utilidad de procesamiento central",
+        "unidad de procesamiento centralizado"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -298,11 +298,11 @@
         "diamante natural"
       ],
       "wrong_answers": [
-        "Oro",
-        "Acero",
-        "Cuarzo",
-        "Hierro",
-        "Grafito"
+        "oro",
+        "acero",
+        "cuarzo",
+        "hierro",
+        "grafito"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -317,11 +317,11 @@
         "n2"
       ],
       "wrong_answers": [
-        "Oxígeno",
-        "Dióxido de carbono",
-        "Hidrógeno",
-        "Helio",
-        "Argón"
+        "oxígeno",
+        "dióxido de carbono",
+        "hidrógeno",
+        "helio",
+        "argón"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -337,11 +337,11 @@
         "s. spielberg"
       ],
       "wrong_answers": [
-        "James Cameron",
-        "George Lucas",
-        "Christopher Nolan",
-        "Quentin Tarantino",
-        "Tim Burton"
+        "james cameron",
+        "george lucas",
+        "christopher nolan",
+        "quentin tarantino",
+        "tim burton"
       ],
       "category": "movies",
       "difficulty": "normal",
@@ -357,11 +357,11 @@
         "planeta marte"
       ],
       "wrong_answers": [
-        "Venus",
-        "Júpiter",
-        "Saturno",
-        "Mercurio",
-        "Neptuno"
+        "venus",
+        "júpiter",
+        "saturno",
+        "mercurio",
+        "neptuno"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -377,11 +377,11 @@
         "w. shakespeare"
       ],
       "wrong_answers": [
-        "Charles Dickens",
-        "Jane Austen",
-        "Mark Twain",
-        "León Tolstói",
-        "George Orwell"
+        "charles dickens",
+        "jane austen",
+        "mark twain",
+        "león tolstói",
+        "george orwell"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -395,11 +395,11 @@
         "au"
       ],
       "wrong_answers": [
-        "Ag",
-        "Fe",
-        "Pb",
-        "Cu",
-        "Pt"
+        "ag",
+        "fe",
+        "pb",
+        "cu",
+        "pt"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -737,11 +737,11 @@
         "na"
       ],
       "wrong_answers": [
-        "S",
-        "So",
-        "Sn",
-        "Sa",
-        "Mg"
+        "s",
+        "so",
+        "sn",
+        "sa",
+        "mg"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -987,11 +987,11 @@
         "a. wesker"
       ],
       "wrong_answers": [
-        "Chris Redfield",
-        "Ada Wong",
-        "Nemesis",
-        "Hunk",
-        "Leon Kennedy"
+        "chris redfield",
+        "ada wong",
+        "nemesis",
+        "hunk",
+        "leon kennedy"
       ],
       "category": "gaming",
       "difficulty": "normal",
@@ -1046,11 +1046,11 @@
         "h. kojima"
       ],
       "wrong_answers": [
-        "Shigeru Miyamoto",
-        "Yu Suzuki",
-        "Sakurai",
-        "Tetsuya Nomura",
-        "Keiji Inafune"
+        "shigeru miyamoto",
+        "yu suzuki",
+        "sakurai",
+        "tetsuya nomura",
+        "keiji inafune"
       ],
       "category": "gaming",
       "difficulty": "normal",
@@ -1101,11 +1101,11 @@
         "inky"
       ],
       "wrong_answers": [
-        "Blinky",
-        "Pinky",
-        "Clyde",
-        "Ghosty",
-        "Winky"
+        "blinky",
+        "pinky",
+        "clyde",
+        "ghosty",
+        "winky"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1120,11 +1120,11 @@
         "miles tails prower"
       ],
       "wrong_answers": [
-        "Knuckles",
-        "Shadow",
-        "Amy",
-        "Vector",
-        "Silver"
+        "knuckles",
+        "shadow",
+        "amy",
+        "vector",
+        "silver"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1174,11 +1174,11 @@
         "azeroth"
       ],
       "wrong_answers": [
-        "Draenor",
-        "Outland",
-        "Terranova",
-        "Nexus",
-        "Pandaria"
+        "draenor",
+        "outland",
+        "terranova",
+        "nexus",
+        "pandaria"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1210,11 +1210,11 @@
         "shang tsung"
       ],
       "wrong_answers": [
-        "Scorpion",
-        "Raiden",
-        "Liu Kang",
-        "Sub-Zero",
-        "Quan Chi"
+        "scorpion",
+        "raiden",
+        "liu kang",
+        "sub-zero",
+        "quan chi"
       ],
       "category": "gaming",
       "difficulty": "easy",
@@ -1287,11 +1287,11 @@
         "p. allen"
       ],
       "wrong_answers": [
-        "Steve Wozniak",
-        "Larry Page",
-        "Steve Jobs",
-        "Mark Zuckerberg",
-        "Elon Musk"
+        "steve wozniak",
+        "larry page",
+        "steve jobs",
+        "mark zuckerberg",
+        "elon musk"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -1526,11 +1526,11 @@
         "e. musk"
       ],
       "wrong_answers": [
-        "Tim Cook",
-        "Jeff Bezos",
-        "Bill Gates",
-        "Mark Zuckerberg",
-        "Richard Branson"
+        "tim cook",
+        "jeff bezos",
+        "bill gates",
+        "mark zuckerberg",
+        "richard branson"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -7630,24 +7630,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "¿Qué país construyó la Gran Muralla?",
-      "points": 900,
-      "language": "es",
-      "answers": [
-        "china"
-      ],
-      "wrong_answers": [
-        "japón",
-        "india",
-        "mongolia",
-        "rusia",
-        "vietnam"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "¿Cómo se llamaba el barco que se hundió en 1912?",
       "points": 900,
       "language": "es",
@@ -11615,24 +11597,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
-      "points": 750,
-      "language": "es",
-      "answers": [
-        "francia"
-      ],
-      "wrong_answers": [
-        "inglaterra",
-        "italia",
-        "españa",
-        "alemania",
-        "canadá"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "En la época medieval, ¿cómo se llamaba a los guerreros acorazados a caballo?",
       "points": 650,
       "language": "es",
@@ -13336,25 +13300,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "¿Cuántos días tiene una semana?",
-      "points": 700,
-      "language": "es",
-      "answers": [
-        "7",
-        "siete"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "¿Cuántos meses tiene un año?",
       "points": 700,
       "language": "es",
@@ -13372,25 +13317,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día?",
-      "points": 700,
-      "language": "es",
-      "answers": [
-        "24",
-        "veinticuatro"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "¿Qué figura no tiene esquinas?",
@@ -15076,23 +15002,6 @@
       "id": "5cc437d0643922261e1a51582e36f6c9"
     },
     {
-      "question": "¿Qué desastre natural se mide con la escala de Richter?",
-      "points": 900,
-      "language": "es",
-      "answers": [
-        "terremotos"
-      ],
-      "wrong_answers": [
-        "tornados",
-        "huracanes",
-        "tsunamis",
-        "erupciones volcánicas"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
-    },
-    {
       "question": "¿Dónde ocurre principalmente la fotosíntesis dentro de las células vegetales?",
       "points": 900,
       "language": "es",
@@ -15653,9 +15562,9 @@
         "aire"
       ],
       "wrong_answers": [
-        "The Schwartz",
-        "Princess Lonestar",
-        "Meatballs"
+        "the schwartz",
+        "princess lonestar",
+        "meatballs"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15670,9 +15579,9 @@
         "eleven"
       ],
       "wrong_answers": [
-        "Mike",
-        "Lucas",
-        "Karen"
+        "mike",
+        "lucas",
+        "karen"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15686,9 +15595,9 @@
         "seinfeld"
       ],
       "wrong_answers": [
-        "Frasier",
-        "Becker",
-        "Friends"
+        "frasier",
+        "becker",
+        "friends"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15703,9 +15612,9 @@
         "gobernador"
       ],
       "wrong_answers": [
-        "Negan",
-        "Rick Grimes",
-        "Daryl Dixon"
+        "negan",
+        "rick grimes",
+        "daryl dixon"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15768,9 +15677,9 @@
         "pirelli"
       ],
       "wrong_answers": [
-        "Goodyear",
-        "Bridgestone",
-        "Michelin"
+        "goodyear",
+        "bridgestone",
+        "michelin"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -15816,9 +15725,9 @@
         "the pentagon thief"
       ],
       "wrong_answers": [
-        "Hellhounds",
-        "Jumping Jacks",
-        "Napalm Zombie"
+        "hellhounds",
+        "jumping jacks",
+        "napalm zombie"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15832,9 +15741,9 @@
         "the company"
       ],
       "wrong_answers": [
-        "Planet Scrap Co.",
-        "Lethal Robotics",
-        "Gordian Shipping Co."
+        "planet scrap co.",
+        "lethal robotics",
+        "gordian shipping co."
       ],
       "category": "general",
       "difficulty": "easy",
@@ -16410,8 +16319,8 @@
         "chikorita, cyndaquil, totodile"
       ],
       "wrong_answers": [
-        "Bulbasaur, Charmander, Squirtle",
-        "Treecko, Torchic, Mudkip",
+        "bulbasaur, charmander, squirtle",
+        "treecko, torchic, mudkip",
         "herboso, ígneo, acuoso"
       ],
       "category": "entertainment",
@@ -19923,9 +19832,9 @@
         "señor nook"
       ],
       "wrong_answers": [
-        "Mr. Resetti",
-        "Gracie",
-        "K.K. Slider"
+        "mr. resetti",
+        "gracie",
+        "k.k. slider"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -27150,7 +27059,7 @@
       "answers": [
         "ohmio",
         "ohm",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -42698,7 +42607,7 @@
       "question": "¿Qué símbolo se usa para el desplazamiento en ciencia?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta"
       ],
       "wrong_answers": [
@@ -45685,24 +45594,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "¿Cuál es la capital de España?",
-      "answers": [
-        "madrid",
-        "madrid españa",
-        "ciudad de madrid"
-      ],
-      "wrong_answers": [
-        "madrid",
-        "alicante",
-        "lisboa"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "es",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "¿A quién se le conoce por la idea del socialismo?",
       "answers": [
         "karl marx",
@@ -47615,7 +47506,7 @@
       "question": "¿Qué letra se usa para mostrar el desplazamiento en física?",
       "answers": [
         "delta",
-        "Δ",
+        "δ",
         "símbolo delta"
       ],
       "wrong_answers": [
@@ -49834,9 +49725,9 @@
         "apaciguar"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -49920,7 +49811,7 @@
       "question": "¿Cuál es el símbolo para el desplazamiento en física?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "deltar"
       ],
       "wrong_answers": [
@@ -50317,7 +50208,7 @@
       "answers": [
         "ohmio",
         "ohmios",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -50374,9 +50265,9 @@
         "med gun"
       ],
       "wrong_answers": [
-        "Scattergun",
-        "Grenade Launcher",
-        "Rocket Launcher"
+        "scattergun",
+        "grenade launcher",
+        "rocket launcher"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53002,9 +52893,9 @@
         "apaciguar"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -56190,9 +56081,9 @@
         "apaciguar"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57307,9 +57198,9 @@
         "apaciguar"
       ],
       "wrong_answers": [
-        "Persuade",
-        "Eliminate",
-        "Hug"
+        "persuade",
+        "eliminate",
+        "hug"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -60508,7 +60399,7 @@
       "question": "¿Qué símbolo se usa para el desplazamiento en matemáticas?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta-r"
       ],
       "wrong_answers": [
@@ -68817,10 +68708,10 @@
         "beijing"
       ],
       "wrong_answers": [
-        "Shanghái",
-        "Cantón",
-        "Shenzhen",
-        "Hong Kong"
+        "shanghái",
+        "cantón",
+        "shenzhen",
+        "hong kong"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68834,10 +68725,10 @@
         "bangkok"
       ],
       "wrong_answers": [
-        "Chiang Mai",
-        "Phuket",
-        "Pattaya",
-        "Ayutthaya"
+        "chiang mai",
+        "phuket",
+        "pattaya",
+        "ayutthaya"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68851,10 +68742,10 @@
         "japón"
       ],
       "wrong_answers": [
-        "China",
-        "Corea del Sur",
-        "Tailandia",
-        "Vietnam"
+        "china",
+        "corea del sur",
+        "tailandia",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68868,10 +68759,10 @@
         "china"
       ],
       "wrong_answers": [
-        "Mongolia",
-        "Japón",
-        "India",
-        "Nepal"
+        "mongolia",
+        "japón",
+        "india",
+        "nepal"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68885,10 +68776,10 @@
         "hanói"
       ],
       "wrong_answers": [
-        "Ciudad Ho Chi Minh",
-        "Da Nang",
-        "Hue",
-        "Hai Phong"
+        "ciudad ho chi minh",
+        "da nang",
+        "hue",
+        "hai phong"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68902,10 +68793,10 @@
         "yangtsé"
       ],
       "wrong_answers": [
-        "Río Amarillo",
-        "Mekong",
-        "Ganges",
-        "Indo"
+        "río amarillo",
+        "mekong",
+        "ganges",
+        "indo"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68919,10 +68810,10 @@
         "japón"
       ],
       "wrong_answers": [
-        "China",
-        "Corea del Sur",
-        "Nepal",
-        "Indonesia"
+        "china",
+        "corea del sur",
+        "nepal",
+        "indonesia"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68936,10 +68827,10 @@
         "manila"
       ],
       "wrong_answers": [
-        "Cebú",
-        "Davao",
-        "Quezon City",
-        "Makati"
+        "cebú",
+        "davao",
+        "quezon city",
+        "makati"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68953,10 +68844,10 @@
         "japón"
       ],
       "wrong_answers": [
-        "China",
-        "Tailandia",
-        "Corea del Sur",
-        "Vietnam"
+        "china",
+        "tailandia",
+        "corea del sur",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68970,10 +68861,10 @@
         "kuala lumpur"
       ],
       "wrong_answers": [
-        "George Town",
-        "Johor Bahru",
-        "Putrajaya",
-        "Ipoh"
+        "george town",
+        "johor bahru",
+        "putrajaya",
+        "ipoh"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -68987,10 +68878,10 @@
         "islamabad"
       ],
       "wrong_answers": [
-        "Karachi",
-        "Lahore",
-        "Rawalpindi",
-        "Faisalabad"
+        "karachi",
+        "lahore",
+        "rawalpindi",
+        "faisalabad"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69004,10 +68895,10 @@
         "china"
       ],
       "wrong_answers": [
-        "Japón",
-        "India",
-        "Nepal",
-        "Tailandia"
+        "japón",
+        "india",
+        "nepal",
+        "tailandia"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69021,10 +68912,10 @@
         "katmandú"
       ],
       "wrong_answers": [
-        "Pokhara",
-        "Lalitpur",
-        "Biratnagar",
-        "Bharatpur"
+        "pokhara",
+        "lalitpur",
+        "biratnagar",
+        "bharatpur"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69038,10 +68929,10 @@
         "asia"
       ],
       "wrong_answers": [
-        "África",
-        "Europa",
-        "América del Sur",
-        "Oceanía"
+        "áfrica",
+        "europa",
+        "américa del sur",
+        "oceanía"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69055,10 +68946,10 @@
         "astaná"
       ],
       "wrong_answers": [
-        "Almatý",
-        "Shymkent",
-        "Karagandá",
-        "Nur-Sultán"
+        "almatý",
+        "shymkent",
+        "karagandá",
+        "nur-sultán"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69072,10 +68963,10 @@
         "indonesia"
       ],
       "wrong_answers": [
-        "Filipinas",
-        "Japón",
-        "Malasia",
-        "Maldivas"
+        "filipinas",
+        "japón",
+        "malasia",
+        "maldivas"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69090,10 +68981,10 @@
         "las maldivas"
       ],
       "wrong_answers": [
-        "Singapur",
-        "Baréin",
-        "Brunéi",
-        "Bután"
+        "singapur",
+        "baréin",
+        "brunéi",
+        "bután"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69107,10 +68998,10 @@
         "mar del japón"
       ],
       "wrong_answers": [
-        "Mar Amarillo",
-        "Mar de China Oriental",
-        "Mar de China Meridional",
-        "Mar de Filipinas"
+        "mar amarillo",
+        "mar de china oriental",
+        "mar de china meridional",
+        "mar de filipinas"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69125,10 +69016,10 @@
         "ulaanbaatar"
       ],
       "wrong_answers": [
-        "Erdenet",
-        "Darjan",
-        "Choibalsan",
-        "Astaná"
+        "erdenet",
+        "darjan",
+        "choibalsan",
+        "astaná"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69142,10 +69033,10 @@
         "tailandia"
       ],
       "wrong_answers": [
-        "Myanmar",
-        "Camboya",
-        "Vietnam",
-        "Laos"
+        "myanmar",
+        "camboya",
+        "vietnam",
+        "laos"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69159,10 +69050,10 @@
         "camboya"
       ],
       "wrong_answers": [
-        "Tailandia",
-        "Vietnam",
-        "Laos",
-        "Myanmar"
+        "tailandia",
+        "vietnam",
+        "laos",
+        "myanmar"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69177,10 +69068,10 @@
         "naypyidaw"
       ],
       "wrong_answers": [
-        "Rangún",
-        "Mandalay",
-        "Bago",
-        "Mawlamyine"
+        "rangún",
+        "mandalay",
+        "bago",
+        "mawlamyine"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69195,10 +69086,10 @@
         "phnom penh"
       ],
       "wrong_answers": [
-        "Siem Riep",
-        "Battambang",
-        "Sihanoukville",
-        "Angkor"
+        "siem riep",
+        "battambang",
+        "sihanoukville",
+        "angkor"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69212,10 +69103,10 @@
         "teherán"
       ],
       "wrong_answers": [
-        "Isfahán",
-        "Mashhad",
-        "Shiraz",
-        "Tabriz"
+        "isfahán",
+        "mashhad",
+        "shiraz",
+        "tabriz"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69229,10 +69120,10 @@
         "riad"
       ],
       "wrong_answers": [
-        "Yeda",
-        "La Meca",
-        "Medina",
-        "Dammam"
+        "yeda",
+        "la meca",
+        "medina",
+        "dammam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69246,10 +69137,10 @@
         "dubái"
       ],
       "wrong_answers": [
-        "Abu Dabi",
-        "Doha",
-        "Riad",
-        "Shanghái"
+        "abu dabi",
+        "doha",
+        "riad",
+        "shanghái"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69263,10 +69154,10 @@
         "bagdad"
       ],
       "wrong_answers": [
-        "Basora",
-        "Mosul",
-        "Erbil",
-        "Kirkuk"
+        "basora",
+        "mosul",
+        "erbil",
+        "kirkuk"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69280,10 +69171,10 @@
         "ankara"
       ],
       "wrong_answers": [
-        "Estambul",
-        "Esmirna",
-        "Bursa",
-        "Antalya"
+        "estambul",
+        "esmirna",
+        "bursa",
+        "antalya"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69298,10 +69189,10 @@
         "corea"
       ],
       "wrong_answers": [
-        "Japón",
-        "China",
-        "Tailandia",
-        "Vietnam"
+        "japón",
+        "china",
+        "tailandia",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69315,14 +69206,1420 @@
         "taskent"
       ],
       "wrong_answers": [
-        "Samarcanda",
-        "Bujará",
-        "Namangán",
-        "Andiyán"
+        "samarcanda",
+        "bujará",
+        "namangán",
+        "andiyán"
       ],
       "category": "asia",
       "difficulty": "normal",
       "points": 900,
+      "language": "es"
+    },
+    {
+      "id": "555df48bdac60b96c1ae6bef89897993",
+      "question": "¿Cuál es el continente más frío de la Tierra?",
+      "answers": [
+        "antártida"
+      ],
+      "wrong_answers": [
+        "áfrica",
+        "asia",
+        "europa",
+        "australia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "e0198e9ecd870db3270bc0e13953616d",
+      "question": "¿Cuál es el océano más frío de la Tierra?",
+      "answers": [
+        "océano ártico",
+        "ártico"
+      ],
+      "wrong_answers": [
+        "océano pacífico",
+        "océano atlántico",
+        "océano índico",
+        "océano antártico"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "fb668909f55fd99a7534beb77f8f5591",
+      "question": "¿Cuál es la estación más fría del año?",
+      "answers": [
+        "invierno"
+      ],
+      "wrong_answers": [
+        "verano",
+        "primavera",
+        "otoño",
+        "monzón"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "8ce5ef8b6d5bc6c5e0efaf48a785a6b7",
+      "question": "¿Cómo se llama el agua congelada que cae del cielo en copos blancos?",
+      "answers": [
+        "nieve"
+      ],
+      "wrong_answers": [
+        "lluvia",
+        "granizo",
+        "aguanieve",
+        "escarcha"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "9059e96758fc0991fa6b14cc2e8dc196",
+      "question": "¿Cómo se llama un gran bloque de hielo que flota en el océano?",
+      "answers": [
+        "iceberg"
+      ],
+      "wrong_answers": [
+        "glaciar",
+        "capa de hielo",
+        "copo de nieve",
+        "avalancha"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "8004e21720e7e004953b8ede329d3dd8",
+      "question": "¿Cómo se llama una masa de hielo que se mueve lentamente sobre la tierra?",
+      "answers": [
+        "glaciar"
+      ],
+      "wrong_answers": [
+        "iceberg",
+        "avalancha",
+        "ventisca",
+        "fiordo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "0b70927e475766becce4504f9bb4b1c0",
+      "question": "¿Cómo se llama una tormenta de nieve con fuertes vientos y poca visibilidad?",
+      "answers": [
+        "ventisca",
+        "tormenta de nieve"
+      ],
+      "wrong_answers": [
+        "huracán",
+        "tornado",
+        "monzón",
+        "llovizna"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "8d2549dbf2f64cab74adef6a562d0036",
+      "question": "¿Cuál es el estado más frío de Estados Unidos?",
+      "answers": [
+        "alaska"
+      ],
+      "wrong_answers": [
+        "texas",
+        "florida",
+        "hawái",
+        "arizona"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "4f431995e7d4dbe98e5459df423c75e6",
+      "question": "¿Cuál es la isla más grande del mundo, cubierta en su mayoría de hielo?",
+      "answers": [
+        "groenlandia"
+      ],
+      "wrong_answers": [
+        "islandia",
+        "madagascar",
+        "borneo",
+        "nueva guinea"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "78220bba05595403f1426b123c77d0e7",
+      "question": "¿Qué bioma helado y sin árboles se encuentra en el extremo norte?",
+      "answers": [
+        "tundra"
+      ],
+      "wrong_answers": [
+        "selva tropical",
+        "sabana",
+        "desierto",
+        "pradera"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "14ec6f3e213935d203d7ce02ffec7afa",
+      "question": "¿Cómo llamamos al suelo permanentemente congelado?",
+      "answers": [
+        "permafrost",
+        "permagel"
+      ],
+      "wrong_answers": [
+        "lecho rocoso",
+        "capa superior del suelo",
+        "arenas movedizas",
+        "arcilla"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "94e60e5f0d084f5a3bcf83068a459e47",
+      "question": "¿Qué polo se encuentra en la Antártida?",
+      "answers": [
+        "polo sur"
+      ],
+      "wrong_answers": [
+        "polo norte",
+        "polo magnético",
+        "ecuador",
+        "trópico de cáncer"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "6244834dba8fb31f8774409d49a96044",
+      "question": "¿Qué línea imaginaria marca el límite de la fría región polar del norte?",
+      "answers": [
+        "círculo polar ártico"
+      ],
+      "wrong_answers": [
+        "ecuador",
+        "meridiano de greenwich",
+        "trópico de capricornio",
+        "línea internacional de cambio de fecha"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "8fd34317092f60e940b8b3e69b0b14a8",
+      "question": "¿Cuál es la capital más fría del mundo?",
+      "answers": [
+        "ulán bator",
+        "ulaanbaatar"
+      ],
+      "wrong_answers": [
+        "moscú",
+        "helsinki",
+        "reikiavik",
+        "ottawa"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "c45730f97606987e977d25aa8b716bbc",
+      "question": "¿Ulán Bator es la capital de qué país?",
+      "answers": [
+        "mongolia"
+      ],
+      "wrong_answers": [
+        "rusia",
+        "kazajistán",
+        "china",
+        "nepal"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "1627f0b53d0abd8da788a02127497068",
+      "question": "¿Qué región nórdica dentro del Círculo Polar Ártico es famosa por la nieve y los renos?",
+      "answers": [
+        "laponia"
+      ],
+      "wrong_answers": [
+        "baviera",
+        "toscana",
+        "andalucía",
+        "provenza"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "814faccbffc98662b94a64e8249b9b33",
+      "question": "¿De qué está cubierta la Antártida en su mayor parte?",
+      "answers": [
+        "hielo",
+        "una capa de hielo"
+      ],
+      "wrong_answers": [
+        "arena",
+        "bosque",
+        "pradera",
+        "roca volcánica"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "bb1803bcbb77fac2013dcb54099445d1",
+      "question": "¿Qué gran oso blanco vive en el frío Ártico?",
+      "answers": [
+        "oso polar"
+      ],
+      "wrong_answers": [
+        "oso pardo",
+        "panda",
+        "oso bezudo",
+        "oso malayo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "8d343ed797f8beaabdf88270d66a6095",
+      "question": "¿Qué estación de investigación registró la temperatura natural más fría de la Tierra?",
+      "answers": [
+        "estación vostok",
+        "vostok"
+      ],
+      "wrong_answers": [
+        "estación mcmurdo",
+        "estación amundsen-scott",
+        "estación palmer",
+        "estación casey"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "d27577afee4974ed7eeb0cdfe9a53742",
+      "question": "¿Qué aldea rusa suele llamarse el lugar habitado permanentemente más frío de la Tierra?",
+      "answers": [
+        "oimiakón"
+      ],
+      "wrong_answers": [
+        "norilsk",
+        "yakutsk",
+        "magadán",
+        "irkutsk"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "43a2439445d81dbcf3ab90d8d6418f37",
+      "question": "¿En qué país se encuentran las frías localidades de Oimiakón y Verjoyansk?",
+      "answers": [
+        "rusia"
+      ],
+      "wrong_answers": [
+        "mongolia",
+        "canadá",
+        "kazajistán",
+        "finlandia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "e37ef5d763d136a0c2c5128b8684fcc2",
+      "question": "¿Qué gran lago de agua dulce en Siberia se congela cada invierno?",
+      "answers": [
+        "lago baikal",
+        "baikal"
+      ],
+      "wrong_answers": [
+        "lago victoria",
+        "mar caspio",
+        "lago titicaca",
+        "gran lago del oso"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "57f826527a773a179e36731e7abd4091",
+      "question": "¿Qué país opera la estación Vostok en la Antártida?",
+      "answers": [
+        "rusia"
+      ],
+      "wrong_answers": [
+        "estados unidos",
+        "noruega",
+        "australia",
+        "reino unido"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "dbdecb39f4105be0e61eec191ee2689d",
+      "question": "¿A qué país pertenece el frío territorio de Groenlandia?",
+      "answers": [
+        "dinamarca"
+      ],
+      "wrong_answers": [
+        "noruega",
+        "islandia",
+        "canadá",
+        "suecia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "3e1cf5989b73b4bc77e6ef14c7fa5032",
+      "question": "¿Qué territorio canadiense en el Ártico experimenta un frío extremo?",
+      "answers": [
+        "nunavut"
+      ],
+      "wrong_answers": [
+        "ontario",
+        "quebec",
+        "alberta",
+        "manitoba"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "148113c102774f52c6ced382ccfb12ee",
+      "question": "¿Cuál es el tipo de desierto más frío de la Tierra?",
+      "answers": [
+        "desierto polar",
+        "desierto antártico"
+      ],
+      "wrong_answers": [
+        "sahara",
+        "gobi",
+        "atacama",
+        "desierto arábigo"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "d51c6204dbb7240cbac13bef887c517d",
+      "question": "¿En qué continente se encuentra el Polo Sur?",
+      "answers": [
+        "antártida"
+      ],
+      "wrong_answers": [
+        "américa del sur",
+        "australia",
+        "áfrica",
+        "asia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "d8a05aeaa6e0f2d7107807f1c79c31c1",
+      "question": "¿Cuál fue aproximadamente la temperatura natural más fría jamás registrada en la Tierra, en Celsius?",
+      "answers": [
+        "-89",
+        "-89,2",
+        "menos 89"
+      ],
+      "wrong_answers": [
+        "-50",
+        "-70",
+        "-100",
+        "-120"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "1233ff68fd851083acccd64751956e8f",
+      "question": "¿Cuál es el cero absoluto, aproximadamente, en grados Celsius?",
+      "answers": [
+        "-273",
+        "-273,15",
+        "menos 273"
+      ],
+      "wrong_answers": [
+        "0",
+        "-100",
+        "-173",
+        "-373"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "6d2b15700adee24d10a82b9b7d612ea9",
+      "question": "¿Qué escala de temperatura comienza en el cero absoluto?",
+      "answers": [
+        "kelvin"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "fahrenheit",
+        "newton",
+        "réaumur"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "cec7f9440cebb4680655d889f5e1a562",
+      "question": "¿Qué ciudad de Minnesota, en EE. UU., es apodada la 'Nevera de la Nación'?",
+      "answers": [
+        "international falls"
+      ],
+      "wrong_answers": [
+        "duluth",
+        "mineápolis",
+        "fargo",
+        "bismarck"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "0c432a5481816b51a834a4393140c0e0",
+      "question": "¿Qué ciudad de Alaska es conocida por sus inviernos extremadamente fríos en el interior?",
+      "answers": [
+        "fairbanks"
+      ],
+      "wrong_answers": [
+        "anchorage",
+        "juneau",
+        "sitka",
+        "kodiak"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "1f500ffdb8f72db273991ae4b0081004",
+      "question": "¿Cómo se llama el agua congelada que cubre la superficie del océano Ártico?",
+      "answers": [
+        "hielo marino",
+        "banquisa"
+      ],
+      "wrong_answers": [
+        "icebergs",
+        "glaciares",
+        "permafrost",
+        "manto de nieve"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "79bdfc544453af5cded54a2abea241df",
+      "question": "¿Cómo se llama un deslizamiento repentino de nieve por la ladera de una montaña?",
+      "answers": [
+        "avalancha",
+        "alud"
+      ],
+      "wrong_answers": [
+        "deslizamiento de tierra",
+        "ventisca",
+        "desprendimiento de rocas",
+        "tsunami"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "c9a890b773647a3291e6aee9b30b60da",
+      "question": "¿Cómo se llama la región polar norte centrada en el Polo Norte?",
+      "answers": [
+        "el ártico",
+        "ártico"
+      ],
+      "wrong_answers": [
+        "antártico",
+        "tundra",
+        "siberia",
+        "escandinavia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "6757cbbc7552ec5dd566a386801eb783",
+      "question": "¿Cómo se llama el proceso por el cual el agua líquida se convierte en hielo sólido?",
+      "answers": [
+        "congelación",
+        "solidificación"
+      ],
+      "wrong_answers": [
+        "fusión",
+        "ebullición",
+        "condensación",
+        "evaporación"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "d757e13d5ff22cc35a224c04dde0a723",
+      "question": "¿Cómo se llama una grieta profunda en un glaciar?",
+      "answers": [
+        "grieta",
+        "grieta glaciar"
+      ],
+      "wrong_answers": [
+        "cañón",
+        "fiordo",
+        "garganta",
+        "barranco"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "2ca46db0ad32d079446b9620dc5d6df0",
+      "question": "¿Cómo se llama una estrecha entrada de mar formada por glaciares, común en Noruega?",
+      "answers": [
+        "fiordo"
+      ],
+      "wrong_answers": [
+        "bahía",
+        "laguna",
+        "estrecho",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "7392badb242e24555a43654eda82e9d4",
+      "question": "Siberia, una de las regiones habitadas más frías, forma parte de qué país?",
+      "answers": [
+        "rusia"
+      ],
+      "wrong_answers": [
+        "mongolia",
+        "china",
+        "kazajistán",
+        "canadá"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "2eb2405ed3d400d08842d23ee22ec650",
+      "question": "¿Qué ave blanca y negra no voladora vive en la fría Antártida?",
+      "answers": [
+        "pingüino"
+      ],
+      "wrong_answers": [
+        "oso polar",
+        "frailecillo",
+        "albatros",
+        "charrán ártico"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "¿Cuál es el continente más caluroso de la Tierra en promedio?",
+      "answers": [
+        "áfrica"
+      ],
+      "wrong_answers": [
+        "antártida",
+        "europa",
+        "américa del norte",
+        "australia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "¿Cuál es el punto de ebullición del agua en grados Fahrenheit?",
+      "answers": [
+        "212",
+        "212 grados"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "¿Cuál es la estación más calurosa del año?",
+      "answers": [
+        "verano"
+      ],
+      "wrong_answers": [
+        "invierno",
+        "primavera",
+        "otoño",
+        "monzón"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "¿Cómo llamamos a una región cálida y seca con muy pocas lluvias?",
+      "answers": [
+        "desierto",
+        "un desierto"
+      ],
+      "wrong_answers": [
+        "selva",
+        "pantano",
+        "tundra",
+        "pradera"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "¿Qué animal es famoso por sobrevivir en desiertos calurosos y almacenar grasa en sus jorobas?",
+      "answers": [
+        "camello"
+      ],
+      "wrong_answers": [
+        "caballo",
+        "burro",
+        "llama",
+        "elefante"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "¿Qué planta espinosa es muy conocida por sobrevivir en desiertos calurosos?",
+      "answers": [
+        "cactus",
+        "cacto"
+      ],
+      "wrong_answers": [
+        "helecho",
+        "palmera",
+        "roble",
+        "musgo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "¿Cómo se llama un lugar fértil en un desierto donde hay agua?",
+      "answers": [
+        "oasis",
+        "un oasis"
+      ],
+      "wrong_answers": [
+        "duna",
+        "espejismo",
+        "cañón",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "¿Cómo se llama la ilusión óptica de agua que se ve en una carretera desértica caliente?",
+      "answers": [
+        "espejismo"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "arcoíris",
+        "sombra",
+        "reflejo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "¿Cómo se llama la línea imaginaria alrededor del centro de la Tierra, donde hace más calor?",
+      "answers": [
+        "ecuador",
+        "el ecuador"
+      ],
+      "wrong_answers": [
+        "meridiano de greenwich",
+        "círculo polar ártico",
+        "trópico de cáncer",
+        "línea de cambio de fecha"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "¿Qué estrella proporciona calor y luz a la Tierra?",
+      "answers": [
+        "el sol",
+        "sol"
+      ],
+      "wrong_answers": [
+        "la luna",
+        "sirio",
+        "estrella polar",
+        "venus"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "¿Qué instrumento se usa para medir la temperatura?",
+      "answers": [
+        "termómetro",
+        "un termómetro"
+      ],
+      "wrong_answers": [
+        "barómetro",
+        "brújula",
+        "regla",
+        "balanza"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "¿Qué color de ropa ayuda a mantenerse más fresco bajo el sol caliente?",
+      "answers": [
+        "blanco"
+      ],
+      "wrong_answers": [
+        "negro",
+        "azul oscuro",
+        "marrón",
+        "gris oscuro"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "¿En qué país se encuentra la calurosa región del Valle de la Muerte?",
+      "answers": [
+        "estados unidos",
+        "ee. uu."
+      ],
+      "wrong_answers": [
+        "méxico",
+        "egipto",
+        "australia",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "¿Cómo se llama una colina de arena formada por el viento en un desierto?",
+      "answers": [
+        "duna",
+        "una duna"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "acantilado",
+        "valle",
+        "meseta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "¿Cómo se llama la cálida región de la Tierra entre los dos trópicos?",
+      "answers": [
+        "los trópicos",
+        "el trópico"
+      ],
+      "wrong_answers": [
+        "el ártico",
+        "los polos",
+        "zona templada",
+        "la tundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "¿Qué doloroso daño rojo en la piel causa el exceso de sol caliente?",
+      "answers": [
+        "quemadura solar",
+        "quemadura de sol"
+      ],
+      "wrong_answers": [
+        "congelación",
+        "sarpullido",
+        "ampolla",
+        "moretón"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "¿Dónde se midió la temperatura del aire más alta registrada de forma fiable en la Tierra?",
+      "answers": [
+        "valle de la muerte",
+        "furnace creek"
+      ],
+      "wrong_answers": [
+        "desierto del sahara",
+        "ciudad de kuwait",
+        "dallol",
+        "desierto de lut"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "El Valle de la Muerte, uno de los lugares más calurosos de la Tierra, ¿en qué estado de EE. UU. está?",
+      "answers": [
+        "california"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "texas",
+        "utah"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "¿Qué desierto iraní ha registrado algunas de las temperaturas de superficie más altas de la Tierra?",
+      "answers": [
+        "desierto de lut",
+        "dasht-e lut",
+        "lut"
+      ],
+      "wrong_answers": [
+        "desierto de gobi",
+        "desierto de thar",
+        "karakum",
+        "néguev"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dallol, uno de los lugares habitados más calurosos por media anual, ¿en qué país está?",
+      "answers": [
+        "etiopía"
+      ],
+      "wrong_answers": [
+        "sudán",
+        "libia",
+        "egipto",
+        "somalia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "¿En qué país se encuentra la ciudad sahariana de Tombuctú?",
+      "answers": [
+        "malí"
+      ],
+      "wrong_answers": [
+        "níger",
+        "chad",
+        "argelia",
+        "marruecos"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "¿Cómo llamamos a un período prolongado de clima excesivamente caluroso?",
+      "answers": [
+        "ola de calor"
+      ],
+      "wrong_answers": [
+        "ventisca",
+        "monzón",
+        "sequía",
+        "ola de frío"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "¿Qué país del Golfo registró una de las temperaturas más altas de Asia en Mitribah?",
+      "answers": [
+        "kuwait"
+      ],
+      "wrong_answers": [
+        "catar",
+        "baréin",
+        "omán",
+        "yemen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Venus es el planeta más caliente principalmente por qué efecto que atrapa el calor?",
+      "answers": [
+        "efecto invernadero",
+        "el efecto invernadero"
+      ],
+      "wrong_answers": [
+        "efecto coriolis",
+        "efecto doppler",
+        "efecto de marea",
+        "efecto magnético"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "¿Qué gas es la principal causa del efecto invernadero que calienta el planeta?",
+      "answers": [
+        "dióxido de carbono",
+        "co2"
+      ],
+      "wrong_answers": [
+        "oxígeno",
+        "nitrógeno",
+        "helio",
+        "hidrógeno"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "¿Cómo se llama el trópico del norte, que marca el borde de la zona cálida?",
+      "answers": [
+        "trópico de cáncer",
+        "el trópico de cáncer"
+      ],
+      "wrong_answers": [
+        "trópico de capricornio",
+        "ecuador",
+        "círculo polar ártico",
+        "meridiano de greenwich"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "¿Cómo se llama el trópico del sur que limita la zona cálida?",
+      "answers": [
+        "trópico de capricornio",
+        "el trópico de capricornio"
+      ],
+      "wrong_answers": [
+        "trópico de cáncer",
+        "ecuador",
+        "círculo polar antártico",
+        "línea de cambio de fecha"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "¿Cómo se llama una violenta tormenta de viento del desierto que arrastra enormes cantidades de arena?",
+      "answers": [
+        "tormenta de arena"
+      ],
+      "wrong_answers": [
+        "ventisca",
+        "monzón",
+        "huracán",
+        "granizada"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "¿Aproximadamente qué parte del norte de África cubre en superficie el desierto del Sahara?",
+      "answers": [
+        "la mayor parte",
+        "casi todo"
+      ],
+      "wrong_answers": [
+        "una décima parte",
+        "un cuarto",
+        "nada",
+        "medio por ciento"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Aziziya, que una vez tuvo un disputado récord mundial de calor, ¿en qué país está?",
+      "answers": [
+        "libia"
+      ],
+      "wrong_answers": [
+        "túnez",
+        "argelia",
+        "egipto",
+        "marruecos"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "¿Qué condición peligrosa resulta de que el cuerpo pierda demasiada agua con el calor?",
+      "answers": [
+        "deshidratación"
+      ],
+      "wrong_answers": [
+        "hipotermia",
+        "congelación",
+        "inflamación",
+        "conmoción cerebral"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "¿Qué desierto chileno es uno de los lugares más secos y calurosos de la Tierra?",
+      "answers": [
+        "atacama",
+        "desierto de atacama"
+      ],
+      "wrong_answers": [
+        "patagonia",
+        "sahara",
+        "mojave",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "¿Cuál es la respuesta natural de enfriamiento que produce el cuerpo cuando tiene demasiado calor?",
+      "answers": [
+        "sudar",
+        "sudor",
+        "transpiración"
+      ],
+      "wrong_answers": [
+        "temblar",
+        "sonrojarse",
+        "bostezar",
+        "estornudar"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "¿Qué escala de temperatura, común en Estados Unidos, fija el punto de ebullición del agua en 212 grados?",
+      "answers": [
+        "fahrenheit"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "kelvin",
+        "réaumur",
+        "rankine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "¿Cómo se llama comúnmente el calentamiento a largo plazo del clima de la Tierra?",
+      "answers": [
+        "calentamiento global"
+      ],
+      "wrong_answers": [
+        "enfriamiento global",
+        "edad de hielo",
+        "el niño",
+        "agujero de ozono"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "¿Cómo se llaman los bosques cálidos y húmedos cerca del ecuador con fuertes lluvias?",
+      "answers": [
+        "selvas tropicales",
+        "selvas",
+        "selva tropical"
+      ],
+      "wrong_answers": [
+        "desiertos",
+        "praderas",
+        "tundras",
+        "humedales"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "¿Cómo se llama la cálida pradera sin árboles de África donde viven leones y cebras?",
+      "answers": [
+        "sabana",
+        "la sabana"
+      ],
+      "wrong_answers": [
+        "tundra",
+        "taiga",
+        "pradera",
+        "estepa"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "¿Qué valle fluvial africano experimenta un calor desértico intenso al atravesar Egipto?",
+      "answers": [
+        "nilo",
+        "el nilo",
+        "valle del nilo"
+      ],
+      "wrong_answers": [
+        "amazonas",
+        "congo",
+        "danubio",
+        "mekong"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "¿Qué país africano está casi totalmente cubierto por el caluroso desierto del Sahara?",
+      "answers": [
+        "libia",
+        "argelia"
+      ],
+      "wrong_answers": [
+        "kenia",
+        "ghana",
+        "uganda",
+        "senegal"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "¿Cómo se llama una enfermedad grave causada por el sobrecalentamiento del cuerpo con calor extremo?",
+      "answers": [
+        "golpe de calor",
+        "insolación"
+      ],
+      "wrong_answers": [
+        "hipotermia",
+        "quemadura solar",
+        "congelación",
+        "migraña"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
       "language": "es"
     }
   ]

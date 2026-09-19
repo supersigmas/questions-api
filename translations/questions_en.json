@@ -10,11 +10,11 @@
         "pacific"
       ],
       "wrong_answers": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Southern Ocean",
-        "Mediterranean Sea"
+        "atlantic ocean",
+        "indian ocean",
+        "arctic ocean",
+        "southern ocean",
+        "mediterranean sea"
       ],
       "category": "geography",
       "difficulty": "normal",
@@ -30,11 +30,11 @@
         "a. einstein"
       ],
       "wrong_answers": [
-        "Isaac Newton",
-        "Galileo Galilei",
-        "Stephen Hawking",
-        "Nikola Tesla",
-        "Marie Curie"
+        "isaac newton",
+        "galileo galilei",
+        "stephen hawking",
+        "nikola tesla",
+        "marie curie"
       ],
       "category": "science",
       "difficulty": "normal",
@@ -49,11 +49,11 @@
         "italian republic"
       ],
       "wrong_answers": [
-        "France",
-        "Greece",
-        "United States",
-        "Spain",
-        "Germany"
+        "france",
+        "greece",
+        "united states",
+        "spain",
+        "germany"
       ],
       "category": "food",
       "difficulty": "normal",
@@ -68,11 +68,11 @@
         "the planet mercury"
       ],
       "wrong_answers": [
-        "Mars",
-        "Venus",
-        "Pluto",
-        "Earth",
-        "Neptune"
+        "mars",
+        "venus",
+        "pluto",
+        "earth",
+        "neptune"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -87,11 +87,11 @@
         "dihydrogen monoxide"
       ],
       "wrong_answers": [
-        "CO2",
-        "O2",
-        "NaCl",
-        "H2SO4",
-        "CH4"
+        "co2",
+        "o2",
+        "nacl",
+        "h2so4",
+        "ch4"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -106,11 +106,11 @@
         "republic of china"
       ],
       "wrong_answers": [
-        "United States",
-        "India",
-        "Russia",
-        "Brazil",
-        "Germany"
+        "united states",
+        "india",
+        "russia",
+        "brazil",
+        "germany"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -125,11 +125,11 @@
         "tink"
       ],
       "wrong_answers": [
-        "Wendy",
-        "Pixie",
-        "Fairy Dust",
-        "Silvermist",
-        "Rosetta"
+        "wendy",
+        "pixie",
+        "fairy dust",
+        "silvermist",
+        "rosetta"
       ],
       "category": "literature",
       "difficulty": "normal",
@@ -145,11 +145,11 @@
         "nile"
       ],
       "wrong_answers": [
-        "Amazon River",
-        "Yangtze River",
-        "Mississippi River",
-        "Danube River",
-        "Congo River"
+        "amazon river",
+        "yangtze river",
+        "mississippi river",
+        "danube river",
+        "congo river"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -164,11 +164,11 @@
         "o2"
       ],
       "wrong_answers": [
-        "Carbon",
-        "Hydrogen",
-        "Nitrogen",
-        "Helium",
-        "Argon"
+        "carbon",
+        "hydrogen",
+        "nitrogen",
+        "helium",
+        "argon"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -183,11 +183,11 @@
         "tokyo city"
       ],
       "wrong_answers": [
-        "Seoul",
-        "Beijing",
-        "Bangkok",
-        "Shanghai",
-        "Kyoto"
+        "seoul",
+        "beijing",
+        "bangkok",
+        "shanghai",
+        "kyoto"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -203,11 +203,11 @@
         "tolkien"
       ],
       "wrong_answers": [
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "J.K. Rowling",
-        "Mark Twain",
-        "H.P. Lovecraft"
+        "c.s. lewis",
+        "george r.r. martin",
+        "j.k. rowling",
+        "mark twain",
+        "h.p. lovecraft"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -241,11 +241,11 @@
         "the heart"
       ],
       "wrong_answers": [
-        "Liver",
-        "Brain",
-        "Lungs",
-        "Kidneys",
-        "Stomach"
+        "liver",
+        "brain",
+        "lungs",
+        "kidneys",
+        "stomach"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -260,11 +260,11 @@
         "hg"
       ],
       "wrong_answers": [
-        "Iron",
-        "Gold",
-        "Silver",
-        "Copper",
-        "Aluminum"
+        "iron",
+        "gold",
+        "silver",
+        "copper",
+        "aluminum"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -279,11 +279,11 @@
         "processor"
       ],
       "wrong_answers": [
-        "Computer Power Unit",
-        "Central Program Utility",
-        "Control Processing Unit",
-        "Core Processing Utility",
-        "Centralized Processing Unit"
+        "computer power unit",
+        "central program utility",
+        "control processing unit",
+        "core processing utility",
+        "centralized processing unit"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -298,11 +298,11 @@
         "natural diamond"
       ],
       "wrong_answers": [
-        "Gold",
-        "Steel",
-        "Quartz",
-        "Iron",
-        "Graphite"
+        "gold",
+        "steel",
+        "quartz",
+        "iron",
+        "graphite"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -317,11 +317,11 @@
         "n2"
       ],
       "wrong_answers": [
-        "Oxygen",
-        "Carbon Dioxide",
-        "Hydrogen",
-        "Helium",
-        "Argon"
+        "oxygen",
+        "carbon dioxide",
+        "hydrogen",
+        "helium",
+        "argon"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -337,11 +337,11 @@
         "s. spielberg"
       ],
       "wrong_answers": [
-        "James Cameron",
-        "George Lucas",
-        "Christopher Nolan",
-        "Quentin Tarantino",
-        "Tim Burton"
+        "james cameron",
+        "george lucas",
+        "christopher nolan",
+        "quentin tarantino",
+        "tim burton"
       ],
       "category": "movies",
       "difficulty": "normal",
@@ -358,11 +358,11 @@
         "mars planet"
       ],
       "wrong_answers": [
-        "Venus",
-        "Jupiter",
-        "Saturn",
-        "Mercury",
-        "Neptune"
+        "venus",
+        "jupiter",
+        "saturn",
+        "mercury",
+        "neptune"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -378,11 +378,11 @@
         "w. shakespeare"
       ],
       "wrong_answers": [
-        "Charles Dickens",
-        "Jane Austen",
-        "Mark Twain",
-        "Leo Tolstoy",
-        "George Orwell"
+        "charles dickens",
+        "jane austen",
+        "mark twain",
+        "leo tolstoy",
+        "george orwell"
       ],
       "category": "literature",
       "difficulty": "easy",
@@ -397,10 +397,10 @@
       ],
       "wrong_answers": [
         "ag",
-        "Fe",
-        "Pb",
-        "Cu",
-        "Pt"
+        "fe",
+        "pb",
+        "cu",
+        "pt"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -858,7 +858,7 @@
         "ada lovelace",
         "dorothy hodgkin",
         "barbara mcclintock",
-        "irÃ¨ne joliot-curie"
+        "irã¨ne joliot-curie"
       ],
       "category": "history",
       "difficulty": "normal",
@@ -1997,10 +1997,10 @@
       ],
       "wrong_answers": [
         "rio de janeiro",
-        "sÃ£o paulo",
+        "sã£o paulo",
         "buenos aires",
         "lima",
-        "bogotÃ¡"
+        "bogotã¡"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -2945,7 +2945,7 @@
       "answers": [
         "calcium carbonate",
         "aragonite",
-        "CCaO3"
+        "ccao3"
       ],
       "wrong_answers": [
         "silicon dioxide",
@@ -3193,7 +3193,7 @@
         "leif erikson",
         "amerigo vespucci",
         "james cook",
-        "hernÃ¡n cortÃ©s"
+        "hernã¡n cortã©s"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -5315,7 +5315,7 @@
         "world war ii",
         "ww2",
         "second world war",
-        "WWii"
+        "wwii"
       ],
       "wrong_answers": [
         "world war i",
@@ -7673,24 +7673,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "Which country built the great wall?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "china"
-      ],
-      "wrong_answers": [
-        "japan",
-        "india",
-        "mongolia",
-        "russia",
-        "vietnam"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "What was the name of the ship that sank in 1912?",
       "points": 900,
       "language": "en",
@@ -8061,7 +8043,7 @@
       ],
       "wrong_answers": [
         "jane austen",
-        "charlotte brontÃ«",
+        "charlotte brontã«",
         "emily dickinson",
         "mary shelley",
         "virginia woolf"
@@ -11710,24 +11692,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "Which country gifted the Statue of Liberty to the United States?",
-      "points": 750,
-      "language": "en",
-      "answers": [
-        "france"
-      ],
-      "wrong_answers": [
-        "england",
-        "italy",
-        "spain",
-        "germany",
-        "canada"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "In medieval times, what were armored warriors on horseback called?",
       "points": 650,
       "language": "en",
@@ -13459,25 +13423,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "How many days are in a week?",
-      "points": 700,
-      "language": "en",
-      "answers": [
-        "7",
-        "seven"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "How many months are in a year?",
       "points": 700,
       "language": "en",
@@ -13495,25 +13440,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "How many hours are in a day?",
-      "points": 700,
-      "language": "en",
-      "answers": [
-        "24",
-        "twenty four"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "What shape has no corners?",
@@ -15239,24 +15165,6 @@
       "id": "5cc437d0643922261e1a51582e36f6c9"
     },
     {
-      "question": "Which natural disaster is measured using the Richter scale?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "earthquakes",
-        "earthquake"
-      ],
-      "wrong_answers": [
-        "tornadoes",
-        "hurricanes",
-        "tsunamis",
-        "volcanic eruptions"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
-    },
-    {
       "question": "Where does photosynthesis mainly occur within plant cells?",
       "points": 900,
       "language": "en",
@@ -15773,13 +15681,13 @@
     {
       "question": "Which country features a maple leaf on its flag?",
       "answers": [
-        "Canada",
+        "canada",
         "canada"
       ],
       "wrong_answers": [
-        "Mexico",
-        "Brazil",
-        "India"
+        "mexico",
+        "brazil",
+        "india"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -15806,13 +15714,13 @@
     {
       "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
       "answers": [
-        "Microsoft",
+        "microsoft",
         "microsoft"
       ],
       "wrong_answers": [
-        "Apple",
-        "Google",
-        "Yahoo"
+        "apple",
+        "google",
+        "yahoo"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -15826,9 +15734,9 @@
         "air"
       ],
       "wrong_answers": [
-        "The Schwartz",
-        "Princess Lonestar",
-        "Meatballs"
+        "the schwartz",
+        "princess lonestar",
+        "meatballs"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15839,13 +15747,13 @@
     {
       "question": "Which of these characters in \"Stranger Things\" has the power of Telekinesis?",
       "answers": [
-        "Eleven",
+        "eleven",
         "eleven"
       ],
       "wrong_answers": [
-        "Mike",
-        "Lucas",
-        "Karen"
+        "mike",
+        "lucas",
+        "karen"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15856,13 +15764,13 @@
     {
       "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
       "answers": [
-        "Seinfeld",
+        "seinfeld",
         "seinfeld"
       ],
       "wrong_answers": [
-        "Frasier",
-        "Becker",
-        "Friends"
+        "frasier",
+        "becker",
+        "friends"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15873,13 +15781,13 @@
     {
       "question": "British actor David Morrissey stars as which role in \"The Walking Dead\"?",
       "answers": [
-        "The Governor",
+        "the governor",
         "governor"
       ],
       "wrong_answers": [
-        "Negan",
-        "Rick Grimes",
-        "Daryl Dixon"
+        "negan",
+        "rick grimes",
+        "daryl dixon"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -15944,9 +15852,9 @@
         "pirelli"
       ],
       "wrong_answers": [
-        "Goodyear",
-        "Bridgestone",
-        "Michelin"
+        "goodyear",
+        "bridgestone",
+        "michelin"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -15957,13 +15865,13 @@
     {
       "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
       "answers": [
-        "New Zealand",
+        "new zealand",
         "new zealand"
       ],
       "wrong_answers": [
-        "South Africa",
-        "Australia",
-        "Madagascar"
+        "south africa",
+        "australia",
+        "madagascar"
       ],
       "category": "nature",
       "difficulty": "easy",
@@ -15990,13 +15898,13 @@
     {
       "question": "What is the boss round featured in the \"Call Of Duty: Zombies\" map \"Five\"?",
       "answers": [
-        "The Pentagon Thief",
+        "the pentagon thief",
         "pentagon thief"
       ],
       "wrong_answers": [
-        "Hellhounds",
-        "Jumping Jacks",
-        "Napalm Zombie"
+        "hellhounds",
+        "jumping jacks",
+        "napalm zombie"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -16007,13 +15915,13 @@
     {
       "question": "What is the name of the company in Lethal Company?",
       "answers": [
-        "The Company",
+        "the company",
         "company"
       ],
       "wrong_answers": [
-        "Planet Scrap Co.",
-        "Lethal Robotics",
-        "Gordian Shipping Co."
+        "planet scrap co.",
+        "lethal robotics",
+        "gordian shipping co."
       ],
       "category": "general",
       "difficulty": "easy",
@@ -16027,9 +15935,9 @@
         "bow"
       ],
       "wrong_answers": [
-        "Stern",
-        "Port",
-        "Starboard"
+        "stern",
+        "port",
+        "starboard"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -16040,13 +15948,13 @@
     {
       "question": "Who invented the first ever chocolate bar, in 1847?",
       "answers": [
-        "Joseph Fry",
+        "joseph fry",
         "joseph fry"
       ],
       "wrong_answers": [
-        "Andrew Johnson",
-        "John Cadbury",
-        "John Tyler"
+        "andrew johnson",
+        "john cadbury",
+        "john tyler"
       ],
       "category": "general",
       "difficulty": "easy",
@@ -16091,13 +15999,13 @@
     {
       "question": "In golf, what name is given to a hole score of two under par?",
       "answers": [
-        "Eagle",
+        "eagle",
         "eagle"
       ],
       "wrong_answers": [
-        "Birdie",
-        "Bogey",
-        "Albatross"
+        "birdie",
+        "bogey",
+        "albatross"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -27660,7 +27568,7 @@
       "answers": [
         "ohm",
         "ohms",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -43266,7 +43174,7 @@
       "question": "What symbol is used for displacement in science?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta"
       ],
       "wrong_answers": [
@@ -46267,24 +46175,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "What is the capital city of Spain?",
-      "answers": [
-        "madrid",
-        "madrid spain",
-        "madrid city"
-      ],
-      "wrong_answers": [
-        "madrid",
-        "alicante",
-        "lisbon"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "en",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "Who is known for the idea of Socialism?",
       "answers": [
         "karl marx",
@@ -48206,7 +48096,7 @@
       "question": "What letter is used to show displacement in physics?",
       "answers": [
         "delta",
-        "Δ",
+        "δ",
         "delta symbol"
       ],
       "wrong_answers": [
@@ -50517,7 +50407,7 @@
       "question": "What is the symbol for displacement in physics?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "deltar"
       ],
       "wrong_answers": [
@@ -50916,7 +50806,7 @@
       "answers": [
         "ohm",
         "ohms",
-        "Ω"
+        "ω"
       ],
       "wrong_answers": [
         "mho",
@@ -52345,12 +52235,12 @@
       "answers": [
         "no",
         "no, it wasn't",
-        "Spain wasn't"
+        "spain wasn't"
       ],
       "wrong_answers": [
         "yes",
         "yes, it was",
-        "Spain was"
+        "spain was"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -61143,7 +61033,7 @@
       "question": "What symbol is used for displacement in math?",
       "answers": [
         "delta r",
-        "Δr",
+        "δr",
         "delta-r"
       ],
       "wrong_answers": [
@@ -65321,9 +65211,9 @@
         "belt of asteroids"
       ],
       "wrong_answers": [
-        "Jupiter and Saturn",
-        "Mercury and Venus",
-        "Earth and Mars"
+        "jupiter and saturn",
+        "mercury and venus",
+        "earth and mars"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -69624,10 +69514,10 @@
         "beijing"
       ],
       "wrong_answers": [
-        "Shanghai",
-        "Guangzhou",
-        "Shenzhen",
-        "Hong Kong"
+        "shanghai",
+        "guangzhou",
+        "shenzhen",
+        "hong kong"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69641,10 +69531,10 @@
         "bangkok"
       ],
       "wrong_answers": [
-        "Chiang Mai",
-        "Phuket",
-        "Pattaya",
-        "Ayutthaya"
+        "chiang mai",
+        "phuket",
+        "pattaya",
+        "ayutthaya"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69658,10 +69548,10 @@
         "japan"
       ],
       "wrong_answers": [
-        "China",
-        "South Korea",
-        "Thailand",
-        "Vietnam"
+        "china",
+        "south korea",
+        "thailand",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69675,10 +69565,10 @@
         "china"
       ],
       "wrong_answers": [
-        "Mongolia",
-        "Japan",
-        "India",
-        "Nepal"
+        "mongolia",
+        "japan",
+        "india",
+        "nepal"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69692,10 +69582,10 @@
         "hanoi"
       ],
       "wrong_answers": [
-        "Ho Chi Minh City",
-        "Da Nang",
-        "Hue",
-        "Hai Phong"
+        "ho chi minh city",
+        "da nang",
+        "hue",
+        "hai phong"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69710,10 +69600,10 @@
         "yangtze river"
       ],
       "wrong_answers": [
-        "Yellow River",
-        "Mekong",
-        "Ganges",
-        "Indus"
+        "yellow river",
+        "mekong",
+        "ganges",
+        "indus"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69727,10 +69617,10 @@
         "japan"
       ],
       "wrong_answers": [
-        "China",
-        "South Korea",
-        "Nepal",
-        "Indonesia"
+        "china",
+        "south korea",
+        "nepal",
+        "indonesia"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69744,10 +69634,10 @@
         "manila"
       ],
       "wrong_answers": [
-        "Cebu",
-        "Davao",
-        "Quezon City",
-        "Makati"
+        "cebu",
+        "davao",
+        "quezon city",
+        "makati"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69761,10 +69651,10 @@
         "japan"
       ],
       "wrong_answers": [
-        "China",
-        "Thailand",
-        "South Korea",
-        "Vietnam"
+        "china",
+        "thailand",
+        "south korea",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69778,10 +69668,10 @@
         "kuala lumpur"
       ],
       "wrong_answers": [
-        "George Town",
-        "Johor Bahru",
-        "Putrajaya",
-        "Ipoh"
+        "george town",
+        "johor bahru",
+        "putrajaya",
+        "ipoh"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69795,10 +69685,10 @@
         "islamabad"
       ],
       "wrong_answers": [
-        "Karachi",
-        "Lahore",
-        "Rawalpindi",
-        "Faisalabad"
+        "karachi",
+        "lahore",
+        "rawalpindi",
+        "faisalabad"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69812,10 +69702,10 @@
         "china"
       ],
       "wrong_answers": [
-        "Japan",
-        "India",
-        "Nepal",
-        "Thailand"
+        "japan",
+        "india",
+        "nepal",
+        "thailand"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69829,10 +69719,10 @@
         "kathmandu"
       ],
       "wrong_answers": [
-        "Pokhara",
-        "Lalitpur",
-        "Biratnagar",
-        "Bharatpur"
+        "pokhara",
+        "lalitpur",
+        "biratnagar",
+        "bharatpur"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69846,10 +69736,10 @@
         "asia"
       ],
       "wrong_answers": [
-        "Africa",
-        "Europe",
-        "South America",
-        "Oceania"
+        "africa",
+        "europe",
+        "south america",
+        "oceania"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -69863,10 +69753,10 @@
         "astana"
       ],
       "wrong_answers": [
-        "Almaty",
-        "Shymkent",
-        "Karaganda",
-        "Nur-Sultan"
+        "almaty",
+        "shymkent",
+        "karaganda",
+        "nur-sultan"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69880,10 +69770,10 @@
         "indonesia"
       ],
       "wrong_answers": [
-        "Philippines",
-        "Japan",
-        "Malaysia",
-        "Maldives"
+        "philippines",
+        "japan",
+        "malaysia",
+        "maldives"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69898,10 +69788,10 @@
         "the maldives"
       ],
       "wrong_answers": [
-        "Singapore",
-        "Bahrain",
-        "Brunei",
-        "Bhutan"
+        "singapore",
+        "bahrain",
+        "brunei",
+        "bhutan"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69916,10 +69806,10 @@
         "east sea"
       ],
       "wrong_answers": [
-        "Yellow Sea",
-        "East China Sea",
-        "South China Sea",
-        "Philippine Sea"
+        "yellow sea",
+        "east china sea",
+        "south china sea",
+        "philippine sea"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69934,10 +69824,10 @@
         "ulan bator"
       ],
       "wrong_answers": [
-        "Erdenet",
-        "Darkhan",
-        "Choibalsan",
-        "Astana"
+        "erdenet",
+        "darkhan",
+        "choibalsan",
+        "astana"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69951,10 +69841,10 @@
         "thailand"
       ],
       "wrong_answers": [
-        "Myanmar",
-        "Cambodia",
-        "Vietnam",
-        "Laos"
+        "myanmar",
+        "cambodia",
+        "vietnam",
+        "laos"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69968,10 +69858,10 @@
         "cambodia"
       ],
       "wrong_answers": [
-        "Thailand",
-        "Vietnam",
-        "Laos",
-        "Myanmar"
+        "thailand",
+        "vietnam",
+        "laos",
+        "myanmar"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -69985,10 +69875,10 @@
         "naypyidaw"
       ],
       "wrong_answers": [
-        "Yangon",
-        "Mandalay",
-        "Bago",
-        "Mawlamyine"
+        "yangon",
+        "mandalay",
+        "bago",
+        "mawlamyine"
       ],
       "category": "asia",
       "difficulty": "normal",
@@ -70002,10 +69892,10 @@
         "phnom penh"
       ],
       "wrong_answers": [
-        "Siem Reap",
-        "Battambang",
-        "Sihanoukville",
-        "Angkor"
+        "siem reap",
+        "battambang",
+        "sihanoukville",
+        "angkor"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70019,10 +69909,10 @@
         "tehran"
       ],
       "wrong_answers": [
-        "Isfahan",
-        "Mashhad",
-        "Shiraz",
-        "Tabriz"
+        "isfahan",
+        "mashhad",
+        "shiraz",
+        "tabriz"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70036,10 +69926,10 @@
         "riyadh"
       ],
       "wrong_answers": [
-        "Jeddah",
-        "Mecca",
-        "Medina",
-        "Dammam"
+        "jeddah",
+        "mecca",
+        "medina",
+        "dammam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70053,10 +69943,10 @@
         "dubai"
       ],
       "wrong_answers": [
-        "Abu Dhabi",
-        "Doha",
-        "Riyadh",
-        "Shanghai"
+        "abu dhabi",
+        "doha",
+        "riyadh",
+        "shanghai"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70070,10 +69960,10 @@
         "baghdad"
       ],
       "wrong_answers": [
-        "Basra",
-        "Mosul",
-        "Erbil",
-        "Kirkuk"
+        "basra",
+        "mosul",
+        "erbil",
+        "kirkuk"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70087,10 +69977,10 @@
         "ankara"
       ],
       "wrong_answers": [
-        "Istanbul",
-        "Izmir",
-        "Bursa",
-        "Antalya"
+        "istanbul",
+        "izmir",
+        "bursa",
+        "antalya"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70105,10 +69995,10 @@
         "korea"
       ],
       "wrong_answers": [
-        "Japan",
-        "China",
-        "Thailand",
-        "Vietnam"
+        "japan",
+        "china",
+        "thailand",
+        "vietnam"
       ],
       "category": "asia",
       "difficulty": "easy",
@@ -70122,14 +70012,1433 @@
         "tashkent"
       ],
       "wrong_answers": [
-        "Samarkand",
-        "Bukhara",
-        "Namangan",
-        "Andijan"
+        "samarkand",
+        "bukhara",
+        "namangan",
+        "andijan"
       ],
       "category": "asia",
       "difficulty": "normal",
       "points": 900,
+      "language": "en"
+    },
+    {
+      "id": "555df48bdac60b96c1ae6bef89897993",
+      "question": "What is the coldest continent on Earth?",
+      "answers": [
+        "antarctica"
+      ],
+      "wrong_answers": [
+        "africa",
+        "asia",
+        "europe",
+        "australia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "e0198e9ecd870db3270bc0e13953616d",
+      "question": "What is the coldest ocean on Earth?",
+      "answers": [
+        "arctic ocean",
+        "the arctic"
+      ],
+      "wrong_answers": [
+        "pacific ocean",
+        "atlantic ocean",
+        "indian ocean",
+        "southern ocean"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "fb668909f55fd99a7534beb77f8f5591",
+      "question": "What is the coldest season of the year?",
+      "answers": [
+        "winter"
+      ],
+      "wrong_answers": [
+        "summer",
+        "spring",
+        "autumn",
+        "monsoon"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "8ce5ef8b6d5bc6c5e0efaf48a785a6b7",
+      "question": "What is frozen water that falls from the sky in white flakes called?",
+      "answers": [
+        "snow"
+      ],
+      "wrong_answers": [
+        "rain",
+        "hail",
+        "sleet",
+        "frost"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "9059e96758fc0991fa6b14cc2e8dc196",
+      "question": "What is a large floating chunk of ice in the ocean called?",
+      "answers": [
+        "iceberg",
+        "an iceberg"
+      ],
+      "wrong_answers": [
+        "glacier",
+        "ice sheet",
+        "snowflake",
+        "avalanche"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "8004e21720e7e004953b8ede329d3dd8",
+      "question": "What is a slowly moving mass of ice on land called?",
+      "answers": [
+        "glacier",
+        "a glacier"
+      ],
+      "wrong_answers": [
+        "iceberg",
+        "avalanche",
+        "blizzard",
+        "fjord"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "0b70927e475766becce4504f9bb4b1c0",
+      "question": "What is a snowstorm with strong winds and poor visibility called?",
+      "answers": [
+        "blizzard",
+        "a blizzard"
+      ],
+      "wrong_answers": [
+        "hurricane",
+        "tornado",
+        "monsoon",
+        "drizzle"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "8d2549dbf2f64cab74adef6a562d0036",
+      "question": "Which US state is the coldest?",
+      "answers": [
+        "alaska"
+      ],
+      "wrong_answers": [
+        "texas",
+        "florida",
+        "hawaii",
+        "arizona"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "4f431995e7d4dbe98e5459df423c75e6",
+      "question": "What is the largest island in the world, mostly covered in ice?",
+      "answers": [
+        "greenland"
+      ],
+      "wrong_answers": [
+        "iceland",
+        "madagascar",
+        "borneo",
+        "new guinea"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "78220bba05595403f1426b123c77d0e7",
+      "question": "Which frozen, treeless biome is found in the far north?",
+      "answers": [
+        "tundra",
+        "the tundra"
+      ],
+      "wrong_answers": [
+        "rainforest",
+        "savanna",
+        "desert",
+        "prairie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "14ec6f3e213935d203d7ce02ffec7afa",
+      "question": "What do we call permanently frozen ground?",
+      "answers": [
+        "permafrost"
+      ],
+      "wrong_answers": [
+        "bedrock",
+        "topsoil",
+        "quicksand",
+        "clay"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "94e60e5f0d084f5a3bcf83068a459e47",
+      "question": "Which pole is located in Antarctica?",
+      "answers": [
+        "south pole",
+        "the south pole"
+      ],
+      "wrong_answers": [
+        "north pole",
+        "magnetic pole",
+        "equator",
+        "tropic of cancer"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "6244834dba8fb31f8774409d49a96044",
+      "question": "What imaginary line marks the boundary of the cold northern polar region?",
+      "answers": [
+        "arctic circle",
+        "the arctic circle"
+      ],
+      "wrong_answers": [
+        "equator",
+        "prime meridian",
+        "tropic of capricorn",
+        "international date line"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "8fd34317092f60e940b8b3e69b0b14a8",
+      "question": "What is the coldest capital city in the world?",
+      "answers": [
+        "ulaanbaatar",
+        "ulan bator"
+      ],
+      "wrong_answers": [
+        "moscow",
+        "helsinki",
+        "reykjavik",
+        "ottawa"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c45730f97606987e977d25aa8b716bbc",
+      "question": "Ulaanbaatar is the capital of which country?",
+      "answers": [
+        "mongolia"
+      ],
+      "wrong_answers": [
+        "russia",
+        "kazakhstan",
+        "china",
+        "nepal"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "1627f0b53d0abd8da788a02127497068",
+      "question": "Which Nordic region inside the Arctic Circle is famous for snow and reindeer?",
+      "answers": [
+        "lapland"
+      ],
+      "wrong_answers": [
+        "bavaria",
+        "tuscany",
+        "andalusia",
+        "provence"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "814faccbffc98662b94a64e8249b9b33",
+      "question": "Antarctica is mostly covered by what?",
+      "answers": [
+        "ice",
+        "an ice sheet",
+        "ice sheet"
+      ],
+      "wrong_answers": [
+        "sand",
+        "forest",
+        "grassland",
+        "volcanic rock"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "bb1803bcbb77fac2013dcb54099445d1",
+      "question": "Which large white bear lives in the cold Arctic?",
+      "answers": [
+        "polar bear"
+      ],
+      "wrong_answers": [
+        "grizzly bear",
+        "panda",
+        "sloth bear",
+        "sun bear"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "8d343ed797f8beaabdf88270d66a6095",
+      "question": "Which research station recorded the coldest natural temperature on Earth?",
+      "answers": [
+        "vostok station",
+        "vostok"
+      ],
+      "wrong_answers": [
+        "mcmurdo station",
+        "amundsen-scott station",
+        "palmer station",
+        "casey station"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "d27577afee4974ed7eeb0cdfe9a53742",
+      "question": "Which Russian village is often called the coldest permanently inhabited place on Earth?",
+      "answers": [
+        "oymyakon"
+      ],
+      "wrong_answers": [
+        "norilsk",
+        "yakutsk",
+        "magadan",
+        "irkutsk"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "43a2439445d81dbcf3ab90d8d6418f37",
+      "question": "In which country are the cold towns of Oymyakon and Verkhoyansk located?",
+      "answers": [
+        "russia"
+      ],
+      "wrong_answers": [
+        "mongolia",
+        "canada",
+        "kazakhstan",
+        "finland"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "e37ef5d763d136a0c2c5128b8684fcc2",
+      "question": "Which large freshwater lake in Siberia freezes over every winter?",
+      "answers": [
+        "lake baikal",
+        "baikal"
+      ],
+      "wrong_answers": [
+        "lake victoria",
+        "caspian sea",
+        "lake titicaca",
+        "great bear lake"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "57f826527a773a179e36731e7abd4091",
+      "question": "Vostok Station in Antarctica is operated by which country?",
+      "answers": [
+        "russia"
+      ],
+      "wrong_answers": [
+        "united states",
+        "norway",
+        "australia",
+        "united kingdom"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "dbdecb39f4105be0e61eec191ee2689d",
+      "question": "Which country does the cold territory of Greenland belong to?",
+      "answers": [
+        "denmark"
+      ],
+      "wrong_answers": [
+        "norway",
+        "iceland",
+        "canada",
+        "sweden"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "3e1cf5989b73b4bc77e6ef14c7fa5032",
+      "question": "Which Canadian territory in the Arctic experiences extreme cold?",
+      "answers": [
+        "nunavut"
+      ],
+      "wrong_answers": [
+        "ontario",
+        "quebec",
+        "alberta",
+        "manitoba"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "148113c102774f52c6ced382ccfb12ee",
+      "question": "What is the coldest type of desert on Earth?",
+      "answers": [
+        "polar desert",
+        "antarctic desert"
+      ],
+      "wrong_answers": [
+        "sahara",
+        "gobi",
+        "atacama",
+        "arabian"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "d51c6204dbb7240cbac13bef887c517d",
+      "question": "On which continent is the South Pole located?",
+      "answers": [
+        "antarctica"
+      ],
+      "wrong_answers": [
+        "south america",
+        "australia",
+        "africa",
+        "asia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "d8a05aeaa6e0f2d7107807f1c79c31c1",
+      "question": "Approximately what was the coldest natural temperature ever recorded on Earth, in Celsius?",
+      "answers": [
+        "-89",
+        "-89.2",
+        "minus 89"
+      ],
+      "wrong_answers": [
+        "-50",
+        "-70",
+        "-100",
+        "-120"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "1233ff68fd851083acccd64751956e8f",
+      "question": "What is absolute zero, approximately, in degrees Celsius?",
+      "answers": [
+        "-273",
+        "-273.15",
+        "minus 273"
+      ],
+      "wrong_answers": [
+        "0",
+        "-100",
+        "-173",
+        "-373"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "6d2b15700adee24d10a82b9b7d612ea9",
+      "question": "Which temperature scale starts at absolute zero?",
+      "answers": [
+        "kelvin"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "fahrenheit",
+        "newton",
+        "réaumur"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "cec7f9440cebb4680655d889f5e1a562",
+      "question": "Which US city in Minnesota is nicknamed the 'Icebox of the Nation'?",
+      "answers": [
+        "international falls"
+      ],
+      "wrong_answers": [
+        "duluth",
+        "minneapolis",
+        "fargo",
+        "bismarck"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0c432a5481816b51a834a4393140c0e0",
+      "question": "Which Alaskan city is known for extremely cold winters near the interior?",
+      "answers": [
+        "fairbanks"
+      ],
+      "wrong_answers": [
+        "anchorage",
+        "juneau",
+        "sitka",
+        "kodiak"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "1f500ffdb8f72db273991ae4b0081004",
+      "question": "What is the frozen water that covers the surface of the Arctic Ocean called?",
+      "answers": [
+        "sea ice"
+      ],
+      "wrong_answers": [
+        "icebergs",
+        "glaciers",
+        "permafrost",
+        "snowpack"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "79bdfc544453af5cded54a2abea241df",
+      "question": "What is a sudden slide of snow down a mountain slope called?",
+      "answers": [
+        "avalanche",
+        "an avalanche"
+      ],
+      "wrong_answers": [
+        "landslide",
+        "blizzard",
+        "rockfall",
+        "tsunami"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "c9a890b773647a3291e6aee9b30b60da",
+      "question": "What is the northern polar region centered on the North Pole called?",
+      "answers": [
+        "the arctic",
+        "arctic"
+      ],
+      "wrong_answers": [
+        "antarctic",
+        "tundra",
+        "siberia",
+        "scandinavia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "6757cbbc7552ec5dd566a386801eb783",
+      "question": "What is the process by which liquid water turns into solid ice called?",
+      "answers": [
+        "freezing"
+      ],
+      "wrong_answers": [
+        "melting",
+        "boiling",
+        "condensation",
+        "evaporation"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "d757e13d5ff22cc35a224c04dde0a723",
+      "question": "What is a deep crack in a glacier called?",
+      "answers": [
+        "crevasse",
+        "a crevasse"
+      ],
+      "wrong_answers": [
+        "canyon",
+        "fjord",
+        "gorge",
+        "ravine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "2ca46db0ad32d079446b9620dc5d6df0",
+      "question": "What is a narrow sea inlet carved by glaciers, common in Norway, called?",
+      "answers": [
+        "fjord",
+        "a fjord"
+      ],
+      "wrong_answers": [
+        "bay",
+        "lagoon",
+        "strait",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "7392badb242e24555a43654eda82e9d4",
+      "question": "Siberia, one of the coldest inhabited regions, is part of which country?",
+      "answers": [
+        "russia"
+      ],
+      "wrong_answers": [
+        "mongolia",
+        "china",
+        "kazakhstan",
+        "canada"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "2eb2405ed3d400d08842d23ee22ec650",
+      "question": "Which flightless black-and-white bird lives in the cold Antarctic?",
+      "answers": [
+        "penguin"
+      ],
+      "wrong_answers": [
+        "polar bear",
+        "puffin",
+        "albatross",
+        "arctic tern"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "What is the hottest continent on Earth on average?",
+      "answers": [
+        "africa"
+      ],
+      "wrong_answers": [
+        "antarctica",
+        "europe",
+        "north america",
+        "australia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "What is the boiling point of water in degrees Fahrenheit?",
+      "answers": [
+        "212",
+        "212 degrees"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "What is the hottest season of the year?",
+      "answers": [
+        "summer"
+      ],
+      "wrong_answers": [
+        "winter",
+        "spring",
+        "autumn",
+        "monsoon"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "What do we call a hot, dry region with very little rainfall?",
+      "answers": [
+        "desert",
+        "a desert"
+      ],
+      "wrong_answers": [
+        "jungle",
+        "swamp",
+        "tundra",
+        "prairie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "Which animal is famous for surviving in hot deserts and storing fat in its humps?",
+      "answers": [
+        "camel",
+        "a camel"
+      ],
+      "wrong_answers": [
+        "horse",
+        "donkey",
+        "llama",
+        "elephant"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "What spiny plant is well known for surviving in hot deserts?",
+      "answers": [
+        "cactus",
+        "a cactus"
+      ],
+      "wrong_answers": [
+        "fern",
+        "palm tree",
+        "oak",
+        "moss"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "What is a fertile spot in a desert where water is found called?",
+      "answers": [
+        "oasis",
+        "an oasis"
+      ],
+      "wrong_answers": [
+        "dune",
+        "mirage",
+        "canyon",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "What is the optical illusion of water seen on a hot desert road called?",
+      "answers": [
+        "mirage",
+        "a mirage"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "rainbow",
+        "shadow",
+        "reflection"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "The imaginary line around the middle of the Earth, where it is hottest, is called what?",
+      "answers": [
+        "equator",
+        "the equator"
+      ],
+      "wrong_answers": [
+        "prime meridian",
+        "arctic circle",
+        "tropic of cancer",
+        "date line"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "Which star provides heat and light to the Earth?",
+      "answers": [
+        "the sun",
+        "sun"
+      ],
+      "wrong_answers": [
+        "the moon",
+        "sirius",
+        "polaris",
+        "venus"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "What instrument is used to measure temperature?",
+      "answers": [
+        "thermometer",
+        "a thermometer"
+      ],
+      "wrong_answers": [
+        "barometer",
+        "compass",
+        "ruler",
+        "scale"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "Which colour of clothing helps keep you cooler in hot sunshine?",
+      "answers": [
+        "white"
+      ],
+      "wrong_answers": [
+        "black",
+        "dark blue",
+        "brown",
+        "dark grey"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "Which country is the hot region of Death Valley located in?",
+      "answers": [
+        "united states",
+        "usa",
+        "the united states"
+      ],
+      "wrong_answers": [
+        "mexico",
+        "egypt",
+        "australia",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "What is a hill of sand shaped by the wind in a desert called?",
+      "answers": [
+        "dune",
+        "a dune",
+        "sand dune"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "cliff",
+        "valley",
+        "plateau"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "The warm region on Earth between the two tropics is called what?",
+      "answers": [
+        "the tropics",
+        "tropics"
+      ],
+      "wrong_answers": [
+        "the arctic",
+        "the poles",
+        "temperate zone",
+        "the tundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "What painful red skin damage is caused by too much hot sun?",
+      "answers": [
+        "sunburn",
+        "a sunburn"
+      ],
+      "wrong_answers": [
+        "frostbite",
+        "rash",
+        "blister",
+        "bruise"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "Where was the highest reliably recorded air temperature on Earth measured?",
+      "answers": [
+        "death valley",
+        "furnace creek"
+      ],
+      "wrong_answers": [
+        "sahara desert",
+        "kuwait city",
+        "dallol",
+        "lut desert"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "Death Valley, one of the hottest places on Earth, is in which US state?",
+      "answers": [
+        "california"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "texas",
+        "utah"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "Which Iranian desert has recorded some of the hottest land surface temperatures on Earth?",
+      "answers": [
+        "lut desert",
+        "dasht-e lut",
+        "lut"
+      ],
+      "wrong_answers": [
+        "gobi desert",
+        "thar desert",
+        "karakum",
+        "negev"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dallol, one of the hottest inhabited places on Earth by yearly average, is in which country?",
+      "answers": [
+        "ethiopia"
+      ],
+      "wrong_answers": [
+        "sudan",
+        "libya",
+        "egypt",
+        "somalia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "In which country is the Sahara city of Timbuktu located?",
+      "answers": [
+        "mali"
+      ],
+      "wrong_answers": [
+        "niger",
+        "chad",
+        "algeria",
+        "morocco"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "What do we call a prolonged period of excessively hot weather?",
+      "answers": [
+        "heatwave",
+        "a heatwave",
+        "heat wave"
+      ],
+      "wrong_answers": [
+        "blizzard",
+        "monsoon",
+        "drought",
+        "cold snap"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "Which Gulf country recorded one of Asia's highest temperatures at Mitribah?",
+      "answers": [
+        "kuwait"
+      ],
+      "wrong_answers": [
+        "qatar",
+        "bahrain",
+        "oman",
+        "yemen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Venus is the hottest planet mainly because of which effect trapping heat?",
+      "answers": [
+        "greenhouse effect",
+        "the greenhouse effect"
+      ],
+      "wrong_answers": [
+        "coriolis effect",
+        "doppler effect",
+        "tidal effect",
+        "magnetic effect"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "Which gas is the main cause of the greenhouse effect that warms the planet?",
+      "answers": [
+        "carbon dioxide",
+        "co2"
+      ],
+      "wrong_answers": [
+        "oxygen",
+        "nitrogen",
+        "helium",
+        "hydrogen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "The northern tropic line, marking the hot zone's edge, is called what?",
+      "answers": [
+        "tropic of cancer",
+        "the tropic of cancer"
+      ],
+      "wrong_answers": [
+        "tropic of capricorn",
+        "equator",
+        "arctic circle",
+        "prime meridian"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "The southern tropic line bounding the hot zone is called what?",
+      "answers": [
+        "tropic of capricorn",
+        "the tropic of capricorn"
+      ],
+      "wrong_answers": [
+        "tropic of cancer",
+        "equator",
+        "antarctic circle",
+        "date line"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "What is a violent desert windstorm that carries huge amounts of sand called?",
+      "answers": [
+        "sandstorm",
+        "a sandstorm"
+      ],
+      "wrong_answers": [
+        "blizzard",
+        "monsoon",
+        "hurricane",
+        "hailstorm"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "Roughly how much of North Africa does the Sahara Desert cover in area?",
+      "answers": [
+        "most",
+        "most of it",
+        "the majority"
+      ],
+      "wrong_answers": [
+        "a tenth",
+        "a quarter",
+        "none",
+        "half a percent"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Azizia, which once held a disputed world heat record, is in which country?",
+      "answers": [
+        "libya"
+      ],
+      "wrong_answers": [
+        "tunisia",
+        "algeria",
+        "egypt",
+        "morocco"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "What dangerous condition results from the body losing too much water in the heat?",
+      "answers": [
+        "dehydration"
+      ],
+      "wrong_answers": [
+        "hypothermia",
+        "frostbite",
+        "inflammation",
+        "concussion"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "Which Chilean desert is one of the driest and hottest places on Earth?",
+      "answers": [
+        "atacama",
+        "atacama desert"
+      ],
+      "wrong_answers": [
+        "patagonia",
+        "sahara",
+        "mojave",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "What is the natural cooling response the body produces when it gets too hot?",
+      "answers": [
+        "sweating",
+        "sweat",
+        "perspiration"
+      ],
+      "wrong_answers": [
+        "shivering",
+        "blushing",
+        "yawning",
+        "sneezing"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "What temperature scale, common in the United States, sets water's boiling point at 212 degrees?",
+      "answers": [
+        "fahrenheit"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "kelvin",
+        "réaumur",
+        "rankine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "The long-term warming of Earth's climate is commonly called what?",
+      "answers": [
+        "global warming"
+      ],
+      "wrong_answers": [
+        "global cooling",
+        "ice age",
+        "el niño",
+        "ozone hole"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "The hot, wet forests near the equator with heavy rainfall are called what?",
+      "answers": [
+        "rainforests",
+        "tropical rainforests",
+        "rainforest"
+      ],
+      "wrong_answers": [
+        "deserts",
+        "grasslands",
+        "tundras",
+        "wetlands"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "The hot, treeless grassland of Africa home to lions and zebras is called what?",
+      "answers": [
+        "savanna",
+        "savannah",
+        "the savanna"
+      ],
+      "wrong_answers": [
+        "tundra",
+        "taiga",
+        "prairie",
+        "steppe"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "Which African river valley experiences intense desert heat as it flows through Egypt?",
+      "answers": [
+        "nile",
+        "the nile",
+        "nile valley"
+      ],
+      "wrong_answers": [
+        "amazon",
+        "congo",
+        "danube",
+        "mekong"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "Which African country is almost entirely covered by the hot Sahara Desert?",
+      "answers": [
+        "libya",
+        "algeria"
+      ],
+      "wrong_answers": [
+        "kenya",
+        "ghana",
+        "uganda",
+        "senegal"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "A serious illness caused by the body overheating in extreme heat is called what?",
+      "answers": [
+        "heatstroke",
+        "heat stroke"
+      ],
+      "wrong_answers": [
+        "hypothermia",
+        "sunburn",
+        "frostbite",
+        "migraine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
       "language": "en"
     }
   ]
