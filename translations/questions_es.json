@@ -7630,24 +7630,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "¿Qué país construyó la Gran Muralla?",
-      "points": 900,
-      "language": "es",
-      "answers": [
-        "china"
-      ],
-      "wrong_answers": [
-        "japón",
-        "india",
-        "mongolia",
-        "rusia",
-        "vietnam"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "¿Cómo se llamaba el barco que se hundió en 1912?",
       "points": 900,
       "language": "es",
@@ -11615,24 +11597,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
-      "points": 750,
-      "language": "es",
-      "answers": [
-        "francia"
-      ],
-      "wrong_answers": [
-        "inglaterra",
-        "italia",
-        "españa",
-        "alemania",
-        "canadá"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "En la época medieval, ¿cómo se llamaba a los guerreros acorazados a caballo?",
       "points": 650,
       "language": "es",
@@ -13336,25 +13300,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "¿Cuántos días tiene una semana?",
-      "points": 700,
-      "language": "es",
-      "answers": [
-        "7",
-        "siete"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "¿Cuántos meses tiene un año?",
       "points": 700,
       "language": "es",
@@ -13372,25 +13317,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "¿Cuántas horas tiene un día?",
-      "points": 700,
-      "language": "es",
-      "answers": [
-        "24",
-        "veinticuatro"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "¿Qué figura no tiene esquinas?",
@@ -15074,23 +15000,6 @@
       "category": "nature",
       "difficulty": "easy",
       "id": "5cc437d0643922261e1a51582e36f6c9"
-    },
-    {
-      "question": "¿Qué desastre natural se mide con la escala de Richter?",
-      "points": 900,
-      "language": "es",
-      "answers": [
-        "terremotos"
-      ],
-      "wrong_answers": [
-        "tornados",
-        "huracanes",
-        "tsunamis",
-        "erupciones volcánicas"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
     },
     {
       "question": "¿Dónde ocurre principalmente la fotosíntesis dentro de las células vegetales?",
@@ -45685,24 +45594,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "¿Cuál es la capital de España?",
-      "answers": [
-        "madrid",
-        "madrid españa",
-        "ciudad de madrid"
-      ],
-      "wrong_answers": [
-        "madrid",
-        "alicante",
-        "lisboa"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "es",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "¿A quién se le conoce por la idea del socialismo?",
       "answers": [
         "karl marx",
@@ -70016,6 +69907,715 @@
         "frailecillo",
         "albatros",
         "charrán ártico"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "¿Cuál es el continente más caluroso de la Tierra en promedio?",
+      "answers": [
+        "áfrica"
+      ],
+      "wrong_answers": [
+        "antártida",
+        "europa",
+        "américa del norte",
+        "australia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "¿Cuál es el punto de ebullición del agua en grados Fahrenheit?",
+      "answers": [
+        "212",
+        "212 grados"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "¿Cuál es la estación más calurosa del año?",
+      "answers": [
+        "verano"
+      ],
+      "wrong_answers": [
+        "invierno",
+        "primavera",
+        "otoño",
+        "monzón"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "¿Cómo llamamos a una región cálida y seca con muy pocas lluvias?",
+      "answers": [
+        "desierto",
+        "un desierto"
+      ],
+      "wrong_answers": [
+        "selva",
+        "pantano",
+        "tundra",
+        "pradera"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "¿Qué animal es famoso por sobrevivir en desiertos calurosos y almacenar grasa en sus jorobas?",
+      "answers": [
+        "camello"
+      ],
+      "wrong_answers": [
+        "caballo",
+        "burro",
+        "llama",
+        "elefante"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "¿Qué planta espinosa es muy conocida por sobrevivir en desiertos calurosos?",
+      "answers": [
+        "cactus",
+        "cacto"
+      ],
+      "wrong_answers": [
+        "helecho",
+        "palmera",
+        "roble",
+        "musgo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "¿Cómo se llama un lugar fértil en un desierto donde hay agua?",
+      "answers": [
+        "oasis",
+        "un oasis"
+      ],
+      "wrong_answers": [
+        "duna",
+        "espejismo",
+        "cañón",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "¿Cómo se llama la ilusión óptica de agua que se ve en una carretera desértica caliente?",
+      "answers": [
+        "espejismo"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "arcoíris",
+        "sombra",
+        "reflejo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "¿Cómo se llama la línea imaginaria alrededor del centro de la Tierra, donde hace más calor?",
+      "answers": [
+        "ecuador",
+        "el ecuador"
+      ],
+      "wrong_answers": [
+        "meridiano de greenwich",
+        "círculo polar ártico",
+        "trópico de cáncer",
+        "línea de cambio de fecha"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "¿Qué estrella proporciona calor y luz a la Tierra?",
+      "answers": [
+        "el sol",
+        "sol"
+      ],
+      "wrong_answers": [
+        "la luna",
+        "sirio",
+        "estrella polar",
+        "venus"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "¿Qué instrumento se usa para medir la temperatura?",
+      "answers": [
+        "termómetro",
+        "un termómetro"
+      ],
+      "wrong_answers": [
+        "barómetro",
+        "brújula",
+        "regla",
+        "balanza"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "¿Qué color de ropa ayuda a mantenerse más fresco bajo el sol caliente?",
+      "answers": [
+        "blanco"
+      ],
+      "wrong_answers": [
+        "negro",
+        "azul oscuro",
+        "marrón",
+        "gris oscuro"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "¿En qué país se encuentra la calurosa región del Valle de la Muerte?",
+      "answers": [
+        "estados unidos",
+        "ee. uu."
+      ],
+      "wrong_answers": [
+        "méxico",
+        "egipto",
+        "australia",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "¿Cómo se llama una colina de arena formada por el viento en un desierto?",
+      "answers": [
+        "duna",
+        "una duna"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "acantilado",
+        "valle",
+        "meseta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "¿Cómo se llama la cálida región de la Tierra entre los dos trópicos?",
+      "answers": [
+        "los trópicos",
+        "el trópico"
+      ],
+      "wrong_answers": [
+        "el ártico",
+        "los polos",
+        "zona templada",
+        "la tundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "¿Qué doloroso daño rojo en la piel causa el exceso de sol caliente?",
+      "answers": [
+        "quemadura solar",
+        "quemadura de sol"
+      ],
+      "wrong_answers": [
+        "congelación",
+        "sarpullido",
+        "ampolla",
+        "moretón"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "es"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "¿Dónde se midió la temperatura del aire más alta registrada de forma fiable en la Tierra?",
+      "answers": [
+        "valle de la muerte",
+        "furnace creek"
+      ],
+      "wrong_answers": [
+        "desierto del sahara",
+        "ciudad de kuwait",
+        "dallol",
+        "desierto de lut"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "El Valle de la Muerte, uno de los lugares más calurosos de la Tierra, ¿en qué estado de EE. UU. está?",
+      "answers": [
+        "california"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "texas",
+        "utah"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "¿Qué desierto iraní ha registrado algunas de las temperaturas de superficie más altas de la Tierra?",
+      "answers": [
+        "desierto de lut",
+        "dasht-e lut",
+        "lut"
+      ],
+      "wrong_answers": [
+        "desierto de gobi",
+        "desierto de thar",
+        "karakum",
+        "néguev"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dallol, uno de los lugares habitados más calurosos por media anual, ¿en qué país está?",
+      "answers": [
+        "etiopía"
+      ],
+      "wrong_answers": [
+        "sudán",
+        "libia",
+        "egipto",
+        "somalia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "¿En qué país se encuentra la ciudad sahariana de Tombuctú?",
+      "answers": [
+        "malí"
+      ],
+      "wrong_answers": [
+        "níger",
+        "chad",
+        "argelia",
+        "marruecos"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "¿Cómo llamamos a un período prolongado de clima excesivamente caluroso?",
+      "answers": [
+        "ola de calor"
+      ],
+      "wrong_answers": [
+        "ventisca",
+        "monzón",
+        "sequía",
+        "ola de frío"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "¿Qué país del Golfo registró una de las temperaturas más altas de Asia en Mitribah?",
+      "answers": [
+        "kuwait"
+      ],
+      "wrong_answers": [
+        "catar",
+        "baréin",
+        "omán",
+        "yemen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Venus es el planeta más caliente principalmente por qué efecto que atrapa el calor?",
+      "answers": [
+        "efecto invernadero",
+        "el efecto invernadero"
+      ],
+      "wrong_answers": [
+        "efecto coriolis",
+        "efecto doppler",
+        "efecto de marea",
+        "efecto magnético"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "¿Qué gas es la principal causa del efecto invernadero que calienta el planeta?",
+      "answers": [
+        "dióxido de carbono",
+        "co2"
+      ],
+      "wrong_answers": [
+        "oxígeno",
+        "nitrógeno",
+        "helio",
+        "hidrógeno"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "¿Cómo se llama el trópico del norte, que marca el borde de la zona cálida?",
+      "answers": [
+        "trópico de cáncer",
+        "el trópico de cáncer"
+      ],
+      "wrong_answers": [
+        "trópico de capricornio",
+        "ecuador",
+        "círculo polar ártico",
+        "meridiano de greenwich"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "¿Cómo se llama el trópico del sur que limita la zona cálida?",
+      "answers": [
+        "trópico de capricornio",
+        "el trópico de capricornio"
+      ],
+      "wrong_answers": [
+        "trópico de cáncer",
+        "ecuador",
+        "círculo polar antártico",
+        "línea de cambio de fecha"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "¿Cómo se llama una violenta tormenta de viento del desierto que arrastra enormes cantidades de arena?",
+      "answers": [
+        "tormenta de arena"
+      ],
+      "wrong_answers": [
+        "ventisca",
+        "monzón",
+        "huracán",
+        "granizada"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "¿Aproximadamente qué parte del norte de África cubre en superficie el desierto del Sahara?",
+      "answers": [
+        "la mayor parte",
+        "casi todo"
+      ],
+      "wrong_answers": [
+        "una décima parte",
+        "un cuarto",
+        "nada",
+        "medio por ciento"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Aziziya, que una vez tuvo un disputado récord mundial de calor, ¿en qué país está?",
+      "answers": [
+        "libia"
+      ],
+      "wrong_answers": [
+        "túnez",
+        "argelia",
+        "egipto",
+        "marruecos"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "¿Qué condición peligrosa resulta de que el cuerpo pierda demasiada agua con el calor?",
+      "answers": [
+        "deshidratación"
+      ],
+      "wrong_answers": [
+        "hipotermia",
+        "congelación",
+        "inflamación",
+        "conmoción cerebral"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "¿Qué desierto chileno es uno de los lugares más secos y calurosos de la Tierra?",
+      "answers": [
+        "atacama",
+        "desierto de atacama"
+      ],
+      "wrong_answers": [
+        "patagonia",
+        "sahara",
+        "mojave",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "¿Cuál es la respuesta natural de enfriamiento que produce el cuerpo cuando tiene demasiado calor?",
+      "answers": [
+        "sudar",
+        "sudor",
+        "transpiración"
+      ],
+      "wrong_answers": [
+        "temblar",
+        "sonrojarse",
+        "bostezar",
+        "estornudar"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "¿Qué escala de temperatura, común en Estados Unidos, fija el punto de ebullición del agua en 212 grados?",
+      "answers": [
+        "fahrenheit"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "kelvin",
+        "réaumur",
+        "rankine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "¿Cómo se llama comúnmente el calentamiento a largo plazo del clima de la Tierra?",
+      "answers": [
+        "calentamiento global"
+      ],
+      "wrong_answers": [
+        "enfriamiento global",
+        "edad de hielo",
+        "el niño",
+        "agujero de ozono"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "¿Cómo se llaman los bosques cálidos y húmedos cerca del ecuador con fuertes lluvias?",
+      "answers": [
+        "selvas tropicales",
+        "selvas",
+        "selva tropical"
+      ],
+      "wrong_answers": [
+        "desiertos",
+        "praderas",
+        "tundras",
+        "humedales"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "¿Cómo se llama la cálida pradera sin árboles de África donde viven leones y cebras?",
+      "answers": [
+        "sabana",
+        "la sabana"
+      ],
+      "wrong_answers": [
+        "tundra",
+        "taiga",
+        "pradera",
+        "estepa"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "¿Qué valle fluvial africano experimenta un calor desértico intenso al atravesar Egipto?",
+      "answers": [
+        "nilo",
+        "el nilo",
+        "valle del nilo"
+      ],
+      "wrong_answers": [
+        "amazonas",
+        "congo",
+        "danubio",
+        "mekong"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "¿Qué país africano está casi totalmente cubierto por el caluroso desierto del Sahara?",
+      "answers": [
+        "libia",
+        "argelia"
+      ],
+      "wrong_answers": [
+        "kenia",
+        "ghana",
+        "uganda",
+        "senegal"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "es"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "¿Cómo se llama una enfermedad grave causada por el sobrecalentamiento del cuerpo con calor extremo?",
+      "answers": [
+        "golpe de calor",
+        "insolación"
+      ],
+      "wrong_answers": [
+        "hipotermia",
+        "quemadura solar",
+        "congelación",
+        "migraña"
       ],
       "category": "geography",
       "difficulty": "normal",

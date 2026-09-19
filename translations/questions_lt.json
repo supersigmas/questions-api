@@ -7585,24 +7585,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "Kuri šalis pastatė Didžiąją kinų sieną?",
-      "points": 900,
-      "language": "lt",
-      "answers": [
-        "kinija"
-      ],
-      "wrong_answers": [
-        "japonija",
-        "indija",
-        "mongolija",
-        "rusija",
-        "vietnamas"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "Koks buvo laivo, nuskendusio 1912 metais, pavadinimas?",
       "points": 900,
       "language": "lt",
@@ -11546,24 +11528,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "Kuri šalis padovanojo Laisvės statulą JAV?",
-      "points": 750,
-      "language": "lt",
-      "answers": [
-        "prancūzija"
-      ],
-      "wrong_answers": [
-        "anglija",
-        "italija",
-        "ispanija",
-        "vokietija",
-        "kanada"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "Viduramžiais kaip buvo vadinami šarvuoti raiti kariai?",
       "points": 650,
       "language": "lt",
@@ -13265,25 +13229,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "Kiek dienų yra savaitėje?",
-      "points": 700,
-      "language": "lt",
-      "answers": [
-        "7",
-        "septyni"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "Kiek mėnesių yra metuose?",
       "points": 700,
       "language": "lt",
@@ -13301,25 +13246,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "Kiek valandų yra paroje?",
-      "points": 700,
-      "language": "lt",
-      "answers": [
-        "24",
-        "dvidešimt keturios"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "Kokia forma neturi kampų?",
@@ -15000,23 +14926,6 @@
       "category": "nature",
       "difficulty": "easy",
       "id": "5cc437d0643922261e1a51582e36f6c9"
-    },
-    {
-      "question": "Kokia gamtos nelaimė matuojama Richterio skale?",
-      "points": 900,
-      "language": "lt",
-      "answers": [
-        "žemės drebėjimai"
-      ],
-      "wrong_answers": [
-        "tornadai",
-        "uraganai",
-        "cunamiai",
-        "ugnikalnių išsiveržimai"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
     },
     {
       "question": "Kur augalų ląstelėse daugiausia vyksta fotosintezė?",
@@ -45601,24 +45510,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "Kokia yra Ispanijos sostinė?",
-      "answers": [
-        "madridas",
-        "madridas ispanija",
-        "madrido miestas"
-      ],
-      "wrong_answers": [
-        "madridas",
-        "alikantė",
-        "lisabona"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "lt",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "Kas žinomas dėl socializmo idėjos?",
       "answers": [
         "karl marx",
@@ -69908,6 +69799,706 @@
         "šarkis",
         "albatrosas",
         "poliarinė žuvėdra"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "Koks yra vidutiniškai karščiausias žemynas Žemėje?",
+      "answers": [
+        "afrika"
+      ],
+      "wrong_answers": [
+        "antarktida",
+        "europa",
+        "šiaurės amerika",
+        "australija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "Kokia yra vandens virimo temperatūra Farenheito laipsniais?",
+      "answers": [
+        "212",
+        "212 laipsnių"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "Koks yra karščiausias metų laikas?",
+      "answers": [
+        "vasara"
+      ],
+      "wrong_answers": [
+        "žiema",
+        "pavasaris",
+        "ruduo",
+        "musonas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "Kaip vadiname karštą, sausą regioną su labai mažai kritulių?",
+      "answers": [
+        "dykuma"
+      ],
+      "wrong_answers": [
+        "džiunglės",
+        "pelkė",
+        "tundra",
+        "prerija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "Koks gyvūnas garsėja tuo, kad išgyvena karštose dykumose ir kaupia riebalus kupromis?",
+      "answers": [
+        "kupranugaris"
+      ],
+      "wrong_answers": [
+        "arklys",
+        "asilas",
+        "lama",
+        "dramblys"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "Koks dygliuotas augalas gerai žinomas dėl gebėjimo išgyventi karštose dykumose?",
+      "answers": [
+        "kaktusas"
+      ],
+      "wrong_answers": [
+        "papartis",
+        "palmė",
+        "ąžuolas",
+        "samana"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "Kaip vadinama derlinga vieta dykumoje, kur randama vandens?",
+      "answers": [
+        "oazė"
+      ],
+      "wrong_answers": [
+        "kopa",
+        "miražas",
+        "kanjonas",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "Kaip vadinama vandens optinė iliuzija, matoma ant karšto dykumos kelio?",
+      "answers": [
+        "miražas"
+      ],
+      "wrong_answers": [
+        "oazė",
+        "vaivorykštė",
+        "šešėlis",
+        "atspindys"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "Kaip vadinama įsivaizduojama linija aplink Žemės vidurį, kur karščiausia?",
+      "answers": [
+        "pusiaujas"
+      ],
+      "wrong_answers": [
+        "grinvičo dienovidinis",
+        "šiaurės poliaratis",
+        "vėžio atogrąža",
+        "datos keitimo linija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "Kuri žvaigždė teikia Žemei šilumą ir šviesą?",
+      "answers": [
+        "saulė"
+      ],
+      "wrong_answers": [
+        "mėnulis",
+        "sirijus",
+        "šiaurinė žvaigždė",
+        "venera"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "Koks prietaisas naudojamas temperatūrai matuoti?",
+      "answers": [
+        "termometras"
+      ],
+      "wrong_answers": [
+        "barometras",
+        "kompasas",
+        "liniuotė",
+        "svarstyklės"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "Kokia drabužių spalva padeda išlikti vėsiau karštoje saulėje?",
+      "answers": [
+        "balta"
+      ],
+      "wrong_answers": [
+        "juoda",
+        "tamsiai mėlyna",
+        "ruda",
+        "tamsiai pilka"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "Kurioje šalyje yra karštasis Mirties slėnio regionas?",
+      "answers": [
+        "jungtinės valstijos",
+        "jav"
+      ],
+      "wrong_answers": [
+        "meksika",
+        "egiptas",
+        "australija",
+        "čilė"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "Kaip vadinama vėjo suformuota smėlio kalva dykumoje?",
+      "answers": [
+        "kopa",
+        "smėlio kopa"
+      ],
+      "wrong_answers": [
+        "oazė",
+        "uola",
+        "slėnis",
+        "plynaukštė"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "Kaip vadinamas šiltas Žemės regionas tarp dviejų atogrąžų?",
+      "answers": [
+        "atogrąžos",
+        "tropikai"
+      ],
+      "wrong_answers": [
+        "arktis",
+        "poliai",
+        "vidutinio klimato juosta",
+        "tundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "Kokį skausmingą raudoną odos pažeidimą sukelia per daug karštos saulės?",
+      "answers": [
+        "saulės nudegimas",
+        "nudegimas"
+      ],
+      "wrong_answers": [
+        "nušalimas",
+        "bėrimas",
+        "pūslė",
+        "mėlynė"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "Kur buvo užfiksuota aukščiausia patikimai išmatuota oro temperatūra Žemėje?",
+      "answers": [
+        "mirties slėnis",
+        "furnace creek"
+      ],
+      "wrong_answers": [
+        "sacharos dykuma",
+        "kuveitas",
+        "dalolis",
+        "luto dykuma"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "Mirties slėnis, viena karščiausių vietų Žemėje, yra kurioje JAV valstijoje?",
+      "answers": [
+        "kalifornija"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "teksasas",
+        "juta"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "Kuri Irano dykuma užfiksavo vienas karščiausių žemės paviršiaus temperatūrų Žemėje?",
+      "answers": [
+        "luto dykuma",
+        "dasht-e lut",
+        "lutas"
+      ],
+      "wrong_answers": [
+        "gobio dykuma",
+        "taro dykuma",
+        "karakumai",
+        "negevas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dalolis, viena karščiausių apgyvendintų vietų pagal metinį vidurkį, yra kurioje šalyje?",
+      "answers": [
+        "etiopija"
+      ],
+      "wrong_answers": [
+        "sudanas",
+        "libija",
+        "egiptas",
+        "somalis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "Kurioje šalyje yra Sacharos miestas Timbuktu?",
+      "answers": [
+        "malis"
+      ],
+      "wrong_answers": [
+        "nigeris",
+        "čadas",
+        "alžyras",
+        "marokas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "Kaip vadinamas užsitęsęs itin karšto oro laikotarpis?",
+      "answers": [
+        "karščio banga"
+      ],
+      "wrong_answers": [
+        "pūga",
+        "musonas",
+        "sausra",
+        "šalčio banga"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "Kuri Persijos įlankos šalis Mitriboje užfiksavo vieną aukščiausių temperatūrų Azijoje?",
+      "answers": [
+        "kuveitas"
+      ],
+      "wrong_answers": [
+        "kataras",
+        "bahreinas",
+        "omanas",
+        "jemenas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Venera yra karščiausia planeta daugiausia dėl kurio šilumą sulaikančio efekto?",
+      "answers": [
+        "šiltnamio efektas"
+      ],
+      "wrong_answers": [
+        "koriolio efektas",
+        "doplerio efektas",
+        "potvynių efektas",
+        "magnetinis efektas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "Kokios dujos yra pagrindinė šiltnamio efekto, šildančio planetą, priežastis?",
+      "answers": [
+        "anglies dioksidas",
+        "co2"
+      ],
+      "wrong_answers": [
+        "deguonis",
+        "azotas",
+        "helis",
+        "vandenilis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "Kaip vadinama šiaurinė atogrąža, žyminti karštosios zonos kraštą?",
+      "answers": [
+        "vėžio atogrąža",
+        "šiaurės atogrąža"
+      ],
+      "wrong_answers": [
+        "ožiaragio atogrąža",
+        "pusiaujas",
+        "šiaurės poliaratis",
+        "grinvičo dienovidinis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "Kaip vadinama pietinė atogrąža, ribojanti karštąją zoną?",
+      "answers": [
+        "ožiaragio atogrąža",
+        "pietų atogrąža"
+      ],
+      "wrong_answers": [
+        "vėžio atogrąža",
+        "pusiaujas",
+        "pietų poliaratis",
+        "datos keitimo linija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "Kaip vadinama smarki dykumos vėjo audra, nešanti didžiulius kiekius smėlio?",
+      "answers": [
+        "smėlio audra"
+      ],
+      "wrong_answers": [
+        "pūga",
+        "musonas",
+        "uraganas",
+        "krušos audra"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "Maždaug kokią Šiaurės Afrikos dalį pagal plotą dengia Sacharos dykuma?",
+      "answers": [
+        "didžiąją dalį",
+        "daugumą"
+      ],
+      "wrong_answers": [
+        "dešimtadalį",
+        "ketvirtadalį",
+        "nieko",
+        "pusę procento"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Azizija, kadaise turėjusi ginčytiną pasaulio karščio rekordą, yra kurioje šalyje?",
+      "answers": [
+        "libija"
+      ],
+      "wrong_answers": [
+        "tunisas",
+        "alžyras",
+        "egiptas",
+        "marokas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "Kokia pavojinga būklė atsiranda, kai kūnas karštyje netenka per daug vandens?",
+      "answers": [
+        "dehidratacija",
+        "dehidracija"
+      ],
+      "wrong_answers": [
+        "hipotermija",
+        "nušalimas",
+        "uždegimas",
+        "smegenų sukrėtimas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "Kuri Čilės dykuma yra viena sausiausių ir karščiausių vietų Žemėje?",
+      "answers": [
+        "atakama",
+        "atakamos dykuma"
+      ],
+      "wrong_answers": [
+        "patagonija",
+        "sachara",
+        "modžavė",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "Kokia natūrali vėsinimo reakcija atsiranda, kai kūnui tampa per karšta?",
+      "answers": [
+        "prakaitavimas",
+        "prakaitas"
+      ],
+      "wrong_answers": [
+        "drebulys",
+        "raudonavimas",
+        "žiovulys",
+        "čiaudulys"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "Kokia temperatūros skalė, paplitusi JAV, nustato vandens virimo tašką ties 212 laipsnių?",
+      "answers": [
+        "farenheitas"
+      ],
+      "wrong_answers": [
+        "celsijus",
+        "kelvinas",
+        "reomiuras",
+        "rankinas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "Kaip įprastai vadinamas ilgalaikis Žemės klimato šiltėjimas?",
+      "answers": [
+        "visuotinis atšilimas",
+        "globalinis atšilimas"
+      ],
+      "wrong_answers": [
+        "visuotinis atšalimas",
+        "ledynmetis",
+        "el ninjas",
+        "ozono skylė"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "Kaip vadinami karšti, drėgni miškai prie pusiaujo su gausiais krituliais?",
+      "answers": [
+        "atogrąžų miškai",
+        "atogrąžų miškas"
+      ],
+      "wrong_answers": [
+        "dykumos",
+        "pievos",
+        "tundros",
+        "pelkės"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "Kaip vadinama karšta, bemedė Afrikos lyguma, kurioje gyvena liūtai ir zebrai?",
+      "answers": [
+        "savana"
+      ],
+      "wrong_answers": [
+        "tundra",
+        "taiga",
+        "prerija",
+        "stepė"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "Kuris Afrikos upės slėnis patiria intensyvų dykumos karštį tekėdamas per Egiptą?",
+      "answers": [
+        "nilas",
+        "nilo slėnis"
+      ],
+      "wrong_answers": [
+        "amazonė",
+        "kongas",
+        "dunojus",
+        "mekongas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "Kuri Afrikos šalis beveik visiškai padengta karštąja Sacharos dykuma?",
+      "answers": [
+        "libija",
+        "alžyras"
+      ],
+      "wrong_answers": [
+        "kenija",
+        "gana",
+        "uganda",
+        "senegalas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "Kaip vadinama rimta liga, kurią sukelia kūno perkaitimas esant ekstremaliam karščiui?",
+      "answers": [
+        "šilumos smūgis",
+        "karščio smūgis"
+      ],
+      "wrong_answers": [
+        "hipotermija",
+        "saulės nudegimas",
+        "nušalimas",
+        "migrena"
       ],
       "category": "geography",
       "difficulty": "normal",

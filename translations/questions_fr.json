@@ -7626,24 +7626,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "Quel pays a construit la Grande Muraille ?",
-      "points": 900,
-      "language": "fr",
-      "answers": [
-        "chine"
-      ],
-      "wrong_answers": [
-        "japon",
-        "inde",
-        "mongolie",
-        "russie",
-        "vietnam"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "Comment s'appelait le navire qui a coulé en 1912 ?",
       "points": 900,
       "language": "fr",
@@ -11605,24 +11587,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "Quel pays a offert la Statue de la Liberté aux États-Unis ?",
-      "points": 750,
-      "language": "fr",
-      "answers": [
-        "france"
-      ],
-      "wrong_answers": [
-        "angleterre",
-        "italie",
-        "espagne",
-        "allemagne",
-        "canada"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "Au Moyen Âge, comment appelait-on les guerriers en armure à cheval ?",
       "points": 650,
       "language": "fr",
@@ -13325,25 +13289,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "Combien de jours y a-t-il dans une semaine ?",
-      "points": 700,
-      "language": "fr",
-      "answers": [
-        "7",
-        "sept"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "Combien de mois y a-t-il dans une année ?",
       "points": 700,
       "language": "fr",
@@ -13361,25 +13306,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "Combien d'heures y a-t-il dans une journée ?",
-      "points": 700,
-      "language": "fr",
-      "answers": [
-        "24",
-        "vingt-quatre"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "Quelle forme n'a pas de coins ?",
@@ -15063,24 +14989,6 @@
       "category": "nature",
       "difficulty": "easy",
       "id": "5cc437d0643922261e1a51582e36f6c9"
-    },
-    {
-      "question": "Quelle catastrophe naturelle est mesurée avec l'échelle de Richter ?",
-      "points": 900,
-      "language": "fr",
-      "answers": [
-        "tremblements de terre",
-        "séismes"
-      ],
-      "wrong_answers": [
-        "tornades",
-        "ouragans",
-        "tsunamis",
-        "éruptions volcaniques"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
     },
     {
       "question": "Où se produit principalement la photosynthèse dans les cellules végétales ?",
@@ -45674,24 +45582,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "Quelle est la capitale de l'Espagne ?",
-      "answers": [
-        "madrid",
-        "madrid espagne",
-        "ville de madrid"
-      ],
-      "wrong_answers": [
-        "madrid",
-        "alicante",
-        "lisbonne"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "fr",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "Qui est connu pour l'idée du socialisme ?",
       "answers": [
         "karl marx",
@@ -70000,6 +69890,717 @@
         "macareux",
         "albatros",
         "sterne arctique"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "Quel est en moyenne le continent le plus chaud de la Terre ?",
+      "answers": [
+        "afrique"
+      ],
+      "wrong_answers": [
+        "antarctique",
+        "europe",
+        "amérique du nord",
+        "australie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "Quel est le point d'ébullition de l'eau en degrés Fahrenheit ?",
+      "answers": [
+        "212",
+        "212 degrés"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "Quelle est la saison la plus chaude de l'année ?",
+      "answers": [
+        "été"
+      ],
+      "wrong_answers": [
+        "hiver",
+        "printemps",
+        "automne",
+        "mousson"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "Comment appelle-t-on une région chaude et sèche avec très peu de pluie ?",
+      "answers": [
+        "désert",
+        "un désert"
+      ],
+      "wrong_answers": [
+        "jungle",
+        "marais",
+        "toundra",
+        "prairie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "Quel animal est célèbre pour survivre dans les déserts chauds et stocker de la graisse dans ses bosses ?",
+      "answers": [
+        "chameau",
+        "dromadaire"
+      ],
+      "wrong_answers": [
+        "cheval",
+        "âne",
+        "lama",
+        "éléphant"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "Quelle plante épineuse est bien connue pour survivre dans les déserts chauds ?",
+      "answers": [
+        "cactus"
+      ],
+      "wrong_answers": [
+        "fougère",
+        "palmier",
+        "chêne",
+        "mousse"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "Comment appelle-t-on un endroit fertile dans un désert où l'on trouve de l'eau ?",
+      "answers": [
+        "oasis",
+        "une oasis"
+      ],
+      "wrong_answers": [
+        "dune",
+        "mirage",
+        "canyon",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "Comment appelle-t-on l'illusion d'optique d'eau vue sur une route désertique chaude ?",
+      "answers": [
+        "mirage",
+        "un mirage"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "arc-en-ciel",
+        "ombre",
+        "reflet"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "Comment appelle-t-on la ligne imaginaire autour du milieu de la Terre, où il fait le plus chaud ?",
+      "answers": [
+        "équateur",
+        "l'équateur"
+      ],
+      "wrong_answers": [
+        "méridien de greenwich",
+        "cercle polaire arctique",
+        "tropique du cancer",
+        "ligne de changement de date"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "Quelle étoile fournit chaleur et lumière à la Terre ?",
+      "answers": [
+        "le soleil",
+        "soleil"
+      ],
+      "wrong_answers": [
+        "la lune",
+        "sirius",
+        "étoile polaire",
+        "vénus"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "Quel instrument est utilisé pour mesurer la température ?",
+      "answers": [
+        "thermomètre",
+        "un thermomètre"
+      ],
+      "wrong_answers": [
+        "baromètre",
+        "boussole",
+        "règle",
+        "balance"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "Quelle couleur de vêtement aide à rester plus au frais sous un soleil chaud ?",
+      "answers": [
+        "blanc"
+      ],
+      "wrong_answers": [
+        "noir",
+        "bleu foncé",
+        "marron",
+        "gris foncé"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "Dans quel pays se trouve la chaude région de la Vallée de la Mort ?",
+      "answers": [
+        "états-unis",
+        "usa"
+      ],
+      "wrong_answers": [
+        "mexique",
+        "égypte",
+        "australie",
+        "chili"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "Comment appelle-t-on une colline de sable façonnée par le vent dans un désert ?",
+      "answers": [
+        "dune",
+        "une dune"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "falaise",
+        "vallée",
+        "plateau"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "Comment appelle-t-on la région chaude de la Terre située entre les deux tropiques ?",
+      "answers": [
+        "les tropiques",
+        "la zone tropicale"
+      ],
+      "wrong_answers": [
+        "l'arctique",
+        "les pôles",
+        "zone tempérée",
+        "la toundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "Quels dommages cutanés rouges et douloureux sont causés par trop de soleil chaud ?",
+      "answers": [
+        "coup de soleil"
+      ],
+      "wrong_answers": [
+        "gelure",
+        "éruption cutanée",
+        "cloque",
+        "bleu"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "Où la température de l'air la plus élevée jamais enregistrée de façon fiable sur Terre a-t-elle été mesurée ?",
+      "answers": [
+        "vallée de la mort",
+        "furnace creek"
+      ],
+      "wrong_answers": [
+        "désert du sahara",
+        "koweït",
+        "dallol",
+        "désert du lout"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "La Vallée de la Mort, l'un des endroits les plus chauds de la Terre, se trouve dans quel État américain ?",
+      "answers": [
+        "californie"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "texas",
+        "utah"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "Quel désert iranien a enregistré certaines des températures de surface les plus élevées de la Terre ?",
+      "answers": [
+        "désert du lout",
+        "dasht-e lut",
+        "lout"
+      ],
+      "wrong_answers": [
+        "désert de gobi",
+        "désert du thar",
+        "karakoum",
+        "néguev"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dallol, l'un des lieux habités les plus chauds en moyenne annuelle, se trouve dans quel pays ?",
+      "answers": [
+        "éthiopie"
+      ],
+      "wrong_answers": [
+        "soudan",
+        "libye",
+        "égypte",
+        "somalie"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "Dans quel pays se trouve la ville saharienne de Tombouctou ?",
+      "answers": [
+        "mali"
+      ],
+      "wrong_answers": [
+        "niger",
+        "tchad",
+        "algérie",
+        "maroc"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "Comment appelle-t-on une période prolongée de chaleur excessive ?",
+      "answers": [
+        "canicule",
+        "vague de chaleur"
+      ],
+      "wrong_answers": [
+        "blizzard",
+        "mousson",
+        "sécheresse",
+        "vague de froid"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "Quel pays du Golfe a enregistré à Mitribah l'une des températures les plus élevées d'Asie ?",
+      "answers": [
+        "koweït"
+      ],
+      "wrong_answers": [
+        "qatar",
+        "bahreïn",
+        "oman",
+        "yémen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Vénus est la planète la plus chaude surtout à cause de quel effet piégeant la chaleur ?",
+      "answers": [
+        "effet de serre",
+        "l'effet de serre"
+      ],
+      "wrong_answers": [
+        "effet coriolis",
+        "effet doppler",
+        "effet de marée",
+        "effet magnétique"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "Quel gaz est la principale cause de l'effet de serre qui réchauffe la planète ?",
+      "answers": [
+        "dioxyde de carbone",
+        "co2",
+        "gaz carbonique"
+      ],
+      "wrong_answers": [
+        "oxygène",
+        "azote",
+        "hélium",
+        "hydrogène"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "Comment appelle-t-on le tropique nord, qui marque la limite de la zone chaude ?",
+      "answers": [
+        "tropique du cancer",
+        "le tropique du cancer"
+      ],
+      "wrong_answers": [
+        "tropique du capricorne",
+        "équateur",
+        "cercle polaire arctique",
+        "méridien de greenwich"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "Comment appelle-t-on le tropique sud qui délimite la zone chaude ?",
+      "answers": [
+        "tropique du capricorne",
+        "le tropique du capricorne"
+      ],
+      "wrong_answers": [
+        "tropique du cancer",
+        "équateur",
+        "cercle polaire antarctique",
+        "ligne de changement de date"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "Comment appelle-t-on une violente tempête de vent du désert qui transporte d'énormes quantités de sable ?",
+      "answers": [
+        "tempête de sable"
+      ],
+      "wrong_answers": [
+        "blizzard",
+        "mousson",
+        "ouragan",
+        "tempête de grêle"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "Quelle proportion de l'Afrique du Nord le Sahara couvre-t-il environ en superficie ?",
+      "answers": [
+        "la plus grande partie",
+        "la majeure partie"
+      ],
+      "wrong_answers": [
+        "un dixième",
+        "un quart",
+        "rien",
+        "un demi pour cent"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Azizia, qui détenait autrefois un record de chaleur contesté, se trouve dans quel pays ?",
+      "answers": [
+        "libye"
+      ],
+      "wrong_answers": [
+        "tunisie",
+        "algérie",
+        "égypte",
+        "maroc"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "Quelle affection dangereuse résulte d'une perte d'eau excessive du corps dans la chaleur ?",
+      "answers": [
+        "déshydratation"
+      ],
+      "wrong_answers": [
+        "hypothermie",
+        "gelure",
+        "inflammation",
+        "commotion cérébrale"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "Quel désert chilien est l'un des endroits les plus secs et les plus chauds de la Terre ?",
+      "answers": [
+        "atacama",
+        "désert d'atacama"
+      ],
+      "wrong_answers": [
+        "patagonie",
+        "sahara",
+        "mojave",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "Quelle est la réaction naturelle de refroidissement du corps lorsqu'il a trop chaud ?",
+      "answers": [
+        "transpiration",
+        "sueur",
+        "transpirer"
+      ],
+      "wrong_answers": [
+        "frissons",
+        "rougir",
+        "bâiller",
+        "éternuer"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "Quelle échelle de température, courante aux États-Unis, fixe le point d'ébullition de l'eau à 212 degrés ?",
+      "answers": [
+        "fahrenheit"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "kelvin",
+        "réaumur",
+        "rankine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "Comment appelle-t-on couramment le réchauffement à long terme du climat de la Terre ?",
+      "answers": [
+        "réchauffement climatique",
+        "réchauffement de la planète"
+      ],
+      "wrong_answers": [
+        "refroidissement global",
+        "âge glaciaire",
+        "el niño",
+        "trou d'ozone"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "Comment appelle-t-on les forêts chaudes et humides près de l'équateur avec de fortes pluies ?",
+      "answers": [
+        "forêts tropicales",
+        "forêt tropicale humide",
+        "forêts tropicales humides"
+      ],
+      "wrong_answers": [
+        "déserts",
+        "prairies",
+        "toundras",
+        "zones humides"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "Comment appelle-t-on la chaude prairie sans arbres d'Afrique où vivent lions et zèbres ?",
+      "answers": [
+        "savane",
+        "la savane"
+      ],
+      "wrong_answers": [
+        "toundra",
+        "taïga",
+        "prairie",
+        "steppe"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "Quelle vallée fluviale africaine subit une chaleur désertique intense en traversant l'Égypte ?",
+      "answers": [
+        "nil",
+        "le nil",
+        "vallée du nil"
+      ],
+      "wrong_answers": [
+        "amazone",
+        "congo",
+        "danube",
+        "mékong"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "Quel pays africain est presque entièrement couvert par le chaud désert du Sahara ?",
+      "answers": [
+        "libye",
+        "algérie"
+      ],
+      "wrong_answers": [
+        "kenya",
+        "ghana",
+        "ouganda",
+        "sénégal"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "Comment appelle-t-on une maladie grave causée par la surchauffe du corps en cas de chaleur extrême ?",
+      "answers": [
+        "coup de chaleur"
+      ],
+      "wrong_answers": [
+        "hypothermie",
+        "coup de soleil",
+        "gelure",
+        "migraine"
       ],
       "category": "geography",
       "difficulty": "normal",

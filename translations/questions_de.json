@@ -7647,24 +7647,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "Welches Land baute die Chinesische Mauer?",
-      "points": 900,
-      "language": "de",
-      "answers": [
-        "china"
-      ],
-      "wrong_answers": [
-        "japan",
-        "indien",
-        "mongolei",
-        "russland",
-        "vietnam"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "Wie hieß das Schiff, das 1912 sank?",
       "points": 900,
       "language": "de",
@@ -11632,24 +11614,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "Welches Land schenkte den USA die Freiheitsstatue?",
-      "points": 750,
-      "language": "de",
-      "answers": [
-        "frankreich"
-      ],
-      "wrong_answers": [
-        "england",
-        "italien",
-        "spanien",
-        "deutschland",
-        "kanada"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "Wie nannte man im Mittelalter gepanzerte Krieger zu Pferd?",
       "points": 650,
       "language": "de",
@@ -13358,25 +13322,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "Wie viele Tage hat eine Woche?",
-      "points": 700,
-      "language": "de",
-      "answers": [
-        "7",
-        "sieben"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "Wie viele Monate hat ein Jahr?",
       "points": 700,
       "language": "de",
@@ -13394,25 +13339,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "Wie viele Stunden hat ein Tag?",
-      "points": 700,
-      "language": "de",
-      "answers": [
-        "24",
-        "vierundzwanzig"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "Welche Form hat keine Ecken?",
@@ -15100,23 +15026,6 @@
       "category": "nature",
       "difficulty": "easy",
       "id": "5cc437d0643922261e1a51582e36f6c9"
-    },
-    {
-      "question": "Welche Naturkatastrophe wird mit der Richterskala gemessen?",
-      "points": 900,
-      "language": "de",
-      "answers": [
-        "erdbeben"
-      ],
-      "wrong_answers": [
-        "tornados",
-        "hurrikane",
-        "tsunamis",
-        "vulkanausbrüche"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
     },
     {
       "question": "Wo findet die Photosynthese hauptsächlich in Pflanzenzellen statt?",
@@ -45720,24 +45629,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "Wie heißt die Hauptstadt Spaniens?",
-      "answers": [
-        "madrid",
-        "madrid spanien",
-        "stadt madrid"
-      ],
-      "wrong_answers": [
-        "madrid",
-        "alicante",
-        "lissabon"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "de",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "Wer ist bekannt für die Idee des Sozialismus?",
       "answers": [
         "karl marx",
@@ -70065,6 +69956,720 @@
         "papageitaucher",
         "albatros",
         "küstenseeschwalbe"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "Was ist im Durchschnitt der heißeste Kontinent der Erde?",
+      "answers": [
+        "afrika"
+      ],
+      "wrong_answers": [
+        "antarktis",
+        "europa",
+        "nordamerika",
+        "australien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "Was ist der Siedepunkt von Wasser in Grad Fahrenheit?",
+      "answers": [
+        "212",
+        "212 grad"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "Was ist die heißeste Jahreszeit?",
+      "answers": [
+        "sommer"
+      ],
+      "wrong_answers": [
+        "winter",
+        "frühling",
+        "herbst",
+        "monsun"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "Wie nennt man eine heiße, trockene Region mit sehr wenig Niederschlag?",
+      "answers": [
+        "wüste",
+        "eine wüste"
+      ],
+      "wrong_answers": [
+        "dschungel",
+        "sumpf",
+        "tundra",
+        "prärie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "Welches Tier ist dafür bekannt, in heißen Wüsten zu überleben und Fett in seinen Höckern zu speichern?",
+      "answers": [
+        "kamel",
+        "dromedar"
+      ],
+      "wrong_answers": [
+        "pferd",
+        "esel",
+        "lama",
+        "elefant"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "Welche stachelige Pflanze ist dafür bekannt, in heißen Wüsten zu überleben?",
+      "answers": [
+        "kaktus"
+      ],
+      "wrong_answers": [
+        "farn",
+        "palme",
+        "eiche",
+        "moos"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "Wie nennt man einen fruchtbaren Ort in einer Wüste, an dem Wasser vorkommt?",
+      "answers": [
+        "oase",
+        "eine oase"
+      ],
+      "wrong_answers": [
+        "düne",
+        "fata morgana",
+        "canyon",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "Wie nennt man die optische Täuschung von Wasser auf einer heißen Wüstenstraße?",
+      "answers": [
+        "fata morgana",
+        "luftspiegelung"
+      ],
+      "wrong_answers": [
+        "oase",
+        "regenbogen",
+        "schatten",
+        "spiegelung"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "Wie heißt die gedachte Linie um die Mitte der Erde, wo es am heißesten ist?",
+      "answers": [
+        "äquator",
+        "der äquator"
+      ],
+      "wrong_answers": [
+        "nullmeridian",
+        "polarkreis",
+        "wendekreis des krebses",
+        "datumsgrenze"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "Welcher Stern spendet der Erde Wärme und Licht?",
+      "answers": [
+        "die sonne",
+        "sonne"
+      ],
+      "wrong_answers": [
+        "der mond",
+        "sirius",
+        "polarstern",
+        "venus"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "Welches Instrument wird zur Temperaturmessung verwendet?",
+      "answers": [
+        "thermometer",
+        "ein thermometer"
+      ],
+      "wrong_answers": [
+        "barometer",
+        "kompass",
+        "lineal",
+        "waage"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "Welche Kleidungsfarbe hilft, sich in heißer Sonne kühler zu halten?",
+      "answers": [
+        "weiß"
+      ],
+      "wrong_answers": [
+        "schwarz",
+        "dunkelblau",
+        "braun",
+        "dunkelgrau"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "In welchem Land liegt die heiße Region Death Valley?",
+      "answers": [
+        "vereinigte staaten",
+        "usa"
+      ],
+      "wrong_answers": [
+        "mexiko",
+        "ägypten",
+        "australien",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "Wie nennt man einen vom Wind geformten Sandhügel in einer Wüste?",
+      "answers": [
+        "düne",
+        "sanddüne"
+      ],
+      "wrong_answers": [
+        "oase",
+        "klippe",
+        "tal",
+        "hochebene"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "Wie nennt man die warme Region der Erde zwischen den beiden Wendekreisen?",
+      "answers": [
+        "die tropen",
+        "tropen"
+      ],
+      "wrong_answers": [
+        "die arktis",
+        "die pole",
+        "gemäßigte zone",
+        "die tundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "Welche schmerzhafte rote Hautschädigung wird durch zu viel heiße Sonne verursacht?",
+      "answers": [
+        "sonnenbrand"
+      ],
+      "wrong_answers": [
+        "erfrierung",
+        "ausschlag",
+        "blase",
+        "bluterguss"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "Wo wurde die höchste zuverlässig gemessene Lufttemperatur der Erde registriert?",
+      "answers": [
+        "death valley",
+        "furnace creek",
+        "tal des todes"
+      ],
+      "wrong_answers": [
+        "sahara",
+        "kuwait-stadt",
+        "dallol",
+        "lut-wüste"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "Death Valley, einer der heißesten Orte der Erde, liegt in welchem US-Bundesstaat?",
+      "answers": [
+        "kalifornien"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "texas",
+        "utah"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "Welche iranische Wüste hat einige der heißesten Landoberflächentemperaturen der Erde verzeichnet?",
+      "answers": [
+        "lut-wüste",
+        "dasht-e lut",
+        "lut"
+      ],
+      "wrong_answers": [
+        "wüste gobi",
+        "thar-wüste",
+        "karakum",
+        "negev"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dallol, einer der heißesten bewohnten Orte der Erde im Jahresdurchschnitt, liegt in welchem Land?",
+      "answers": [
+        "äthiopien"
+      ],
+      "wrong_answers": [
+        "sudan",
+        "libyen",
+        "ägypten",
+        "somalia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "In welchem Land liegt die Sahara-Stadt Timbuktu?",
+      "answers": [
+        "mali"
+      ],
+      "wrong_answers": [
+        "niger",
+        "tschad",
+        "algerien",
+        "marokko"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "Wie nennt man eine anhaltende Periode übermäßig heißen Wetters?",
+      "answers": [
+        "hitzewelle",
+        "eine hitzewelle"
+      ],
+      "wrong_answers": [
+        "schneesturm",
+        "monsun",
+        "dürre",
+        "kälteeinbruch"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "Welches Golfland verzeichnete in Mitribah eine der höchsten Temperaturen Asiens?",
+      "answers": [
+        "kuwait"
+      ],
+      "wrong_answers": [
+        "katar",
+        "bahrain",
+        "oman",
+        "jemen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Venus ist der heißeste Planet vor allem wegen welchem wärmespeichernden Effekt?",
+      "answers": [
+        "treibhauseffekt",
+        "der treibhauseffekt"
+      ],
+      "wrong_answers": [
+        "corioliskraft",
+        "doppler-effekt",
+        "gezeiteneffekt",
+        "magnetischer effekt"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "Welches Gas ist die Hauptursache des Treibhauseffekts, der den Planeten erwärmt?",
+      "answers": [
+        "kohlendioxid",
+        "co2",
+        "kohlenstoffdioxid"
+      ],
+      "wrong_answers": [
+        "sauerstoff",
+        "stickstoff",
+        "helium",
+        "wasserstoff"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "Wie heißt der nördliche Wendekreis, der den Rand der heißen Zone markiert?",
+      "answers": [
+        "wendekreis des krebses",
+        "nördlicher wendekreis"
+      ],
+      "wrong_answers": [
+        "wendekreis des steinbocks",
+        "äquator",
+        "polarkreis",
+        "nullmeridian"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "Wie heißt der südliche Wendekreis, der die heiße Zone begrenzt?",
+      "answers": [
+        "wendekreis des steinbocks",
+        "südlicher wendekreis"
+      ],
+      "wrong_answers": [
+        "wendekreis des krebses",
+        "äquator",
+        "südlicher polarkreis",
+        "datumsgrenze"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "Wie nennt man einen heftigen Wüstensturm, der riesige Mengen Sand mit sich trägt?",
+      "answers": [
+        "sandsturm",
+        "ein sandsturm"
+      ],
+      "wrong_answers": [
+        "schneesturm",
+        "monsun",
+        "hurrikan",
+        "hagelsturm"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "Wie viel von Nordafrika bedeckt die Sahara ungefähr flächenmäßig?",
+      "answers": [
+        "das meiste",
+        "den größten teil"
+      ],
+      "wrong_answers": [
+        "ein zehntel",
+        "ein viertel",
+        "nichts",
+        "ein halbes prozent"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Azizia, das einst einen umstrittenen Hitzerekord hielt, liegt in welchem Land?",
+      "answers": [
+        "libyen"
+      ],
+      "wrong_answers": [
+        "tunesien",
+        "algerien",
+        "ägypten",
+        "marokko"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "Welcher gefährliche Zustand entsteht, wenn der Körper in der Hitze zu viel Wasser verliert?",
+      "answers": [
+        "dehydration",
+        "dehydrierung",
+        "austrocknung"
+      ],
+      "wrong_answers": [
+        "unterkühlung",
+        "erfrierung",
+        "entzündung",
+        "gehirnerschütterung"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "Welche chilenische Wüste ist einer der trockensten und heißesten Orte der Erde?",
+      "answers": [
+        "atacama",
+        "atacama-wüste"
+      ],
+      "wrong_answers": [
+        "patagonien",
+        "sahara",
+        "mojave",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "Welche natürliche Kühlreaktion produziert der Körper, wenn ihm zu heiß wird?",
+      "answers": [
+        "schwitzen",
+        "schweiß"
+      ],
+      "wrong_answers": [
+        "zittern",
+        "erröten",
+        "gähnen",
+        "niesen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "Welche in den USA gebräuchliche Temperaturskala setzt den Siedepunkt von Wasser auf 212 Grad?",
+      "answers": [
+        "fahrenheit"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "kelvin",
+        "réaumur",
+        "rankine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "Wie nennt man üblicherweise die langfristige Erwärmung des Erdklimas?",
+      "answers": [
+        "globale erwärmung",
+        "erderwärmung"
+      ],
+      "wrong_answers": [
+        "globale abkühlung",
+        "eiszeit",
+        "el niño",
+        "ozonloch"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "Wie nennt man die heißen, feuchten Wälder nahe dem Äquator mit starkem Regen?",
+      "answers": [
+        "regenwälder",
+        "tropische regenwälder",
+        "regenwald"
+      ],
+      "wrong_answers": [
+        "wüsten",
+        "grasländer",
+        "tundren",
+        "feuchtgebiete"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "Wie nennt man das heiße, baumlose Grasland Afrikas, in dem Löwen und Zebras leben?",
+      "answers": [
+        "savanne",
+        "die savanne"
+      ],
+      "wrong_answers": [
+        "tundra",
+        "taiga",
+        "prärie",
+        "steppe"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "Welches afrikanische Flusstal erlebt intensive Wüstenhitze, während es durch Ägypten fließt?",
+      "answers": [
+        "nil",
+        "der nil",
+        "niltal"
+      ],
+      "wrong_answers": [
+        "amazonas",
+        "kongo",
+        "donau",
+        "mekong"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "Welches afrikanische Land ist fast vollständig von der heißen Sahara bedeckt?",
+      "answers": [
+        "libyen",
+        "algerien"
+      ],
+      "wrong_answers": [
+        "kenia",
+        "ghana",
+        "uganda",
+        "senegal"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "Wie nennt man eine ernste Erkrankung, die durch Überhitzung des Körpers bei extremer Hitze entsteht?",
+      "answers": [
+        "hitzschlag"
+      ],
+      "wrong_answers": [
+        "unterkühlung",
+        "sonnenbrand",
+        "erfrierung",
+        "migräne"
       ],
       "category": "geography",
       "difficulty": "normal",

@@ -7673,24 +7673,6 @@
       "id": "35e2e675e983b4c47528760d12c67be1"
     },
     {
-      "question": "Which country built the great wall?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "china"
-      ],
-      "wrong_answers": [
-        "japan",
-        "india",
-        "mongolia",
-        "russia",
-        "vietnam"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "3ac62d28ce85f91973de152195b7c87b"
-    },
-    {
       "question": "What was the name of the ship that sank in 1912?",
       "points": 900,
       "language": "en",
@@ -11710,24 +11692,6 @@
       "id": "545a903fb7309053717c3ae2df815a57"
     },
     {
-      "question": "Which country gifted the Statue of Liberty to the United States?",
-      "points": 750,
-      "language": "en",
-      "answers": [
-        "france"
-      ],
-      "wrong_answers": [
-        "england",
-        "italy",
-        "spain",
-        "germany",
-        "canada"
-      ],
-      "category": "history",
-      "difficulty": "easy",
-      "id": "7fd0509e67f61811b55ab407755e5f24"
-    },
-    {
       "question": "In medieval times, what were armored warriors on horseback called?",
       "points": 650,
       "language": "en",
@@ -13459,25 +13423,6 @@
       "id": "00626787fc47c8aa9472869b0cb1597f"
     },
     {
-      "question": "How many days are in a week?",
-      "points": 700,
-      "language": "en",
-      "answers": [
-        "7",
-        "seven"
-      ],
-      "wrong_answers": [
-        "5",
-        "6",
-        "8",
-        "10",
-        "9"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "5e161e9070c999c7307b3a85759c0444"
-    },
-    {
       "question": "How many months are in a year?",
       "points": 700,
       "language": "en",
@@ -13495,25 +13440,6 @@
       "category": "math",
       "difficulty": "easy",
       "id": "ec40c8ee80397526f8c476ba06e44513"
-    },
-    {
-      "question": "How many hours are in a day?",
-      "points": 700,
-      "language": "en",
-      "answers": [
-        "24",
-        "twenty four"
-      ],
-      "wrong_answers": [
-        "12",
-        "18",
-        "20",
-        "30",
-        "48"
-      ],
-      "category": "math",
-      "difficulty": "easy",
-      "id": "a50318dc98c283bf7a658ef004fbc956"
     },
     {
       "question": "What shape has no corners?",
@@ -15237,24 +15163,6 @@
       "category": "nature",
       "difficulty": "easy",
       "id": "5cc437d0643922261e1a51582e36f6c9"
-    },
-    {
-      "question": "Which natural disaster is measured using the Richter scale?",
-      "points": 900,
-      "language": "en",
-      "answers": [
-        "earthquakes",
-        "earthquake"
-      ],
-      "wrong_answers": [
-        "tornadoes",
-        "hurricanes",
-        "tsunamis",
-        "volcanic eruptions"
-      ],
-      "category": "nature",
-      "difficulty": "easy",
-      "id": "41dc599f5176ed2673aa3ebdaac05cc7"
     },
     {
       "question": "Where does photosynthesis mainly occur within plant cells?",
@@ -46267,24 +46175,6 @@
       "id": "0de66a31689f4f5ccdb52c3b7bcd97a2"
     },
     {
-      "question": "What is the capital city of Spain?",
-      "answers": [
-        "madrid",
-        "madrid spain",
-        "madrid city"
-      ],
-      "wrong_answers": [
-        "madrid",
-        "alicante",
-        "lisbon"
-      ],
-      "category": "geography",
-      "difficulty": "easy",
-      "points": 700,
-      "language": "en",
-      "id": "f3e7070b1c178daaeec98779b070ab02"
-    },
-    {
       "question": "Who is known for the idea of Socialism?",
       "answers": [
         "karl marx",
@@ -70827,6 +70717,724 @@
         "puffin",
         "albatross",
         "arctic tern"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "9f731ef760562f24a734e521a25a4bfe",
+      "question": "What is the hottest continent on Earth on average?",
+      "answers": [
+        "africa"
+      ],
+      "wrong_answers": [
+        "antarctica",
+        "europe",
+        "north america",
+        "australia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "d617b61ccb0b41ba2d6165971ed1fb2d",
+      "question": "What is the boiling point of water in degrees Fahrenheit?",
+      "answers": [
+        "212",
+        "212 degrees"
+      ],
+      "wrong_answers": [
+        "100",
+        "32",
+        "180",
+        "250"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "e0f6c5d32955c14f0e73a024e33f8094",
+      "question": "What is the hottest season of the year?",
+      "answers": [
+        "summer"
+      ],
+      "wrong_answers": [
+        "winter",
+        "spring",
+        "autumn",
+        "monsoon"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "68a925707d2465a9f15c06cb8029b9d0",
+      "question": "What do we call a hot, dry region with very little rainfall?",
+      "answers": [
+        "desert",
+        "a desert"
+      ],
+      "wrong_answers": [
+        "jungle",
+        "swamp",
+        "tundra",
+        "prairie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "aa4e202744c7262841dd99b349889a7f",
+      "question": "Which animal is famous for surviving in hot deserts and storing fat in its humps?",
+      "answers": [
+        "camel",
+        "a camel"
+      ],
+      "wrong_answers": [
+        "horse",
+        "donkey",
+        "llama",
+        "elephant"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "dd887b9f046045b2ed818f14b9076cae",
+      "question": "What spiny plant is well known for surviving in hot deserts?",
+      "answers": [
+        "cactus",
+        "a cactus"
+      ],
+      "wrong_answers": [
+        "fern",
+        "palm tree",
+        "oak",
+        "moss"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "28714dd474afe8294465c57c91b642e9",
+      "question": "What is a fertile spot in a desert where water is found called?",
+      "answers": [
+        "oasis",
+        "an oasis"
+      ],
+      "wrong_answers": [
+        "dune",
+        "mirage",
+        "canyon",
+        "delta"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c33d05fb4c6adcb004fffb5239b74882",
+      "question": "What is the optical illusion of water seen on a hot desert road called?",
+      "answers": [
+        "mirage",
+        "a mirage"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "rainbow",
+        "shadow",
+        "reflection"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "405bf94ac4f468ceeee6b3d47231941b",
+      "question": "The imaginary line around the middle of the Earth, where it is hottest, is called what?",
+      "answers": [
+        "equator",
+        "the equator"
+      ],
+      "wrong_answers": [
+        "prime meridian",
+        "arctic circle",
+        "tropic of cancer",
+        "date line"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "764eed52dac248143f63c63ef3d0d3d3",
+      "question": "Which star provides heat and light to the Earth?",
+      "answers": [
+        "the sun",
+        "sun"
+      ],
+      "wrong_answers": [
+        "the moon",
+        "sirius",
+        "polaris",
+        "venus"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "229cc6a1ba98d57d312fdbc4652cee72",
+      "question": "What instrument is used to measure temperature?",
+      "answers": [
+        "thermometer",
+        "a thermometer"
+      ],
+      "wrong_answers": [
+        "barometer",
+        "compass",
+        "ruler",
+        "scale"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c5a46a441a148f547d4fb53a48184355",
+      "question": "Which colour of clothing helps keep you cooler in hot sunshine?",
+      "answers": [
+        "white"
+      ],
+      "wrong_answers": [
+        "black",
+        "dark blue",
+        "brown",
+        "dark grey"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "e3133c16fe42b9307f4bad815778f8ba",
+      "question": "Which country is the hot region of Death Valley located in?",
+      "answers": [
+        "united states",
+        "usa",
+        "the united states"
+      ],
+      "wrong_answers": [
+        "mexico",
+        "egypt",
+        "australia",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "745eceb74351ff30223814290f4c882b",
+      "question": "What is a hill of sand shaped by the wind in a desert called?",
+      "answers": [
+        "dune",
+        "a dune",
+        "sand dune"
+      ],
+      "wrong_answers": [
+        "oasis",
+        "cliff",
+        "valley",
+        "plateau"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "40f58fc187eb34e0f843a6ff09b53501",
+      "question": "The warm region on Earth between the two tropics is called what?",
+      "answers": [
+        "the tropics",
+        "tropics"
+      ],
+      "wrong_answers": [
+        "the arctic",
+        "the poles",
+        "temperate zone",
+        "the tundra"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "4c31b9c6d02c230fa683d35a6e4f2af2",
+      "question": "What painful red skin damage is caused by too much hot sun?",
+      "answers": [
+        "sunburn",
+        "a sunburn"
+      ],
+      "wrong_answers": [
+        "frostbite",
+        "rash",
+        "blister",
+        "bruise"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "49b2b3b760db26715adec9240492d928",
+      "question": "Where was the highest reliably recorded air temperature on Earth measured?",
+      "answers": [
+        "death valley",
+        "furnace creek"
+      ],
+      "wrong_answers": [
+        "sahara desert",
+        "kuwait city",
+        "dallol",
+        "lut desert"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "39adffeb8cf8d3f4949b07c4c445157e",
+      "question": "Death Valley, one of the hottest places on Earth, is in which US state?",
+      "answers": [
+        "california"
+      ],
+      "wrong_answers": [
+        "nevada",
+        "arizona",
+        "texas",
+        "utah"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "b3b22a361511ce7b1bdcc11ce7c0aa22",
+      "question": "Which Iranian desert has recorded some of the hottest land surface temperatures on Earth?",
+      "answers": [
+        "lut desert",
+        "dasht-e lut",
+        "lut"
+      ],
+      "wrong_answers": [
+        "gobi desert",
+        "thar desert",
+        "karakum",
+        "negev"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "18a1224f837ef6cadfd776843adee780",
+      "question": "Dallol, one of the hottest inhabited places on Earth by yearly average, is in which country?",
+      "answers": [
+        "ethiopia"
+      ],
+      "wrong_answers": [
+        "sudan",
+        "libya",
+        "egypt",
+        "somalia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4594d390110507838109908d8b4dcef8",
+      "question": "In which country is the Sahara city of Timbuktu located?",
+      "answers": [
+        "mali"
+      ],
+      "wrong_answers": [
+        "niger",
+        "chad",
+        "algeria",
+        "morocco"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4c531cfaacecc71a3ba198da5402a030",
+      "question": "What do we call a prolonged period of excessively hot weather?",
+      "answers": [
+        "heatwave",
+        "a heatwave",
+        "heat wave"
+      ],
+      "wrong_answers": [
+        "blizzard",
+        "monsoon",
+        "drought",
+        "cold snap"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "ec4617dc36e1f5afaa4b139226de3eb7",
+      "question": "Which Gulf country recorded one of Asia's highest temperatures at Mitribah?",
+      "answers": [
+        "kuwait"
+      ],
+      "wrong_answers": [
+        "qatar",
+        "bahrain",
+        "oman",
+        "yemen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "fb1779a7df6514db73d015c2332560ce",
+      "question": "Venus is the hottest planet mainly because of which effect trapping heat?",
+      "answers": [
+        "greenhouse effect",
+        "the greenhouse effect"
+      ],
+      "wrong_answers": [
+        "coriolis effect",
+        "doppler effect",
+        "tidal effect",
+        "magnetic effect"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "750ad04d766f8972f81030f48b8248b3",
+      "question": "Which gas is the main cause of the greenhouse effect that warms the planet?",
+      "answers": [
+        "carbon dioxide",
+        "co2"
+      ],
+      "wrong_answers": [
+        "oxygen",
+        "nitrogen",
+        "helium",
+        "hydrogen"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "5c6328e7a214fe571b63892c797773f6",
+      "question": "The northern tropic line, marking the hot zone's edge, is called what?",
+      "answers": [
+        "tropic of cancer",
+        "the tropic of cancer"
+      ],
+      "wrong_answers": [
+        "tropic of capricorn",
+        "equator",
+        "arctic circle",
+        "prime meridian"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "574c7e159a61dd57d2fd01405bae0735",
+      "question": "The southern tropic line bounding the hot zone is called what?",
+      "answers": [
+        "tropic of capricorn",
+        "the tropic of capricorn"
+      ],
+      "wrong_answers": [
+        "tropic of cancer",
+        "equator",
+        "antarctic circle",
+        "date line"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "f465c5939478961723d19caa73773f33",
+      "question": "What is a violent desert windstorm that carries huge amounts of sand called?",
+      "answers": [
+        "sandstorm",
+        "a sandstorm"
+      ],
+      "wrong_answers": [
+        "blizzard",
+        "monsoon",
+        "hurricane",
+        "hailstorm"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "ffdd9e410e83f28b4bb253e3c63e1a8b",
+      "question": "Roughly how much of North Africa does the Sahara Desert cover in area?",
+      "answers": [
+        "most",
+        "most of it",
+        "the majority"
+      ],
+      "wrong_answers": [
+        "a tenth",
+        "a quarter",
+        "none",
+        "half a percent"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0d244940f7023e3f1cb7ee98e8d3b31c",
+      "question": "El Azizia, which once held a disputed world heat record, is in which country?",
+      "answers": [
+        "libya"
+      ],
+      "wrong_answers": [
+        "tunisia",
+        "algeria",
+        "egypt",
+        "morocco"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0ce83789224c31328bb2902f8828d103",
+      "question": "What dangerous condition results from the body losing too much water in the heat?",
+      "answers": [
+        "dehydration"
+      ],
+      "wrong_answers": [
+        "hypothermia",
+        "frostbite",
+        "inflammation",
+        "concussion"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "3411cb66ed6a810dd24398dfc0bfc8cc",
+      "question": "Which Chilean desert is one of the driest and hottest places on Earth?",
+      "answers": [
+        "atacama",
+        "atacama desert"
+      ],
+      "wrong_answers": [
+        "patagonia",
+        "sahara",
+        "mojave",
+        "sonora"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4190daa511cae843cc3cd17084a9678b",
+      "question": "What is the natural cooling response the body produces when it gets too hot?",
+      "answers": [
+        "sweating",
+        "sweat",
+        "perspiration"
+      ],
+      "wrong_answers": [
+        "shivering",
+        "blushing",
+        "yawning",
+        "sneezing"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "72c654bb2743d57657e8a7bb469f2fc1",
+      "question": "What temperature scale, common in the United States, sets water's boiling point at 212 degrees?",
+      "answers": [
+        "fahrenheit"
+      ],
+      "wrong_answers": [
+        "celsius",
+        "kelvin",
+        "réaumur",
+        "rankine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "5287de5d323fd597a2620980a0157d67",
+      "question": "The long-term warming of Earth's climate is commonly called what?",
+      "answers": [
+        "global warming"
+      ],
+      "wrong_answers": [
+        "global cooling",
+        "ice age",
+        "el niño",
+        "ozone hole"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "dcf5b39bdf60ed9fb45f6c07ea05db7d",
+      "question": "The hot, wet forests near the equator with heavy rainfall are called what?",
+      "answers": [
+        "rainforests",
+        "tropical rainforests",
+        "rainforest"
+      ],
+      "wrong_answers": [
+        "deserts",
+        "grasslands",
+        "tundras",
+        "wetlands"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "fc3c9f15332b2c03853ec857bc8fe13f",
+      "question": "The hot, treeless grassland of Africa home to lions and zebras is called what?",
+      "answers": [
+        "savanna",
+        "savannah",
+        "the savanna"
+      ],
+      "wrong_answers": [
+        "tundra",
+        "taiga",
+        "prairie",
+        "steppe"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "20053c49840cae4680cf0040272e20cb",
+      "question": "Which African river valley experiences intense desert heat as it flows through Egypt?",
+      "answers": [
+        "nile",
+        "the nile",
+        "nile valley"
+      ],
+      "wrong_answers": [
+        "amazon",
+        "congo",
+        "danube",
+        "mekong"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "06d08d1099e040aede95971aa756e9a8",
+      "question": "Which African country is almost entirely covered by the hot Sahara Desert?",
+      "answers": [
+        "libya",
+        "algeria"
+      ],
+      "wrong_answers": [
+        "kenya",
+        "ghana",
+        "uganda",
+        "senegal"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "9c8c6137e6c177fdcfcc085432ad0bf9",
+      "question": "A serious illness caused by the body overheating in extreme heat is called what?",
+      "answers": [
+        "heatstroke",
+        "heat stroke"
+      ],
+      "wrong_answers": [
+        "hypothermia",
+        "sunburn",
+        "frostbite",
+        "migraine"
       ],
       "category": "geography",
       "difficulty": "normal",
