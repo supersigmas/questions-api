@@ -71440,6 +71440,1418 @@
       "difficulty": "normal",
       "points": 800,
       "language": "en"
+    },
+    {
+      "id": "e06a7a5d6bd4029b270116ce3fa5c5a5",
+      "question": "Which planet is famous for its bright rings?",
+      "answers": [
+        "saturn"
+      ],
+      "wrong_answers": [
+        "jupiter",
+        "mars",
+        "venus",
+        "mercury"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "dd57d6a70e6accec053afd6f7102a958",
+      "question": "What is the name of Earth's only natural satellite?",
+      "answers": [
+        "the moon",
+        "moon",
+        "luna"
+      ],
+      "wrong_answers": [
+        "phobos",
+        "titan",
+        "europa",
+        "io"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "113b436fab61fe3c233c92ad765c45a3",
+      "question": "Which planet do we live on?",
+      "answers": [
+        "earth"
+      ],
+      "wrong_answers": [
+        "mars",
+        "venus",
+        "jupiter",
+        "saturn"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "32303032d717a1070aa1be6fb888563b",
+      "question": "What is at the centre of our solar system?",
+      "answers": [
+        "the sun",
+        "sun"
+      ],
+      "wrong_answers": [
+        "the earth",
+        "the moon",
+        "jupiter",
+        "a black hole"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "39e060a28acaba8f717b20442c6e31c3",
+      "question": "Which planet was reclassified as a dwarf planet in 2006?",
+      "answers": [
+        "pluto"
+      ],
+      "wrong_answers": [
+        "neptune",
+        "ceres",
+        "mercury",
+        "eris"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "6e677a584c660f537e3148de8e45c8b3",
+      "question": "Which planet is the farthest from the Sun?",
+      "answers": [
+        "neptune"
+      ],
+      "wrong_answers": [
+        "uranus",
+        "pluto",
+        "saturn",
+        "jupiter"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "1583e32d8af2e7ab2536abec44a2aa5b",
+      "question": "What do we call a rock from space that burns up in Earth's atmosphere?",
+      "answers": [
+        "meteor",
+        "a meteor",
+        "shooting star"
+      ],
+      "wrong_answers": [
+        "comet",
+        "satellite",
+        "planet",
+        "star"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "f37bf98164ae61c44d0b642036737708",
+      "question": "What is a space object with a long glowing tail called?",
+      "answers": [
+        "comet",
+        "a comet"
+      ],
+      "wrong_answers": [
+        "asteroid",
+        "planet",
+        "moon",
+        "galaxy"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "2a8a27133655b0d9c49dbb875acd116c",
+      "question": "What galaxy is our solar system part of?",
+      "answers": [
+        "the milky way",
+        "milky way"
+      ],
+      "wrong_answers": [
+        "andromeda",
+        "triangulum",
+        "sombrero",
+        "whirlpool"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "135c101c9b5588898c4a6fe817c868ec",
+      "question": "Who was the first human to walk on the Moon?",
+      "answers": [
+        "neil armstrong",
+        "armstrong"
+      ],
+      "wrong_answers": [
+        "buzz aldrin",
+        "yuri gagarin",
+        "michael collins",
+        "john glenn"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "18cbe31501ffd73cf69b68f587aed91c",
+      "question": "What do we call a natural object that orbits a planet?",
+      "answers": [
+        "moon",
+        "a moon",
+        "satellite"
+      ],
+      "wrong_answers": [
+        "star",
+        "comet",
+        "asteroid",
+        "galaxy"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "f32211d95b2a6f9e2ea79c87453e0e66",
+      "question": "What space agency landed the first humans on the Moon?",
+      "answers": [
+        "nasa"
+      ],
+      "wrong_answers": [
+        "esa",
+        "roscosmos",
+        "isro",
+        "spacex"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "eef83762a71eebb8a968f14b202926f1",
+      "question": "What is the Sun mostly made of?",
+      "answers": [
+        "hydrogen",
+        "hydrogen and helium"
+      ],
+      "wrong_answers": [
+        "oxygen",
+        "iron",
+        "rock",
+        "water"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "7f870419b0faae79a48d9c49647da39e",
+      "question": "Roughly how many days does Earth take to orbit the Sun?",
+      "answers": [
+        "365",
+        "365 days",
+        "a year"
+      ],
+      "wrong_answers": [
+        "30",
+        "100",
+        "500",
+        "1000"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "0a394d70c5be7e7a2bd9867a327552c7",
+      "question": "Which planet is tilted on its side and rotates almost lying down?",
+      "answers": [
+        "uranus"
+      ],
+      "wrong_answers": [
+        "neptune",
+        "saturn",
+        "venus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "f879b817d9f93c571130562966a73601",
+      "question": "What is the giant storm on Jupiter called?",
+      "answers": [
+        "the great red spot",
+        "great red spot"
+      ],
+      "wrong_answers": [
+        "the great dark spot",
+        "the eye of jupiter",
+        "the red storm",
+        "the big swirl"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0039d947b15c4e70f3b675b71c218640",
+      "question": "Which planet has the shortest day in the solar system?",
+      "answers": [
+        "jupiter"
+      ],
+      "wrong_answers": [
+        "mercury",
+        "earth",
+        "venus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "3bfe6614a3a1a802493f74cbe0928540",
+      "question": "Which moon is the largest in the entire solar system?",
+      "answers": [
+        "ganymede"
+      ],
+      "wrong_answers": [
+        "titan",
+        "callisto",
+        "the moon",
+        "io"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "2ac9b2c13427b6d96fa66d7696a9b0cf",
+      "question": "Which planet rotates in the opposite direction to most other planets?",
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "mars",
+        "mercury",
+        "jupiter",
+        "neptune"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "bbbb5c567ce179098d34166991842a43",
+      "question": "What is the tallest volcano in the solar system called?",
+      "answers": [
+        "olympus mons"
+      ],
+      "wrong_answers": [
+        "mauna kea",
+        "mount everest",
+        "valles marineris",
+        "mons huygens"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "cd7b3d53660566e11369536af3fac168",
+      "question": "On which planet is the giant canyon Valles Marineris found?",
+      "answers": [
+        "mars"
+      ],
+      "wrong_answers": [
+        "venus",
+        "mercury",
+        "earth",
+        "titan"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "e910624c7466a58875da0e1937b34a2a",
+      "question": "How many moons does Mars have?",
+      "answers": [
+        "2",
+        "two"
+      ],
+      "wrong_answers": [
+        "1",
+        "0",
+        "4",
+        "12"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "8eab6b0af7178e33a3d75c997a4be778",
+      "question": "What are the two moons of Mars named?",
+      "answers": [
+        "phobos and deimos",
+        "phobos, deimos"
+      ],
+      "wrong_answers": [
+        "titan and rhea",
+        "io and europa",
+        "castor and pollux",
+        "romulus and remus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "8d8a8fc452efe56364d93ba8ef142e80",
+      "question": "Which icy moon of Jupiter is thought to hide an ocean beneath its crust?",
+      "answers": [
+        "europa"
+      ],
+      "wrong_answers": [
+        "io",
+        "callisto",
+        "titan",
+        "triton"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "a6fc538f8e6a62617c0b25f28367fffa",
+      "question": "Which planet is sometimes called Earth's twin because of its similar size?",
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "mars",
+        "mercury",
+        "neptune",
+        "uranus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "40583e595edef0e369d7654abfe585a8",
+      "question": "What are the four planets closest to the Sun collectively called?",
+      "answers": [
+        "terrestrial planets",
+        "rocky planets",
+        "inner planets"
+      ],
+      "wrong_answers": [
+        "gas giants",
+        "ice giants",
+        "dwarf planets",
+        "outer planets"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "8775881597afb08c0b2b7f236fa3579f",
+      "question": "Jupiter and Saturn are classified as what type of planet?",
+      "answers": [
+        "gas giants",
+        "gas giant"
+      ],
+      "wrong_answers": [
+        "rocky planets",
+        "dwarf planets",
+        "ice planets",
+        "terrestrial planets"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "99e81790d30938e6ac995fc0c4e7aeeb",
+      "question": "Which spacecraft mission first landed humans on the Moon in 1969?",
+      "answers": [
+        "apollo 11",
+        "apollo eleven"
+      ],
+      "wrong_answers": [
+        "apollo 13",
+        "gemini 4",
+        "vostok 1",
+        "soyuz 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "b0b84ce6bd1de4ac8578784624b0e025",
+      "question": "Who was the first human to travel into space?",
+      "answers": [
+        "yuri gagarin",
+        "gagarin"
+      ],
+      "wrong_answers": [
+        "neil armstrong",
+        "alan shepard",
+        "john glenn",
+        "valentina tereshkova"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "7de9101c02de2ccc92fc91cbbaea4f03",
+      "question": "Roughly how long does sunlight take to reach the Earth?",
+      "answers": [
+        "8 minutes",
+        "about 8 minutes",
+        "eight minutes"
+      ],
+      "wrong_answers": [
+        "1 second",
+        "1 hour",
+        "1 day",
+        "30 seconds"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "e275f62abe59182157c6199451ccf728",
+      "question": "What happens during a solar eclipse?",
+      "answers": [
+        "the moon blocks the sun",
+        "moon passes in front of the sun"
+      ],
+      "wrong_answers": [
+        "the earth blocks the sun",
+        "the sun turns off",
+        "the moon turns red",
+        "the earth stops spinning"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "c785daf863f948886ee506a24f662d44",
+      "question": "Which planet has the strongest winds in the solar system?",
+      "answers": [
+        "neptune"
+      ],
+      "wrong_answers": [
+        "jupiter",
+        "saturn",
+        "uranus",
+        "venus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0c350ef4724b1f78d4f8e13c3318e5a6",
+      "question": "What is the most volcanically active body in the solar system?",
+      "answers": [
+        "io"
+      ],
+      "wrong_answers": [
+        "europa",
+        "titan",
+        "venus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "a43e99cd1f8d222295cb2b805a182553",
+      "question": "What is the largest object in the asteroid belt?",
+      "answers": [
+        "ceres"
+      ],
+      "wrong_answers": [
+        "vesta",
+        "pallas",
+        "eros",
+        "juno"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "2ecb1053725a7cd92c53c27d8bf741c4",
+      "question": "Which planet takes the longest time to orbit the Sun?",
+      "answers": [
+        "neptune"
+      ],
+      "wrong_answers": [
+        "uranus",
+        "saturn",
+        "jupiter",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "2f9b08d9fc252721b75404ee9f629ce7",
+      "question": "What is the boundary region of icy bodies beyond Neptune called?",
+      "answers": [
+        "kuiper belt",
+        "the kuiper belt"
+      ],
+      "wrong_answers": [
+        "asteroid belt",
+        "oort cloud",
+        "van allen belt",
+        "heliosphere"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "0434162b85d07d24dc2259d92e188383",
+      "question": "Which planet has a day longer than its year?",
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "mercury",
+        "mars",
+        "uranus",
+        "neptune"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "865df54cce814880f286861ec2c2f569",
+      "question": "What was the first artificial satellite launched into space?",
+      "answers": [
+        "sputnik",
+        "sputnik 1"
+      ],
+      "wrong_answers": [
+        "explorer 1",
+        "vostok 1",
+        "apollo 1",
+        "voyager 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "e32eaa3200267661f23b39cf07794226",
+      "question": "Which spacecraft is the most distant human-made object from Earth?",
+      "answers": [
+        "voyager 1",
+        "voyager"
+      ],
+      "wrong_answers": [
+        "voyager 2",
+        "pioneer 10",
+        "new horizons",
+        "cassini"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "ca895bf5fa3f0fc8b4e0cce36b089f94",
+      "question": "Which two planets have no moons at all?",
+      "answers": [
+        "mercury and venus",
+        "venus and mercury"
+      ],
+      "wrong_answers": [
+        "mars and earth",
+        "uranus and neptune",
+        "jupiter and saturn",
+        "earth and venus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "25c9f86b7288e7d58b6bbc5a0cd10e07",
+      "question": "Which mountain range runs along the western edge of South America?",
+      "answers": [
+        "the andes",
+        "andes"
+      ],
+      "wrong_answers": [
+        "the alps",
+        "the rockies",
+        "the himalayas",
+        "the urals"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "05e710c48b0911d733b87dfedd8c9df8",
+      "question": "What is the capital city of Argentina?",
+      "answers": [
+        "buenos aires"
+      ],
+      "wrong_answers": [
+        "santiago",
+        "montevideo",
+        "lima",
+        "asunción"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "95eaa6861af7ef2b58b5fdc37d20417f",
+      "question": "What is the capital city of Peru?",
+      "answers": [
+        "lima"
+      ],
+      "wrong_answers": [
+        "quito",
+        "la paz",
+        "bogotá",
+        "santiago"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "867a7e43f031adf3054940e2b0543a8a",
+      "question": "Which language is most widely spoken in Brazil?",
+      "answers": [
+        "portuguese"
+      ],
+      "wrong_answers": [
+        "spanish",
+        "english",
+        "french",
+        "italian"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "038505a8af0179518be4af90a71c0dc6",
+      "question": "In which South American country is Machu Picchu located?",
+      "answers": [
+        "peru"
+      ],
+      "wrong_answers": [
+        "bolivia",
+        "chile",
+        "ecuador",
+        "colombia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c7e40b364019f6735f2acd477f7b3dbc",
+      "question": "Which long, narrow country stretches down the west coast of South America?",
+      "answers": [
+        "chile"
+      ],
+      "wrong_answers": [
+        "peru",
+        "argentina",
+        "ecuador",
+        "colombia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "cec9a554ee9206ba79bea599b30e8db1",
+      "question": "Which South American country is named after the equator that crosses it?",
+      "answers": [
+        "ecuador"
+      ],
+      "wrong_answers": [
+        "colombia",
+        "peru",
+        "brazil",
+        "venezuela"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "93a50ea6496dd50e4bb80eafb6d6afc8",
+      "question": "Which country is famous for the tango dance and gaucho cowboys?",
+      "answers": [
+        "argentina"
+      ],
+      "wrong_answers": [
+        "brazil",
+        "peru",
+        "chile",
+        "colombia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "3a2c31ed414e7d3a3f44a70992795edb",
+      "question": "Which large rainforest covers much of northern South America?",
+      "answers": [
+        "the amazon",
+        "amazon rainforest",
+        "amazon"
+      ],
+      "wrong_answers": [
+        "the congo",
+        "the taiga",
+        "borneo rainforest",
+        "the everglades"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "2957950dcb6fbaaadbe3168c7da6af04",
+      "question": "Which colourful bird with a huge beak lives in South American rainforests?",
+      "answers": [
+        "toucan",
+        "a toucan"
+      ],
+      "wrong_answers": [
+        "penguin",
+        "ostrich",
+        "flamingo",
+        "owl"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "0a765c8638a0ecc5c0c208cd2ce7670d",
+      "question": "Which woolly animal from the Andes is kept for its soft wool?",
+      "answers": [
+        "llama",
+        "alpaca"
+      ],
+      "wrong_answers": [
+        "camel",
+        "goat",
+        "yak",
+        "donkey"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "ac8e4a6c6d3e1b7693172e5a95927185",
+      "question": "Which South American country is famous for coffee and the city of Medellín?",
+      "answers": [
+        "colombia"
+      ],
+      "wrong_answers": [
+        "venezuela",
+        "ecuador",
+        "peru",
+        "bolivia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "c072f1e5f28e12492bd160a52630a0b7",
+      "question": "What is the capital city of Chile?",
+      "answers": [
+        "santiago"
+      ],
+      "wrong_answers": [
+        "valparaíso",
+        "lima",
+        "buenos aires",
+        "montevideo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "5c240ae173fa74c3ce4848425d44ce83",
+      "question": "Which ocean lies along the eastern coast of South America?",
+      "answers": [
+        "atlantic ocean",
+        "the atlantic"
+      ],
+      "wrong_answers": [
+        "pacific ocean",
+        "indian ocean",
+        "arctic ocean",
+        "southern ocean"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "2fdabf04a6bbfcfc9c17337c2d387f6a",
+      "question": "Which South American country hosted and won the first football World Cup?",
+      "answers": [
+        "uruguay"
+      ],
+      "wrong_answers": [
+        "brazil",
+        "argentina",
+        "chile",
+        "peru"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "88c241fb6d6678aa7c61904310b952a9",
+      "question": "What is the capital city of Colombia?",
+      "answers": [
+        "bogotá",
+        "bogota"
+      ],
+      "wrong_answers": [
+        "medellín",
+        "cali",
+        "caracas",
+        "quito"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "b5bdf0aaee69ef0613f79966b26bebc2",
+      "question": "Which islands famous for unique wildlife belong to Ecuador?",
+      "answers": [
+        "galápagos",
+        "galapagos islands",
+        "the galápagos"
+      ],
+      "wrong_answers": [
+        "falkland islands",
+        "canary islands",
+        "azores",
+        "easter island"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "2efbbd65e961c8f166f4a22c14067882",
+      "question": "Which country is the largest in South America by area?",
+      "answers": [
+        "brazil"
+      ],
+      "wrong_answers": [
+        "argentina",
+        "peru",
+        "colombia",
+        "bolivia"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "4cb24cdf8412b8eaf66b6b9dba5a8525",
+      "question": "Which colourful festival with parades and samba is held every year in Brazil?",
+      "answers": [
+        "carnival",
+        "carnaval",
+        "rio carnival"
+      ],
+      "wrong_answers": [
+        "oktoberfest",
+        "diwali",
+        "holi",
+        "mardi gras"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "f43acf3f412a6204489fb471d43ac6a0",
+      "question": "What is the highest waterfall in the world, found in Venezuela?",
+      "answers": [
+        "angel falls",
+        "salto ángel"
+      ],
+      "wrong_answers": [
+        "niagara falls",
+        "iguazu falls",
+        "victoria falls",
+        "tugela falls"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "daef70df4e77f4c1284fa699e1eedc43",
+      "question": "Which ancient empire built Machu Picchu high in the Andes?",
+      "answers": [
+        "the inca",
+        "inca empire",
+        "incas"
+      ],
+      "wrong_answers": [
+        "the aztec",
+        "the maya",
+        "the olmec",
+        "the roman empire"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "b3246fae3c3e36764e2c2d47142eda8b",
+      "question": "Which lake high in the Andes is the highest large navigable lake in the world?",
+      "answers": [
+        "lake titicaca",
+        "titicaca"
+      ],
+      "wrong_answers": [
+        "lake baikal",
+        "lake victoria",
+        "lake maracaibo",
+        "lake poopó"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "22286c6c028ac9b4febfd2ecbc2f96aa",
+      "question": "Which two landlocked countries are found in South America?",
+      "answers": [
+        "bolivia and paraguay",
+        "paraguay and bolivia"
+      ],
+      "wrong_answers": [
+        "chile and peru",
+        "ecuador and uruguay",
+        "brazil and guyana",
+        "colombia and venezuela"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "d08e015f599b30e2919034cb702fecdc",
+      "question": "What is the highest mountain in South America?",
+      "answers": [
+        "aconcagua",
+        "mount aconcagua"
+      ],
+      "wrong_answers": [
+        "chimborazo",
+        "huascarán",
+        "ojos del salado",
+        "illimani"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "1f615ffd2b22f88c3b7d2295085224e9",
+      "question": "Bolivia's Salar de Uyuni is the world's largest what?",
+      "answers": [
+        "salt flat",
+        "salt flats"
+      ],
+      "wrong_answers": [
+        "sand desert",
+        "glacier",
+        "crater",
+        "swamp"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "647b61f2cd7cf2dcdd6c8bfceaf507ba",
+      "question": "Which southern region shared by Chile and Argentina is known for glaciers and steppe?",
+      "answers": [
+        "patagonia"
+      ],
+      "wrong_answers": [
+        "amazonia",
+        "pampas",
+        "gran chaco",
+        "altiplano"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "f647f5639a0e42242d441b768c5940a1",
+      "question": "What are the vast fertile grasslands of Argentina called?",
+      "answers": [
+        "the pampas",
+        "pampas"
+      ],
+      "wrong_answers": [
+        "the prairies",
+        "the steppes",
+        "the savanna",
+        "the outback"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4057bfc326abad782d617bc13047f7cb",
+      "question": "The Iguazu Falls lie on the border between which two countries?",
+      "answers": [
+        "argentina and brazil",
+        "brazil and argentina"
+      ],
+      "wrong_answers": [
+        "chile and peru",
+        "bolivia and paraguay",
+        "colombia and ecuador",
+        "uruguay and argentina"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "48d3420d9951855c0597e46c8bea53ea",
+      "question": "Which country has the highest capital city in the world at over 3600 metres?",
+      "answers": [
+        "bolivia"
+      ],
+      "wrong_answers": [
+        "peru",
+        "ecuador",
+        "colombia",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "cffc6d71a914a69a9805eb1cb1791d5e",
+      "question": "What is the capital city of Venezuela?",
+      "answers": [
+        "caracas"
+      ],
+      "wrong_answers": [
+        "maracaibo",
+        "bogotá",
+        "georgetown",
+        "quito"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "1909e770d6ac46e44e639804f880a7aa",
+      "question": "Which large snake of South American swamps is among the heaviest in the world?",
+      "answers": [
+        "anaconda",
+        "green anaconda"
+      ],
+      "wrong_answers": [
+        "python",
+        "cobra",
+        "boa constrictor",
+        "viper"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "5b08b3cd68a252b66a60ff917dc4f679",
+      "question": "Which South American country was named after the explorer Christopher Columbus?",
+      "answers": [
+        "colombia"
+      ],
+      "wrong_answers": [
+        "venezuela",
+        "bolivia",
+        "ecuador",
+        "peru"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "7b5bcb154987e1f46c737d284da621bb",
+      "question": "Which country is Bolivia named after?",
+      "answers": [
+        "after simón bolívar",
+        "simón bolívar",
+        "bolívar"
+      ],
+      "wrong_answers": [
+        "after columbus",
+        "after pizarro",
+        "after magellan",
+        "after cortés"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "4bb19f6a56da4738d09e1e0e8e65b584",
+      "question": "What is the capital city of Uruguay?",
+      "answers": [
+        "montevideo"
+      ],
+      "wrong_answers": [
+        "asunción",
+        "buenos aires",
+        "santiago",
+        "la paz"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "3ec6f888f2056559fa0327cb96f97e62",
+      "question": "Which small fish with sharp teeth is famous in Amazon rivers?",
+      "answers": [
+        "piranha"
+      ],
+      "wrong_answers": [
+        "shark",
+        "catfish",
+        "salmon",
+        "trout"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "d81f3cbd83662b63714f6e9315c5d765",
+      "question": "Which South American country has Georgetown as its capital?",
+      "answers": [
+        "guyana"
+      ],
+      "wrong_answers": [
+        "suriname",
+        "venezuela",
+        "brazil",
+        "paraguay"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "82eb0fe69ed37fe672df1a916cdc4824",
+      "question": "Which country is the largest producer of coffee in South America?",
+      "answers": [
+        "brazil"
+      ],
+      "wrong_answers": [
+        "colombia",
+        "peru",
+        "ecuador",
+        "bolivia"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "730b4ff8db2ad3bed9b22cb9010c5d05",
+      "question": "The mysterious Nazca Lines are giant drawings found in which country?",
+      "answers": [
+        "peru"
+      ],
+      "wrong_answers": [
+        "chile",
+        "bolivia",
+        "mexico",
+        "brazil"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "en"
+    },
+    {
+      "id": "9766fc00beb75cd25f3f909db7765119",
+      "question": "Which South American country is shaped like a long chilli pepper along the Pacific?",
+      "answers": [
+        "chile"
+      ],
+      "wrong_answers": [
+        "peru",
+        "ecuador",
+        "colombia",
+        "brazil"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
+    },
+    {
+      "id": "f755b93548254d547392a162339e94be",
+      "question": "What is the most popular sport in South America?",
+      "answers": [
+        "football",
+        "soccer"
+      ],
+      "wrong_answers": [
+        "cricket",
+        "ice hockey",
+        "baseball",
+        "rugby"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "en"
     }
   ]
 }

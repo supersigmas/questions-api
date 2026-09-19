@@ -70606,6 +70606,1412 @@
       "difficulty": "normal",
       "points": 800,
       "language": "fr"
+    },
+    {
+      "id": "e06a7a5d6bd4029b270116ce3fa5c5a5",
+      "question": "Quelle planète est célèbre pour ses anneaux brillants ?",
+      "answers": [
+        "saturne"
+      ],
+      "wrong_answers": [
+        "jupiter",
+        "mars",
+        "vénus",
+        "mercure"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "dd57d6a70e6accec053afd6f7102a958",
+      "question": "Comment s'appelle le seul satellite naturel de la Terre ?",
+      "answers": [
+        "la lune",
+        "lune"
+      ],
+      "wrong_answers": [
+        "phobos",
+        "titan",
+        "europe",
+        "io"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "113b436fab61fe3c233c92ad765c45a3",
+      "question": "Sur quelle planète vivons-nous ?",
+      "answers": [
+        "terre",
+        "la terre"
+      ],
+      "wrong_answers": [
+        "mars",
+        "vénus",
+        "jupiter",
+        "saturne"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "32303032d717a1070aa1be6fb888563b",
+      "question": "Qu'y a-t-il au centre de notre système solaire ?",
+      "answers": [
+        "le soleil",
+        "soleil"
+      ],
+      "wrong_answers": [
+        "la terre",
+        "la lune",
+        "jupiter",
+        "un trou noir"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "39e060a28acaba8f717b20442c6e31c3",
+      "question": "Quelle planète a été reclassée comme planète naine en 2006 ?",
+      "answers": [
+        "pluton"
+      ],
+      "wrong_answers": [
+        "neptune",
+        "cérès",
+        "mercure",
+        "éris"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "6e677a584c660f537e3148de8e45c8b3",
+      "question": "Quelle planète est la plus éloignée du Soleil ?",
+      "answers": [
+        "neptune"
+      ],
+      "wrong_answers": [
+        "uranus",
+        "pluton",
+        "saturne",
+        "jupiter"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "1583e32d8af2e7ab2536abec44a2aa5b",
+      "question": "Comment appelle-t-on une roche venue de l'espace qui se consume dans l'atmosphère terrestre ?",
+      "answers": [
+        "météore",
+        "étoile filante"
+      ],
+      "wrong_answers": [
+        "comète",
+        "satellite",
+        "planète",
+        "étoile"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f37bf98164ae61c44d0b642036737708",
+      "question": "Comment appelle-t-on un objet spatial avec une longue queue brillante ?",
+      "answers": [
+        "comète",
+        "une comète"
+      ],
+      "wrong_answers": [
+        "astéroïde",
+        "planète",
+        "lune",
+        "galaxie"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "2a8a27133655b0d9c49dbb875acd116c",
+      "question": "De quelle galaxie notre système solaire fait-il partie ?",
+      "answers": [
+        "la voie lactée",
+        "voie lactée"
+      ],
+      "wrong_answers": [
+        "andromède",
+        "triangle",
+        "sombrero",
+        "tourbillon"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "135c101c9b5588898c4a6fe817c868ec",
+      "question": "Qui a été le premier homme à marcher sur la Lune ?",
+      "answers": [
+        "neil armstrong",
+        "armstrong"
+      ],
+      "wrong_answers": [
+        "buzz aldrin",
+        "youri gagarine",
+        "michael collins",
+        "john glenn"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "18cbe31501ffd73cf69b68f587aed91c",
+      "question": "Comment appelle-t-on un objet naturel qui orbite autour d'une planète ?",
+      "answers": [
+        "lune",
+        "satellite"
+      ],
+      "wrong_answers": [
+        "étoile",
+        "comète",
+        "astéroïde",
+        "galaxie"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f32211d95b2a6f9e2ea79c87453e0e66",
+      "question": "Quelle agence spatiale a posé les premiers humains sur la Lune ?",
+      "answers": [
+        "nasa"
+      ],
+      "wrong_answers": [
+        "esa",
+        "roscosmos",
+        "isro",
+        "spacex"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "eef83762a71eebb8a968f14b202926f1",
+      "question": "De quoi le Soleil est-il principalement composé ?",
+      "answers": [
+        "hydrogène",
+        "hydrogène et hélium"
+      ],
+      "wrong_answers": [
+        "oxygène",
+        "fer",
+        "roche",
+        "eau"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "7f870419b0faae79a48d9c49647da39e",
+      "question": "Combien de jours la Terre met-elle environ pour faire le tour du Soleil ?",
+      "answers": [
+        "365",
+        "365 jours",
+        "un an"
+      ],
+      "wrong_answers": [
+        "30",
+        "100",
+        "500",
+        "1000"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "0a394d70c5be7e7a2bd9867a327552c7",
+      "question": "Quelle planète est inclinée sur le côté et tourne presque couchée ?",
+      "answers": [
+        "uranus"
+      ],
+      "wrong_answers": [
+        "neptune",
+        "saturne",
+        "vénus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "f879b817d9f93c571130562966a73601",
+      "question": "Comment s'appelle la gigantesque tempête de Jupiter ?",
+      "answers": [
+        "la grande tache rouge",
+        "grande tache rouge"
+      ],
+      "wrong_answers": [
+        "la grande tache sombre",
+        "l'œil de jupiter",
+        "la tempête rouge",
+        "le grand tourbillon"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0039d947b15c4e70f3b675b71c218640",
+      "question": "Quelle planète a la journée la plus courte du système solaire ?",
+      "answers": [
+        "jupiter"
+      ],
+      "wrong_answers": [
+        "mercure",
+        "terre",
+        "vénus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "3bfe6614a3a1a802493f74cbe0928540",
+      "question": "Quelle lune est la plus grande de tout le système solaire ?",
+      "answers": [
+        "ganymède"
+      ],
+      "wrong_answers": [
+        "titan",
+        "callisto",
+        "la lune",
+        "io"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2ac9b2c13427b6d96fa66d7696a9b0cf",
+      "question": "Quelle planète tourne dans le sens inverse de la plupart des autres planètes ?",
+      "answers": [
+        "vénus"
+      ],
+      "wrong_answers": [
+        "mars",
+        "mercure",
+        "jupiter",
+        "neptune"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "bbbb5c567ce179098d34166991842a43",
+      "question": "Comment s'appelle le plus haut volcan du système solaire ?",
+      "answers": [
+        "olympus mons",
+        "mont olympe"
+      ],
+      "wrong_answers": [
+        "mauna kea",
+        "mont everest",
+        "valles marineris",
+        "mons huygens"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "cd7b3d53660566e11369536af3fac168",
+      "question": "Sur quelle planète se trouve le gigantesque canyon Valles Marineris ?",
+      "answers": [
+        "mars"
+      ],
+      "wrong_answers": [
+        "vénus",
+        "mercure",
+        "terre",
+        "titan"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "e910624c7466a58875da0e1937b34a2a",
+      "question": "Combien de lunes Mars possède-t-elle ?",
+      "answers": [
+        "2",
+        "deux"
+      ],
+      "wrong_answers": [
+        "1",
+        "0",
+        "4",
+        "12"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "8eab6b0af7178e33a3d75c997a4be778",
+      "question": "Comment s'appellent les deux lunes de Mars ?",
+      "answers": [
+        "phobos et déimos"
+      ],
+      "wrong_answers": [
+        "titan et rhéa",
+        "io et europe",
+        "castor et pollux",
+        "romulus et rémus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "8d8a8fc452efe56364d93ba8ef142e80",
+      "question": "Quelle lune glacée de Jupiter cacherait un océan sous sa croûte ?",
+      "answers": [
+        "europe"
+      ],
+      "wrong_answers": [
+        "io",
+        "callisto",
+        "titan",
+        "triton"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "a6fc538f8e6a62617c0b25f28367fffa",
+      "question": "Quelle planète est parfois appelée la jumelle de la Terre en raison de sa taille similaire ?",
+      "answers": [
+        "vénus"
+      ],
+      "wrong_answers": [
+        "mars",
+        "mercure",
+        "neptune",
+        "uranus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "40583e595edef0e369d7654abfe585a8",
+      "question": "Comment appelle-t-on collectivement les quatre planètes les plus proches du Soleil ?",
+      "answers": [
+        "planètes telluriques",
+        "planètes rocheuses",
+        "planètes internes"
+      ],
+      "wrong_answers": [
+        "géantes gazeuses",
+        "géantes de glace",
+        "planètes naines",
+        "planètes externes"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "8775881597afb08c0b2b7f236fa3579f",
+      "question": "Jupiter et Saturne sont classées comme quel type de planète ?",
+      "answers": [
+        "géantes gazeuses",
+        "géante gazeuse"
+      ],
+      "wrong_answers": [
+        "planètes rocheuses",
+        "planètes naines",
+        "planètes de glace",
+        "planètes telluriques"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "99e81790d30938e6ac995fc0c4e7aeeb",
+      "question": "Quelle mission spatiale a posé pour la première fois des humains sur la Lune en 1969 ?",
+      "answers": [
+        "apollo 11"
+      ],
+      "wrong_answers": [
+        "apollo 13",
+        "gemini 4",
+        "vostok 1",
+        "soyouz 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "b0b84ce6bd1de4ac8578784624b0e025",
+      "question": "Qui a été le premier humain à voyager dans l'espace ?",
+      "answers": [
+        "youri gagarine",
+        "gagarine"
+      ],
+      "wrong_answers": [
+        "neil armstrong",
+        "alan shepard",
+        "john glenn",
+        "valentina terechkova"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "7de9101c02de2ccc92fc91cbbaea4f03",
+      "question": "Combien de temps la lumière du Soleil met-elle environ pour atteindre la Terre ?",
+      "answers": [
+        "8 minutes",
+        "environ 8 minutes",
+        "huit minutes"
+      ],
+      "wrong_answers": [
+        "1 seconde",
+        "1 heure",
+        "1 jour",
+        "30 secondes"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "e275f62abe59182157c6199451ccf728",
+      "question": "Que se passe-t-il pendant une éclipse solaire ?",
+      "answers": [
+        "la lune cache le soleil",
+        "la lune passe devant le soleil"
+      ],
+      "wrong_answers": [
+        "la terre cache le soleil",
+        "le soleil s'éteint",
+        "la lune devient rouge",
+        "la terre arrête de tourner"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "c785daf863f948886ee506a24f662d44",
+      "question": "Quelle planète a les vents les plus violents du système solaire ?",
+      "answers": [
+        "neptune"
+      ],
+      "wrong_answers": [
+        "jupiter",
+        "saturne",
+        "uranus",
+        "vénus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0c350ef4724b1f78d4f8e13c3318e5a6",
+      "question": "Quel est le corps le plus volcaniquement actif du système solaire ?",
+      "answers": [
+        "io"
+      ],
+      "wrong_answers": [
+        "europe",
+        "titan",
+        "vénus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "a43e99cd1f8d222295cb2b805a182553",
+      "question": "Quel est le plus grand objet de la ceinture d'astéroïdes ?",
+      "answers": [
+        "cérès"
+      ],
+      "wrong_answers": [
+        "vesta",
+        "pallas",
+        "éros",
+        "junon"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2ecb1053725a7cd92c53c27d8bf741c4",
+      "question": "Quelle planète met le plus de temps à faire le tour du Soleil ?",
+      "answers": [
+        "neptune"
+      ],
+      "wrong_answers": [
+        "uranus",
+        "saturne",
+        "jupiter",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2f9b08d9fc252721b75404ee9f629ce7",
+      "question": "Comment s'appelle la région de corps glacés située au-delà de Neptune ?",
+      "answers": [
+        "ceinture de kuiper"
+      ],
+      "wrong_answers": [
+        "ceinture d'astéroïdes",
+        "nuage d'oort",
+        "ceinture de van allen",
+        "héliosphère"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0434162b85d07d24dc2259d92e188383",
+      "question": "Quelle planète a une journée plus longue que son année ?",
+      "answers": [
+        "vénus"
+      ],
+      "wrong_answers": [
+        "mercure",
+        "mars",
+        "uranus",
+        "neptune"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "865df54cce814880f286861ec2c2f569",
+      "question": "Quel a été le premier satellite artificiel lancé dans l'espace ?",
+      "answers": [
+        "spoutnik",
+        "spoutnik 1"
+      ],
+      "wrong_answers": [
+        "explorer 1",
+        "vostok 1",
+        "apollo 1",
+        "voyager 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "e32eaa3200267661f23b39cf07794226",
+      "question": "Quelle sonde spatiale est l'objet humain le plus éloigné de la Terre ?",
+      "answers": [
+        "voyager 1",
+        "voyager"
+      ],
+      "wrong_answers": [
+        "voyager 2",
+        "pioneer 10",
+        "new horizons",
+        "cassini"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "ca895bf5fa3f0fc8b4e0cce36b089f94",
+      "question": "Quelles deux planètes n'ont aucune lune ?",
+      "answers": [
+        "mercure et vénus",
+        "vénus et mercure"
+      ],
+      "wrong_answers": [
+        "mars et la terre",
+        "uranus et neptune",
+        "jupiter et saturne",
+        "la terre et vénus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "25c9f86b7288e7d58b6bbc5a0cd10e07",
+      "question": "Quelle chaîne de montagnes longe la bordure ouest de l'Amérique du Sud ?",
+      "answers": [
+        "les andes",
+        "andes"
+      ],
+      "wrong_answers": [
+        "les alpes",
+        "les rocheuses",
+        "l'himalaya",
+        "l'oural"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "05e710c48b0911d733b87dfedd8c9df8",
+      "question": "Quelle est la capitale de l'Argentine ?",
+      "answers": [
+        "buenos aires"
+      ],
+      "wrong_answers": [
+        "santiago",
+        "montevideo",
+        "lima",
+        "asunción"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "95eaa6861af7ef2b58b5fdc37d20417f",
+      "question": "Quelle est la capitale du Pérou ?",
+      "answers": [
+        "lima"
+      ],
+      "wrong_answers": [
+        "quito",
+        "la paz",
+        "bogotá",
+        "santiago"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "867a7e43f031adf3054940e2b0543a8a",
+      "question": "Quelle langue est la plus parlée au Brésil ?",
+      "answers": [
+        "le portugais",
+        "portugais"
+      ],
+      "wrong_answers": [
+        "l'espagnol",
+        "l'anglais",
+        "le français",
+        "l'italien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "038505a8af0179518be4af90a71c0dc6",
+      "question": "Dans quel pays d'Amérique du Sud se trouve le Machu Picchu ?",
+      "answers": [
+        "pérou"
+      ],
+      "wrong_answers": [
+        "bolivie",
+        "chili",
+        "équateur",
+        "colombie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "c7e40b364019f6735f2acd477f7b3dbc",
+      "question": "Quel pays long et étroit s'étend le long de la côte ouest de l'Amérique du Sud ?",
+      "answers": [
+        "chili"
+      ],
+      "wrong_answers": [
+        "pérou",
+        "argentine",
+        "équateur",
+        "colombie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "cec9a554ee9206ba79bea599b30e8db1",
+      "question": "Quel pays d'Amérique du Sud porte le nom de l'équateur qui le traverse ?",
+      "answers": [
+        "équateur"
+      ],
+      "wrong_answers": [
+        "colombie",
+        "pérou",
+        "brésil",
+        "venezuela"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "93a50ea6496dd50e4bb80eafb6d6afc8",
+      "question": "Quel pays est célèbre pour la danse du tango et les gauchos ?",
+      "answers": [
+        "argentine"
+      ],
+      "wrong_answers": [
+        "brésil",
+        "pérou",
+        "chili",
+        "colombie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "3a2c31ed414e7d3a3f44a70992795edb",
+      "question": "Quelle grande forêt tropicale couvre une grande partie du nord de l'Amérique du Sud ?",
+      "answers": [
+        "l'amazonie",
+        "amazonie"
+      ],
+      "wrong_answers": [
+        "le congo",
+        "la taïga",
+        "la forêt de bornéo",
+        "les everglades"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "2957950dcb6fbaaadbe3168c7da6af04",
+      "question": "Quel oiseau coloré au bec énorme vit dans les forêts tropicales d'Amérique du Sud ?",
+      "answers": [
+        "toucan"
+      ],
+      "wrong_answers": [
+        "manchot",
+        "autruche",
+        "flamant",
+        "hibou"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "0a765c8638a0ecc5c0c208cd2ce7670d",
+      "question": "Quel animal laineux des Andes est élevé pour sa laine douce ?",
+      "answers": [
+        "lama",
+        "alpaga"
+      ],
+      "wrong_answers": [
+        "chameau",
+        "chèvre",
+        "yak",
+        "âne"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ac8e4a6c6d3e1b7693172e5a95927185",
+      "question": "Quel pays d'Amérique du Sud est célèbre pour le café et la ville de Medellín ?",
+      "answers": [
+        "colombie"
+      ],
+      "wrong_answers": [
+        "venezuela",
+        "équateur",
+        "pérou",
+        "bolivie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "c072f1e5f28e12492bd160a52630a0b7",
+      "question": "Quelle est la capitale du Chili ?",
+      "answers": [
+        "santiago"
+      ],
+      "wrong_answers": [
+        "valparaíso",
+        "lima",
+        "buenos aires",
+        "montevideo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "5c240ae173fa74c3ce4848425d44ce83",
+      "question": "Quel océan borde la côte est de l'Amérique du Sud ?",
+      "answers": [
+        "océan atlantique",
+        "l'atlantique"
+      ],
+      "wrong_answers": [
+        "océan pacifique",
+        "océan indien",
+        "océan arctique",
+        "océan austral"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "2fdabf04a6bbfcfc9c17337c2d387f6a",
+      "question": "Quel pays d'Amérique du Sud a organisé et remporté la première Coupe du monde de football ?",
+      "answers": [
+        "uruguay"
+      ],
+      "wrong_answers": [
+        "brésil",
+        "argentine",
+        "chili",
+        "pérou"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "88c241fb6d6678aa7c61904310b952a9",
+      "question": "Quelle est la capitale de la Colombie ?",
+      "answers": [
+        "bogotá",
+        "bogota"
+      ],
+      "wrong_answers": [
+        "medellín",
+        "cali",
+        "caracas",
+        "quito"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "b5bdf0aaee69ef0613f79966b26bebc2",
+      "question": "Quelles îles célèbres pour leur faune unique appartiennent à l'Équateur ?",
+      "answers": [
+        "galápagos",
+        "îles galápagos"
+      ],
+      "wrong_answers": [
+        "îles malouines",
+        "îles canaries",
+        "açores",
+        "île de pâques"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "2efbbd65e961c8f166f4a22c14067882",
+      "question": "Quel pays est le plus grand d'Amérique du Sud par superficie ?",
+      "answers": [
+        "brésil"
+      ],
+      "wrong_answers": [
+        "argentine",
+        "pérou",
+        "colombie",
+        "bolivie"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "4cb24cdf8412b8eaf66b6b9dba5a8525",
+      "question": "Quelle fête colorée avec défilés et samba a lieu chaque année au Brésil ?",
+      "answers": [
+        "carnaval",
+        "le carnaval"
+      ],
+      "wrong_answers": [
+        "oktoberfest",
+        "diwali",
+        "holi",
+        "mardi gras"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f43acf3f412a6204489fb471d43ac6a0",
+      "question": "Quelle est la plus haute chute d'eau du monde, située au Venezuela ?",
+      "answers": [
+        "le salto angel",
+        "salto ángel",
+        "chutes angel"
+      ],
+      "wrong_answers": [
+        "chutes du niagara",
+        "chutes d'iguazú",
+        "chutes victoria",
+        "chutes tugela"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "daef70df4e77f4c1284fa699e1eedc43",
+      "question": "Quel ancien empire a construit le Machu Picchu au sommet des Andes ?",
+      "answers": [
+        "les incas",
+        "l'empire inca",
+        "inca"
+      ],
+      "wrong_answers": [
+        "les aztèques",
+        "les mayas",
+        "les olmèques",
+        "l'empire romain"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "b3246fae3c3e36764e2c2d47142eda8b",
+      "question": "Quel lac situé haut dans les Andes est le plus haut grand lac navigable du monde ?",
+      "answers": [
+        "lac titicaca",
+        "titicaca"
+      ],
+      "wrong_answers": [
+        "lac baïkal",
+        "lac victoria",
+        "lac maracaibo",
+        "lac poopó"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "22286c6c028ac9b4febfd2ecbc2f96aa",
+      "question": "Quels deux pays sans accès à la mer se trouvent en Amérique du Sud ?",
+      "answers": [
+        "la bolivie et le paraguay",
+        "bolivie et paraguay"
+      ],
+      "wrong_answers": [
+        "chili et pérou",
+        "équateur et uruguay",
+        "brésil et guyana",
+        "colombie et venezuela"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d08e015f599b30e2919034cb702fecdc",
+      "question": "Quelle est la plus haute montagne d'Amérique du Sud ?",
+      "answers": [
+        "aconcagua",
+        "l'aconcagua"
+      ],
+      "wrong_answers": [
+        "chimborazo",
+        "huascarán",
+        "ojos del salado",
+        "illimani"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "1f615ffd2b22f88c3b7d2295085224e9",
+      "question": "Le Salar de Uyuni en Bolivie est le plus grand du monde, de quoi ?",
+      "answers": [
+        "désert de sel",
+        "salar"
+      ],
+      "wrong_answers": [
+        "désert de sable",
+        "glacier",
+        "cratère",
+        "marais"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "647b61f2cd7cf2dcdd6c8bfceaf507ba",
+      "question": "Quelle région méridionale partagée par le Chili et l'Argentine est connue pour ses glaciers et sa steppe ?",
+      "answers": [
+        "patagonie",
+        "la patagonie"
+      ],
+      "wrong_answers": [
+        "amazonie",
+        "la pampa",
+        "gran chaco",
+        "altiplano"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "f647f5639a0e42242d441b768c5940a1",
+      "question": "Comment appelle-t-on les vastes plaines fertiles de l'Argentine ?",
+      "answers": [
+        "la pampa",
+        "les pampas"
+      ],
+      "wrong_answers": [
+        "les prairies",
+        "les steppes",
+        "la savane",
+        "l'outback"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "4057bfc326abad782d617bc13047f7cb",
+      "question": "Les chutes d'Iguazú se trouvent à la frontière entre quels deux pays ?",
+      "answers": [
+        "l'argentine et le brésil",
+        "argentine et brésil"
+      ],
+      "wrong_answers": [
+        "chili et pérou",
+        "bolivie et paraguay",
+        "colombie et équateur",
+        "uruguay et argentine"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "48d3420d9951855c0597e46c8bea53ea",
+      "question": "Quel pays possède la capitale la plus haute du monde, à plus de 3600 mètres ?",
+      "answers": [
+        "bolivie"
+      ],
+      "wrong_answers": [
+        "pérou",
+        "équateur",
+        "colombie",
+        "chili"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "cffc6d71a914a69a9805eb1cb1791d5e",
+      "question": "Quelle est la capitale du Venezuela ?",
+      "answers": [
+        "caracas"
+      ],
+      "wrong_answers": [
+        "maracaibo",
+        "bogotá",
+        "georgetown",
+        "quito"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "1909e770d6ac46e44e639804f880a7aa",
+      "question": "Quel grand serpent des marais d'Amérique du Sud est parmi les plus lourds du monde ?",
+      "answers": [
+        "anaconda",
+        "anaconda vert"
+      ],
+      "wrong_answers": [
+        "python",
+        "cobra",
+        "boa constrictor",
+        "vipère"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "5b08b3cd68a252b66a60ff917dc4f679",
+      "question": "Quel pays d'Amérique du Sud a été nommé d'après l'explorateur Christophe Colomb ?",
+      "answers": [
+        "colombie"
+      ],
+      "wrong_answers": [
+        "venezuela",
+        "bolivie",
+        "équateur",
+        "pérou"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "7b5bcb154987e1f46c737d284da621bb",
+      "question": "En l'honneur de qui la Bolivie est-elle nommée ?",
+      "answers": [
+        "simón bolívar",
+        "bolívar"
+      ],
+      "wrong_answers": [
+        "colomb",
+        "pizarro",
+        "magellan",
+        "cortés"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "4bb19f6a56da4738d09e1e0e8e65b584",
+      "question": "Quelle est la capitale de l'Uruguay ?",
+      "answers": [
+        "montevideo"
+      ],
+      "wrong_answers": [
+        "asunción",
+        "buenos aires",
+        "santiago",
+        "la paz"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "3ec6f888f2056559fa0327cb96f97e62",
+      "question": "Quel petit poisson aux dents acérées est célèbre dans les rivières de l'Amazone ?",
+      "answers": [
+        "piranha"
+      ],
+      "wrong_answers": [
+        "requin",
+        "poisson-chat",
+        "saumon",
+        "truite"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d81f3cbd83662b63714f6e9315c5d765",
+      "question": "Quel pays d'Amérique du Sud a Georgetown pour capitale ?",
+      "answers": [
+        "guyana"
+      ],
+      "wrong_answers": [
+        "suriname",
+        "venezuela",
+        "brésil",
+        "paraguay"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "82eb0fe69ed37fe672df1a916cdc4824",
+      "question": "Quel pays est le plus grand producteur de café d'Amérique du Sud ?",
+      "answers": [
+        "brésil"
+      ],
+      "wrong_answers": [
+        "colombie",
+        "pérou",
+        "équateur",
+        "bolivie"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "730b4ff8db2ad3bed9b22cb9010c5d05",
+      "question": "Les mystérieuses lignes de Nazca sont des dessins géants situés dans quel pays ?",
+      "answers": [
+        "pérou"
+      ],
+      "wrong_answers": [
+        "chili",
+        "bolivie",
+        "mexique",
+        "brésil"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "9766fc00beb75cd25f3f909db7765119",
+      "question": "Quel pays d'Amérique du Sud a la forme d'un long piment le long du Pacifique ?",
+      "answers": [
+        "chili"
+      ],
+      "wrong_answers": [
+        "pérou",
+        "équateur",
+        "colombie",
+        "brésil"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f755b93548254d547392a162339e94be",
+      "question": "Quel est le sport le plus populaire en Amérique du Sud ?",
+      "answers": [
+        "le football",
+        "football"
+      ],
+      "wrong_answers": [
+        "le cricket",
+        "le hockey sur glace",
+        "le baseball",
+        "le rugby"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
     }
   ]
 }

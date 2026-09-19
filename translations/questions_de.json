@@ -70675,6 +70675,1413 @@
       "difficulty": "normal",
       "points": 800,
       "language": "de"
+    },
+    {
+      "id": "e06a7a5d6bd4029b270116ce3fa5c5a5",
+      "question": "Welcher Planet ist für seine hellen Ringe berühmt?",
+      "answers": [
+        "saturn"
+      ],
+      "wrong_answers": [
+        "jupiter",
+        "mars",
+        "venus",
+        "merkur"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "dd57d6a70e6accec053afd6f7102a958",
+      "question": "Wie heißt der einzige natürliche Satellit der Erde?",
+      "answers": [
+        "der mond",
+        "mond",
+        "luna"
+      ],
+      "wrong_answers": [
+        "phobos",
+        "titan",
+        "europa",
+        "io"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "113b436fab61fe3c233c92ad765c45a3",
+      "question": "Auf welchem Planeten leben wir?",
+      "answers": [
+        "erde",
+        "die erde"
+      ],
+      "wrong_answers": [
+        "mars",
+        "venus",
+        "jupiter",
+        "saturn"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "32303032d717a1070aa1be6fb888563b",
+      "question": "Was befindet sich im Zentrum unseres Sonnensystems?",
+      "answers": [
+        "die sonne",
+        "sonne"
+      ],
+      "wrong_answers": [
+        "die erde",
+        "der mond",
+        "jupiter",
+        "ein schwarzes loch"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "39e060a28acaba8f717b20442c6e31c3",
+      "question": "Welcher Planet wurde 2006 zum Zwergplaneten herabgestuft?",
+      "answers": [
+        "pluto"
+      ],
+      "wrong_answers": [
+        "neptun",
+        "ceres",
+        "merkur",
+        "eris"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "6e677a584c660f537e3148de8e45c8b3",
+      "question": "Welcher Planet ist am weitesten von der Sonne entfernt?",
+      "answers": [
+        "neptun"
+      ],
+      "wrong_answers": [
+        "uranus",
+        "pluto",
+        "saturn",
+        "jupiter"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "1583e32d8af2e7ab2536abec44a2aa5b",
+      "question": "Wie nennt man einen Gesteinsbrocken aus dem All, der in der Erdatmosphäre verglüht?",
+      "answers": [
+        "meteor",
+        "sternschnuppe"
+      ],
+      "wrong_answers": [
+        "komet",
+        "satellit",
+        "planet",
+        "stern"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "f37bf98164ae61c44d0b642036737708",
+      "question": "Wie nennt man ein Weltraumobjekt mit einem langen leuchtenden Schweif?",
+      "answers": [
+        "komet",
+        "ein komet"
+      ],
+      "wrong_answers": [
+        "asteroid",
+        "planet",
+        "mond",
+        "galaxie"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "2a8a27133655b0d9c49dbb875acd116c",
+      "question": "Zu welcher Galaxie gehört unser Sonnensystem?",
+      "answers": [
+        "die milchstraße",
+        "milchstraße"
+      ],
+      "wrong_answers": [
+        "andromeda",
+        "dreiecksnebel",
+        "sombrero",
+        "strudelgalaxie"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "135c101c9b5588898c4a6fe817c868ec",
+      "question": "Wer war der erste Mensch, der auf dem Mond ging?",
+      "answers": [
+        "neil armstrong",
+        "armstrong"
+      ],
+      "wrong_answers": [
+        "buzz aldrin",
+        "juri gagarin",
+        "michael collins",
+        "john glenn"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "18cbe31501ffd73cf69b68f587aed91c",
+      "question": "Wie nennt man ein natürliches Objekt, das einen Planeten umkreist?",
+      "answers": [
+        "mond",
+        "satellit",
+        "trabant"
+      ],
+      "wrong_answers": [
+        "stern",
+        "komet",
+        "asteroid",
+        "galaxie"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "f32211d95b2a6f9e2ea79c87453e0e66",
+      "question": "Welche Raumfahrtbehörde brachte die ersten Menschen auf den Mond?",
+      "answers": [
+        "nasa"
+      ],
+      "wrong_answers": [
+        "esa",
+        "roskosmos",
+        "isro",
+        "spacex"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "eef83762a71eebb8a968f14b202926f1",
+      "question": "Woraus besteht die Sonne hauptsächlich?",
+      "answers": [
+        "wasserstoff",
+        "wasserstoff und helium"
+      ],
+      "wrong_answers": [
+        "sauerstoff",
+        "eisen",
+        "gestein",
+        "wasser"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "7f870419b0faae79a48d9c49647da39e",
+      "question": "Wie viele Tage braucht die Erde ungefähr für eine Umrundung der Sonne?",
+      "answers": [
+        "365",
+        "365 tage",
+        "ein jahr"
+      ],
+      "wrong_answers": [
+        "30",
+        "100",
+        "500",
+        "1000"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "0a394d70c5be7e7a2bd9867a327552c7",
+      "question": "Welcher Planet ist zur Seite geneigt und rotiert fast liegend?",
+      "answers": [
+        "uranus"
+      ],
+      "wrong_answers": [
+        "neptun",
+        "saturn",
+        "venus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "f879b817d9f93c571130562966a73601",
+      "question": "Wie heißt der riesige Sturm auf dem Jupiter?",
+      "answers": [
+        "der große rote fleck",
+        "großer roter fleck"
+      ],
+      "wrong_answers": [
+        "der große dunkle fleck",
+        "das auge des jupiter",
+        "der rote sturm",
+        "der große wirbel"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "0039d947b15c4e70f3b675b71c218640",
+      "question": "Welcher Planet hat den kürzesten Tag im Sonnensystem?",
+      "answers": [
+        "jupiter"
+      ],
+      "wrong_answers": [
+        "merkur",
+        "erde",
+        "venus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "3bfe6614a3a1a802493f74cbe0928540",
+      "question": "Welcher Mond ist der größte im gesamten Sonnensystem?",
+      "answers": [
+        "ganymed"
+      ],
+      "wrong_answers": [
+        "titan",
+        "kallisto",
+        "der mond",
+        "io"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "2ac9b2c13427b6d96fa66d7696a9b0cf",
+      "question": "Welcher Planet rotiert in die entgegengesetzte Richtung zu den meisten anderen Planeten?",
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "mars",
+        "merkur",
+        "jupiter",
+        "neptun"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "bbbb5c567ce179098d34166991842a43",
+      "question": "Wie heißt der höchste Vulkan im Sonnensystem?",
+      "answers": [
+        "olympus mons"
+      ],
+      "wrong_answers": [
+        "mauna kea",
+        "mount everest",
+        "valles marineris",
+        "mons huygens"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "cd7b3d53660566e11369536af3fac168",
+      "question": "Auf welchem Planeten befindet sich der riesige Canyon Valles Marineris?",
+      "answers": [
+        "mars"
+      ],
+      "wrong_answers": [
+        "venus",
+        "merkur",
+        "erde",
+        "titan"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "e910624c7466a58875da0e1937b34a2a",
+      "question": "Wie viele Monde hat der Mars?",
+      "answers": [
+        "2",
+        "zwei"
+      ],
+      "wrong_answers": [
+        "1",
+        "0",
+        "4",
+        "12"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "8eab6b0af7178e33a3d75c997a4be778",
+      "question": "Wie heißen die beiden Monde des Mars?",
+      "answers": [
+        "phobos und deimos"
+      ],
+      "wrong_answers": [
+        "titan und rhea",
+        "io und europa",
+        "castor und pollux",
+        "romulus und remus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "8d8a8fc452efe56364d93ba8ef142e80",
+      "question": "Von welchem eisigen Jupitermond wird vermutet, dass er unter seiner Kruste einen Ozean verbirgt?",
+      "answers": [
+        "europa"
+      ],
+      "wrong_answers": [
+        "io",
+        "kallisto",
+        "titan",
+        "triton"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "a6fc538f8e6a62617c0b25f28367fffa",
+      "question": "Welcher Planet wird wegen seiner ähnlichen Größe manchmal Erdzwilling genannt?",
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "mars",
+        "merkur",
+        "neptun",
+        "uranus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "40583e595edef0e369d7654abfe585a8",
+      "question": "Wie werden die vier sonnennächsten Planeten zusammenfassend genannt?",
+      "answers": [
+        "terrestrische planeten",
+        "gesteinsplaneten",
+        "innere planeten"
+      ],
+      "wrong_answers": [
+        "gasriesen",
+        "eisriesen",
+        "zwergplaneten",
+        "äußere planeten"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "8775881597afb08c0b2b7f236fa3579f",
+      "question": "Jupiter und Saturn werden als welcher Planetentyp klassifiziert?",
+      "answers": [
+        "gasriesen",
+        "gasriese"
+      ],
+      "wrong_answers": [
+        "gesteinsplaneten",
+        "zwergplaneten",
+        "eisplaneten",
+        "terrestrische planeten"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "99e81790d30938e6ac995fc0c4e7aeeb",
+      "question": "Welche Raumfahrtmission brachte 1969 erstmals Menschen auf den Mond?",
+      "answers": [
+        "apollo 11"
+      ],
+      "wrong_answers": [
+        "apollo 13",
+        "gemini 4",
+        "wostok 1",
+        "sojus 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "b0b84ce6bd1de4ac8578784624b0e025",
+      "question": "Wer war der erste Mensch im Weltraum?",
+      "answers": [
+        "juri gagarin",
+        "gagarin"
+      ],
+      "wrong_answers": [
+        "neil armstrong",
+        "alan shepard",
+        "john glenn",
+        "valentina tereschkowa"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "7de9101c02de2ccc92fc91cbbaea4f03",
+      "question": "Wie lange braucht das Sonnenlicht ungefähr bis zur Erde?",
+      "answers": [
+        "8 minuten",
+        "etwa 8 minuten",
+        "acht minuten"
+      ],
+      "wrong_answers": [
+        "1 sekunde",
+        "1 stunde",
+        "1 tag",
+        "30 sekunden"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "e275f62abe59182157c6199451ccf728",
+      "question": "Was geschieht während einer Sonnenfinsternis?",
+      "answers": [
+        "der mond verdeckt die sonne",
+        "der mond zieht vor die sonne"
+      ],
+      "wrong_answers": [
+        "die erde verdeckt die sonne",
+        "die sonne erlischt",
+        "der mond wird rot",
+        "die erde hört auf sich zu drehen"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "c785daf863f948886ee506a24f662d44",
+      "question": "Welcher Planet hat die stärksten Winde im Sonnensystem?",
+      "answers": [
+        "neptun"
+      ],
+      "wrong_answers": [
+        "jupiter",
+        "saturn",
+        "uranus",
+        "venus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "0c350ef4724b1f78d4f8e13c3318e5a6",
+      "question": "Welcher Körper im Sonnensystem ist vulkanisch am aktivsten?",
+      "answers": [
+        "io"
+      ],
+      "wrong_answers": [
+        "europa",
+        "titan",
+        "venus",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "a43e99cd1f8d222295cb2b805a182553",
+      "question": "Was ist das größte Objekt im Asteroidengürtel?",
+      "answers": [
+        "ceres"
+      ],
+      "wrong_answers": [
+        "vesta",
+        "pallas",
+        "eros",
+        "juno"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "2ecb1053725a7cd92c53c27d8bf741c4",
+      "question": "Welcher Planet braucht am längsten für eine Umrundung der Sonne?",
+      "answers": [
+        "neptun"
+      ],
+      "wrong_answers": [
+        "uranus",
+        "saturn",
+        "jupiter",
+        "mars"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "2f9b08d9fc252721b75404ee9f629ce7",
+      "question": "Wie heißt die Region eisiger Körper jenseits des Neptun?",
+      "answers": [
+        "kuipergürtel",
+        "der kuipergürtel"
+      ],
+      "wrong_answers": [
+        "asteroidengürtel",
+        "oortsche wolke",
+        "van-allen-gürtel",
+        "heliosphäre"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "0434162b85d07d24dc2259d92e188383",
+      "question": "Welcher Planet hat einen Tag, der länger ist als sein Jahr?",
+      "answers": [
+        "venus"
+      ],
+      "wrong_answers": [
+        "merkur",
+        "mars",
+        "uranus",
+        "neptun"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "865df54cce814880f286861ec2c2f569",
+      "question": "Was war der erste künstliche Satellit im Weltraum?",
+      "answers": [
+        "sputnik",
+        "sputnik 1"
+      ],
+      "wrong_answers": [
+        "explorer 1",
+        "wostok 1",
+        "apollo 1",
+        "voyager 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "e32eaa3200267661f23b39cf07794226",
+      "question": "Welche Raumsonde ist das am weitesten von der Erde entfernte von Menschen gebaute Objekt?",
+      "answers": [
+        "voyager 1",
+        "voyager"
+      ],
+      "wrong_answers": [
+        "voyager 2",
+        "pioneer 10",
+        "new horizons",
+        "cassini"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "ca895bf5fa3f0fc8b4e0cce36b089f94",
+      "question": "Welche zwei Planeten haben überhaupt keine Monde?",
+      "answers": [
+        "merkur und venus",
+        "venus und merkur"
+      ],
+      "wrong_answers": [
+        "mars und erde",
+        "uranus und neptun",
+        "jupiter und saturn",
+        "erde und venus"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "25c9f86b7288e7d58b6bbc5a0cd10e07",
+      "question": "Welches Gebirge verläuft entlang des westlichen Randes Südamerikas?",
+      "answers": [
+        "die anden",
+        "anden"
+      ],
+      "wrong_answers": [
+        "die alpen",
+        "die rocky mountains",
+        "der himalaya",
+        "der ural"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "05e710c48b0911d733b87dfedd8c9df8",
+      "question": "Was ist die Hauptstadt von Argentinien?",
+      "answers": [
+        "buenos aires"
+      ],
+      "wrong_answers": [
+        "santiago",
+        "montevideo",
+        "lima",
+        "asunción"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "95eaa6861af7ef2b58b5fdc37d20417f",
+      "question": "Was ist die Hauptstadt von Peru?",
+      "answers": [
+        "lima"
+      ],
+      "wrong_answers": [
+        "quito",
+        "la paz",
+        "bogotá",
+        "santiago"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "867a7e43f031adf3054940e2b0543a8a",
+      "question": "Welche Sprache wird in Brasilien am meisten gesprochen?",
+      "answers": [
+        "portugiesisch"
+      ],
+      "wrong_answers": [
+        "spanisch",
+        "englisch",
+        "französisch",
+        "italienisch"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "038505a8af0179518be4af90a71c0dc6",
+      "question": "In welchem südamerikanischen Land liegt Machu Picchu?",
+      "answers": [
+        "peru"
+      ],
+      "wrong_answers": [
+        "bolivien",
+        "chile",
+        "ecuador",
+        "kolumbien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "c7e40b364019f6735f2acd477f7b3dbc",
+      "question": "Welches lange, schmale Land erstreckt sich entlang der Westküste Südamerikas?",
+      "answers": [
+        "chile"
+      ],
+      "wrong_answers": [
+        "peru",
+        "argentinien",
+        "ecuador",
+        "kolumbien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "cec9a554ee9206ba79bea599b30e8db1",
+      "question": "Welches südamerikanische Land ist nach dem Äquator benannt, der es durchquert?",
+      "answers": [
+        "ecuador"
+      ],
+      "wrong_answers": [
+        "kolumbien",
+        "peru",
+        "brasilien",
+        "venezuela"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "93a50ea6496dd50e4bb80eafb6d6afc8",
+      "question": "Welches Land ist für den Tango und die Gaucho-Cowboys berühmt?",
+      "answers": [
+        "argentinien"
+      ],
+      "wrong_answers": [
+        "brasilien",
+        "peru",
+        "chile",
+        "kolumbien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "3a2c31ed414e7d3a3f44a70992795edb",
+      "question": "Welcher große Regenwald bedeckt einen Großteil des nördlichen Südamerikas?",
+      "answers": [
+        "der amazonas",
+        "amazonas-regenwald",
+        "amazonas"
+      ],
+      "wrong_answers": [
+        "der kongo",
+        "die taiga",
+        "borneo-regenwald",
+        "die everglades"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "2957950dcb6fbaaadbe3168c7da6af04",
+      "question": "Welcher bunte Vogel mit einem riesigen Schnabel lebt in südamerikanischen Regenwäldern?",
+      "answers": [
+        "tukan"
+      ],
+      "wrong_answers": [
+        "pinguin",
+        "strauß",
+        "flamingo",
+        "eule"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "0a765c8638a0ecc5c0c208cd2ce7670d",
+      "question": "Welches wollige Tier aus den Anden wird wegen seiner weichen Wolle gehalten?",
+      "answers": [
+        "lama",
+        "alpaka"
+      ],
+      "wrong_answers": [
+        "kamel",
+        "ziege",
+        "yak",
+        "esel"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "ac8e4a6c6d3e1b7693172e5a95927185",
+      "question": "Welches südamerikanische Land ist für Kaffee und die Stadt Medellín bekannt?",
+      "answers": [
+        "kolumbien"
+      ],
+      "wrong_answers": [
+        "venezuela",
+        "ecuador",
+        "peru",
+        "bolivien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "c072f1e5f28e12492bd160a52630a0b7",
+      "question": "Was ist die Hauptstadt von Chile?",
+      "answers": [
+        "santiago"
+      ],
+      "wrong_answers": [
+        "valparaíso",
+        "lima",
+        "buenos aires",
+        "montevideo"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "5c240ae173fa74c3ce4848425d44ce83",
+      "question": "Welcher Ozean liegt an der Ostküste Südamerikas?",
+      "answers": [
+        "atlantischer ozean",
+        "der atlantik"
+      ],
+      "wrong_answers": [
+        "pazifischer ozean",
+        "indischer ozean",
+        "arktischer ozean",
+        "südlicher ozean"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "2fdabf04a6bbfcfc9c17337c2d387f6a",
+      "question": "Welches südamerikanische Land richtete die erste Fußball-Weltmeisterschaft aus und gewann sie?",
+      "answers": [
+        "uruguay"
+      ],
+      "wrong_answers": [
+        "brasilien",
+        "argentinien",
+        "chile",
+        "peru"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "88c241fb6d6678aa7c61904310b952a9",
+      "question": "Was ist die Hauptstadt von Kolumbien?",
+      "answers": [
+        "bogotá",
+        "bogota"
+      ],
+      "wrong_answers": [
+        "medellín",
+        "cali",
+        "caracas",
+        "quito"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "b5bdf0aaee69ef0613f79966b26bebc2",
+      "question": "Welche für ihre einzigartige Tierwelt berühmten Inseln gehören zu Ecuador?",
+      "answers": [
+        "galápagos",
+        "galápagos-inseln"
+      ],
+      "wrong_answers": [
+        "falklandinseln",
+        "kanarische inseln",
+        "azoren",
+        "osterinsel"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "2efbbd65e961c8f166f4a22c14067882",
+      "question": "Welches Land ist das größte Südamerikas nach Fläche?",
+      "answers": [
+        "brasilien"
+      ],
+      "wrong_answers": [
+        "argentinien",
+        "peru",
+        "kolumbien",
+        "bolivien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "4cb24cdf8412b8eaf66b6b9dba5a8525",
+      "question": "Welches bunte Fest mit Umzügen und Samba findet jedes Jahr in Brasilien statt?",
+      "answers": [
+        "karneval",
+        "der karneval"
+      ],
+      "wrong_answers": [
+        "oktoberfest",
+        "diwali",
+        "holi",
+        "mardi gras"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "f43acf3f412a6204489fb471d43ac6a0",
+      "question": "Was ist der höchste Wasserfall der Welt, der in Venezuela liegt?",
+      "answers": [
+        "angel-wasserfall",
+        "salto ángel"
+      ],
+      "wrong_answers": [
+        "niagarafälle",
+        "iguazú-wasserfälle",
+        "victoriafälle",
+        "tugela-fälle"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "daef70df4e77f4c1284fa699e1eedc43",
+      "question": "Welches antike Reich erbaute Machu Picchu hoch in den Anden?",
+      "answers": [
+        "die inka",
+        "das inkareich",
+        "inkas"
+      ],
+      "wrong_answers": [
+        "die azteken",
+        "die maya",
+        "die olmeken",
+        "das römische reich"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "b3246fae3c3e36764e2c2d47142eda8b",
+      "question": "Welcher See hoch in den Anden ist der höchstgelegene große schiffbare See der Welt?",
+      "answers": [
+        "titicacasee",
+        "titicaca"
+      ],
+      "wrong_answers": [
+        "baikalsee",
+        "viktoriasee",
+        "maracaibo-see",
+        "poopó-see"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "22286c6c028ac9b4febfd2ecbc2f96aa",
+      "question": "Welche zwei Binnenstaaten liegen in Südamerika?",
+      "answers": [
+        "bolivien und paraguay",
+        "paraguay und bolivien"
+      ],
+      "wrong_answers": [
+        "chile und peru",
+        "ecuador und uruguay",
+        "brasilien und guyana",
+        "kolumbien und venezuela"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "d08e015f599b30e2919034cb702fecdc",
+      "question": "Was ist der höchste Berg Südamerikas?",
+      "answers": [
+        "aconcagua",
+        "der aconcagua"
+      ],
+      "wrong_answers": [
+        "chimborazo",
+        "huascarán",
+        "ojos del salado",
+        "illimani"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "1f615ffd2b22f88c3b7d2295085224e9",
+      "question": "Boliviens Salar de Uyuni ist die größte was der Welt?",
+      "answers": [
+        "salzwüste",
+        "salzsee",
+        "salzpfanne"
+      ],
+      "wrong_answers": [
+        "sandwüste",
+        "gletscher",
+        "krater",
+        "sumpf"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "647b61f2cd7cf2dcdd6c8bfceaf507ba",
+      "question": "Welche südliche Region, die sich Chile und Argentinien teilen, ist für Gletscher und Steppe bekannt?",
+      "answers": [
+        "patagonien"
+      ],
+      "wrong_answers": [
+        "amazonien",
+        "pampa",
+        "gran chaco",
+        "altiplano"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "f647f5639a0e42242d441b768c5940a1",
+      "question": "Wie heißen die weiten fruchtbaren Grasländer Argentiniens?",
+      "answers": [
+        "die pampa",
+        "pampa"
+      ],
+      "wrong_answers": [
+        "die prärien",
+        "die steppen",
+        "die savanne",
+        "das outback"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "4057bfc326abad782d617bc13047f7cb",
+      "question": "Die Iguazú-Wasserfälle liegen an der Grenze zwischen welchen beiden Ländern?",
+      "answers": [
+        "argentinien und brasilien",
+        "brasilien und argentinien"
+      ],
+      "wrong_answers": [
+        "chile und peru",
+        "bolivien und paraguay",
+        "kolumbien und ecuador",
+        "uruguay und argentinien"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "48d3420d9951855c0597e46c8bea53ea",
+      "question": "Welches Land hat mit über 3600 Metern die höchstgelegene Hauptstadt der Welt?",
+      "answers": [
+        "bolivien"
+      ],
+      "wrong_answers": [
+        "peru",
+        "ecuador",
+        "kolumbien",
+        "chile"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "cffc6d71a914a69a9805eb1cb1791d5e",
+      "question": "Was ist die Hauptstadt von Venezuela?",
+      "answers": [
+        "caracas"
+      ],
+      "wrong_answers": [
+        "maracaibo",
+        "bogotá",
+        "georgetown",
+        "quito"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "1909e770d6ac46e44e639804f880a7aa",
+      "question": "Welche große Schlange der südamerikanischen Sümpfe gehört zu den schwersten der Welt?",
+      "answers": [
+        "anakonda",
+        "große anakonda"
+      ],
+      "wrong_answers": [
+        "python",
+        "kobra",
+        "boa constrictor",
+        "viper"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "5b08b3cd68a252b66a60ff917dc4f679",
+      "question": "Welches südamerikanische Land wurde nach dem Entdecker Christoph Kolumbus benannt?",
+      "answers": [
+        "kolumbien"
+      ],
+      "wrong_answers": [
+        "venezuela",
+        "bolivien",
+        "ecuador",
+        "peru"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "7b5bcb154987e1f46c737d284da621bb",
+      "question": "Nach wem ist Bolivien benannt?",
+      "answers": [
+        "nach simón bolívar",
+        "simón bolívar",
+        "bolívar"
+      ],
+      "wrong_answers": [
+        "nach kolumbus",
+        "nach pizarro",
+        "nach magellan",
+        "nach cortés"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "4bb19f6a56da4738d09e1e0e8e65b584",
+      "question": "Was ist die Hauptstadt von Uruguay?",
+      "answers": [
+        "montevideo"
+      ],
+      "wrong_answers": [
+        "asunción",
+        "buenos aires",
+        "santiago",
+        "la paz"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "3ec6f888f2056559fa0327cb96f97e62",
+      "question": "Welcher kleine Fisch mit scharfen Zähnen ist in den Flüssen des Amazonas berühmt?",
+      "answers": [
+        "piranha"
+      ],
+      "wrong_answers": [
+        "hai",
+        "wels",
+        "lachs",
+        "forelle"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "d81f3cbd83662b63714f6e9315c5d765",
+      "question": "Welches südamerikanische Land hat Georgetown als Hauptstadt?",
+      "answers": [
+        "guyana"
+      ],
+      "wrong_answers": [
+        "suriname",
+        "venezuela",
+        "brasilien",
+        "paraguay"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "82eb0fe69ed37fe672df1a916cdc4824",
+      "question": "Welches Land ist der größte Kaffeeproduzent Südamerikas?",
+      "answers": [
+        "brasilien"
+      ],
+      "wrong_answers": [
+        "kolumbien",
+        "peru",
+        "ecuador",
+        "bolivien"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "730b4ff8db2ad3bed9b22cb9010c5d05",
+      "question": "Die geheimnisvollen Nazca-Linien sind riesige Zeichnungen in welchem Land?",
+      "answers": [
+        "peru"
+      ],
+      "wrong_answers": [
+        "chile",
+        "bolivien",
+        "mexiko",
+        "brasilien"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "de"
+    },
+    {
+      "id": "9766fc00beb75cd25f3f909db7765119",
+      "question": "Welches südamerikanische Land hat die Form einer langen Chilischote entlang des Pazifiks?",
+      "answers": [
+        "chile"
+      ],
+      "wrong_answers": [
+        "peru",
+        "ecuador",
+        "kolumbien",
+        "brasilien"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
+    },
+    {
+      "id": "f755b93548254d547392a162339e94be",
+      "question": "Was ist die beliebteste Sportart in Südamerika?",
+      "answers": [
+        "fußball"
+      ],
+      "wrong_answers": [
+        "cricket",
+        "eishockey",
+        "baseball",
+        "rugby"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "de"
     }
   ]
 }

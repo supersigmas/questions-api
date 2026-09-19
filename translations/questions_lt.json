@@ -70504,6 +70504,1403 @@
       "difficulty": "normal",
       "points": 800,
       "language": "lt"
+    },
+    {
+      "id": "e06a7a5d6bd4029b270116ce3fa5c5a5",
+      "question": "Kuri planeta garsėja savo ryškiais žiedais?",
+      "answers": [
+        "saturnas"
+      ],
+      "wrong_answers": [
+        "jupiteris",
+        "marsas",
+        "venera",
+        "merkurijus"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "dd57d6a70e6accec053afd6f7102a958",
+      "question": "Koks yra vienintelio natūralaus Žemės palydovo pavadinimas?",
+      "answers": [
+        "mėnulis"
+      ],
+      "wrong_answers": [
+        "fobas",
+        "titanas",
+        "europa",
+        "ijo"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "113b436fab61fe3c233c92ad765c45a3",
+      "question": "Kurioje planetoje mes gyvename?",
+      "answers": [
+        "žemė",
+        "žemėje"
+      ],
+      "wrong_answers": [
+        "marse",
+        "veneroje",
+        "jupiteryje",
+        "saturne"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "32303032d717a1070aa1be6fb888563b",
+      "question": "Kas yra mūsų Saulės sistemos centre?",
+      "answers": [
+        "saulė"
+      ],
+      "wrong_answers": [
+        "žemė",
+        "mėnulis",
+        "jupiteris",
+        "juodoji skylė"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "39e060a28acaba8f717b20442c6e31c3",
+      "question": "Kuri planeta 2006 metais buvo perklasifikuota į nykštukinę planetą?",
+      "answers": [
+        "plutonas"
+      ],
+      "wrong_answers": [
+        "neptūnas",
+        "cerera",
+        "merkurijus",
+        "eridė"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "6e677a584c660f537e3148de8e45c8b3",
+      "question": "Kuri planeta yra toliausiai nuo Saulės?",
+      "answers": [
+        "neptūnas"
+      ],
+      "wrong_answers": [
+        "uranas",
+        "plutonas",
+        "saturnas",
+        "jupiteris"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "1583e32d8af2e7ab2536abec44a2aa5b",
+      "question": "Kaip vadiname iš kosmoso atskriejusią uolieną, kuri sudega Žemės atmosferoje?",
+      "answers": [
+        "meteoras",
+        "krintanti žvaigždė"
+      ],
+      "wrong_answers": [
+        "kometa",
+        "palydovas",
+        "planeta",
+        "žvaigždė"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f37bf98164ae61c44d0b642036737708",
+      "question": "Kaip vadinamas kosminis objektas su ilga šviečiančia uodega?",
+      "answers": [
+        "kometa"
+      ],
+      "wrong_answers": [
+        "asteroidas",
+        "planeta",
+        "mėnulis",
+        "galaktika"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "2a8a27133655b0d9c49dbb875acd116c",
+      "question": "Kuriai galaktikai priklauso mūsų Saulės sistema?",
+      "answers": [
+        "paukščių takas"
+      ],
+      "wrong_answers": [
+        "andromeda",
+        "trikampis",
+        "sombrero",
+        "sūkurys"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "135c101c9b5588898c4a6fe817c868ec",
+      "question": "Kas buvo pirmasis žmogus, žengęs į Mėnulį?",
+      "answers": [
+        "neilas armstrongas",
+        "armstrongas"
+      ],
+      "wrong_answers": [
+        "buzas oldrinas",
+        "jurijus gagarinas",
+        "maiklas kolinsas",
+        "džonas glenas"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "18cbe31501ffd73cf69b68f587aed91c",
+      "question": "Kaip vadiname natūralų objektą, skriejantį aplink planetą?",
+      "answers": [
+        "mėnulis",
+        "palydovas"
+      ],
+      "wrong_answers": [
+        "žvaigždė",
+        "kometa",
+        "asteroidas",
+        "galaktika"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f32211d95b2a6f9e2ea79c87453e0e66",
+      "question": "Kuri kosmoso agentūra nuskraidino pirmuosius žmones į Mėnulį?",
+      "answers": [
+        "nasa"
+      ],
+      "wrong_answers": [
+        "esa",
+        "roskosmos",
+        "isro",
+        "spacex"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "eef83762a71eebb8a968f14b202926f1",
+      "question": "Iš ko daugiausia sudaryta Saulė?",
+      "answers": [
+        "vandenilio",
+        "vandenilio ir helio"
+      ],
+      "wrong_answers": [
+        "deguonies",
+        "geležies",
+        "uolienų",
+        "vandens"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "7f870419b0faae79a48d9c49647da39e",
+      "question": "Maždaug per kiek dienų Žemė apskrieja Saulę?",
+      "answers": [
+        "365",
+        "365 dienas",
+        "metus"
+      ],
+      "wrong_answers": [
+        "30",
+        "100",
+        "500",
+        "1000"
+      ],
+      "category": "science",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "0a394d70c5be7e7a2bd9867a327552c7",
+      "question": "Kuri planeta pakrypusi ant šono ir sukasi beveik gulomis?",
+      "answers": [
+        "uranas"
+      ],
+      "wrong_answers": [
+        "neptūnas",
+        "saturnas",
+        "venera",
+        "marsas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "f879b817d9f93c571130562966a73601",
+      "question": "Kaip vadinama milžiniška audra Jupiteryje?",
+      "answers": [
+        "didžioji raudonoji dėmė"
+      ],
+      "wrong_answers": [
+        "didžioji tamsioji dėmė",
+        "jupiterio akis",
+        "raudonoji audra",
+        "didysis sūkurys"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0039d947b15c4e70f3b675b71c218640",
+      "question": "Kuri planeta turi trumpiausią parą Saulės sistemoje?",
+      "answers": [
+        "jupiteris"
+      ],
+      "wrong_answers": [
+        "merkurijus",
+        "žemė",
+        "venera",
+        "marsas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "3bfe6614a3a1a802493f74cbe0928540",
+      "question": "Kuris palydovas yra didžiausias visoje Saulės sistemoje?",
+      "answers": [
+        "ganimedas"
+      ],
+      "wrong_answers": [
+        "titanas",
+        "kalisto",
+        "mėnulis",
+        "ijo"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2ac9b2c13427b6d96fa66d7696a9b0cf",
+      "question": "Kuri planeta sukasi priešinga kryptimi nei dauguma kitų planetų?",
+      "answers": [
+        "venera"
+      ],
+      "wrong_answers": [
+        "marsas",
+        "merkurijus",
+        "jupiteris",
+        "neptūnas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "bbbb5c567ce179098d34166991842a43",
+      "question": "Kaip vadinamas aukščiausias ugnikalnis Saulės sistemoje?",
+      "answers": [
+        "olimpo kalnas",
+        "olympus mons"
+      ],
+      "wrong_answers": [
+        "mauna kea",
+        "everestas",
+        "valles marineris",
+        "mons huygens"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "cd7b3d53660566e11369536af3fac168",
+      "question": "Kurioje planetoje yra milžiniškas Valles Marineris kanjonas?",
+      "answers": [
+        "marse",
+        "marsas"
+      ],
+      "wrong_answers": [
+        "veneroje",
+        "merkurijuje",
+        "žemėje",
+        "titane"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "e910624c7466a58875da0e1937b34a2a",
+      "question": "Kiek palydovų turi Marsas?",
+      "answers": [
+        "2",
+        "du"
+      ],
+      "wrong_answers": [
+        "1",
+        "0",
+        "4",
+        "12"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "8eab6b0af7178e33a3d75c997a4be778",
+      "question": "Kaip vadinami du Marso palydovai?",
+      "answers": [
+        "fobas ir deimas"
+      ],
+      "wrong_answers": [
+        "titanas ir rėja",
+        "ijo ir europa",
+        "kastoras ir poluksas",
+        "romulas ir remas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "8d8a8fc452efe56364d93ba8ef142e80",
+      "question": "Kuris ledinis Jupiterio palydovas, manoma, slepia vandenyną po savo pluta?",
+      "answers": [
+        "europa"
+      ],
+      "wrong_answers": [
+        "ijo",
+        "kalisto",
+        "titanas",
+        "tritonas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "a6fc538f8e6a62617c0b25f28367fffa",
+      "question": "Kuri planeta kartais vadinama Žemės dvyne dėl panašaus dydžio?",
+      "answers": [
+        "venera"
+      ],
+      "wrong_answers": [
+        "marsas",
+        "merkurijus",
+        "neptūnas",
+        "uranas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "40583e595edef0e369d7654abfe585a8",
+      "question": "Kaip bendrai vadinamos keturios arčiausiai Saulės esančios planetos?",
+      "answers": [
+        "uolinės planetos",
+        "žemiškosios planetos",
+        "vidinės planetos"
+      ],
+      "wrong_answers": [
+        "dujų milžinės",
+        "ledo milžinės",
+        "nykštukinės planetos",
+        "išorinės planetos"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "8775881597afb08c0b2b7f236fa3579f",
+      "question": "Jupiteris ir Saturnas priskiriami kokiam planetų tipui?",
+      "answers": [
+        "dujų milžinės",
+        "dujų milžinė"
+      ],
+      "wrong_answers": [
+        "uolinės planetos",
+        "nykštukinės planetos",
+        "ledo planetos",
+        "žemiškosios planetos"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "99e81790d30938e6ac995fc0c4e7aeeb",
+      "question": "Kuri kosminė misija 1969 metais pirmą kartą nuskraidino žmones į Mėnulį?",
+      "answers": [
+        "apollo 11",
+        "apolonas 11"
+      ],
+      "wrong_answers": [
+        "apollo 13",
+        "gemini 4",
+        "vostok 1",
+        "sojuz 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "b0b84ce6bd1de4ac8578784624b0e025",
+      "question": "Kas buvo pirmasis žmogus, pakilęs į kosmosą?",
+      "answers": [
+        "jurijus gagarinas",
+        "gagarinas"
+      ],
+      "wrong_answers": [
+        "neilas armstrongas",
+        "alanas šepardas",
+        "džonas glenas",
+        "valentina tereškova"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "7de9101c02de2ccc92fc91cbbaea4f03",
+      "question": "Maždaug per kiek laiko Saulės šviesa pasiekia Žemę?",
+      "answers": [
+        "8 minutes",
+        "apie 8 minutes",
+        "aštuonias minutes"
+      ],
+      "wrong_answers": [
+        "1 sekundę",
+        "1 valandą",
+        "1 dieną",
+        "30 sekundžių"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "e275f62abe59182157c6199451ccf728",
+      "question": "Kas vyksta per Saulės užtemimą?",
+      "answers": [
+        "mėnulis užstoja saulę",
+        "mėnulis praeina prieš saulę"
+      ],
+      "wrong_answers": [
+        "žemė užstoja saulę",
+        "saulė užgęsta",
+        "mėnulis parausta",
+        "žemė nustoja suktis"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "c785daf863f948886ee506a24f662d44",
+      "question": "Kurioje planetoje pučia stipriausi vėjai Saulės sistemoje?",
+      "answers": [
+        "neptūne",
+        "neptūnas"
+      ],
+      "wrong_answers": [
+        "jupiteryje",
+        "saturne",
+        "urane",
+        "veneroje"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0c350ef4724b1f78d4f8e13c3318e5a6",
+      "question": "Kuris Saulės sistemos kūnas yra vulkaniškai aktyviausias?",
+      "answers": [
+        "ijo"
+      ],
+      "wrong_answers": [
+        "europa",
+        "titanas",
+        "venera",
+        "marsas"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "a43e99cd1f8d222295cb2b805a182553",
+      "question": "Koks yra didžiausias objektas asteroidų žiede?",
+      "answers": [
+        "cerera"
+      ],
+      "wrong_answers": [
+        "vesta",
+        "paladė",
+        "erosas",
+        "junona"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2ecb1053725a7cd92c53c27d8bf741c4",
+      "question": "Kuriai planetai reikia daugiausia laiko apskrieti Saulę?",
+      "answers": [
+        "neptūnui",
+        "neptūnas"
+      ],
+      "wrong_answers": [
+        "uranui",
+        "saturnui",
+        "jupiteriui",
+        "marsui"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2f9b08d9fc252721b75404ee9f629ce7",
+      "question": "Kaip vadinama ledinių kūnų sritis už Neptūno?",
+      "answers": [
+        "kuiperio žiedas",
+        "kuiperio juosta"
+      ],
+      "wrong_answers": [
+        "asteroidų žiedas",
+        "oorto debesis",
+        "van aleno juosta",
+        "heliosfera"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0434162b85d07d24dc2259d92e188383",
+      "question": "Kurios planetos para ilgesnė už jos metus?",
+      "answers": [
+        "veneros",
+        "venera"
+      ],
+      "wrong_answers": [
+        "merkurijaus",
+        "marso",
+        "urano",
+        "neptūno"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "865df54cce814880f286861ec2c2f569",
+      "question": "Koks buvo pirmasis dirbtinis palydovas, paleistas į kosmosą?",
+      "answers": [
+        "sputnik 1",
+        "sputnikas"
+      ],
+      "wrong_answers": [
+        "explorer 1",
+        "vostok 1",
+        "apollo 1",
+        "voyager 1"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "e32eaa3200267661f23b39cf07794226",
+      "question": "Kuris erdvėlaivis yra toliausiai nuo Žemės nutolęs žmogaus sukurtas objektas?",
+      "answers": [
+        "voyager 1",
+        "voyager"
+      ],
+      "wrong_answers": [
+        "voyager 2",
+        "pioneer 10",
+        "new horizons",
+        "cassini"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "ca895bf5fa3f0fc8b4e0cce36b089f94",
+      "question": "Kurios dvi planetos visai neturi palydovų?",
+      "answers": [
+        "merkurijus ir venera",
+        "venera ir merkurijus"
+      ],
+      "wrong_answers": [
+        "marsas ir žemė",
+        "uranas ir neptūnas",
+        "jupiteris ir saturnas",
+        "žemė ir venera"
+      ],
+      "category": "science",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "25c9f86b7288e7d58b6bbc5a0cd10e07",
+      "question": "Kuri kalnų grandinė driekiasi vakariniu Pietų Amerikos pakraščiu?",
+      "answers": [
+        "andai"
+      ],
+      "wrong_answers": [
+        "alpės",
+        "uolieji kalnai",
+        "himalajai",
+        "uralas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "05e710c48b0911d733b87dfedd8c9df8",
+      "question": "Koks yra Argentinos sostinė?",
+      "answers": [
+        "buenos airės"
+      ],
+      "wrong_answers": [
+        "santjagas",
+        "montevidėjas",
+        "lima",
+        "asunsjonas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "95eaa6861af7ef2b58b5fdc37d20417f",
+      "question": "Koks yra Peru sostinė?",
+      "answers": [
+        "lima"
+      ],
+      "wrong_answers": [
+        "kitas",
+        "la pasas",
+        "bogota",
+        "santjagas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "867a7e43f031adf3054940e2b0543a8a",
+      "question": "Kuria kalba daugiausia kalbama Brazilijoje?",
+      "answers": [
+        "portugalų"
+      ],
+      "wrong_answers": [
+        "ispanų",
+        "anglų",
+        "prancūzų",
+        "italų"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "038505a8af0179518be4af90a71c0dc6",
+      "question": "Kurioje Pietų Amerikos šalyje yra Maču Pikču?",
+      "answers": [
+        "peru"
+      ],
+      "wrong_answers": [
+        "bolivija",
+        "čilė",
+        "ekvadoras",
+        "kolumbija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c7e40b364019f6735f2acd477f7b3dbc",
+      "question": "Kuri ilga ir siaura šalis driekiasi Pietų Amerikos vakarų pakrante?",
+      "answers": [
+        "čilė"
+      ],
+      "wrong_answers": [
+        "peru",
+        "argentina",
+        "ekvadoras",
+        "kolumbija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "cec9a554ee9206ba79bea599b30e8db1",
+      "question": "Kuri Pietų Amerikos šalis pavadinta ją kertančio pusiaujo vardu?",
+      "answers": [
+        "ekvadoras"
+      ],
+      "wrong_answers": [
+        "kolumbija",
+        "peru",
+        "brazilija",
+        "venesuela"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "93a50ea6496dd50e4bb80eafb6d6afc8",
+      "question": "Kuri šalis garsėja tango šokiu ir gaučais kaubojais?",
+      "answers": [
+        "argentina"
+      ],
+      "wrong_answers": [
+        "brazilija",
+        "peru",
+        "čilė",
+        "kolumbija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "3a2c31ed414e7d3a3f44a70992795edb",
+      "question": "Koks didelis atogrąžų miškas dengia didelę šiaurinės Pietų Amerikos dalį?",
+      "answers": [
+        "amazonė",
+        "amazonės miškas"
+      ],
+      "wrong_answers": [
+        "kongas",
+        "taiga",
+        "borneo miškas",
+        "everglades"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "2957950dcb6fbaaadbe3168c7da6af04",
+      "question": "Koks spalvingas paukštis su didžiuliu snapu gyvena Pietų Amerikos atogrąžų miškuose?",
+      "answers": [
+        "tukanas"
+      ],
+      "wrong_answers": [
+        "pingvinas",
+        "strutis",
+        "flamingas",
+        "pelėda"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "0a765c8638a0ecc5c0c208cd2ce7670d",
+      "question": "Koks vilnonis Andų gyvūnas laikomas dėl savo minkštos vilnos?",
+      "answers": [
+        "lama",
+        "alpaka"
+      ],
+      "wrong_answers": [
+        "kupranugaris",
+        "ožka",
+        "jakas",
+        "asilas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ac8e4a6c6d3e1b7693172e5a95927185",
+      "question": "Kuri Pietų Amerikos šalis garsėja kava ir Medeljino miestu?",
+      "answers": [
+        "kolumbija"
+      ],
+      "wrong_answers": [
+        "venesuela",
+        "ekvadoras",
+        "peru",
+        "bolivija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c072f1e5f28e12492bd160a52630a0b7",
+      "question": "Koks yra Čilės sostinė?",
+      "answers": [
+        "santjagas"
+      ],
+      "wrong_answers": [
+        "valparaisas",
+        "lima",
+        "buenos airės",
+        "montevidėjas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5c240ae173fa74c3ce4848425d44ce83",
+      "question": "Kuris vandenynas plyti palei rytinę Pietų Amerikos pakrantę?",
+      "answers": [
+        "atlanto vandenynas",
+        "atlantas"
+      ],
+      "wrong_answers": [
+        "ramusis vandenynas",
+        "indijos vandenynas",
+        "arkties vandenynas",
+        "pietų vandenynas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "2fdabf04a6bbfcfc9c17337c2d387f6a",
+      "question": "Kuri Pietų Amerikos šalis surengė ir laimėjo pirmąjį futbolo pasaulio čempionatą?",
+      "answers": [
+        "urugvajus"
+      ],
+      "wrong_answers": [
+        "brazilija",
+        "argentina",
+        "čilė",
+        "peru"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "88c241fb6d6678aa7c61904310b952a9",
+      "question": "Koks yra Kolumbijos sostinė?",
+      "answers": [
+        "bogota"
+      ],
+      "wrong_answers": [
+        "medeljinas",
+        "kalis",
+        "karakasas",
+        "kitas"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "b5bdf0aaee69ef0613f79966b26bebc2",
+      "question": "Kurios unikalia gyvūnija garsėjančios salos priklauso Ekvadorui?",
+      "answers": [
+        "galapagai",
+        "galapagų salos"
+      ],
+      "wrong_answers": [
+        "folklando salos",
+        "kanarų salos",
+        "azorai",
+        "velykų sala"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "2efbbd65e961c8f166f4a22c14067882",
+      "question": "Kuri šalis yra didžiausia Pietų Amerikoje pagal plotą?",
+      "answers": [
+        "brazilija"
+      ],
+      "wrong_answers": [
+        "argentina",
+        "peru",
+        "kolumbija",
+        "bolivija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "4cb24cdf8412b8eaf66b6b9dba5a8525",
+      "question": "Kokia spalvinga šventė su eitynėmis ir samba kasmet vyksta Brazilijoje?",
+      "answers": [
+        "karnavalas"
+      ],
+      "wrong_answers": [
+        "oktoberfestas",
+        "divalis",
+        "holis",
+        "užgavėnės"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f43acf3f412a6204489fb471d43ac6a0",
+      "question": "Koks yra aukščiausias pasaulio krioklys, esantis Venesueloje?",
+      "answers": [
+        "andželo krioklys",
+        "salto ángel"
+      ],
+      "wrong_answers": [
+        "niagaros krioklys",
+        "iguasu kriokliai",
+        "viktorijos krioklys",
+        "tugelos krioklys"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "daef70df4e77f4c1284fa699e1eedc43",
+      "question": "Kuri senovės imperija pastatė Maču Pikču aukštai Anduose?",
+      "answers": [
+        "inkai",
+        "inkų imperija"
+      ],
+      "wrong_answers": [
+        "actekai",
+        "majai",
+        "olmekai",
+        "romos imperija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "b3246fae3c3e36764e2c2d47142eda8b",
+      "question": "Kuris ežeras aukštai Anduose yra aukščiausiai esantis didelis laivuojamas ežeras pasaulyje?",
+      "answers": [
+        "titikakos ežeras",
+        "titikaka"
+      ],
+      "wrong_answers": [
+        "baikalo ežeras",
+        "viktorijos ežeras",
+        "marakaibo ežeras",
+        "poopo ežeras"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "22286c6c028ac9b4febfd2ecbc2f96aa",
+      "question": "Kurios dvi šalys Pietų Amerikoje neturi priėjimo prie jūros?",
+      "answers": [
+        "bolivija ir paragvajus",
+        "paragvajus ir bolivija"
+      ],
+      "wrong_answers": [
+        "čilė ir peru",
+        "ekvadoras ir urugvajus",
+        "brazilija ir gajana",
+        "kolumbija ir venesuela"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d08e015f599b30e2919034cb702fecdc",
+      "question": "Koks yra aukščiausias Pietų Amerikos kalnas?",
+      "answers": [
+        "akonkagva"
+      ],
+      "wrong_answers": [
+        "čimborasas",
+        "huaskaranas",
+        "ochos del saladas",
+        "ilimanis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "1f615ffd2b22f88c3b7d2295085224e9",
+      "question": "Bolivijos Salar de Uyuni yra didžiausias pasaulyje kas?",
+      "answers": [
+        "druskožemis",
+        "druskos dykuma"
+      ],
+      "wrong_answers": [
+        "smėlio dykuma",
+        "ledynas",
+        "krateris",
+        "pelkė"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "647b61f2cd7cf2dcdd6c8bfceaf507ba",
+      "question": "Kuris pietinis regionas, kurį dalijasi Čilė ir Argentina, garsėja ledynais ir stepe?",
+      "answers": [
+        "patagonija"
+      ],
+      "wrong_answers": [
+        "amazonija",
+        "pampa",
+        "gran čakas",
+        "altiplanas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "f647f5639a0e42242d441b768c5940a1",
+      "question": "Kaip vadinamos plačios derlingos Argentinos lygumos?",
+      "answers": [
+        "pampa",
+        "pampos"
+      ],
+      "wrong_answers": [
+        "prerijos",
+        "stepės",
+        "savana",
+        "autbekas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "4057bfc326abad782d617bc13047f7cb",
+      "question": "Iguasu kriokliai yra pasienyje tarp kurių dviejų šalių?",
+      "answers": [
+        "argentinos ir brazilijos",
+        "brazilijos ir argentinos"
+      ],
+      "wrong_answers": [
+        "čilės ir peru",
+        "bolivijos ir paragvajaus",
+        "kolumbijos ir ekvadoro",
+        "urugvajaus ir argentinos"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "48d3420d9951855c0597e46c8bea53ea",
+      "question": "Kuri šalis turi aukščiausiai pasaulyje esančią sostinę – virš 3600 metrų?",
+      "answers": [
+        "bolivija"
+      ],
+      "wrong_answers": [
+        "peru",
+        "ekvadoras",
+        "kolumbija",
+        "čilė"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "cffc6d71a914a69a9805eb1cb1791d5e",
+      "question": "Koks yra Venesuelos sostinė?",
+      "answers": [
+        "karakasas"
+      ],
+      "wrong_answers": [
+        "marakaibas",
+        "bogota",
+        "džordžtaunas",
+        "kitas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "1909e770d6ac46e44e639804f880a7aa",
+      "question": "Kuri didelė Pietų Amerikos pelkių gyvatė yra viena sunkiausių pasaulyje?",
+      "answers": [
+        "anakonda"
+      ],
+      "wrong_answers": [
+        "pitonas",
+        "kobra",
+        "smauglys",
+        "gyvatė angis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "5b08b3cd68a252b66a60ff917dc4f679",
+      "question": "Kuri Pietų Amerikos šalis pavadinta tyrinėtojo Kristupo Kolumbo vardu?",
+      "answers": [
+        "kolumbija"
+      ],
+      "wrong_answers": [
+        "venesuela",
+        "bolivija",
+        "ekvadoras",
+        "peru"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "7b5bcb154987e1f46c737d284da621bb",
+      "question": "Kieno garbei pavadinta Bolivija?",
+      "answers": [
+        "simono bolivaro",
+        "bolivaro"
+      ],
+      "wrong_answers": [
+        "kolumbo",
+        "pisaro",
+        "magelano",
+        "koreso"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "4bb19f6a56da4738d09e1e0e8e65b584",
+      "question": "Koks yra Urugvajaus sostinė?",
+      "answers": [
+        "montevidėjas"
+      ],
+      "wrong_answers": [
+        "asunsjonas",
+        "buenos airės",
+        "santjagas",
+        "la pasas"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "3ec6f888f2056559fa0327cb96f97e62",
+      "question": "Kuri maža aštriadantė žuvis garsėja Amazonės upėse?",
+      "answers": [
+        "piranija"
+      ],
+      "wrong_answers": [
+        "ryklys",
+        "šamas",
+        "lašiša",
+        "upėtakis"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d81f3cbd83662b63714f6e9315c5d765",
+      "question": "Kurios Pietų Amerikos šalies sostinė yra Džordžtaunas?",
+      "answers": [
+        "gajana"
+      ],
+      "wrong_answers": [
+        "surinamas",
+        "venesuela",
+        "brazilija",
+        "paragvajus"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "82eb0fe69ed37fe672df1a916cdc4824",
+      "question": "Kuri šalis yra didžiausia kavos gamintoja Pietų Amerikoje?",
+      "answers": [
+        "brazilija"
+      ],
+      "wrong_answers": [
+        "kolumbija",
+        "peru",
+        "ekvadoras",
+        "bolivija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "730b4ff8db2ad3bed9b22cb9010c5d05",
+      "question": "Paslaptingos Naskos linijos yra milžiniški piešiniai kurioje šalyje?",
+      "answers": [
+        "peru"
+      ],
+      "wrong_answers": [
+        "čilė",
+        "bolivija",
+        "meksika",
+        "brazilija"
+      ],
+      "category": "geography",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "9766fc00beb75cd25f3f909db7765119",
+      "question": "Kuri Pietų Amerikos šalis primena ilgą aitriąją papriką palei Ramųjį vandenyną?",
+      "answers": [
+        "čilė"
+      ],
+      "wrong_answers": [
+        "peru",
+        "ekvadoras",
+        "kolumbija",
+        "brazilija"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f755b93548254d547392a162339e94be",
+      "question": "Koks populiariausias sportas Pietų Amerikoje?",
+      "answers": [
+        "futbolas"
+      ],
+      "wrong_answers": [
+        "kriketas",
+        "ledo ritulys",
+        "beisbolas",
+        "regbis"
+      ],
+      "category": "geography",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
     }
   ]
 }
