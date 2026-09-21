@@ -275,15 +275,14 @@
       "points": 1000,
       "language": "es",
       "answers": [
-        "unidad central de procesamiento",
         "procesador"
       ],
       "wrong_answers": [
-        "unidad de potencia de computadora",
+        "unidad de potencia",
         "utilidad central de programa",
-        "unidad de control de procesamiento",
-        "utilidad de procesamiento central",
-        "unidad de procesamiento centralizado"
+        "unidad de control",
+        "utilidad central",
+        "procesador centralizado"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -1399,7 +1398,7 @@
       ],
       "wrong_answers": [
         "bus de sistema unificado",
-        "puente de almacenamiento universal",
+        "puente universal",
         "bus de velocidad universal",
         "bus serie único"
       ],
@@ -3189,7 +3188,7 @@
       "language": "es",
       "answers": [
         "asesinato",
-        "asesinato de francisco fernando"
+        "muerte de francisco fernando"
       ],
       "wrong_answers": [
         "invasión de polonia",
@@ -4111,7 +4110,7 @@
         "la silla de plata",
         "el sobrino del mago",
         "el caballo y el muchacho",
-        "la travesía del viajero del alba"
+        "el viajero del alba"
       ],
       "category": "literature",
       "difficulty": "normal",
@@ -6794,7 +6793,6 @@
         "tarde",
         "sol",
         "mañana",
-        "mediodía",
         "mediodía"
       ],
       "category": "general",
@@ -10002,7 +10000,7 @@
       "points": 800,
       "language": "es",
       "answers": [
-        "unidad de procesamiento gráfico"
+        "tarjeta gráfica"
       ],
       "wrong_answers": [
         "general processing unit",
@@ -10899,7 +10897,7 @@
       "wrong_answers": [
         "cenicienta",
         "blancanieves",
-        "alicia en el país de las maravillas",
+        "alicia en el país",
         "peter pan",
         "pinocho"
       ],
@@ -16316,10 +16314,10 @@
       "points": 700,
       "language": "es",
       "answers": [
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "herboso, ígneo, acuoso"
       ],
@@ -16756,16 +16754,17 @@
       "id": "d271e27747123d1c3f05368e4c06b4df"
     },
     {
-      "question": "En la serie Doctor Who, ¿qué significa TARDIS?",
+      "question": "En la serie Doctor Who, ¿qué significa la T de TARDIS?",
       "points": 700,
       "language": "es",
       "answers": [
-        "time and relative dimension in space"
+        "time",
+        "tiempo"
       ],
       "wrong_answers": [
-        "time and resting dimensions in space",
-        "time and relative dimensions in style",
-        "toilet aid rope dog is soup"
+        "travel",
+        "transport",
+        "temporal"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -17576,7 +17575,7 @@
         "candle in the wind"
       ],
       "wrong_answers": [
-        "i guess that's why they call it the blues",
+        "i guess that's why",
         "your song",
         "island girl"
       ],
@@ -17932,7 +17931,7 @@
       "points": 700,
       "language": "es",
       "answers": [
-        "líder de la mayoría en la cámara"
+        "líder de la mayoría"
       ],
       "wrong_answers": [
         "fiscal general",
@@ -18609,9 +18608,9 @@
         "navegar con los argonautas"
       ],
       "wrong_answers": [
-        "se convirtió en mujer y volvió a ser hombre",
+        "se convirtió en mujer",
         "cegado por hera",
-        "le dijo a edipo que se había casado con su madre"
+        "advirtió a edipo"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19200,7 +19199,7 @@
       "wrong_answers": [
         "infinity on high",
         "21st century breakdown",
-        "no pads, no helmets...just balls"
+        "no pads, no helmets"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19320,8 +19319,7 @@
       "question": "¿Cuándo transcurre 'Rogue One: A Star Wars Story' en la cronología de Star Wars?",
       "answers": [
         "entre el episodio 3 y el 4",
-        "entre los episodios 3 y 4",
-        "después del episodio 3 y antes del 4"
+        "entre los episodios 3 y 4"
       ],
       "wrong_answers": [
         "después del episodio 6",
@@ -19734,9 +19732,7 @@
     {
       "question": "¿Cómo se llama el sistema que ayuda a los aviones a evitar colisionar entre sí?",
       "answers": [
-        "tcas",
-        "sistema de alerta de tráfico y evasión de colisiones",
-        "traffic alert and collision avoidance system"
+        "tcas"
       ],
       "wrong_answers": [
         "gpws",
@@ -20081,11 +20077,10 @@
       "question": "¿Cuál es el nombre de una conjetura que NO forma parte de los siete Problemas del Milenio?",
       "answers": [
         "conjetura de navier",
-        "conjetura de navier (matemática)",
         "hipótesis de navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -20172,8 +20167,7 @@
       "question": "¿Qué canción canta Rick Astley y no Tom Jones?",
       "answers": [
         "never gonna give you up",
-        "never gonna give u up",
-        "la canción never gonna give you up"
+        "never gonna give u up"
       ],
       "wrong_answers": [
         "it's not unusual",
@@ -20411,7 +20405,6 @@
         "instrumento de viento metal"
       ],
       "wrong_answers": [
-        "instrumento de viento madera",
         "instrumento de viento madera",
         "instrumento de cuerda",
         "instrumento de percusión"
@@ -20858,7 +20851,7 @@
     {
       "question": "League of Legends, DOTA 2, Smite y Heroes of the Storm forman parte de qué tipo de juego?",
       "answers": [
-        "arena de batalla multijugador en línea",
+        "arena de batalla",
         "moba",
         "m.o.b.a."
       ],
@@ -20917,9 +20910,9 @@
         "la canción recess"
       ],
       "wrong_answers": [
-        "all is fair in love and brostep",
+        "all is fair in brostep",
         "rock n roll",
-        "scary monsters and nice sprites"
+        "scary monsters"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -20949,8 +20942,7 @@
       "question": "¿Quién escribió la canción de Sinéad O'Connor 'Nothing Compares 2 U'?",
       "answers": [
         "prince",
-        "prince rogers nelson",
-        "el artista antes conocido como prince"
+        "prince rogers nelson"
       ],
       "wrong_answers": [
         "michael jackson",
@@ -21007,7 +20999,7 @@
         "motherboard"
       ],
       "wrong_answers": [
-        "unidad central de procesamiento",
+        "procesador",
         "disco duro",
         "memoria"
       ],
@@ -21386,7 +21378,7 @@
       ],
       "wrong_answers": [
         "cory in the house",
-        "la nueva escuela del emperador",
+        "las locuras del emperador",
         "hannah montana"
       ],
       "category": "entertainment",
@@ -21398,7 +21390,6 @@
     {
       "question": "¿Cuál es la fórmula química del agua?",
       "answers": [
-        "h2o",
         "h2o",
         "h20"
       ],
@@ -21795,8 +21786,7 @@
       "question": "¿Cómo se llama el Año Nuevo judío?",
       "answers": [
         "rosh hashaná",
-        "rosh hashanah",
-        "rosh hashaná (año nuevo judío)"
+        "rosh hashanah"
       ],
       "wrong_answers": [
         "elul",
@@ -22406,12 +22396,11 @@
     {
       "question": "En Portal 2, ¿qué causó la muerte de Cave Johnson, el jefe de Aperture Science?",
       "answers": [
-        "envenenamiento por rocas lunares",
         "rocas lunares",
         "enfermedad por rocas lunares"
       ],
       "wrong_answers": [
-        "enviar accidentalmente un portal a la luna",
+        "un portal a la luna",
         "resbalar en la ducha",
         "envenenamiento por asbesto"
       ],
@@ -22658,14 +22647,14 @@
     {
       "question": "¿A qué velocidad viaja la luz en el espacio?",
       "answers": [
-        "299.792.458 metros por segundo",
+        "299.792.458 m/s",
         "299792458 metros por segundo",
-        "alrededor de 300.000 kilómetros por segundo"
+        "unos 300.000 km/s"
       ],
       "wrong_answers": [
         "50.461 metros por segundo",
-        "308.215.043 metros por segundo",
-        "751.665.014.151 metros por segundo"
+        "308.215.043 m/s",
+        "751.665.014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -22728,16 +22717,16 @@
       "id": "8030087928f7129b2959ad349b7cb25d"
     },
     {
-      "question": "En informática, ¿qué significa MIDI?",
+      "question": "En informática, ¿qué significa la M de MIDI?",
       "answers": [
-        "musical instrument digital interface",
-        "interfaz digital de instrumentos musicales",
-        "midi"
+        "musical",
+        "music",
+        "música"
       ],
       "wrong_answers": [
-        "musical interface of digital instruments",
-        "modular interface of digital instruments",
-        "musical instrument data interface"
+        "modular",
+        "media",
+        "mechanical"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -23235,7 +23224,6 @@
       "question": "¿Qué libro escribió George Orwell sobre un gobierno que vigila a las personas?",
       "answers": [
         "1984",
-        "mil novecientos ochenta y cuatro",
         "19 84"
       ],
       "wrong_answers": [
@@ -23289,8 +23277,7 @@
       "question": "¿Cuál es el formato de imagen más popular para logotipos en Wikimedia?",
       "answers": [
         "svg",
-        ".svg",
-        "gráficos vectoriales escalables"
+        ".svg"
       ],
       "wrong_answers": [
         "png",
@@ -23703,8 +23690,7 @@
       "question": "En el videojuego Half-Life, ¿cómo se llama el grupo militar de EE. UU. que entra en las instalaciones de investigación de Black Mesa?",
       "answers": [
         "hecu",
-        "el hecu",
-        "hazardous environment combat unit"
+        "el hecu"
       ],
       "wrong_answers": [
         "navy seals",
@@ -23865,7 +23851,6 @@
       "question": "¿Cómo se llama la película de 1922 en la que Max Schreck interpreta a un famoso monstruo?",
       "answers": [
         "nosferatu",
-        "nosferatu, una sinfonía del horror",
         "nosferatu el vampiro"
       ],
       "wrong_answers": [
@@ -23942,7 +23927,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladés y bután"
       ],
       "category": "history",
@@ -24068,7 +24053,7 @@
       ],
       "wrong_answers": [
         "el polvo bloquea la luz",
-        "el corrimiento al rojo oculta las estrellas",
+        "el corrimiento al rojo",
         "la mecánica cuántica"
       ],
       "category": "general",
@@ -24285,7 +24270,7 @@
       "wrong_answers": [
         "un sabor de helado",
         "un tipo de enfermedad",
-        "un personaje de dibujos animados"
+        "un dibujo animado"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -25311,8 +25296,8 @@
       ],
       "wrong_answers": [
         "el nombre del jefe final",
-        "el nombre del personaje principal",
-        "el nombre de una nave espacial"
+        "el protagonista",
+        "una nave espacial"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -25329,7 +25314,7 @@
       ],
       "wrong_answers": [
         "drácula",
-        "el extraño caso del dr. jekyll y mr. hyde",
+        "dr. jekyll y mr. hyde",
         "la leyenda de sleepy hollow"
       ],
       "category": "entertainment",
@@ -25360,7 +25345,6 @@
       "question": "¿En qué año comenzó Marvel Comics?",
       "answers": [
         "1939",
-        "mil novecientos treinta y nueve",
         "39"
       ],
       "wrong_answers": [
@@ -25432,7 +25416,6 @@
       "question": "¿En qué año se estrenó la película 'Con Air'?",
       "answers": [
         "1997",
-        "mil novecientos noventa y siete",
         "97"
       ],
       "wrong_answers": [
@@ -25958,9 +25941,9 @@
         "perder un peón"
       ],
       "wrong_answers": [
-        "sacrificar al rey por una dama",
+        "cambiar el rey por la dama",
         "enrocar corto",
-        "mover al rey en la segunda jugada"
+        "mover el rey pronto"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -26352,14 +26335,12 @@
     {
       "question": "¿Cómo se llamaba la secuela cancelada de Team Fortress?",
       "answers": [
-        "team fortress 2: brotherhood of arms",
-        "tf2: brotherhood of arms",
-        "team fortress 2 brotherhood of arms"
+        "tf2: brotherhood of arms"
       ],
       "wrong_answers": [
-        "team fortress 2: desert mercenaries",
-        "team fortress 2: operation gear grinder",
-        "team fortress 2: return to classic"
+        "tf2: desert mercenaries",
+        "tf2: operation gear grinder",
+        "tf2: return to classic"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -26750,12 +26731,11 @@
       "question": "Maurice Sendak es famoso por escribir qué libro infantil?",
       "answers": [
         "donde viven los monstruos",
-        "donde viven los monstruos libro",
         "los monstruos"
       ],
       "wrong_answers": [
         "la historia interminable",
-        "charlie y la fábrica de chocolate",
+        "la fábrica de chocolate",
         "el gato ensombrerado"
       ],
       "category": "entertainment",
@@ -26765,16 +26745,14 @@
       "id": "4ebe39601f02598b48b82f52e5ba26b5"
     },
     {
-      "question": "¿Qué países europeos se conocen como PIIGS por sus economías?",
+      "question": "En el apodo económico PIIGS, ¿qué país representa la P?",
       "answers": [
-        "portugal, irlanda, italia, grecia, españa",
-        "portugal irlanda italia grecia espana",
-        "portugal, irlanda, italia, grecia, espana"
+        "portugal"
       ],
       "wrong_answers": [
-        "polonia, islandia, italia, grecia, serbia",
-        "polonia, islandia, italia, groenlandia, españa",
-        "portugal, islandia, irlanda, grecia, serbia"
+        "polonia",
+        "panamá",
+        "perú"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -27002,10 +26980,8 @@
     {
       "question": "¿Cómo se llama la primera película de Disney?",
       "answers": [
-        "blancanieves y los siete enanitos",
         "blancanieves",
-        "blancanieves y los 7 enanitos",
-        "blanca nieves y los siete enanitos"
+        "blancanieves y los 7 enanitos"
       ],
       "wrong_answers": [
         "pinocho",
@@ -27095,8 +27071,7 @@
       "answers": [
         "isla del príncipe eduardo",
         "p.e.i.",
-        "pei",
-        "isla del príncipe eduardo"
+        "pei"
       ],
       "wrong_answers": [
         "nuevo brunswick",
@@ -27331,7 +27306,6 @@
       "question": "¿Qué libro sobre el control gubernamental escribió George Orwell?",
       "answers": [
         "1984",
-        "mil novecientos ochenta y cuatro",
         "19-84"
       ],
       "wrong_answers": [
@@ -27391,7 +27365,7 @@
       "wrong_answers": [
         "animal crossing: new leaf",
         "animal crossing: wild world",
-        "animal crossing: population growing"
+        "population growing"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -28072,7 +28046,6 @@
       "question": "Max Schreck, actor de cine mudo alemán, interpreta a un famoso monstruo en una película de 1922. ¿Cómo se llama esta película?",
       "answers": [
         "nosferatu",
-        "nosferatu: una sinfonía del horror",
         "nosferatu el vampiro"
       ],
       "wrong_answers": [
@@ -28198,8 +28171,7 @@
       "question": "¿Cuál es la saga de libros más vendida de J.R.R. Tolkien?",
       "answers": [
         "el señor de los anillos",
-        "señor de los anillos",
-        "el señor de los anillos (saga)"
+        "señor de los anillos"
       ],
       "wrong_answers": [
         "el principito",
@@ -28555,16 +28527,16 @@
       "id": "12693a2d6dd62216cfb35c8c20fbd0f4"
     },
     {
-      "question": "En la serie Doctor Who, ¿qué significa T.A.R.D.I.S?",
+      "question": "En la serie Doctor Who, ¿qué significa la D de T.A.R.D.I.S.?",
       "answers": [
-        "time and relative dimension in space",
-        "tiempo y dimensión relativa en el espacio",
-        "tardis"
+        "dimension",
+        "dimensions",
+        "dimensión"
       ],
       "wrong_answers": [
-        "time and resting dimensions in space",
-        "time and relative dimensions in style",
-        "toilet aid rope dog is soup"
+        "device",
+        "destination",
+        "drive"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -30418,7 +30390,7 @@
       "wrong_answers": [
         "crocodile rock",
         "candle in the wind",
-        "i don't wanna go on with you like that"
+        "i don't wanna go on with you"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -30429,14 +30401,13 @@
     {
       "question": "¿Qué dos equipos jugaron en el Super Bowl 42?",
       "answers": [
-        "new york giants y new england patriots",
         "giants y patriots",
         "ny giants y patriots"
       ],
       "wrong_answers": [
-        "green bay packers y pittsburgh steelers",
-        "philadelphia eagles y new england patriots",
-        "seattle seahawks y denver broncos"
+        "packers y steelers",
+        "eagles y patriots",
+        "seahawks y broncos"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -30483,8 +30454,6 @@
     {
       "question": "¿Qué país se mantuvo fuera de la Primera Guerra Mundial y no fue parte de las Potencias Centrales?",
       "answers": [
-        "españa",
-        "españa",
         "españa"
       ],
       "wrong_answers": [
@@ -31473,13 +31442,12 @@
     {
       "question": "¿Qué película de 2016 tiene a Superman y Batman peleando?",
       "answers": [
-        "batman v superman: dawn of justice",
         "batman vs superman",
         "batman v superman"
       ],
       "wrong_answers": [
-        "batman v superman: superapocalypse",
-        "batman v superman: black of knight",
+        "superapocalypse",
+        "black knight",
         "batman v superman: knightfall"
       ],
       "category": "entertainment",
@@ -31780,7 +31748,6 @@
       "question": "¿Qué significa RAM?",
       "answers": [
         "memoria de acceso aleatorio",
-        "memoria de acceso aleatorio (ram)",
         "ram"
       ],
       "wrong_answers": [
@@ -31839,7 +31806,7 @@
       ],
       "wrong_answers": [
         "i wanna have babies you down",
-        "i would hate being your driver",
+        "i would hate your driver",
         "i would have bought your dog"
       ],
       "category": "entertainment",
@@ -32110,7 +32077,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -32230,7 +32197,6 @@
       "question": "¿En qué año lanzó la banda Muse su primer álbum, Showbiz?",
       "answers": [
         "1999",
-        "mil novecientos noventa y nueve",
         "99"
       ],
       "wrong_answers": [
@@ -32934,7 +32900,7 @@
       "answers": [
         "texas",
         "tx",
-        "el estado de la estrella solitaria"
+        "la estrella solitaria"
       ],
       "wrong_answers": [
         "alabama",
@@ -33058,14 +33024,13 @@
     {
       "question": "¿Qué significan las letras en CMYK?",
       "answers": [
-        "cian, magenta, amarillo, negro",
         "cian magenta amarillo negro",
         "cmyk"
       ],
       "wrong_answers": [
-        "crema, granate, amarillo, negro",
-        "cian, magenta, amarillo, caqui",
-        "crema, granate, amarillo, caqui"
+        "crema, granate, ocre, negro",
+        "cian, magenta, amarillo, ocre",
+        "crema, granate, ocre, caqui"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -33166,7 +33131,7 @@
     {
       "question": "¿Qué título especial tiene Makoto Naegi en Danganronpa: Trigger Happy Havoc?",
       "answers": [
-        "estudiante de la suerte definitiva",
+        "estudiante con suerte",
         "estudiante de la suerte",
         "suerte definitiva"
       ],
@@ -33351,7 +33316,7 @@
         "dddcdc"
       ],
       "wrong_answers": [
-        "filthy acts done for a reasonable price",
+        "filthy acts, fair price",
         "civil war",
         "god bless the usa"
       ],
@@ -34037,7 +34002,7 @@
       "wrong_answers": [
         "la tercera guerra mundial",
         "el ataque de xen",
-        "la bomba nuclear de black mesa"
+        "la bomba de black mesa"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -35021,13 +34986,13 @@
     {
       "question": "¿Qué significa GPS?",
       "answers": [
-        "sistema de posicionamiento global",
-        "gps",
-        "g.p.s."
+        "posicionamiento global",
+        "global positioning system",
+        "gps"
       ],
       "wrong_answers": [
         "sistema personal global",
-        "sistema general de posicionamiento",
+        "posicionamiento general",
         "satélite personal general"
       ],
       "category": "technology",
@@ -35244,7 +35209,7 @@
       "wrong_answers": [
         "lohse",
         "el príncipe rojo",
-        "no hay personajes esqueléticos"
+        "no hay ningún esqueleto"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -35328,7 +35293,6 @@
       "question": "¿En qué año salió el juego \"Fallout\"?",
       "answers": [
         "1997",
-        "mil novecientos noventa y siete",
         "97"
       ],
       "wrong_answers": [
@@ -35472,7 +35436,6 @@
       "question": "¿En qué año se creó el DVD?",
       "answers": [
         "1995",
-        "mil novecientos noventa y cinco",
         "95"
       ],
       "wrong_answers": [
@@ -35495,7 +35458,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladés y bután"
       ],
       "category": "history",
@@ -35849,8 +35812,6 @@
     {
       "question": "¿Qué miembro del Alto Mando de Pokémon X e Y era parte del Team Flare?",
       "answers": [
-        "malva",
-        "malva",
         "malva"
       ],
       "wrong_answers": [
@@ -36396,7 +36357,7 @@
       "wrong_answers": [
         "la gran muralla china",
         "el coloso de rodas",
-        "los jardines colgantes de babilonia"
+        "jardines de babilonia"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -36425,14 +36386,12 @@
     {
       "question": "¿Cómo se llamaba la secuela cancelada de Team Fortress?",
       "answers": [
-        "team fortress 2 brotherhood of arms",
-        "tf2 brotherhood of arms",
-        "team fortress brotherhood of arms"
+        "tf2 brotherhood of arms"
       ],
       "wrong_answers": [
-        "team fortress 2 desert mercenaries",
-        "team fortress 2 operation gear grinder",
-        "team fortress 2 return to classic"
+        "tf2 desert mercenaries",
+        "tf2 operation gear grinder",
+        "tf2 return to classic"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -36883,7 +36842,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladés y bután"
       ],
       "category": "history",
@@ -37226,7 +37185,7 @@
       "wrong_answers": [
         "padre e hijo",
         "mejores amigos",
-        "compañeros de lucha contra el crimen"
+        "compañeros contra el crimen"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -37927,7 +37886,7 @@
       ],
       "wrong_answers": [
         "cory en la casa",
-        "la nueva escuela del emperador",
+        "las locuras del emperador",
         "hannah montana"
       ],
       "category": "entertainment",
@@ -38251,7 +38210,7 @@
       ],
       "wrong_answers": [
         "heaven on high",
-        "aetherochemical research facility",
+        "aetherochemical facility",
         "sunken temple of qarn"
       ],
       "category": "entertainment",
@@ -38387,16 +38346,15 @@
       "id": "1f43f66517a2b9f159c42dffe80f90e7"
     },
     {
-      "question": "¿Qué significa la palabra LÁSER?",
+      "question": "En la palabra LASER, ¿qué significa la L?",
       "answers": [
-        "amplificación de luz por emisión estimulada de radiación",
-        "light amplification by stimulated emission of radiation",
-        "amplificación de luz por emisión estimulada"
+        "light",
+        "luz"
       ],
       "wrong_answers": [
-        "light analysis by stereo ecorazer",
-        "light amplifier by standby energy of radio",
-        "life antimatter by standing entry of range"
+        "lens",
+        "linear",
+        "laser"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -38552,7 +38510,7 @@
       "question": "La canción de Queen 'A Kind Of Magic' aparece en qué película de 1986?",
       "answers": [
         "highlander",
-        "el guerrero de las tierras altas",
+        "el guerrero highlander",
         "película highlander"
       ],
       "wrong_answers": [
@@ -39701,16 +39659,16 @@
       "id": "890ced464455436a535eb2b21edb3656"
     },
     {
-      "question": "¿Cuál es el orden correcto para resolver problemas matemáticos?",
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la P?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "pemdas",
-        "p e m d a s"
+        "paréntesis",
+        "parentesis",
+        "parentheses"
       ],
       "wrong_answers": [
-        "suma, multiplicación, división, resta, suma, paréntesis",
-        "paréntesis, exponentes, suma, resta, multiplicación, división",
-        "el orden en que se escriben las operaciones"
+        "porcentajes",
+        "potencias",
+        "puntos"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -39865,7 +39823,6 @@
     {
       "question": "¿Cómo se llama un problema matemático similar en nombre a las ecuaciones de Navier-Stokes pero que no es uno de los siete Problemas del Milenio?",
       "answers": [
-        "conjetura de navier",
         "conjetura de navier",
         "teoría de navier"
       ],
@@ -40549,9 +40506,7 @@
     {
       "question": "¿Cómo se llama el primer álbum de Rage Against the Machine?",
       "answers": [
-        "rage against the machine",
-        "álbum rage against the machine",
-        "álbum debut de rage against the machine"
+        "rage against the machine"
       ],
       "wrong_answers": [
         "evil empire",
@@ -40945,12 +40900,10 @@
     {
       "question": "En los juegos de Pokémon, ¿cómo se llaman los Pokémon iniciales que puedes elegir en la segunda generación?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil y totodile",
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "grassy, firey, watery"
       ],
@@ -41252,8 +41205,7 @@
       "question": "¿En qué año salió el juego Twister?",
       "answers": [
         "1966",
-        "sesenta y seis",
-        "mil novecientos sesenta y seis"
+        "sesenta y seis"
       ],
       "wrong_answers": [
         "1965",
@@ -41450,8 +41402,7 @@
       "question": "¿Cuál es el primer número de prisionero de Jean Valjean en el musical Los Miserables?",
       "answers": [
         "24601",
-        "24.601",
-        "veinticuatro mil seiscientos uno"
+        "24.601"
       ],
       "wrong_answers": [
         "9430",
@@ -41647,15 +41598,14 @@
     {
       "question": "¿Cuál es la velocidad de la luz?",
       "answers": [
-        "299.792.458 metros por segundo",
-        "299792458 metros por segundo",
         "299.792.458 m/s",
+        "299792458 metros por segundo",
         "299792458 m/s"
       ],
       "wrong_answers": [
         "50.461 metros por segundo",
-        "308.215.043 metros por segundo",
-        "751.665.014.151 metros por segundo"
+        "308.215.043 m/s",
+        "751.665.014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -41866,9 +41816,9 @@
     {
       "question": "¿Qué significan las letras GPS?",
       "answers": [
-        "sistema de posicionamiento global",
-        "gps",
-        "sistema global de posicionamiento"
+        "posicionamiento global",
+        "global positioning system",
+        "gps"
       ],
       "wrong_answers": [
         "global personal system",
@@ -42198,7 +42148,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -42318,7 +42268,7 @@
     {
       "question": "¿Qué talento especial tiene Makoto Naegi en Danganronpa?",
       "answers": [
-        "estudiante de la suerte definitiva",
+        "estudiante con suerte",
         "estudiante de la suerte",
         "suerte definitiva"
       ],
@@ -42463,8 +42413,7 @@
       "question": "¿En qué año salió \"Metal Gear Solid\" en Norteamérica?",
       "answers": [
         "1998",
-        "noventa y ocho",
-        "mil novecientos noventa y ocho"
+        "noventa y ocho"
       ],
       "wrong_answers": [
         "1987",
@@ -42505,7 +42454,7 @@
       "wrong_answers": [
         "la gran muralla china",
         "el coloso de rodas",
-        "los jardines colgantes de babilonia"
+        "jardines de babilonia"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -42793,7 +42742,7 @@
       "wrong_answers": [
         "hop",
         "el origen de los guardianes",
-        "alicia en el país de las maravillas"
+        "alicia en el país"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -42804,7 +42753,7 @@
     {
       "question": "¿Qué significa CPU?",
       "answers": [
-        "unidad central de procesamiento",
+        "procesador",
         "unidad central de proceso",
         "cpu"
       ],
@@ -42859,13 +42808,12 @@
       "question": "¿Qué famosa canción navideña fue cantada por primera vez por Gene Autry, 'El vaquero cantante'?",
       "answers": [
         "here comes santa claus",
-        "here comes santa claus canción",
         "here comes santa"
       ],
       "wrong_answers": [
         "white christmas",
         "frosty the snowman",
-        "rudolph the red-nosed reindeer"
+        "rudolph"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -43328,7 +43276,6 @@
       "question": "¿En qué serie de libros se basa la serie de TV \"Game of Thrones\"?",
       "answers": [
         "canción de hielo y fuego",
-        "canción de hielo y fuego libros",
         "asoiaf"
       ],
       "wrong_answers": [
@@ -43802,7 +43749,7 @@
       "wrong_answers": [
         "you'll be in my heart",
         "candle in the wind",
-        "i don't wanna go on with you like that"
+        "i don't wanna go on with you"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -43980,7 +43927,7 @@
         "navier-stokes"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -44029,14 +43976,14 @@
     {
       "question": "¿A qué velocidad viaja la luz en el espacio vacío?",
       "answers": [
-        "299.792.458 metros por segundo",
+        "299.792.458 m/s",
         "299792458 metros por segundo",
         "velocidad de la luz"
       ],
       "wrong_answers": [
         "50.461 metros por segundo",
-        "308.215.043 metros por segundo",
-        "751.665.014.151 metros por segundo"
+        "308.215.043 m/s",
+        "751.665.014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -44333,16 +44280,16 @@
       "id": "46dc23677fa300433853454cd1efbcf6"
     },
     {
-      "question": "¿Cuál es el orden correcto de operaciones para resolver problemas matemáticos, conocido como PEMDAS?",
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la E?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "paréntesis exponentes multiplicación división suma resta",
-        "pemdas"
+        "exponentes",
+        "exponents",
+        "potencias"
       ],
       "wrong_answers": [
-        "suma, multiplicación, división, resta, paréntesis",
-        "paréntesis, exponentes, suma, resta, multiplicación, división",
-        "el orden en que aparecen en el problema"
+        "ecuaciones",
+        "estimaciones",
+        "enteros"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -45003,11 +44950,10 @@
       "question": "¿Qué idea matemática no es uno de los siete Problemas del Milenio?",
       "answers": [
         "conjetura de navier",
-        "conjetura de navier",
         "navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -45507,8 +45453,7 @@
       "question": "¿En qué año terminó el Imperio Bizantino?",
       "answers": [
         "1453",
-        "14-53",
-        "mil cuatrocientos cincuenta y tres"
+        "14-53"
       ],
       "wrong_answers": [
         "1299",
@@ -45579,8 +45524,7 @@
       "question": "¿Qué juegos de Grand Theft Auto suceden en el estado ficticio de San Andreas?",
       "answers": [
         "gta v y gta san andreas",
-        "gta 5 y gta san andreas",
-        "grand theft auto 5 y san andreas"
+        "gta 5 y gta san andreas"
       ],
       "wrong_answers": [
         "gta v y gta vice city",
@@ -45774,16 +45718,14 @@
       "id": "5ccfd2736ec66fdc45f0c0a31b6b53d9"
     },
     {
-      "question": "El apodo PIIGS se refiere a las economías de qué países europeos?",
+      "question": "En el apodo económico PIIGS, ¿qué país representa la G?",
       "answers": [
-        "portugal, irlanda, italia, grecia, españa",
-        "portugal irlanda italia grecia españa",
-        "países piigs"
+        "grecia"
       ],
       "wrong_answers": [
-        "polonia, islandia, italia, grecia, serbia",
-        "polonia, islandia, italia, groenlandia, españa",
-        "portugal, islandia, irlanda, grecia, serbia"
+        "georgia",
+        "groenlandia",
+        "ghana"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -45902,8 +45844,6 @@
     {
       "question": "¿Qué país junto a la República Democrática del Congo es famoso por sus animales y parques?",
       "answers": [
-        "zambia",
-        "zambia",
         "zambia"
       ],
       "wrong_answers": [
@@ -45938,8 +45878,6 @@
     {
       "question": "¿Cómo llama la gente de Polonia a su país?",
       "answers": [
-        "polska",
-        "polska",
         "polska"
       ],
       "wrong_answers": [
@@ -46188,16 +46126,16 @@
       "id": "61b2cdff4af240620a99001933893fd0"
     },
     {
-      "question": "¿Cuál es el orden correcto de las operaciones en matemáticas?",
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la M?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "pemdas",
-        "p e m d a s"
+        "multiplicación",
+        "multiplicacion",
+        "multiplicar"
       ],
       "wrong_answers": [
-        "suma, multiplicación, división, resta, suma, paréntesis",
-        "paréntesis, exponentes, suma, resta, multiplicación, división",
-        "el orden en que se escriben las operaciones"
+        "menos",
+        "mediana",
+        "medidas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -46317,7 +46255,6 @@
       "question": "¿En qué año terminó la Segunda Guerra Mundial?",
       "answers": [
         "1945",
-        "mil novecientos cuarenta y cinco",
         "cuarenta y cinco"
       ],
       "wrong_answers": [
@@ -46486,7 +46423,7 @@
       "wrong_answers": [
         "entregar el rey por una dama",
         "mover el rey al costado",
-        "mover el rey en el segundo movimiento"
+        "mover el rey pronto"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -46593,8 +46530,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "advanced dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -46678,8 +46615,7 @@
       "question": "¿En qué año salió la mascota digital Tamagotchi?",
       "answers": [
         "1996",
-        "noventa y seis",
-        "mil novecientos noventa y seis"
+        "noventa y seis"
       ],
       "wrong_answers": [
         "1989",
@@ -47109,9 +47045,7 @@
     {
       "question": "¿Qué le dijo Tiresias a Edipo en los mitos griegos?",
       "answers": [
-        "le dijo que edipo se había casado con su madre",
-        "le reveló que edipo se casó con su madre",
-        "le dijo que edipo se había casado con su propia madre"
+        "edipo se casó con su madre"
       ],
       "wrong_answers": [
         "navegó con los argonautas",
@@ -47614,7 +47548,6 @@
       "question": "¿Con quién trabajó Lil A en la música?",
       "answers": [
         "lil fortnite",
-        "lil fortnite",
         "fortnite"
       ],
       "wrong_answers": [
@@ -47973,12 +47906,10 @@
     {
       "question": "En Pokémon Oro y Plata, ¿cómo se llaman los Pokémon iniciales que puedes elegir?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil y totodile",
         "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "herboso, ígneo, acuoso"
       ],
@@ -48231,7 +48162,7 @@
       ],
       "wrong_answers": [
         "techos decorados",
-        "fachadas elaboradas con frontón triangular",
+        "frontones triangulares",
         "paredes pintadas"
       ],
       "category": "art",
@@ -48586,8 +48517,7 @@
       "question": "¿En qué año cayó el Imperio bizantino?",
       "answers": [
         "1453",
-        "14-53",
-        "mil cuatrocientos cincuenta y tres"
+        "14-53"
       ],
       "wrong_answers": [
         "1299",
@@ -48622,11 +48552,10 @@
       "question": "¿Cómo se llama una conjetura que suena como un verdadero Problema del Milenio pero no lo es?",
       "answers": [
         "conjetura de navier",
-        "conjetura de navier",
         "navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -48790,7 +48719,7 @@
       "wrong_answers": [
         "pirámide de guiza",
         "coloso de rodas",
-        "jardines colgantes de babilonia"
+        "jardines de babilonia"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -48965,7 +48894,6 @@
       "question": "¿Con quién ha trabajado Lil A, famoso por canciones populares?",
       "answers": [
         "lil fortnite",
-        "lil fortnite",
         "fortnite"
       ],
       "wrong_answers": [
@@ -49018,7 +48946,6 @@
     {
       "question": "¿Qué país africano limita con la República Democrática del Congo y antes era parte de Sudán?",
       "answers": [
-        "sudán del sur",
         "sudán del sur",
         "sur de sudán"
       ],
@@ -49883,8 +49810,7 @@
       "question": "¿Cómo se llama un grupo que ayuda a controlar enfermedades pero no es una facción en The Division de Tom Clancy?",
       "answers": [
         "cdc",
-        "c.d.c.",
-        "centro de control de enfermedades"
+        "c.d.c."
       ],
       "wrong_answers": [
         "cleaners",
@@ -50764,14 +50690,14 @@
     {
       "question": "¿Qué significan las letras del modelo de color CMYK?",
       "answers": [
-        "cian, magenta, amarillo, negro",
+        "cian magenta amarillo negro",
         "c, m, y, k",
-        "cian, magenta, amarillo, clave"
+        "cian magenta amarillo clave"
       ],
       "wrong_answers": [
-        "crema, granate, amarillo, negro",
-        "cian, magenta, amarillo, caqui",
-        "crema, granate, amarillo, caqui"
+        "crema, granate, ocre, negro",
+        "cian, magenta, amarillo, ocre",
+        "crema, granate, ocre, caqui"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -51017,11 +50943,10 @@
       "question": "¿Cómo se llama una conjetura que suena como el problema de Navier-Stokes pero no es uno de los siete Problemas del Milenio?",
       "answers": [
         "conjetura de navier",
-        "navier",
-        "conjetura de navier"
+        "navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -51237,7 +51162,7 @@
         "placa madre"
       ],
       "wrong_answers": [
-        "unidad central de procesamiento",
+        "procesador",
         "disco duro",
         "ram"
       ],
@@ -51562,7 +51487,7 @@
       ],
       "wrong_answers": [
         "techos decorados",
-        "fachadas con frontón triangular",
+        "frontones triangulares",
         "paredes pintadas"
       ],
       "category": "art",
@@ -51719,11 +51644,10 @@
       "question": "¿Cómo se llama una conjetura que suena como las ecuaciones de Navier-Stokes pero no es uno de los siete grandes problemas matemáticos?",
       "answers": [
         "conjetura de navier",
-        "conjetura de navier",
         "suposición de navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -51994,7 +51918,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladés y bután"
       ],
       "category": "history",
@@ -52277,11 +52201,10 @@
       "question": "¿Cómo se llama una conjetura matemática que suena como un problema matemático famoso pero no es uno de los siete grandes problemas del premio?",
       "answers": [
         "conjetura de navier",
-        "conjetura de navier",
         "navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -52382,16 +52305,16 @@
       "id": "4f27cfb2ae5596e724fd466609e40070"
     },
     {
-      "question": "¿Qué significa PEMDAS en matemáticas?",
+      "question": "La frase en inglés 'Please Excuse My Dear Aunt Sally' (PEMDAS) ayuda a recordar ¿qué en matemáticas?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "p, e, m, d, a, s",
-        "paréntesis, potencias, multiplicación, división, suma, resta"
+        "orden de operaciones",
+        "el orden de operaciones",
+        "jerarquía de operaciones"
       ],
       "wrong_answers": [
-        "suma, multiplicación, división, resta, paréntesis",
-        "paréntesis, exponentes, suma, resta, multiplicación, división",
-        "el orden en que están escritas"
+        "tablas de multiplicar",
+        "la división larga",
+        "las fracciones"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -53073,9 +52996,9 @@
         "fue con los argonautas"
       ],
       "wrong_answers": [
-        "se convirtió en mujer y luego de nuevo en hombre",
+        "se convirtió en mujer",
         "fue cegado por hera",
-        "le dijo a edipo que se había casado con su madre"
+        "advirtió a edipo"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53308,7 +53231,7 @@
       ],
       "wrong_answers": [
         "i wanna have babies you down",
-        "i would hate being your driver",
+        "i would hate your driver",
         "i would have bought your dog"
       ],
       "category": "entertainment",
@@ -53428,14 +53351,12 @@
     {
       "question": "¿Cómo se llama el sistema que ayuda a que los aviones no choquen entre sí?",
       "answers": [
-        "sistema de alerta de colisión de tráfico",
-        "tcas",
-        "sistema de prevención de colisiones"
+        "tcas"
       ],
       "wrong_answers": [
-        "sistema de advertencia de proximidad al terreno",
-        "sistema de evitación de colisión de obstáculos",
-        "sistema de advertencia y conocimiento del terreno"
+        "alerta de proximidad",
+        "evitación de obstáculos",
+        "alerta de terreno"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -53573,11 +53494,10 @@
       "question": "¿Cómo se llama una conjetura que no es uno de los siete Problemas del Milenio, pero suena como una famosa ecuación matemática sobre fluidos?",
       "answers": [
         "conjetura de navier",
-        "conjetura de navier",
         "la conjetura de navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -53686,8 +53606,8 @@
       ],
       "wrong_answers": [
         "sí",
-        "sí",
-        "claro"
+        "claro",
+        "por supuesto"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53951,7 +53871,7 @@
       "question": "¿Qué entrenador Pokémon de los primeros juegos se convirtió en campeón en los segundos juegos?",
       "answers": [
         "lance",
-        "lance el entrenador de dragones",
+        "lance el domador",
         "lance el campeón"
       ],
       "wrong_answers": [
@@ -54117,7 +54037,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -54434,16 +54354,15 @@
       "id": "e10c655ec25c2d9aa056b0447639e221"
     },
     {
-      "question": "¿Qué significan las siglas LASER?",
+      "question": "En la palabra LASER, ¿qué significa la R?",
       "answers": [
-        "amplificación de luz por emisión estimulada de radiación",
-        "amplificación de luz por emisión estimulada",
-        "light amplification by stimulated emission of radiation"
+        "radiation",
+        "radiación"
       ],
       "wrong_answers": [
-        "light analysis by stereo ecorazer",
-        "light amplifier by standby energy of radio",
-        "life antimatter by standing entry of range"
+        "radio",
+        "rays",
+        "reflection"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -54580,9 +54499,7 @@
     {
       "question": "En el juego Half-Life, ¿cómo se llama el grupo militar que llega a Black Mesa?",
       "answers": [
-        "hecu",
-        "hazardous environment combat unit",
-        "unidad de combate en entorno peligroso"
+        "hecu"
       ],
       "wrong_answers": [
         "navy seals",
@@ -55018,7 +54935,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -55337,7 +55254,6 @@
       "question": "¿En qué año salió el juego de rol de mesa Deadlands?",
       "answers": [
         "1996",
-        "mil novecientos noventa y seis",
         "96"
       ],
       "wrong_answers": [
@@ -55632,7 +55548,7 @@
       "wrong_answers": [
         "gran muralla china",
         "coloso de rodas",
-        "jardines colgantes de babilonia"
+        "jardines de babilonia"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -56640,7 +56556,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -57230,8 +57146,7 @@
       "question": "¿Con qué artista, cuyo nombre artístico recuerda a un videojuego popular, ha trabajado Lil A?",
       "answers": [
         "lil fortnite",
-        "fortnite",
-        "lil fortnite"
+        "fortnite"
       ],
       "wrong_answers": [
         "lil pump",
@@ -57308,7 +57223,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57337,7 +57252,7 @@
     {
       "question": "En Danganronpa, ¿qué título especial tiene Makoto Naegi?",
       "answers": [
-        "estudiante de la suerte definitiva",
+        "estudiante con suerte",
         "estudiante de la suerte",
         "suerte definitiva"
       ],
@@ -57353,16 +57268,16 @@
       "id": "ee4e957e74d9c2c751825a7cb4f326ef"
     },
     {
-      "question": "¿Cuál es el orden para resolver problemas matemáticos con operaciones?",
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la D?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "pemdas",
-        "p e m d a s"
+        "división",
+        "division",
+        "dividir"
       ],
       "wrong_answers": [
-        "suma, multiplicación, división, resta, suma, paréntesis",
-        "paréntesis, exponentes, suma, resta, multiplicación, división",
-        "el orden en que se escriben las operaciones"
+        "decimales",
+        "dígitos",
+        "diferencia"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -57533,16 +57448,15 @@
       "id": "0a49fb4915a7cd6ea040283e752d59c0"
     },
     {
-      "question": "¿Qué países son llamados PIIGS por sus economías?",
+      "question": "En el apodo económico PIIGS, ¿qué país representa la S?",
       "answers": [
-        "portugal, irlanda, italia, grecia, españa",
-        "portugal irlanda italia grecia españa",
-        "portugal, irlanda, italia, grecia y españa"
+        "españa",
+        "spain"
       ],
       "wrong_answers": [
-        "polonia, islandia, italia, grecia, serbia",
-        "polonia, islandia, italia, groenlandia, españa",
-        "portugal, islandia, irlanda, grecia, serbia"
+        "suecia",
+        "serbia",
+        "eslovaquia"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -57569,16 +57483,15 @@
       "id": "71e74f45ab5f9918ee3d53114d9eca7a"
     },
     {
-      "question": "¿Qué países forman el acrónimo PIIGS por sus economías?",
+      "question": "El apodo económico PIIGS tiene dos letras I. Nombra uno de los países que representan.",
       "answers": [
-        "portugal, irlanda, italia, grecia, españa",
-        "portugal irlanda italia grecia españa",
-        "países p.i.i.g.s"
+        "irlanda",
+        "italia"
       ],
       "wrong_answers": [
-        "polonia, islandia, italia, grecia, serbia",
-        "polonia, islandia, italia, groenlandia, españa",
-        "portugal, islandia, irlanda, grecia, serbia"
+        "islandia",
+        "india",
+        "israel"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -57596,7 +57509,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57821,16 +57734,16 @@
       "id": "2588d811a0fab50ef929df4145120bd3"
     },
     {
-      "question": "¿Cuál es el orden de las operaciones matemáticas según las siglas PEMDAS?",
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la A?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "paréntesis exponentes multiplicación división suma resta",
-        "pemdas"
+        "adición",
+        "adicion",
+        "suma"
       ],
       "wrong_answers": [
-        "suma, multiplicación, división, resta, suma, paréntesis",
-        "paréntesis, exponentes, suma, resta, multiplicación, división",
-        "el orden en que se escriben las operaciones"
+        "áreas",
+        "ángulos",
+        "aproximación"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -57967,14 +57880,13 @@
     {
       "question": "¿Qué dos equipos jugaron el Super Bowl en 2008?",
       "answers": [
-        "new york giants y new england patriots",
         "giants y patriots",
         "ny giants y patriots"
       ],
       "wrong_answers": [
-        "green bay packers y pittsburgh steelers",
-        "philadelphia eagles y new england patriots",
-        "seattle seahawks y denver broncos"
+        "packers y steelers",
+        "eagles y patriots",
+        "seahawks y broncos"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -58075,7 +57987,7 @@
     {
       "question": "En el juego Team Fortress 2, ¿qué hace el Medigun?",
       "answers": [
-        "curar a los compañeros de equipo",
+        "curar al equipo",
         "curar",
         "curar a los jugadores"
       ],
@@ -58597,12 +58509,12 @@
     {
       "question": "¿Cuál es el talento especial de Makoto Naegi en Danganronpa: Trigger Happy Havoc?",
       "answers": [
-        "estudiante de la suerte definitiva",
+        "estudiante con suerte",
         "estudiante de la suerte",
         "estudiante más afortunado"
       ],
       "wrong_answers": [
-        "estudiante de mala suerte definitivo",
+        "estudiante sin suerte",
         "detective definitivo",
         "corredor definitivo"
       ],
@@ -58868,7 +58780,6 @@
       "question": "¿En qué año se vendió por primera vez el juego Deadlands?",
       "answers": [
         "1996",
-        "mil novecientos noventa y seis",
         "96"
       ],
       "wrong_answers": [
@@ -59017,7 +58928,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladés y bután"
       ],
       "category": "history",
@@ -59047,14 +58958,13 @@
     {
       "question": "¿Qué significa CMYK en colores?",
       "answers": [
-        "cian, magenta, amarillo, negro",
         "cian magenta amarillo negro",
         "cmyk"
       ],
       "wrong_answers": [
-        "crema, granate, amarillo, negro",
-        "cian, magenta, amarillo, caqui",
-        "crema, granate, amarillo, caqui"
+        "crema, granate, ocre, negro",
+        "cian, magenta, amarillo, ocre",
+        "crema, granate, ocre, caqui"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -59180,7 +59090,7 @@
       "wrong_answers": [
         "gran muralla china",
         "coloso de rodas",
-        "jardines colgantes de babilonia"
+        "jardines de babilonia"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -59894,12 +59804,10 @@
     {
       "question": "En los segundos juegos de Pokémon, ¿qué Pokémon inicial puedes elegir?",
       "answers": [
-        "chikorita, cyndaquil y totodile",
-        "chikorita cyndaquil totodile",
-        "chikorita y cyndaquil y totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "herboso, ígneo, acuoso"
       ],
@@ -60111,7 +60019,6 @@
       "question": "¿Qué libro escribió George Orwell sobre la vigilancia gubernamental?",
       "answers": [
         "1984",
-        "mil novecientos ochenta y cuatro",
         "1984 de orwell"
       ],
       "wrong_answers": [
@@ -60183,12 +60090,11 @@
       "question": "¿Por qué libro de Maurice Sendak es más famoso?",
       "answers": [
         "donde viven los monstruos",
-        "los monstruos",
-        "donde viven los monstruos libro"
+        "los monstruos"
       ],
       "wrong_answers": [
         "la historia interminable",
-        "charlie y la fábrica de chocolate",
+        "la fábrica de chocolate",
         "el gato ensombrerado"
       ],
       "category": "entertainment",
@@ -60237,8 +60143,7 @@
       "question": "¿Qué juegos de GTA transcurren en San Andreas?",
       "answers": [
         "gta v y gta san andreas",
-        "gta 5 y gta san andreas",
-        "grand theft auto 5 y grand theft auto san andreas"
+        "gta 5 y gta san andreas"
       ],
       "wrong_answers": [
         "gta v y gta vice city",
@@ -60259,7 +60164,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "conjetura de birch y swinnerton-dyer",
+        "birch-swinnerton-dyer",
         "hipótesis de riemann",
         "conjetura de poincaré"
       ],
@@ -61335,7 +61240,7 @@
     {
       "question": "¿Qué significan las siglas CPU?",
       "answers": [
-        "unidad central de procesamiento",
+        "procesador",
         "procesador central",
         "cpu"
       ],
@@ -61369,16 +61274,16 @@
       "id": "4854d99a5e08992cc6c2fca4e4088145"
     },
     {
-      "question": "¿Cuál es el orden para resolver operaciones matemáticas?",
+      "question": "En matemáticas, ¿qué va primero en el orden de operaciones: paréntesis o suma?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "pemdas",
-        "paréntesis, exponentes, multiplicar, dividir, sumar, restar"
+        "paréntesis",
+        "parentesis",
+        "los paréntesis"
       ],
       "wrong_answers": [
-        "sumar, multiplicar, dividir, restar, sumar, paréntesis",
-        "paréntesis, exponentes, sumar, restar, multiplicar, dividir",
-        "el orden en que están escritos"
+        "suma",
+        "son iguales",
+        "lo que esté primero"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -61413,7 +61318,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladesh y bután"
       ],
       "category": "history",
@@ -61611,9 +61516,9 @@
         "viajó con los argonautas"
       ],
       "wrong_answers": [
-        "se convirtió en mujer y luego de nuevo en hombre",
-        "cegado por hera tras darle la razón a zeus",
-        "le dijo a edipo que se había casado con su madre"
+        "se convirtió en mujer",
+        "cegado por hera",
+        "advirtió a edipo"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -61677,7 +61582,6 @@
     {
       "question": "La serie de TV \"Juego de Tronos\" está basada en qué saga de libros de George R.R. Martin?",
       "answers": [
-        "canción de hielo y fuego",
         "canción de hielo y fuego",
         "asoiaf"
       ],
@@ -61982,8 +61886,7 @@
       "question": "¿Qué villancico grabó Gene Autry primero?",
       "answers": [
         "rudolph el reno",
-        "rudolph",
-        "rudolph the red nosed reindeer"
+        "rudolph"
       ],
       "wrong_answers": [
         "frosty the snowman",
@@ -62004,9 +61907,9 @@
         "libro de ladrones mapache"
       ],
       "wrong_answers": [
-        "libro de entrenamiento de mapaches",
+        "manual de mapaches",
         "el arte de escabullirse",
-        "libro de enseñanza de mapaches"
+        "libro sobre mapaches"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62037,7 +61940,7 @@
       "answers": [
         "299.792.458 m/s",
         "299792458 m/s",
-        "299 millones de metros por segundo"
+        "299 millones de m/s"
       ],
       "wrong_answers": [
         "50.000 m/s",
@@ -62059,8 +61962,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "d&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62650,8 +62553,8 @@
       ],
       "wrong_answers": [
         "el nombre del jefe final",
-        "el nombre del personaje principal",
-        "el nombre de una nave espacial"
+        "el protagonista",
+        "una nave espacial"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62716,9 +62619,9 @@
     {
       "question": "¿En qué suelen centrarse las películas de Dan Bell?",
       "answers": [
-        "edificios abandonados y centros comerciales muertos",
-        "edificios vacíos y centros comerciales cerrados",
-        "lugares olvidados y centros comerciales vacíos"
+        "centros comerciales muertos",
+        "edificios abandonados",
+        "lugares olvidados"
       ],
       "wrong_answers": [
         "monumentos históricos",
@@ -62882,9 +62785,9 @@
         "se unió a los argonautas"
       ],
       "wrong_answers": [
-        "atenea lo convirtió en mujer y luego de nuevo en hombre",
-        "hera lo cegó después de que estuvo de acuerdo con zeus",
-        "le dijo a edipo que se había casado con su madre"
+        "atenea lo volvió mujer",
+        "hera lo cegó",
+        "advirtió a edipo"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62984,14 +62887,13 @@
     {
       "question": "¿Qué historia sobre Tiresias y sus aventuras con los Argonautas no es cierta?",
       "answers": [
-        "navegó con los argonautas para buscar el vellocino de oro",
         "fue con los argonautas",
         "se unió a los argonautas"
       ],
       "wrong_answers": [
-        "atenea lo convirtió en mujer y luego de nuevo en hombre",
-        "hera lo cegó después de que estuvo de acuerdo con zeus",
-        "le dijo a edipo que se había casado con su madre"
+        "atenea lo volvió mujer",
+        "hera lo cegó",
+        "advirtió a edipo"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -63182,7 +63084,6 @@
     {
       "question": "En Portal 2, ¿cómo murió Cave Johnson, el CEO de Aperture Science?",
       "answers": [
-        "envenenamiento por rocas lunares",
         "rocas lunares",
         "envenenado por rocas lunares"
       ],
@@ -63504,8 +63405,7 @@
       "question": "¿Cómo se llama un grupo que no es una facción en Tom Clancy's The Division pero es una organización real?",
       "answers": [
         "cdc",
-        "c.d.c.",
-        "centro para el control de enfermedades"
+        "c.d.c."
       ],
       "wrong_answers": [
         "cleaners",
@@ -63773,7 +63673,7 @@
         "dirty deeds"
       ],
       "wrong_answers": [
-        "filthy acts done for a reasonable price",
+        "filthy acts, fair price",
         "civil war",
         "god bless the usa"
       ],
@@ -63786,8 +63686,7 @@
     {
       "question": "¿En qué año se liberó Ghana del dominio colonial?",
       "answers": [
-        "1957",
-        "mil novecientos cincuenta y siete"
+        "1957"
       ],
       "wrong_answers": [
         "1947",
@@ -63862,7 +63761,7 @@
         "mobo"
       ],
       "wrong_answers": [
-        "unidad central de procesamiento",
+        "procesador",
         "disco duro",
         "memoria"
       ],
@@ -64090,8 +63989,7 @@
     {
       "question": "George Orwell escribió un libro sobre un futuro con mucho control gubernamental. ¿Cómo se llama este libro?",
       "answers": [
-        "1984",
-        "mil novecientos ochenta y cuatro"
+        "1984"
       ],
       "wrong_answers": [
         "el viejo y el mar",
@@ -64161,8 +64059,7 @@
     {
       "question": "¿Cuál de estos es un famoso problema matemático llamado Problema del Milenio?",
       "answers": [
-        "conjetura de birch y swinnerton-dyer",
-        "conjetura birch swinnerton dyer",
+        "birch-swinnerton-dyer",
         "conjetura bsd"
       ],
       "wrong_answers": [
@@ -64221,7 +64118,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladesh y bután"
       ],
       "category": "history",
@@ -64525,7 +64422,7 @@
       "wrong_answers": [
         "la tercera guerra mundial",
         "el ataque de xen",
-        "la bomba nuclear de black mesa"
+        "la bomba de black mesa"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -64624,8 +64521,7 @@
       "question": "¿Cuál es la velocidad de la luz en el espacio vacío en metros por segundo?",
       "answers": [
         "299.792.458 m/s",
-        "299792458 m/s",
-        "299.792.458 metros por segundo"
+        "299792458 m/s"
       ],
       "wrong_answers": [
         "50.000 m/s",
@@ -65345,8 +65241,7 @@
     {
       "question": "¿En qué año se inventó el DVD?",
       "answers": [
-        "1995",
-        "mil novecientos noventa y cinco"
+        "1995"
       ],
       "wrong_answers": [
         "2000",
@@ -65644,8 +65539,7 @@
     {
       "question": "¿En qué año se independizó Ghana del dominio británico?",
       "answers": [
-        "1957",
-        "mil novecientos cincuenta y siete"
+        "1957"
       ],
       "wrong_answers": [
         "1947",
@@ -65855,8 +65749,7 @@
     {
       "question": "¿En qué año se lanzó por primera vez el juego de rol Deadlands?",
       "answers": [
-        "1996",
-        "mil novecientos noventa y seis"
+        "1996"
       ],
       "wrong_answers": [
         "2003",
@@ -66283,7 +66176,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -66365,8 +66258,7 @@
       "question": "En Tom Clancy's The Division, ¿qué grupo no es una facción?",
       "answers": [
         "cdc",
-        "c.d.c.",
-        "centro para el control de enfermedades"
+        "c.d.c."
       ],
       "wrong_answers": [
         "cleaners",
@@ -66489,7 +66381,7 @@
     {
       "question": "League of Legends, DOTA 2 y Smite forman parte de qué tipo de juego?",
       "answers": [
-        "multiplayer online battle arena",
+        "battle arena",
         "moba"
       ],
       "wrong_answers": [
@@ -66654,7 +66546,7 @@
       ],
       "wrong_answers": [
         "hutu y ruanda",
-        "corea del norte y corea del sur",
+        "las dos coreas",
         "bangladesh y bután"
       ],
       "category": "history",
@@ -66671,7 +66563,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "jingle bells"
       ],
       "category": "entertainment",
@@ -66847,7 +66739,7 @@
       ],
       "wrong_answers": [
         "cory in the house",
-        "la nueva escuela del emperador",
+        "las locuras del emperador",
         "hannah montana"
       ],
       "category": "entertainment",
@@ -66950,7 +66842,7 @@
       "wrong_answers": [
         "hop",
         "el origen de los guardianes",
-        "alicia en el país de las maravillas"
+        "alicia en el país"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -67367,7 +67259,6 @@
     {
       "question": "¿Cómo se llama la primera película de Disney de 1937?",
       "answers": [
-        "blancanieves y los siete enanitos",
         "blancanieves"
       ],
       "wrong_answers": [
@@ -67481,7 +67372,7 @@
       "wrong_answers": [
         "sí",
         "sí lo es",
-        "un instrumento de viento madera"
+        "un instrumento de viento"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -67640,8 +67531,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "advanced dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -68221,15 +68112,16 @@
       "id": "d284c8a81a164eef87eba9806f9f7014"
     },
     {
-      "question": "¿Qué significa el acrónimo PEMDAS para el orden de las operaciones?",
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la S?",
       "answers": [
-        "paréntesis, exponentes, multiplicación, división, suma, resta",
-        "paréntesis, exponentes, multiplicar, dividir, sumar, restar"
+        "sustracción",
+        "resta",
+        "sustraccion"
       ],
       "wrong_answers": [
-        "sumar, multiplicar, dividir, restar, sumar, paréntesis",
-        "paréntesis, exponentes, sumar, restar, multiplicar, dividir",
-        "el orden en que están escritos"
+        "suma total",
+        "senos",
+        "series"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -68448,11 +68340,10 @@
     {
       "question": "¿Con qué Pokémon se puede empezar en los segundos juegos de Pokémon?",
       "answers": [
-        "chikorita, cyndaquil y totodile",
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander y squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic y mudkip",
         "herboso, ígneo y acuoso"
       ],
@@ -69433,7 +69324,7 @@
         "ecuador",
         "meridiano de greenwich",
         "trópico de capricornio",
-        "línea internacional de cambio de fecha"
+        "línea de cambio de fecha"
       ],
       "category": "geography",
       "difficulty": "easy",

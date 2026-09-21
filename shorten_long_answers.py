@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-One-off cleanup: enforce length limits on the English baseline
-(translations/questions_en.json).
+One-off cleanup: enforce length limits on translations/questions_<lang>.json.
+English maps are below; translation maps are data_fixes/answer_length_<lang>.json.
 
 Rules
   - question text      <= 200 chars
@@ -17,13 +17,12 @@ How
   3. DELETE: questions that cannot be fixed are removed.
 
 Usage:
-    python shorten_long_answers.py            # dry run, prints violations
-    python shorten_long_answers.py --write
+    python shorten_long_answers.py [--lang de]           # dry run, prints violations
+    python shorten_long_answers.py [--lang de] --write
 """
 import json
 import sys
 
-PATH = "translations/questions_en.json"
 MAX_Q = 200
 MAX_A = 30  # strictly less than
 
@@ -198,13 +197,13 @@ SHORTEN = {
 }
 
 
-def fix_list(items):
+def fix_list(items, shorten):
     out = []
     for s in items:
         if len(s) >= MAX_A:
-            if s not in SHORTEN:
-                raise SystemExit(f"no SHORTEN entry for {s!r}")
-            s = SHORTEN[s]
+            if s not in shorten:
+                raise SystemExit(f"no shorten entry for {s!r}")
+            s = shorten[s]
             if s is None:
                 continue
         if s not in out:
@@ -212,22 +211,34 @@ def fix_list(items):
     return out
 
 
+def load_maps(lang):
+    """English maps live in this file; translations in data_fixes/answer_length_<lang>.json."""
+    if lang == "en":
+        return REWRITE_Q, SHORTEN, DELETE
+    with open(f"data_fixes/answer_length_{lang}.json", encoding="utf-8") as f:
+        m = json.load(f)
+    # untranslated strings (titles, English acronyms) fall back to the English map
+    return m.get("rewrite", {}), {**SHORTEN, **m.get("shorten", {})}, set(m.get("delete", []))
+
+
 def main():
     write = "--write" in sys.argv
-    with open(PATH, encoding="utf-8") as f:
+    lang = sys.argv[sys.argv.index("--lang") + 1] if "--lang" in sys.argv else "en"
+    rewrite, shorten, delete = load_maps(lang)
+    path = f"translations/questions_{lang}.json"
+    with open(path, encoding="utf-8") as f:
         doc = json.load(f)
     data = doc["data"]
 
     kept, bad = [], []
     for q in data:
         short = q["id"][:8]
-        if short in DELETE:
+        if short in delete:
             continue
-        if short in REWRITE_Q:
-            q.update(REWRITE_Q[short])
-        else:
-            q["answers"] = fix_list(q["answers"])
-            q["wrong_answers"] = fix_list(q["wrong_answers"])
+        min_wrong = min(3, len(q["wrong_answers"]))
+        q.update(rewrite.get(short, {}))
+        q["answers"] = fix_list(q["answers"], shorten)
+        q["wrong_answers"] = fix_list(q["wrong_answers"], shorten)
         kept.append(q)
         problems = []
         if len(q["question"]) > MAX_Q:
@@ -236,17 +247,19 @@ def main():
             problems.append("long answer")
         if not q["answers"]:
             problems.append("no answers")
-        if len(q["wrong_answers"]) < 3:
+        if len(q["wrong_answers"]) < min_wrong:
             problems.append(f"{len(q['wrong_answers'])} wrong")
         if problems:
-            bad.append((q["id"][:8], problems, q["question"], q["answers"], q["wrong_answers"]))
+            bad.append((short, problems, q["question"], q["answers"], q["wrong_answers"]))
 
     for b in bad:
         print(*b, sep=" | ")
-    print(f"{len(data)} -> {len(kept)} questions, {len(bad)} still failing")
+    print(f"[{lang}] {len(data)} -> {len(kept)} questions, {len(bad)} still failing")
+    if write and bad:
+        raise SystemExit("not written: fix the failures above first")
     if write:
         doc["data"] = kept
-        with open(PATH, "w", encoding="utf-8") as f:
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(doc, f, ensure_ascii=False, indent=2)
         print("written")
 

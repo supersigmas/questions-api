@@ -198,7 +198,6 @@
       "language": "lt",
       "answers": [
         "dž.r.r. tolkinas",
-        "džonas ronaldas rojelis tolkinas",
         "tolkinas"
       ],
       "wrong_answers": [
@@ -280,8 +279,8 @@
         "kompiuterio galios blokas",
         "centrinė programos paslauga",
         "valdymo apdorojimo įrenginys",
-        "pagrindinio apdorojimo paslauga",
-        "centralizuotas apdorojimo įrenginys"
+        "apdorojimo paslauga",
+        "centralizuotas procesorius"
       ],
       "category": "technology",
       "difficulty": "normal",
@@ -1385,10 +1384,10 @@
       "points": 750,
       "language": "lt",
       "answers": [
-        "universali nuosekliojo perdavimo magistralė"
+        "universal serial bus"
       ],
       "wrong_answers": [
-        "suvienytas sistemos magistralė",
+        "suvienyta magistralė",
         "universalus saugyklos tiltas",
         "universali greičio magistralė",
         "unikali nuosekli magistralė"
@@ -1841,7 +1840,7 @@
       "wrong_answers": [
         "belizo rifas",
         "floridos rifas",
-        "raudonosios jūros koralų rifas",
+        "raudonosios jūros rifas",
         "naujosios kaledonijos rifas",
         "maldyvų rifas"
       ],
@@ -4067,7 +4066,7 @@
       "points": 1000,
       "language": "lt",
       "answers": [
-        "liūtas, burtininkė ir drabužių spinta"
+        "liūtas ir burtininkė"
       ],
       "wrong_answers": [
         "princas kaspianas",
@@ -15165,8 +15164,7 @@
       "wrong_answers": [
         "plunksniniai debesys",
         "sluoksniniai debesys",
-        "kaupiamieji debesys",
-        "aukštieji sluoksniniai debesys"
+        "kaupiamieji debesys"
       ],
       "category": "nature",
       "difficulty": "normal",
@@ -16242,10 +16240,10 @@
       "points": 700,
       "language": "lt",
       "answers": [
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "žolinis, ugninis, vandeninis"
       ],
@@ -16681,16 +16679,17 @@
       "id": "d271e27747123d1c3f05368e4c06b4df"
     },
     {
-      "question": "Seriale 'Doctor Who', ką reiškia TARDIS?",
+      "question": "Serialo Doctor Who TARDIS pavadinime ką reiškia raidė T?",
       "points": 700,
       "language": "lt",
       "answers": [
-        "time and relative dimension in space"
+        "time",
+        "laikas"
       ],
       "wrong_answers": [
-        "time and resting dimensions in space",
-        "time and relative dimensions in style",
-        "toilet aid rope dog is soup"
+        "travel",
+        "transport",
+        "temporal"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -17499,7 +17498,7 @@
         "candle in the wind"
       ],
       "wrong_answers": [
-        "i guess that's why they call it the blues",
+        "i guess that's why",
         "your song",
         "island girl"
       ],
@@ -17854,7 +17853,7 @@
       "points": 700,
       "language": "lt",
       "answers": [
-        "daugumos lyderis atstovų rūmuose"
+        "daugumos lyderis"
       ],
       "wrong_answers": [
         "generalinis prokuroras",
@@ -18531,7 +18530,7 @@
       "wrong_answers": [
         "pavirto moterimi ir vėl vyru",
         "herą apakino",
-        "pasakė edipui, kad jis vedė savo motiną"
+        "perspėjo edipą"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19119,7 +19118,7 @@
       "wrong_answers": [
         "infinity on high",
         "21st century breakdown",
-        "no pads, no helmets...just balls"
+        "no pads, no helmets"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19492,7 +19491,6 @@
       "question": "Kuriais metais Irakas įsiveržė į Kuveitą?",
       "answers": [
         "1990",
-        "tūkstantis devyni šimtai devyniasdešimt",
         "1990-ieji"
       ],
       "wrong_answers": [
@@ -19654,8 +19652,7 @@
       "question": "Kaip vadinasi sistema, padedanti lėktuvams išvengti susidūrimo vienam su kitu?",
       "answers": [
         "tcas",
-        "eismo susidūrimų vengimo sistema",
-        "traffic alert and collision avoidance system"
+        "susidūrimų vengimo sistema"
       ],
       "wrong_answers": [
         "gpws",
@@ -20003,7 +20000,7 @@
         "navjė teorema"
       ],
       "wrong_answers": [
-        "birch ir swinnerton-dyer hipotezė",
+        "birch-swinnerton-dyer",
         "riemano hipotezė",
         "puankarė hipotezė"
       ],
@@ -20181,7 +20178,7 @@
       "answers": [
         "sram",
         "statinė ram",
-        "statinė laisvosios kreipties atmintis"
+        "statinė atmintis"
       ],
       "wrong_answers": [
         "dram",
@@ -20326,10 +20323,9 @@
       "answers": [
         "variniai pučiamieji",
         "variniai",
-        "varinis pučiamasis instrumentas"
+        "varinis pučiamasis"
       ],
       "wrong_answers": [
-        "mediniai pučiamieji",
         "mediniai pučiamieji",
         "styginis instrumentas",
         "mušamasis instrumentas"
@@ -20596,7 +20592,6 @@
       "question": "Kuriais metais buvo sužaistos pirmosios tarptautinės futbolo rungtynės?",
       "answers": [
         "1872",
-        "tūkstantis aštuoni šimtai septyniasdešimt antri",
         "1 872"
       ],
       "wrong_answers": [
@@ -20775,7 +20770,7 @@
     {
       "question": "League of Legends, DOTA 2, Smite ir Heroes of the Storm priklauso kokiam žaidimų žanrui?",
       "answers": [
-        "daugelio žaidėjų kovos arena internete",
+        "kovos arena",
         "moba",
         "m.o.b.a."
       ],
@@ -20834,9 +20829,9 @@
         "daina recess"
       ],
       "wrong_answers": [
-        "all is fair in love and brostep",
+        "all is fair in brostep",
         "rock n roll",
-        "scary monsters and nice sprites"
+        "scary monsters"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -20866,8 +20861,7 @@
       "question": "Kas parašė Sinead O'Connor dainą 'Nothing Compares 2 U'?",
       "answers": [
         "prince'as",
-        "prince rogers nelson",
-        "atlikėjas, anksčiau žinomas kaip prince'as"
+        "prince rogers nelson"
       ],
       "wrong_answers": [
         "michael jackson",
@@ -21316,7 +21310,6 @@
       "question": "Kokia yra vandens cheminė formulė?",
       "answers": [
         "h2o",
-        "h2o",
         "h20"
       ],
       "wrong_answers": [
@@ -21406,8 +21399,7 @@
       "question": "Filme 'Dvi tvirtovės', kur orkai neša hobitus?",
       "answers": [
         "izengardas",
-        "izengardo tvirtovė",
-        "izengardo tvirtovė (izengardas)"
+        "izengardo tvirtovė"
       ],
       "wrong_answers": [
         "rivendelas",
@@ -22323,12 +22315,11 @@
     {
       "question": "Žaidime Portal 2, kas sukėlė Cave Johnsono, Aperture Science viršininko, mirtį?",
       "answers": [
-        "apsinuodijimas mėnulio uolienomis",
         "mėnulio uolienos",
         "mėnulio uolienų liga"
       ],
       "wrong_answers": [
-        "netyčia išsiuntė portalą į mėnulį",
+        "portalas į mėnulį",
         "paslydo duše",
         "asbesto apsinuodijimas"
       ],
@@ -22575,14 +22566,14 @@
     {
       "question": "Kokiu greičiu erdvėje sklinda šviesa?",
       "answers": [
-        "299 792 458 metrai per sekundę",
+        "299 792 458 m/s",
         "299792458 metrai per sekundę",
-        "apie 300 000 kilometrų per sekundę"
+        "apie 300 000 km/s"
       ],
       "wrong_answers": [
         "50 461 metrai per sekundę",
-        "308 215 043 metrai per sekundę",
-        "751 665 014 151 metras per sekundę"
+        "308 215 043 m/s",
+        "751 665 014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -22645,16 +22636,17 @@
       "id": "8030087928f7129b2959ad349b7cb25d"
     },
     {
-      "question": "Kompiuterių srityje, ką reiškia MIDI?",
+      "question": "Kompiuterijoje ką reiškia raidė M santrumpoje MIDI?",
       "answers": [
-        "musical instrument digital interface",
-        "skaitmeninė muzikos instrumentų sąsaja",
-        "midi"
+        "musical",
+        "music",
+        "muzikinis",
+        "muzika"
       ],
       "wrong_answers": [
-        "musical interface of digital instruments",
-        "modular interface of digital instruments",
-        "musical instrument data interface"
+        "modular",
+        "media",
+        "mechanical"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -23152,7 +23144,6 @@
       "question": "Kokią knygą apie vyriausybę, sekančią žmones, parašė George'as Orwellas?",
       "answers": [
         "1984",
-        "tūkstantis devyni šimtai aštuoniasdešimt ketvirti",
         "19 84"
       ],
       "wrong_answers": [
@@ -23206,8 +23197,7 @@
       "question": "Koks yra populiariausias logotipų vaizdo formatas Wikimedia?",
       "answers": [
         "svg",
-        ".svg",
-        "masteliuojama vektorinė grafika"
+        ".svg"
       ],
       "wrong_answers": [
         "png",
@@ -23620,8 +23610,7 @@
       "question": "Vaizdo žaidime Half-Life, kaip vadinasi JAV karinė grupė, įsiveržianti į Black Mesa tyrimų centrą?",
       "answers": [
         "hecu",
-        "the hecu",
-        "hazardous environment combat unit"
+        "the hecu"
       ],
       "wrong_answers": [
         "navy seals",
@@ -23692,7 +23681,6 @@
       "question": "Kuriais metais buvo pagamintas M1911 pistoletas?",
       "answers": [
         "1911",
-        "tūkstantis devyni šimtai vienuolikti",
         "1911 m."
       ],
       "wrong_answers": [
@@ -23859,7 +23847,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -23985,7 +23973,7 @@
       ],
       "wrong_answers": [
         "dulkės blokuoja šviesą",
-        "raudonasis poslinkis slepia žvaigždes",
+        "raudonasis poslinkis",
         "kvantinė mechanika"
       ],
       "category": "general",
@@ -24106,8 +24094,7 @@
       "question": "Anime 'Inuyasha', ko ieško herojai?",
       "answers": [
         "brangakmenio šukės",
-        "šikon šukės",
-        "brangakmenio šukės (fragmentai)"
+        "šikon šukės"
       ],
       "wrong_answers": [
         "dragon balls",
@@ -24196,8 +24183,7 @@
       "question": "Kas yra Tasmanija?",
       "answers": [
         "australijos valstija",
-        "valstija australijoje",
-        "australijos valstija (regionas)"
+        "valstija australijoje"
       ],
       "wrong_answers": [
         "ledų skonis",
@@ -24250,7 +24236,6 @@
       "question": "Kiek narių yra JAV Atstovų rūmuose?",
       "answers": [
         "435",
-        "keturi šimtai trisdešimt penki",
         "435 nariai"
       ],
       "wrong_answers": [
@@ -24340,8 +24325,7 @@
       "question": "Kuris South Park personažas žinomas dėl frazės „Nepamiršk pasiimti rankšluosčio!“?",
       "answers": [
         "towelie",
-        "towelie rankšluostis",
-        "kalbantis rankšluostis towelie"
+        "towelie rankšluostis"
       ],
       "wrong_answers": [
         "jėzus",
@@ -24472,7 +24456,7 @@
       "wrong_answers": [
         "pirmasis pasaulinis karas",
         "rusijos–japonijos karas",
-        "pirmasis kinijos–japonijos karas"
+        "kinijos–japonijos karas"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -24790,7 +24774,6 @@
       "question": "Kuriais metais Nelsonas Mandela buvo paleistas iš kalėjimo?",
       "answers": [
         "1990",
-        "tūkstantis devyni šimtai devyniasdešimt",
         "1990-ieji"
       ],
       "wrong_answers": [
@@ -25246,7 +25229,7 @@
       ],
       "wrong_answers": [
         "drakula",
-        "keistas daktaro džekilo ir mister haido atvejis",
+        "daktaras džekilas ir haidas",
         "snaudžiančio slėnio legenda"
       ],
       "category": "entertainment",
@@ -25277,7 +25260,6 @@
       "question": "Kuriais metais buvo įkurta Marvel Comics?",
       "answers": [
         "1939",
-        "tūkstantis devyni šimtai trisdešimt devinti",
         "39"
       ],
       "wrong_answers": [
@@ -25349,7 +25331,6 @@
       "question": "Kuriais metais išleistas filmas 'Con Air'?",
       "answers": [
         "1997",
-        "tūkstantis devyni šimtai devyniasdešimt septinti",
         "97"
       ],
       "wrong_answers": [
@@ -25691,7 +25672,6 @@
       "question": "Kiek kubinių colių turi LS7 variklis?",
       "answers": [
         "427",
-        "keturi šimtai dvidešimt septyni",
         "427 kubiniai coliai"
       ],
       "wrong_answers": [
@@ -25877,7 +25857,7 @@
       "wrong_answers": [
         "paaukoti karalių už valdovę",
         "trumpoji rokiruotė",
-        "karaliaus perkėlimas 2-uoju ėjimu"
+        "ankstyvas karaliaus ėjimas"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -26269,14 +26249,12 @@
     {
       "question": "Kaip vadinosi atšauktas Team Fortress tęsinys?",
       "answers": [
-        "team fortress 2: brotherhood of arms",
-        "tf2: brotherhood of arms",
-        "team fortress 2 brotherhood of arms"
+        "tf2: brotherhood of arms"
       ],
       "wrong_answers": [
-        "team fortress 2: desert mercenaries",
-        "team fortress 2: operation gear grinder",
-        "team fortress 2: return to classic"
+        "tf2: desert mercenaries",
+        "tf2: operation gear grinder",
+        "tf2: return to classic"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -26671,7 +26649,7 @@
         "laukinių padarų šalis"
       ],
       "wrong_answers": [
-        "niekada nesibaigianti istorija",
+        "nesibaigianti istorija",
         "čarlis ir šokolado fabrikas",
         "katinas su skrybėle"
       ],
@@ -26682,16 +26660,14 @@
       "id": "4ebe39601f02598b48b82f52e5ba26b5"
     },
     {
-      "question": "Kurios Europos šalys vadinamos PIIGS dėl jų ekonomikos?",
+      "question": "Kokią šalį reiškia raidė P ekonominėje pravardėje PIIGS?",
       "answers": [
-        "portugalija, airija, italija, graikija, ispanija",
-        "portugalija airija italija graikija ispanija",
-        "portugalija, airija, italija, graikija, espana"
+        "portugalija"
       ],
       "wrong_answers": [
-        "lenkija, islandija, italija, graikija, serbija",
-        "lenkija, islandija, italija, grenlandija, ispanija",
-        "portugalija, islandija, airija, graikija, serbija"
+        "lenkija",
+        "panama",
+        "peru"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -26704,10 +26680,10 @@
       "answers": [
         "jį partrenkė sunkvežimis",
         "partrenktas sunkvežimio",
-        "sunkvežimio nelaimingas atsitikimas"
+        "sunkvežimio avarija"
       ],
       "wrong_answers": [
-        "suvalgė per daug šokoladinių ledų",
+        "per daug ledų",
         "magiškas burtas",
         "užsidėjo ypatingą diržą"
       ],
@@ -26919,7 +26895,6 @@
     {
       "question": "Kaip vadinasi pirmasis Disney filmas?",
       "answers": [
-        "snieguolė ir septyni nykštukai",
         "snieguolė",
         "snieguolė & septyni nykštukai",
         "snieguolė ir 7 nykštukai"
@@ -27248,7 +27223,6 @@
       "question": "Kokią knygą apie valdžios kontrolę parašė George Orwell?",
       "answers": [
         "1984",
-        "tūkstantis devyni šimtai aštuoniasdešimt ketvirti",
         "19-84"
       ],
       "wrong_answers": [
@@ -27308,7 +27282,7 @@
       "wrong_answers": [
         "animal crossing: new leaf",
         "animal crossing: wild world",
-        "animal crossing: population growing"
+        "population growing"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -28078,7 +28052,6 @@
       "question": "Kuriais metais baigėsi Didysis šiaurės karas tarp Rusijos ir Švedijos?",
       "answers": [
         "1721",
-        "tūkstantis septyni šimtai dvidešimt pirmi",
         "17 21"
       ],
       "wrong_answers": [
@@ -28471,16 +28444,16 @@
       "id": "12693a2d6dd62216cfb35c8c20fbd0f4"
     },
     {
-      "question": "Seriale Doctor Who, ką reiškia T.A.R.D.I.S?",
+      "question": "Serialo Doctor Who T.A.R.D.I.S. pavadinime ką reiškia raidė D?",
       "answers": [
-        "time and relative dimension in space",
-        "laikas ir santykinė dimensija erdvėje",
-        "tardis"
+        "dimension",
+        "dimensions",
+        "dimensija"
       ],
       "wrong_answers": [
-        "time and resting dimensions in space",
-        "time and relative dimensions in style",
-        "toilet aid rope dog is soup"
+        "device",
+        "destination",
+        "drive"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -28545,7 +28518,6 @@
     {
       "question": "Stalo žaidime Monopolis naudojami gatvių pavadinimai iš kurio tikro Amerikos miesto?",
       "answers": [
-        "atlantic city, naujasis džersis",
         "atlantic city",
         "atlantic city, nj"
       ],
@@ -29734,7 +29706,6 @@
       "question": "Į kokį karą George Orwell savanoriavo ir vos nežuvo?",
       "answers": [
         "ispanijos pilietinis karas",
-        "ispanijos pilietinis karas (istorija)",
         "ispanijos karas"
       ],
       "wrong_answers": [
@@ -29788,7 +29759,6 @@
       "question": "Koks Van Gogho paveikslas vaizduoja naktinį dangų, matomą iš jo lango Prancūzijoje?",
       "answers": [
         "žvaigždėta naktis",
-        "žvaigždėta naktis (paveikslas)",
         "the starry night"
       ],
       "wrong_answers": [
@@ -30166,8 +30136,7 @@
       "question": "Kas yra mūsų galaktikos centre?",
       "answers": [
         "juodoji skylė",
-        "the black hole",
-        "juodoji skylė (galaktikos centre)"
+        "the black hole"
       ],
       "wrong_answers": [
         "kirmgraužos anga",
@@ -30334,7 +30303,7 @@
       "wrong_answers": [
         "crocodile rock",
         "candle in the wind",
-        "i don't wanna go on with you like that"
+        "i don't wanna go on with you"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -30345,14 +30314,13 @@
     {
       "question": "Kurios dvi komandos žaidė Super Bowl 42?",
       "answers": [
-        "new york giants ir new england patriots",
         "giants ir patriots",
         "ny giants ir patriots"
       ],
       "wrong_answers": [
-        "green bay packers ir pittsburgh steelers",
-        "philadelphia eagles ir new england patriots",
-        "seattle seahawks ir denver broncos"
+        "packers ir steelers",
+        "eagles ir patriots",
+        "seahawks ir broncos"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -30399,8 +30367,6 @@
     {
       "question": "Kuri šalis liko nuošalyje Pirmojo pasaulinio karo metu ir nepriklausė Centrinėms valstybėms?",
       "answers": [
-        "ispanija",
-        "ispanija",
         "ispanija"
       ],
       "wrong_answers": [
@@ -30472,7 +30438,6 @@
       "question": "Kuriais metais prasidėjo Pirmasis pasaulinis karas?",
       "answers": [
         "1914",
-        "tūkstantis devyni šimtai keturiolikti",
         "19-14"
       ],
       "wrong_answers": [
@@ -31126,7 +31091,7 @@
       "wrong_answers": [
         "toy story",
         "james ir milžiniškas persikas",
-        "paryžiaus dievo motinos kuprius"
+        "kuprius"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -31389,13 +31354,12 @@
     {
       "question": "Kuriame 2016 m. filme Superman ir Betmenas kaunasi?",
       "answers": [
-        "batman v superman: dawn of justice",
         "batman vs superman",
         "batman v superman"
       ],
       "wrong_answers": [
-        "batman v superman: superapocalypse",
-        "batman v superman: black of knight",
+        "superapocalypse",
+        "black knight",
         "batman v superman: knightfall"
       ],
       "category": "entertainment",
@@ -31497,8 +31461,6 @@
     {
       "question": "\"Hitman\" žaidimuose, kaip vadinasi pagrindinis veikėjas?",
       "answers": [
-        "agent 47",
-        "agentas keturiasdešimt septyni",
         "agent 47"
       ],
       "wrong_answers": [
@@ -31755,7 +31717,7 @@
       ],
       "wrong_answers": [
         "i wanna have babies you down",
-        "i would hate being your driver",
+        "i would hate your driver",
         "i would have bought your dog"
       ],
       "category": "entertainment",
@@ -32026,7 +31988,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -32146,7 +32108,6 @@
       "question": "Kuriais metais grupė Muse išleido pirmąjį albumą Showbiz?",
       "answers": [
         "1999",
-        "tūkstantis devyni šimtai devyniasdešimt devinti",
         "99"
       ],
       "wrong_answers": [
@@ -32974,14 +32935,13 @@
     {
       "question": "Ką reiškia CMYK raidės?",
       "answers": [
-        "žydra, purpurinė, geltona, juoda",
         "žydra purpurinė geltona juoda",
         "cmyk"
       ],
       "wrong_answers": [
-        "kreminė, kaštoninė, geltona, juoda",
-        "žydra, purpurinė, geltona, chaki",
-        "kreminė, kaštoninė, geltona, chaki"
+        "kreminė, ruda, geltona, juoda",
+        "žydra, rožinė, geltona, chaki",
+        "kreminė, ruda, geltona, chaki"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -33082,7 +33042,6 @@
     {
       "question": "Koks specialus titulas yra Makoto Naegi Danganronpa: Trigger Happy Havoc žaidime?",
       "answers": [
-        "absoliutus laimingasis mokinys",
         "laimingasis mokinys",
         "absoliuti sėkmė"
       ],
@@ -33267,7 +33226,7 @@
         "dddcdc"
       ],
       "wrong_answers": [
-        "filthy acts done for a reasonable price",
+        "filthy acts, fair price",
         "civil war",
         "god bless the usa"
       ],
@@ -33569,7 +33528,6 @@
       "question": "Koks yra plutonio atominis svoris?",
       "answers": [
         "244",
-        "du šimtai keturiasdešimt keturi",
         "244,0"
       ],
       "wrong_answers": [
@@ -33677,8 +33635,7 @@
       "question": "Koks yra IPv6 adreso ilgis?",
       "answers": [
         "128 bitai",
-        "128",
-        "šimtas dvidešimt aštuoni bitai"
+        "128"
       ],
       "wrong_answers": [
         "32 bitai",
@@ -33953,7 +33910,7 @@
       "wrong_answers": [
         "trečiasis pasaulinis karas",
         "xen ataka",
-        "black mesa branduolinis sprogimas"
+        "black mesa sprogimas"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -34943,7 +34900,7 @@
       ],
       "wrong_answers": [
         "globali asmeninė sistema",
-        "bendroji padėties nustatymo sistema",
+        "bendroji padėties sistema",
         "bendrasis asmeninis palydovas"
       ],
       "category": "technology",
@@ -35244,7 +35201,6 @@
       "question": "Kuriais metais išėjo žaidimas „Fallout“?",
       "answers": [
         "1997",
-        "tūkstantis devyni šimtai devyniasdešimt septinti",
         "97"
       ],
       "wrong_answers": [
@@ -35388,7 +35344,6 @@
       "question": "Kuriais metais buvo sukurtas DVD?",
       "answers": [
         "1995",
-        "tūkstantis devyni šimtai devyniasdešimt penkti",
         "95"
       ],
       "wrong_answers": [
@@ -35411,7 +35366,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -35699,8 +35654,8 @@
       ],
       "wrong_answers": [
         "toy story",
-        "džeimsas ir milžiniškas persikas",
-        "kvazimodas iš paryžiaus dievo motinos katedros"
+        "milžiniškas persikas",
+        "kvazimodas"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -35748,8 +35703,7 @@
       "question": "Kuriais metais CD pirmą kartą tapo prieinami žmonėms?",
       "answers": [
         "1982",
-        "aštuoniasdešimt antri",
-        "tūkstantis devyni šimtai aštuoniasdešimt antri"
+        "aštuoniasdešimt antri"
       ],
       "wrong_answers": [
         "1992",
@@ -35765,8 +35719,6 @@
     {
       "question": "Kuris Pokémon X ir Y Elito ketverto narys priklausė Team Flare?",
       "answers": [
-        "malva",
-        "malva",
         "malva"
       ],
       "wrong_answers": [
@@ -35784,8 +35736,7 @@
       "question": "Kokį paveikslą sukūrė Ivanas Aivazovskis?",
       "answers": [
         "devintoji banga",
-        "9-oji banga",
-        "devintoji banga"
+        "9-oji banga"
       ],
       "wrong_answers": [
         "kavinės terasa naktį",
@@ -36306,7 +36257,6 @@
       "question": "Koks garsus pastatas yra vienas iš originalių 'Septynių senovės pasaulio stebuklų'?",
       "answers": [
         "didžioji gizos piramidė",
-        "gizos piramidė",
         "gizos piramidė"
       ],
       "wrong_answers": [
@@ -36341,14 +36291,12 @@
     {
       "question": "Kaip vadinosi atšaukta Team Fortress tęsinys?",
       "answers": [
-        "team fortress 2 brotherhood of arms",
-        "tf2 brotherhood of arms",
-        "team fortress brotherhood of arms"
+        "tf2 brotherhood of arms"
       ],
       "wrong_answers": [
-        "team fortress 2 desert mercenaries",
-        "team fortress 2 operation gear grinder",
-        "team fortress 2 return to classic"
+        "tf2 desert mercenaries",
+        "tf2 operation gear grinder",
+        "tf2 return to classic"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -36799,7 +36747,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -37142,7 +37090,7 @@
       "wrong_answers": [
         "tėvas ir sūnus",
         "geriausi draugai",
-        "kovos su nusikaltimais partneriai"
+        "partneriai prieš nusikaltimus"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -37208,7 +37156,6 @@
       "question": "Kuriais metais įvyko didysis biržos krachas?",
       "answers": [
         "1929",
-        "tūkstantis devyni šimtai dvidešimt devinti",
         "29"
       ],
       "wrong_answers": [
@@ -37946,7 +37893,6 @@
       "question": "Kuriais metais subyrėjo Sovietų Sąjunga?",
       "answers": [
         "1991",
-        "tūkstantis devyni šimtai devyniasdešimt pirmi",
         "devyniasdešimt pirmi"
       ],
       "wrong_answers": [
@@ -38126,7 +38072,6 @@
       "question": "Kuriais metais buvo įkurta futbolo komanda FC Schalke 04?",
       "answers": [
         "1904",
-        "tūkstantis devyni šimtai keturi",
         "1904 metai"
       ],
       "wrong_answers": [
@@ -38167,7 +38112,7 @@
       ],
       "wrong_answers": [
         "heaven on high",
-        "aetherochemical research facility",
+        "aetherochemical facility",
         "sunken temple of qarn"
       ],
       "category": "entertainment",
@@ -38303,16 +38248,15 @@
       "id": "1f43f66517a2b9f159c42dffe80f90e7"
     },
     {
-      "question": "Ką reiškia žodis LASER?",
+      "question": "Ką reiškia raidė L žodyje LASER?",
       "answers": [
-        "šviesos stiprinimas stimuliuota spinduliuotės emisija",
-        "light amplification by stimulated emission of radiation",
-        "šviesos stiprinimas stimuliuota emisija"
+        "light",
+        "šviesa"
       ],
       "wrong_answers": [
-        "light analysis by stereo ecorazer",
-        "light amplifier by standby energy of radio",
-        "life antimatter by standing entry of range"
+        "lens",
+        "linear",
+        "laser"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -38900,8 +38844,7 @@
       "question": "Kaip vadinasi pagrindinis Commander Shepard laivas Mass Effect žaidime?",
       "answers": [
         "normandy",
-        "normandy laivas",
-        "normandy"
+        "normandy laivas"
       ],
       "wrong_answers": [
         "osiris",
@@ -39350,7 +39293,6 @@
       "question": "Kuriais metais prasidėjo Pirmasis pasaulinis karas?",
       "answers": [
         "1914",
-        "tūkstantis devyni šimtai keturiolikti",
         "14"
       ],
       "wrong_answers": [
@@ -39494,8 +39436,7 @@
       "question": "Koks kanalas jungia Viduržemio jūrą su Raudonąja jūra?",
       "answers": [
         "sueco kanalas",
-        "suecas",
-        "sueco kanalas"
+        "suecas"
       ],
       "wrong_answers": [
         "panamos kanalas",
@@ -39617,16 +39558,16 @@
       "id": "890ced464455436a535eb2b21edb3656"
     },
     {
-      "question": "Kokia teisinga tvarka sprendžiami matematiniai uždaviniai?",
+      "question": "Ką reiškia raidė P veiksmų tvarkos taisyklėje PEMDAS?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "pemdas",
-        "p e m d a s"
+        "skliaustai",
+        "parentheses",
+        "skliaustus"
       ],
       "wrong_answers": [
-        "sudėtis, daugyba, dalyba, atimtis, sudėtis, skliaustai",
-        "skliaustai, laipsniai, sudėtis, atimtis, daugyba, dalyba",
-        "tvarka, kuria operacijos parašytos"
+        "procentai",
+        "pliusas",
+        "taškai"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -40142,7 +40083,6 @@
       "question": "Kuriais metais buvo įkurtas Italijos futbolo klubas Bari?",
       "answers": [
         "1908",
-        "tūkstantis devyni šimtai aštuoni",
         "19 08"
       ],
       "wrong_answers": [
@@ -40465,9 +40405,7 @@
     {
       "question": "Koks pavadinimas pirmojo grupės Rage Against the Machine albumo?",
       "answers": [
-        "rage against the machine",
-        "rage against the machine albumas",
-        "debiutinis rage against the machine albumas"
+        "rage against the machine"
       ],
       "wrong_answers": [
         "evil empire",
@@ -40700,8 +40638,7 @@
       "question": "Kaip vadinasi magiškas liūtas iš graikų mitų, kurio negalėjo sužeisti jokie ginklai?",
       "answers": [
         "nemėjos liūtas",
-        "nemėja",
-        "nemėjos liūtas"
+        "nemėja"
       ],
       "wrong_answers": [
         "jūros drakonas",
@@ -40861,12 +40798,10 @@
     {
       "question": "Pokémon žaidimuose, kaip vadinasi pradiniai Pokémon, kuriuos galima pasirinkti antroje kartoje?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil ir totodile",
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "grassy, firey, watery"
       ],
@@ -41078,7 +41013,6 @@
       "question": "Kas daro daugumos augalų lapus žalius?",
       "answers": [
         "chlorofilas",
-        "chlorofilas (žalias pigmentas)",
         "žalias pigmentas"
       ],
       "wrong_answers": [
@@ -41168,8 +41102,7 @@
       "question": "Kuriais metais pasirodė žaidimas Twister?",
       "answers": [
         "1966",
-        "šešiasdešimt šešti",
-        "tūkstantis devyni šimtai šešiasdešimt šešti"
+        "šešiasdešimt šešti"
       ],
       "wrong_answers": [
         "1965",
@@ -41275,7 +41208,7 @@
     {
       "question": "Ką reiškia KFC?",
       "answers": [
-        "kentukio keptos vištienos restoranas",
+        "kentukio vištiena",
         "kentucky fried chicken",
         "kentukio kepta vištiena"
       ],
@@ -41365,9 +41298,7 @@
     {
       "question": "Koks pirmasis Jean Valjean kalinio numeris miuzikle „Vargdieniai“?",
       "answers": [
-        "24601",
-        "24601 (dvidešimt keturi šeši nulis vienas)",
-        "dvidešimt keturi tūkstančiai šeši šimtai vienas"
+        "24601"
       ],
       "wrong_answers": [
         "9430",
@@ -41492,8 +41423,7 @@
       "question": "Seriale „Steins;Gate“, koks buities prietaisas leidžia veikėjams keliauti laiku?",
       "answers": [
         "mikrobangų krosnelė",
-        "mikrobangė",
-        "mikrobangų krosnelė"
+        "mikrobangė"
       ],
       "wrong_answers": [
         "kompiuteris",
@@ -41563,15 +41493,14 @@
     {
       "question": "Koks yra šviesos greitis?",
       "answers": [
-        "299 792 458 metrai per sekundę",
-        "299792458 metrai per sekundę",
         "299 792 458 m/s",
+        "299792458 metrai per sekundę",
         "299792458 m/s"
       ],
       "wrong_answers": [
         "50 461 metrai per sekundę",
-        "308 215 043 metrai per sekundę",
-        "751 665 014 151 metrai per sekundę"
+        "308 215 043 m/s",
+        "751 665 014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -41782,9 +41711,9 @@
     {
       "question": "Ką reiškia raidės GPS?",
       "answers": [
-        "globali padėties nustatymo sistema",
+        "globali padėties sistema",
         "gps",
-        "pasaulinė padėties nustatymo sistema"
+        "pasaulinė padėties sistema"
       ],
       "wrong_answers": [
         "global personal system",
@@ -42114,7 +42043,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -42379,8 +42308,7 @@
       "question": "Kuriais metais Šiaurės Amerikoje pasirodė „Metal Gear Solid“?",
       "answers": [
         "1998",
-        "devyniasdešimt aštuoni",
-        "tūkstantis devyni šimtai devyniasdešimt aštuoni"
+        "devyniasdešimt aštuoni"
       ],
       "wrong_answers": [
         "1987",
@@ -42434,7 +42362,7 @@
       "answers": [
         "laiko sukimas atgal",
         "laiko atsukimas",
-        "laiko sustabdymas ir grąžinimas"
+        "laiko sustabdymas"
       ],
       "wrong_answers": [
         "nematomumas",
@@ -42564,7 +42492,7 @@
       ],
       "wrong_answers": [
         "nieko",
-        "išsaugo paveikslėlį nuotraukose",
+        "išsaugo nuotrauką",
         "uždaro visus langus"
       ],
       "category": "technology",
@@ -42666,7 +42594,7 @@
     {
       "question": "Ką reiškia SSD, kai kalbama apie kompiuterio saugyklą?",
       "answers": [
-        "kietasis diskas be judančių dalių",
+        "kietasis diskas",
         "solid state drive",
         "ssd"
       ],
@@ -42721,7 +42649,7 @@
       "question": "Ką reiškia CPU?",
       "answers": [
         "centrinis procesorius",
-        "centrinis apdorojimo įrenginys",
+        "procesorius",
         "cpu"
       ],
       "wrong_answers": [
@@ -42781,7 +42709,7 @@
       "wrong_answers": [
         "white christmas",
         "frosty the snowman",
-        "rudolph the red-nosed reindeer"
+        "rudolph"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -43244,7 +43172,6 @@
       "question": "Serialas „Sostų žaidimai“ sukurtas pagal kokią knygų seriją?",
       "answers": [
         "ugnies ir ledo giesmė",
-        "dainos apie ledą ir ugnį serija",
         "asoiaf"
       ],
       "wrong_answers": [
@@ -43718,7 +43645,7 @@
       "wrong_answers": [
         "you'll be in my heart",
         "candle in the wind",
-        "i don't wanna go on with you like that"
+        "i don't wanna go on with you"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -43896,7 +43823,7 @@
         "navjė-stokso"
       ],
       "wrong_answers": [
-        "birch ir swinnerton-dyer hipotezė",
+        "birch-swinnerton-dyer",
         "riemano hipotezė",
         "poincaré hipotezė"
       ],
@@ -43945,14 +43872,14 @@
     {
       "question": "Kokiu greičiu šviesa keliauja tuščioje erdvėje?",
       "answers": [
-        "299 792 458 metrai per sekundę",
+        "299 792 458 m/s",
         "299792458 metrai per sekundę",
         "šviesos greitis"
       ],
       "wrong_answers": [
         "50 461 metrai per sekundę",
-        "308 215 043 metrai per sekundę",
-        "751 665 014 151 metrai per sekundę"
+        "308 215 043 m/s",
+        "751 665 014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -44249,16 +44176,16 @@
       "id": "46dc23677fa300433853454cd1efbcf6"
     },
     {
-      "question": "Kokia yra teisinga veiksmų tvarka sprendžiant matematikos uždavinius, žinoma kaip PEMDAS?",
+      "question": "Ką reiškia raidė E veiksmų tvarkos taisyklėje PEMDAS?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "skliaustai laipsniai daugyba dalyba sudėtis atimtis",
-        "pemdas"
+        "laipsniai",
+        "exponents",
+        "kėlimas laipsniu"
       ],
       "wrong_answers": [
-        "sudėtis, daugyba, dalyba, atimtis, skliaustai",
-        "skliaustai, laipsniai, sudėtis, atimtis, daugyba, dalyba",
-        "tvarka, kuria jos pasirodo uždavinyje"
+        "lygtys",
+        "įverčiai",
+        "sveikieji skaičiai"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -44270,8 +44197,7 @@
       "question": "Kuriais metais CD pradėti parduoti žmonėms?",
       "answers": [
         "1982",
-        "aštuoniasdešimt antri",
-        "tūkstantis devyni šimtai aštuoniasdešimt antri"
+        "aštuoniasdešimt antri"
       ],
       "wrong_answers": [
         "1992",
@@ -44919,11 +44845,10 @@
       "question": "Kuri matematinė idėja nėra viena iš septynių Tūkstantmečio problemų?",
       "answers": [
         "navjė hipotezė",
-        "navjė hipotezė",
         "navjė"
       ],
       "wrong_answers": [
-        "birch ir swinnerton-dyer hipotezė",
+        "birch-swinnerton-dyer",
         "riemano hipotezė",
         "poincaré hipotezė"
       ],
@@ -45050,8 +44975,8 @@
       ],
       "wrong_answers": [
         "toy story",
-        "džeimsas ir milžiniškas persikas",
-        "kvazimodas iš paryžiaus dievo motinos katedros"
+        "milžiniškas persikas",
+        "kvazimodas"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -45423,8 +45348,7 @@
       "question": "Kuriais metais baigėsi Bizantijos imperija?",
       "answers": [
         "1453",
-        "14-53",
-        "tūkstantis keturi šimtai penkiasdešimt treti"
+        "14-53"
       ],
       "wrong_answers": [
         "1299",
@@ -45495,8 +45419,7 @@
       "question": "Kurie Grand Theft Auto žaidimai vyksta išgalvotoje San Andreas valstijoje?",
       "answers": [
         "gta v ir gta san andreas",
-        "gta 5 ir gta san andreas",
-        "grand theft auto 5 ir san andreas"
+        "gta 5 ir gta san andreas"
       ],
       "wrong_answers": [
         "gta v ir gta vice city",
@@ -45690,16 +45613,14 @@
       "id": "5ccfd2736ec66fdc45f0c0a31b6b53d9"
     },
     {
-      "question": "Slapyvardis PIIGS reiškia kokių Europos šalių ekonomikas?",
+      "question": "Kokią šalį reiškia raidė G ekonominėje pravardėje PIIGS?",
       "answers": [
-        "portugalija, airija, italija, graikija, ispanija",
-        "portugalija airija italija graikija ispanija",
-        "piigs šalys"
+        "graikija"
       ],
       "wrong_answers": [
-        "lenkija, islandija, italija, graikija, serbija",
-        "lenkija, islandija, italija, grenlandija, ispanija",
-        "portugalija, islandija, airija, graikija, serbija"
+        "gruzija",
+        "grenlandija",
+        "gana"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -45715,7 +45636,7 @@
         "navjė-stokso lygtis"
       ],
       "wrong_answers": [
-        "birch ir swinnerton-dyer hipotezė",
+        "birch-swinnerton-dyer",
         "riemano hipotezė",
         "poincaré hipotezė"
       ],
@@ -45783,8 +45704,7 @@
       "question": "Kokia yra seniausia pasaulio istorija?",
       "answers": [
         "gilgamešo epas",
-        "gilgamešas",
-        "gilgamešo epas"
+        "gilgamešas"
       ],
       "wrong_answers": [
         "ani papirusas",
@@ -45818,8 +45738,6 @@
     {
       "question": "Kuri šalis šalia Kongo Demokratinės Respublikos garsėja savo gyvūnais ir parkais?",
       "answers": [
-        "zambija",
-        "zambija",
         "zambija"
       ],
       "wrong_answers": [
@@ -45854,8 +45772,6 @@
     {
       "question": "Kaip lenkai vadina savo šalį?",
       "answers": [
-        "polska",
-        "polska",
         "polska"
       ],
       "wrong_answers": [
@@ -45999,7 +45915,6 @@
       "question": "Kokia maža šalis yra tarp Prancūzijos ir Ispanijos?",
       "answers": [
         "andora",
-        "andora",
         "andora la vella"
       ],
       "wrong_answers": [
@@ -46104,16 +46019,15 @@
       "id": "61b2cdff4af240620a99001933893fd0"
     },
     {
-      "question": "Kokia yra teisinga matematinių veiksmų tvarka?",
+      "question": "Ką reiškia raidė M veiksmų tvarkos taisyklėje PEMDAS?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "pemdas",
-        "p e m d a s"
+        "daugyba",
+        "multiplication"
       ],
       "wrong_answers": [
-        "sudėtis, daugyba, dalyba, atimtis, sudėtis, skliaustai",
-        "skliaustai, laipsniai, sudėtis, atimtis, daugyba, dalyba",
-        "tvarka, kuria operacijos parašytos"
+        "minusas",
+        "mediana",
+        "matavimai"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -46215,7 +46129,6 @@
       "question": "Žaidime Half-life, koks įvykis sukėlė Half-life pasaulį?",
       "answers": [
         "rezonanso kaskada",
-        "rezonanso kaskada",
         "kaskada"
       ],
       "wrong_answers": [
@@ -46233,7 +46146,6 @@
       "question": "Kuriais metais baigėsi Antrasis pasaulinis karas?",
       "answers": [
         "1945",
-        "tūkstantis devyni šimtai keturiasdešimt penkti",
         "keturiasdešimt penkti"
       ],
       "wrong_answers": [
@@ -46268,7 +46180,6 @@
     {
       "question": "Kaip vadinosi senovinis prekybos kelias, jungęs Aziją ir Europą?",
       "answers": [
-        "šilko kelias",
         "šilko kelias",
         "šilko trasa"
       ],
@@ -46341,7 +46252,6 @@
     {
       "question": "Kaip vadinasi specialus bosas Call of Duty: Zombies žemėlapyje „Five“?",
       "answers": [
-        "pentagono vagis",
         "pentagono vagis",
         "vagis"
       ],
@@ -46509,8 +46419,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "advanced dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -46594,8 +46504,7 @@
       "question": "Kuriais metais pasirodė skaitmeninis gyvūnėlis Tamagotchi?",
       "answers": [
         "1996",
-        "devyniasdešimt šeši",
-        "tūkstantis devyni šimtai devyniasdešimt šeši"
+        "devyniasdešimt šeši"
       ],
       "wrong_answers": [
         "1989",
@@ -47025,9 +46934,8 @@
     {
       "question": "Ką Tiresijas pasakė Edipui graikų mituose?",
       "answers": [
-        "pasakė, kad edipas vedė savo motiną",
-        "atskleidė, kad edipas vedė savo motiną",
-        "pasakė, jog edipas vedė savo paties motiną"
+        "edipas vedė savo motiną",
+        "edipas vedė motiną"
       ],
       "wrong_answers": [
         "jis plaukė su argonautais",
@@ -47530,7 +47438,6 @@
       "question": "Su kuo Lil A bendradarbiavo muzikoje?",
       "answers": [
         "lil fortnite",
-        "lil fortnite",
         "fortnite"
       ],
       "wrong_answers": [
@@ -47782,7 +47689,6 @@
       "question": "Kas buvo vienas iš žmonių, žuvusių 2010 m. lėktuvo katastrofoje Rusijoje?",
       "answers": [
         "lenkijos prezidentas",
-        "lenkijos prezidentas",
         "prezidentas iš lenkijos"
       ],
       "wrong_answers": [
@@ -47889,12 +47795,10 @@
     {
       "question": "Žaidime Pokémon Gold ir Silver, kokie yra pradinių Pokémon, kuriuos galima pasirinkti, vardai?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil ir totodile",
         "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "žolinis, ugninis, vandeninis"
       ],
@@ -48147,7 +48051,7 @@
       ],
       "wrong_answers": [
         "dekoruotos lubos",
-        "puošnūs fasadai su trikampiu frontonu",
+        "trikampiai frontonai",
         "dažytos sienos"
       ],
       "category": "art",
@@ -48358,8 +48262,7 @@
       "question": "Žaidime Night In The Woods, kur dirba Gregg?",
       "answers": [
         "snack falcon",
-        "snack falcon parduotuvėje",
-        "snack falcon"
+        "snack falcon parduotuvėje"
       ],
       "wrong_answers": [
         "ol' pickaxe",
@@ -48502,8 +48405,7 @@
       "question": "Kuriais metais žlugo Bizantijos imperija?",
       "answers": [
         "1453",
-        "14-53",
-        "tūkstantis keturi šimtai penkiasdešimt treti"
+        "14-53"
       ],
       "wrong_answers": [
         "1299",
@@ -48542,7 +48444,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -48664,7 +48566,6 @@
       "question": "Kuriame Nintendo 64 žaidime galima žaisti tik Mario personažu be Luigi?",
       "answers": [
         "super mario 64",
-        "super mario šešiasdešimt keturi",
         "sm64"
       ],
       "wrong_answers": [
@@ -48880,7 +48781,6 @@
     {
       "question": "Su kuo bendradarbiavo Lil A, žinomas dėl populiarių dainų?",
       "answers": [
-        "lil fortnite",
         "lil fortnite",
         "fortnite"
       ],
@@ -49407,7 +49307,7 @@
         "jį pervažiavo sunkvežimis"
       ],
       "wrong_answers": [
-        "suvalgė per daug šokoladinių batonėlių",
+        "per daug batonėlių",
         "magiškas užkeikimas",
         "užsidėjo specialų diržą"
       ],
@@ -49907,7 +49807,6 @@
       "question": "Kuriais metais buvo suvaidintos pirmosios oficialios tarptautinės futbolo rungtynės?",
       "answers": [
         "1872",
-        "tūkstantis aštuoni šimtai septyniasdešimt antri",
         "72"
       ],
       "wrong_answers": [
@@ -50680,14 +50579,14 @@
     {
       "question": "Ką reiškia raidės spalvų modelyje CMYK?",
       "answers": [
-        "žydra, purpurinė, geltona, juoda",
+        "žydra purpurinė geltona juoda",
         "c, m, y, k",
-        "žydra, purpurinė, geltona, key"
+        "žydra purpurinė geltona key"
       ],
       "wrong_answers": [
-        "kreminė, kaštoninė, geltona, juoda",
-        "žydra, purpurinė, geltona, chaki",
-        "kreminė, kaštoninė, geltona, chaki"
+        "kreminė, ruda, geltona, juoda",
+        "žydra, rožinė, geltona, chaki",
+        "kreminė, ruda, geltona, chaki"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -50937,7 +50836,7 @@
         "navjė spėjimas"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -51639,7 +51538,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -51688,7 +51587,6 @@
     {
       "question": "Monopolyje naudojami gatvių pavadinimai iš kurio tikro amerikiečių miesto?",
       "answers": [
-        "atlantic city, naujasis džersis",
         "atlantic city",
         "atlantic city, nj"
       ],
@@ -51910,7 +51808,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -52197,7 +52095,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -52298,16 +52196,16 @@
       "id": "4f27cfb2ae5596e724fd466609e40070"
     },
     {
-      "question": "Ką reiškia PEMDAS matematikoje?",
+      "question": "Ką matematikoje padeda prisiminti angliška frazė 'Please Excuse My Dear Aunt Sally' (PEMDAS)?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "p, e, m, d, a, s",
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis eiliškumas"
+        "veiksmų tvarką",
+        "veiksmų tvarka",
+        "veiksmų eiliškumą"
       ],
       "wrong_answers": [
-        "sudėtis, daugyba, dalyba, atimtis, skliaustai",
-        "skliaustai, laipsniai, sudėtis, atimtis, daugyba, dalyba",
-        "tvarka, kuria jos parašytos"
+        "daugybos lentelę",
+        "dalybą kampu",
+        "trupmenas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -52701,7 +52599,7 @@
         "sunkvežimio avarija"
       ],
       "wrong_answers": [
-        "suvalgė per daug šokoladinių batonėlių",
+        "per daug batonėlių",
         "magiškas užkeikimas",
         "dėvėjo specialų diržą"
       ],
@@ -52967,7 +52865,6 @@
       "question": "Kuriais metais buvo įkurtas futbolo klubas Bari?",
       "answers": [
         "1908",
-        "tūkstantis devyni šimtai aštuonti",
         "19-08"
       ],
       "wrong_answers": [
@@ -52989,9 +52886,9 @@
         "vyko su argonautais"
       ],
       "wrong_answers": [
-        "tapo moterimi, o paskui vėl vyru",
+        "tapo moterimi",
         "hera jį apakino",
-        "pasakė edipui, kad jis vedė savo motiną"
+        "perspėjo edipą"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53224,7 +53121,7 @@
       ],
       "wrong_answers": [
         "i wanna have babies you down",
-        "i would hate being your driver",
+        "i would hate your driver",
         "i would have bought your dog"
       ],
       "category": "entertainment",
@@ -53344,13 +53241,12 @@
     {
       "question": "Kaip vadinasi sistema, padedanti lėktuvams išvengti susidūrimo tarpusavyje?",
       "answers": [
-        "eismo susidūrimo vengimo sistema",
-        "tcas",
-        "susidūrimo vengimo sistema"
+        "susidūrimo vengimo sistema",
+        "tcas"
       ],
       "wrong_answers": [
         "žemės artumo įspėjimo sistema",
-        "kliūčių susidūrimo vengimo sistema",
+        "kliūčių vengimo sistema",
         "reljefo įspėjimo sistema"
       ],
       "category": "technology",
@@ -53471,7 +53367,6 @@
       "question": "Kuriais metais baigėsi Sovietų Sąjunga?",
       "answers": [
         "1991",
-        "tūkstantis devyni šimtai devyniasdešimt pirmi",
         "1991-ieji"
       ],
       "wrong_answers": [
@@ -53493,7 +53388,7 @@
         "ta navjė hipotezė"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -53687,8 +53582,7 @@
       "question": "Kuris South Park personažas nėra pagalbininkas žaidime The Stick of Truth, bet sako 'Nepamiršk atsinešti rankšluosčio'?",
       "answers": [
         "towelie",
-        "towelie rankšluostis",
-        "towelie kalbantis rankšluostis"
+        "towelie rankšluostis"
       ],
       "wrong_answers": [
         "jėzus",
@@ -54033,7 +53927,7 @@
         "navjė"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -54350,16 +54244,15 @@
       "id": "e10c655ec25c2d9aa056b0447639e221"
     },
     {
-      "question": "Ką reiškia LASER santrumpa?",
+      "question": "Ką reiškia raidė R žodyje LASER?",
       "answers": [
-        "šviesos stiprinimas stimuliuota spinduliuotės emisija",
-        "šviesos stiprinimas stimuliuota emisija",
-        "light amplification by stimulated emission of radiation"
+        "radiation",
+        "spinduliuotė"
       ],
       "wrong_answers": [
-        "light analysis by stereo ecorazer",
-        "light amplifier by standby energy of radio",
-        "life antimatter by standing entry of range"
+        "radio",
+        "rays",
+        "reflection"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -54496,9 +54389,7 @@
     {
       "question": "Žaidime Half-Life, kaip vadinasi karinė grupė, atvykstanti į Black Mesa?",
       "answers": [
-        "hecu",
-        "hazardous environment combat unit",
-        "pavojingos aplinkos kovinis dalinys"
+        "hecu"
       ],
       "wrong_answers": [
         "navy seals",
@@ -54934,7 +54825,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -55253,7 +55144,6 @@
       "question": "Kuriais metais išleistas popierinis stalo žaidimas Deadlands?",
       "answers": [
         "1996",
-        "tūkstantis devyni šimtai devyniasdešimt šešti",
         "96"
       ],
       "wrong_answers": [
@@ -55379,7 +55269,6 @@
       "question": "Kuriais metais buvo įkurtas futbolo klubas Bari?",
       "answers": [
         "1908",
-        "tūkstantis devyni šimtai aštuoni",
         "1908 metais"
       ],
       "wrong_answers": [
@@ -56155,11 +56044,10 @@
       "question": "Kokiam muzikos instrumentų tipui priklauso trimitas?",
       "answers": [
         "variniai pučiamieji",
-        "variniai instrumentai",
-        "variniai pučiamieji instrumentai"
+        "variniai instrumentai"
       ],
       "wrong_answers": [
-        "medinis pučiamasis instrumentas",
+        "medinis pučiamasis",
         "mediniai pučiamieji",
         "styginis instrumentas"
       ],
@@ -56556,7 +56444,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -57146,8 +57034,7 @@
       "question": "Su kokiu atlikėju, kurio scenos vardas primena populiarų vaizdo žaidimą, dirbo Lil A?",
       "answers": [
         "lil fortnite",
-        "fortnite",
-        "lil fortnite"
+        "fortnite"
       ],
       "wrong_answers": [
         "lil pump",
@@ -57224,7 +57111,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57269,16 +57156,15 @@
       "id": "ee4e957e74d9c2c751825a7cb4f326ef"
     },
     {
-      "question": "Kokia yra tvarka sprendžiant matematikos uždavinius su veiksmais?",
+      "question": "Ką reiškia raidė D veiksmų tvarkos taisyklėje PEMDAS?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "pemdas",
-        "p e m d a s"
+        "dalyba",
+        "division"
       ],
       "wrong_answers": [
-        "sudėtis, daugyba, dalyba, atimtis, sudėtis, skliaustai",
-        "skliaustai, laipsniai, sudėtis, atimtis, daugyba, dalyba",
-        "tvarka, kuria operacijos parašytos"
+        "dešimtainės trupmenos",
+        "skaitmenys",
+        "skirtumas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -57449,16 +57335,15 @@
       "id": "0a49fb4915a7cd6ea040283e752d59c0"
     },
     {
-      "question": "Kokios šalys vadinamos PIIGS dėl jų ekonomikos?",
+      "question": "Kokią šalį reiškia raidė S ekonominėje pravardėje PIIGS?",
       "answers": [
-        "portugalija, airija, italija, graikija, ispanija",
-        "portugalija airija italija graikija ispanija",
-        "portugalija, airija, italija, graikija ir ispanija"
+        "ispanija",
+        "spain"
       ],
       "wrong_answers": [
-        "lenkija, islandija, italija, graikija, serbija",
-        "lenkija, islandija, italija, grenlandija, ispanija",
-        "portugalija, islandija, airija, graikija, serbija"
+        "švedija",
+        "serbija",
+        "slovakija"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -57485,16 +57370,15 @@
       "id": "71e74f45ab5f9918ee3d53114d9eca7a"
     },
     {
-      "question": "Kokios šalys sudaro akronimą PIIGS dėl savo ekonomikos?",
+      "question": "Ekonominėje pravardėje PIIGS yra dvi raidės I. Įvardykite vieną iš šalių, kurias jos reiškia.",
       "answers": [
-        "portugalija, airija, italija, graikija, ispanija",
-        "portugalija airija italija graikija ispanija",
-        "p.i.i.g.s šalys"
+        "airija",
+        "italija"
       ],
       "wrong_answers": [
-        "lenkija, islandija, italija, graikija, serbija",
-        "lenkija, islandija, italija, grenlandija, ispanija",
-        "portugalija, islandija, airija, graikija, serbija"
+        "islandija",
+        "indija",
+        "izraelis"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -57512,7 +57396,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57737,16 +57621,15 @@
       "id": "2588d811a0fab50ef929df4145120bd3"
     },
     {
-      "question": "Kokia yra matematinių veiksmų tvarka pagal santrumpą PEMDAS?",
+      "question": "Ką reiškia raidė A veiksmų tvarkos taisyklėje PEMDAS?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "skliaustai laipsniai daugyba dalyba sudėtis atimtis",
-        "pemdas"
+        "sudėtis",
+        "addition"
       ],
       "wrong_answers": [
-        "sudėtis, daugyba, dalyba, atimtis, sudėtis, skliaustai",
-        "skliaustai, laipsniai, sudėtis, atimtis, daugyba, dalyba",
-        "tvarka, kuria operacijos parašytos"
+        "plotas",
+        "kampai",
+        "apvalinimas"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -57883,14 +57766,13 @@
     {
       "question": "Kurios dvi komandos žaidė Super Bowl 2008 metais?",
       "answers": [
-        "new york giants ir new england patriots",
         "giants ir patriots",
         "ny giants ir patriots"
       ],
       "wrong_answers": [
-        "green bay packers ir pittsburgh steelers",
-        "philadelphia eagles ir new england patriots",
-        "seattle seahawks ir denver broncos"
+        "packers ir steelers",
+        "eagles ir patriots",
+        "seahawks ir broncos"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -58784,7 +58666,6 @@
       "question": "Kuriais metais pirmą kartą buvo parduotas žaidimas Deadlands?",
       "answers": [
         "1996",
-        "tūkstantis devyni šimtai devyniasdešimt šešti",
         "96"
       ],
       "wrong_answers": [
@@ -58933,7 +58814,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -58963,14 +58844,13 @@
     {
       "question": "Ką reiškia CMYK spalvose?",
       "answers": [
-        "žydra, purpurinė, geltona, juoda",
         "žydra purpurinė geltona juoda",
         "cmyk"
       ],
       "wrong_answers": [
-        "kreminė, kaštoninė, geltona, juoda",
-        "žydra, purpurinė, geltona, chaki",
-        "kreminė, kaštoninė, geltona, chaki"
+        "kreminė, ruda, geltona, juoda",
+        "žydra, rožinė, geltona, chaki",
+        "kreminė, ruda, geltona, chaki"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -59810,12 +59690,10 @@
     {
       "question": "Antruose Pokémon žaidimuose, kokį pradinį Pokémon galima pasirinkti?",
       "answers": [
-        "chikorita, cyndaquil ir totodile",
-        "chikorita cyndaquil totodile",
-        "chikorita ir cyndaquil ir totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "žolinis, ugninis, vandeninis"
       ],
@@ -60027,7 +59905,6 @@
       "question": "Kurią knygą apie valdžios šnipinėjimą parašė George Orwell?",
       "answers": [
         "1984",
-        "tūkstantis devyni šimtai aštuoniasdešimt ketvirti",
         "1984 orwell"
       ],
       "wrong_answers": [
@@ -60080,12 +59957,12 @@
     {
       "question": "Portal 2 žaidime, kas sukėlė Cave Johnson mirtį?",
       "answers": [
-        "mėnulio uolienos apsinuodijimas",
+        "mėnulio uolienos",
         "mėnulio uolienos liga",
-        "apsinuodijimas mėnulio uoliena"
+        "mėnulio uoliena"
       ],
       "wrong_answers": [
-        "portalo nelaimingas atsitikimas",
+        "portalo avarija",
         "paslydo duše",
         "azbesto liga"
       ],
@@ -60098,9 +59975,7 @@
     {
       "question": "Kokia knyga Maurice Sendak yra labiausiai žinomas?",
       "answers": [
-        "ten, kur gyvena laukiniai padarai",
-        "laukiniai padarai",
-        "ten kur gyvena laukiniai padarai knyga"
+        "laukiniai padarai"
       ],
       "wrong_answers": [
         "nesibaigianti istorija",
@@ -60153,8 +60028,7 @@
       "question": "Kurie GTA žaidimai vyksta San Andreas?",
       "answers": [
         "gta v ir gta san andreas",
-        "gta 5 ir gta san andreas",
-        "grand theft auto 5 ir grand theft auto san andreas"
+        "gta 5 ir gta san andreas"
       ],
       "wrong_answers": [
         "gta v ir gta vice city",
@@ -60175,7 +60049,7 @@
         "navjė"
       ],
       "wrong_answers": [
-        "birčo ir svinertono-dajerio hipotezė",
+        "birčo-svinertono hipotezė",
         "rymano hipotezė",
         "puankarė hipotezė"
       ],
@@ -61252,7 +61126,7 @@
       "question": "Ką reiškia raidės CPU?",
       "answers": [
         "centrinis procesorius",
-        "centrinis apdorojimo įrenginys",
+        "procesorius",
         "cpu"
       ],
       "wrong_answers": [
@@ -61285,16 +61159,16 @@
       "id": "4854d99a5e08992cc6c2fca4e4088145"
     },
     {
-      "question": "Kokia tvarka atliekami matematiniai veiksmai sprendžiant uždavinius?",
+      "question": "Kas matematikoje atliekama pirmiau: veiksmai skliaustuose ar sudėtis?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "pemdas",
-        "skliaustai, laipsniai, dauginti, dalinti, sudėti, atimti"
+        "skliaustuose",
+        "skliaustai",
+        "veiksmai skliaustuose"
       ],
       "wrong_answers": [
-        "sudėti, dauginti, dalinti, atimti, sudėti, skliaustai",
-        "skliaustai, laipsniai, sudėti, atimti, dauginti, dalinti",
-        "tvarka, kuria jie parašyti"
+        "sudėtis",
+        "vienodai",
+        "kas parašyta pirmiau"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -61329,7 +61203,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -61359,8 +61233,7 @@
     {
       "question": "Kuriais metais buvo įkurtas Schalke 04?",
       "answers": [
-        "1904",
-        "tūkstantis devyni šimtai ketvirti"
+        "1904"
       ],
       "wrong_answers": [
         "1909",
@@ -61527,9 +61400,9 @@
         "keliavo su argonautais"
       ],
       "wrong_answers": [
-        "pavirto moterimi, o vėliau vėl vyru",
-        "hera apakino po to, kai sutiko su zeusu",
-        "pasakė edipui, kad jis vedė savo motiną"
+        "pavirto moterimi",
+        "hera jį apakino",
+        "perspėjo edipą"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -61898,8 +61771,7 @@
       "question": "Kokią kalėdinę dainą Gene'as Autry įrašė pirmiausia?",
       "answers": [
         "raudonanosis elnias rudolfas",
-        "rudolph",
-        "rudolph the red nosed reindeer"
+        "rudolph"
       ],
       "wrong_answers": [
         "frosty the snowman",
@@ -61953,7 +61825,7 @@
       "answers": [
         "299 792 458 m/s",
         "299792458 m/s",
-        "299 milijonai metrų per sekundę"
+        "299 milijonai m/s"
       ],
       "wrong_answers": [
         "50 000 m/s",
@@ -61975,8 +61847,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "d&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62629,9 +62501,9 @@
     {
       "question": "Kuo dažniausiai remiasi Dano Bello filmai?",
       "answers": [
-        "apleisti pastatai ir mirę prekybos centrai",
-        "tušti pastatai ir uždaryti prekybos centrai",
-        "pamirštos vietos ir tušti prekybos centrai"
+        "mirę prekybos centrai",
+        "apleisti pastatai",
+        "pamirštos vietos"
       ],
       "wrong_answers": [
         "istoriniai paminklai",
@@ -62795,9 +62667,9 @@
         "prisijungė prie argonautų"
       ],
       "wrong_answers": [
-        "atėnė pavertė jį moterimi, o vėliau vėl vyru",
-        "hera jį apakino po to, kai jis sutiko su zeusu",
-        "pasakė edipui, kad jis vedė savo motiną"
+        "atėnė pavertė jį moterimi",
+        "hera jį apakino",
+        "perspėjo edipą"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -62880,8 +62752,7 @@
     {
       "question": "Koks LS3 variklio tūris kubinias coliais?",
       "answers": [
-        "376",
-        "trys šimtai septyniasdešimt šeši"
+        "376"
       ],
       "wrong_answers": [
         "346",
@@ -62897,14 +62768,13 @@
     {
       "question": "Kokia istorija apie Teiresijo nuotykius su argonautais nėra tiesa?",
       "answers": [
-        "plaukiojo su argonautais ieškodamas aukso vilnos",
         "keliavo su argonautais",
         "prisijungė prie argonautų"
       ],
       "wrong_answers": [
-        "atėnė pavertė jį moterimi, o vėliau vėl vyru",
-        "hera jį apakino po to, kai jis sutiko su zeusu",
-        "pasakė edipui, kad jis vedė savo motiną"
+        "atėnė pavertė jį moterimi",
+        "hera jį apakino",
+        "perspėjo edipą"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -63095,9 +62965,7 @@
     {
       "question": "Žaidime Portal 2, kaip mirė Aperture Science generalinis direktorius Cave Johnson?",
       "answers": [
-        "apsinuodijo mėnulio uolienomis",
-        "mėnulio uolienos",
-        "buvo apnuodytas mėnulio uolienomis"
+        "mėnulio uolienos"
       ],
       "wrong_answers": [
         "portalas į mėnulį",
@@ -63155,7 +63023,7 @@
       "wrong_answers": [
         "pirmasis pasaulinis karas",
         "rusijos–japonijos karas",
-        "pirmasis kinijos–japonijos karas"
+        "kinijos–japonijos karas"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -63686,7 +63554,7 @@
         "dirty deeds"
       ],
       "wrong_answers": [
-        "filthy acts done for a reasonable price",
+        "filthy acts, fair price",
         "civil war",
         "god bless the usa"
       ],
@@ -63699,8 +63567,7 @@
     {
       "question": "Kuriais metais Gana išsilaisvino iš kolonijinio valdymo?",
       "answers": [
-        "1957",
-        "tūkstantis devyni šimtai penkiasdešimt septinti"
+        "1957"
       ],
       "wrong_answers": [
         "1947",
@@ -64002,8 +63869,7 @@
     {
       "question": "George Orwell parašė knygą apie ateitį su daug valstybinės kontrolės. Koks šios knygos pavadinimas?",
       "answers": [
-        "1984",
-        "tūkstantis devyni šimtai aštuoniasdešimt ketvirti"
+        "1984"
       ],
       "wrong_answers": [
         "senis ir jūra",
@@ -64073,8 +63939,7 @@
     {
       "question": "Kuri iš šių yra garsi matematinė problema, vadinama Tūkstantmečio problema?",
       "answers": [
-        "birch ir swinnerton-dyer hipotezė",
-        "birch swinnerton dyer hipotezė",
+        "birch-swinnerton-dyer",
         "bsd hipotezė"
       ],
       "wrong_answers": [
@@ -64131,7 +63996,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -64433,7 +64298,7 @@
       "wrong_answers": [
         "trečiasis pasaulinis karas",
         "xen ataka",
-        "black mesa branduolinis sprogimas"
+        "black mesa sprogimas"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -64532,8 +64397,7 @@
       "question": "Koks šviesos greitis tuščioje erdvėje metrais per sekundę?",
       "answers": [
         "299 792 458 m/s",
-        "299792458 m/s",
-        "299 792 458 metrai per sekundę"
+        "299792458 m/s"
       ],
       "wrong_answers": [
         "50 000 m/s",
@@ -64783,7 +64647,7 @@
       ],
       "wrong_answers": [
         "nieko",
-        "išsaugo paveikslėlį nuotraukose",
+        "išsaugo nuotrauką",
         "uždaro visus langus"
       ],
       "category": "technology",
@@ -65251,8 +65115,7 @@
     {
       "question": "Kuriais metais buvo išrastas DVD?",
       "answers": [
-        "1995",
-        "tūkstantis devyni šimtai devyniasdešimt penkti"
+        "1995"
       ],
       "wrong_answers": [
         "2000",
@@ -65550,8 +65413,7 @@
     {
       "question": "Kuriais metais Gana tapo nepriklausoma nuo britų valdymo?",
       "answers": [
-        "1957",
-        "tūkstantis devyni šimtai penkiasdešimt septinti"
+        "1957"
       ],
       "wrong_answers": [
         "1947",
@@ -65761,8 +65623,7 @@
     {
       "question": "Kuriais metais pirmą kartą buvo išleistas vaidmenų žaidimas Deadlands?",
       "answers": [
-        "1996",
-        "tūkstantis devyni šimtai devyniasdešimt šešti"
+        "1996"
       ],
       "wrong_answers": [
         "2003",
@@ -65854,7 +65715,7 @@
       ],
       "wrong_answers": [
         "nieko",
-        "išsaugo paveikslėlį nuotraukose",
+        "išsaugo nuotrauką",
         "uždaro visus langus"
       ],
       "category": "technology",
@@ -66186,7 +66047,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -66392,7 +66253,7 @@
     {
       "question": "League of Legends, DOTA 2 ir Smite priklauso kokiam žaidimo tipui?",
       "answers": [
-        "multiplayer online battle arena",
+        "battle arena",
         "moba"
       ],
       "wrong_answers": [
@@ -66557,7 +66418,7 @@
       ],
       "wrong_answers": [
         "hutai ir ruanda",
-        "šiaurės korėja ir pietų korėja",
+        "abi korėjos",
         "bangladešas ir butanas"
       ],
       "category": "history",
@@ -66574,7 +66435,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "jingle bells"
       ],
       "category": "entertainment",
@@ -67268,7 +67129,6 @@
     {
       "question": "Kaip vadinasi pirmasis 1937 metų Disney filmas?",
       "answers": [
-        "snieguolė ir septyni nykštukai",
         "snieguolė"
       ],
       "wrong_answers": [
@@ -67540,8 +67400,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "advanced dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -67658,8 +67518,7 @@
       "question": "Kurioje šalyje buvo gaminamas automobilis Trabant?",
       "answers": [
         "rytų vokietija",
-        "vdr",
-        "vokietijos demokratinė respublika"
+        "vdr"
       ],
       "wrong_answers": [
         "sovietų sąjunga",
@@ -68120,15 +67979,15 @@
       "id": "d284c8a81a164eef87eba9806f9f7014"
     },
     {
-      "question": "Ką reiškia akronimas PEMDAS, nusakantis veiksmų atlikimo tvarką?",
+      "question": "Ką reiškia raidė S veiksmų tvarkos taisyklėje PEMDAS?",
       "answers": [
-        "skliaustai, laipsniai, daugyba, dalyba, sudėtis, atimtis",
-        "skliaustai, laipsniai, dauginti, dalinti, sudėti, atimti"
+        "atimtis",
+        "subtraction"
       ],
       "wrong_answers": [
-        "sudėti, dauginti, dalinti, atimti, sudėti, skliaustai",
-        "skliaustai, laipsniai, sudėti, atimti, dauginti, dalinti",
-        "tvarka, kuria jie parašyti"
+        "suma",
+        "sinusas",
+        "kvadratai"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -68346,13 +68205,12 @@
     {
       "question": "Su kokiais Pokémon galima pradėti antruosiuose Pokémon žaidimuose?",
       "answers": [
-        "chikorita, cyndaquil ir totodile",
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander ir squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic ir mudkip",
-        "žolinis, ugninis ir vandeninis"
+        "žolinis, ugninis, vandeninis"
       ],
       "category": "entertainment",
       "difficulty": "easy",
