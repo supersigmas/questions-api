@@ -1,0 +1,353 @@
+{
+  "rewrite": {
+    "94e22ee6": {
+      "question": "Serialo Doctor Who TARDIS pavadinime ką reiškia raidė T?",
+      "answers": [
+        "time",
+        "laikas"
+      ],
+      "wrong_answers": [
+        "travel",
+        "transport",
+        "temporal"
+      ]
+    },
+    "814c4be8": {
+      "question": "Serialo Doctor Who T.A.R.D.I.S. pavadinime ką reiškia raidė D?",
+      "answers": [
+        "dimension",
+        "dimensions",
+        "dimensija"
+      ],
+      "wrong_answers": [
+        "device",
+        "destination",
+        "drive"
+      ]
+    },
+    "286f5af4": {
+      "question": "Kompiuterijoje ką reiškia raidė M santrumpoje MIDI?",
+      "answers": [
+        "musical",
+        "music",
+        "muzikinis",
+        "muzika"
+      ],
+      "wrong_answers": [
+        "modular",
+        "media",
+        "mechanical"
+      ]
+    },
+    "60bb977e": {
+      "question": "Ką reiškia raidė L žodyje LASER?",
+      "answers": [
+        "light",
+        "šviesa"
+      ],
+      "wrong_answers": [
+        "lens",
+        "linear",
+        "laser"
+      ]
+    },
+    "636c7673": {
+      "question": "Ką reiškia raidė R žodyje LASER?",
+      "answers": [
+        "radiation",
+        "spinduliuotė"
+      ],
+      "wrong_answers": [
+        "radio",
+        "rays",
+        "reflection"
+      ]
+    },
+    "b36bacd3": {
+      "question": "Kokią šalį reiškia raidė P ekonominėje pravardėje PIIGS?",
+      "answers": [
+        "portugalija"
+      ],
+      "wrong_answers": [
+        "lenkija",
+        "panama",
+        "peru"
+      ]
+    },
+    "5a928f49": {
+      "question": "Kokią šalį reiškia raidė G ekonominėje pravardėje PIIGS?",
+      "answers": [
+        "graikija"
+      ],
+      "wrong_answers": [
+        "gruzija",
+        "grenlandija",
+        "gana"
+      ]
+    },
+    "5b5954ef": {
+      "question": "Kokią šalį reiškia raidė S ekonominėje pravardėje PIIGS?",
+      "answers": [
+        "ispanija",
+        "spain"
+      ],
+      "wrong_answers": [
+        "švedija",
+        "serbija",
+        "slovakija"
+      ]
+    },
+    "c6f59d59": {
+      "question": "Ekonominėje pravardėje PIIGS yra dvi raidės I. Įvardykite vieną iš šalių, kurias jos reiškia.",
+      "answers": [
+        "airija",
+        "italija"
+      ],
+      "wrong_answers": [
+        "islandija",
+        "indija",
+        "izraelis"
+      ]
+    },
+    "54e97354": {
+      "question": "Ką reiškia raidė P veiksmų tvarkos taisyklėje PEMDAS?",
+      "answers": [
+        "skliaustai",
+        "parentheses",
+        "skliaustus"
+      ],
+      "wrong_answers": [
+        "procentai",
+        "pliusas",
+        "taškai"
+      ]
+    },
+    "e304f234": {
+      "question": "Ką reiškia raidė E veiksmų tvarkos taisyklėje PEMDAS?",
+      "answers": [
+        "laipsniai",
+        "exponents",
+        "kėlimas laipsniu"
+      ],
+      "wrong_answers": [
+        "lygtys",
+        "įverčiai",
+        "sveikieji skaičiai"
+      ]
+    },
+    "764a0045": {
+      "question": "Ką reiškia raidė M veiksmų tvarkos taisyklėje PEMDAS?",
+      "answers": [
+        "daugyba",
+        "multiplication"
+      ],
+      "wrong_answers": [
+        "minusas",
+        "mediana",
+        "matavimai"
+      ]
+    },
+    "3393ebe6": {
+      "question": "Ką matematikoje padeda prisiminti angliška frazė 'Please Excuse My Dear Aunt Sally' (PEMDAS)?",
+      "answers": [
+        "veiksmų tvarką",
+        "veiksmų tvarka",
+        "veiksmų eiliškumą"
+      ],
+      "wrong_answers": [
+        "daugybos lentelę",
+        "dalybą kampu",
+        "trupmenas"
+      ]
+    },
+    "7e8ea43b": {
+      "question": "Ką reiškia raidė D veiksmų tvarkos taisyklėje PEMDAS?",
+      "answers": [
+        "dalyba",
+        "division"
+      ],
+      "wrong_answers": [
+        "dešimtainės trupmenos",
+        "skaitmenys",
+        "skirtumas"
+      ]
+    },
+    "3366784f": {
+      "question": "Ką reiškia raidė A veiksmų tvarkos taisyklėje PEMDAS?",
+      "answers": [
+        "sudėtis",
+        "addition"
+      ],
+      "wrong_answers": [
+        "plotas",
+        "kampai",
+        "apvalinimas"
+      ]
+    },
+    "8aa56e5d": {
+      "question": "Ką reiškia raidė S veiksmų tvarkos taisyklėje PEMDAS?",
+      "answers": [
+        "atimtis",
+        "subtraction"
+      ],
+      "wrong_answers": [
+        "suma",
+        "sinusas",
+        "kvadratai"
+      ]
+    },
+    "54eef35f": {
+      "question": "Kas matematikoje atliekama pirmiau: veiksmai skliaustuose ar sudėtis?",
+      "answers": [
+        "skliaustuose",
+        "skliaustai",
+        "veiksmai skliaustuose"
+      ],
+      "wrong_answers": [
+        "sudėtis",
+        "vienodai",
+        "kas parašyta pirmiau"
+      ]
+    }
+  },
+  "shorten": {
+    "24601 (dvidešimt keturi šeši nulis vienas)": "24601",
+    "299 792 458 metrai per sekundę": "299 792 458 m/s",
+    "299 milijonai metrų per sekundę": "299 milijonai m/s",
+    "308 215 043 metrai per sekundę": "308 215 043 m/s",
+    "751 665 014 151 metrai per sekundę": "751 665 014 m/s",
+    "751 665 014 151 metras per sekundę": "751 665 014 m/s",
+    "absoliutus laimingasis mokinys": "laimingasis mokinys",
+    "agentas keturiasdešimt septyni": null,
+    "apie 300 000 kilometrų per sekundę": "apie 300 000 km/s",
+    "apleisti pastatai ir mirę prekybos centrai": "mirę prekybos centrai",
+    "apsinuodijimas mėnulio uoliena": "mėnulio uoliena",
+    "apsinuodijimas mėnulio uolienomis": "mėnulio uolienos",
+    "apsinuodijo mėnulio uolienomis": "mėnulio uolienos",
+    "atlantic city, naujasis džersis": "atlantic city",
+    "atlikėjas, anksčiau žinomas kaip prince'as": null,
+    "atskleidė, kad edipas vedė savo motiną": "edipas vedė motiną",
+    "atėnė pavertė jį moterimi, o vėliau vėl vyru": "atėnė pavertė jį moterimi",
+    "aukštieji sluoksniniai debesys": "sluoksniniai debesys",
+    "australijos valstija (regionas)": "australijos valstija",
+    "bendroji padėties nustatymo sistema": "bendroji padėties sistema",
+    "birch ir swinnerton-dyer hipotezė": "birch-swinnerton-dyer",
+    "birch swinnerton dyer hipotezė": null,
+    "birčo ir svinertono-dajerio hipotezė": "birčo-svinertono hipotezė",
+    "black mesa branduolinis sprogimas": "black mesa sprogimas",
+    "brangakmenio šukės (fragmentai)": "brangakmenio šukės",
+    "bulbasaur, charmander ir squirtle": "bulbasaur charmander squirtle",
+    "buvo apnuodytas mėnulio uolienomis": "mėnulio uolienos",
+    "centralizuotas apdorojimo įrenginys": "centralizuotas procesorius",
+    "centrinis apdorojimo įrenginys": "procesorius",
+    "chikorita ir cyndaquil ir totodile": null,
+    "chikorita, cyndaquil ir totodile": "chikorita cyndaquil totodile",
+    "chlorofilas (žalias pigmentas)": "chlorofilas",
+    "dainos apie ledą ir ugnį serija": null,
+    "daugelio žaidėjų kovos arena internete": "kovos arena",
+    "daugumos lyderis atstovų rūmuose": "daugumos lyderis",
+    "debiutinis rage against the machine albumas": null,
+    "džeimsas ir milžiniškas persikas": "milžiniškas persikas",
+    "džonas ronaldas rojelis tolkinas": null,
+    "eismo susidūrimo vengimo sistema": "susidūrimo vengimo sistema",
+    "eismo susidūrimų vengimo sistema": "susidūrimų vengimo sistema",
+    "globali padėties nustatymo sistema": "globali padėties sistema",
+    "grand theft auto 5 ir grand theft auto san andreas": null,
+    "grand theft auto 5 ir san andreas": null,
+    "green bay packers ir pittsburgh steelers": "packers ir steelers",
+    "hera apakino po to, kai sutiko su zeusu": "hera jį apakino",
+    "hera jį apakino po to, kai jis sutiko su zeusu": "hera jį apakino",
+    "ispanijos pilietinis karas (istorija)": "ispanijos pilietinis karas",
+    "izengardo tvirtovė (izengardas)": "izengardas",
+    "išsaugo paveikslėlį nuotraukose": "išsaugo nuotrauką",
+    "juodoji skylė (galaktikos centre)": "juodoji skylė",
+    "kalbantis rankšluostis towelie": null,
+    "karaliaus perkėlimas 2-uoju ėjimu": "ankstyvas karaliaus ėjimas",
+    "keistas daktaro džekilo ir mister haido atvejis": "daktaras džekilas ir haidas",
+    "kentukio keptos vištienos restoranas": "kentukio vištiena",
+    "kietasis diskas be judančių dalių": "kietasis diskas",
+    "kliūčių susidūrimo vengimo sistema": "kliūčių vengimo sistema",
+    "kovos su nusikaltimais partneriai": "partneriai prieš nusikaltimus",
+    "kreminė, kaštoninė, geltona, chaki": "kreminė, ruda, geltona, chaki",
+    "kreminė, kaštoninė, geltona, juoda": "kreminė, ruda, geltona, juoda",
+    "kvazimodas iš paryžiaus dievo motinos katedros": "kvazimodas",
+    "laiko sustabdymas ir grąžinimas": "laiko sustabdymas",
+    "liūtas, burtininkė ir drabužių spinta": "liūtas ir burtininkė",
+    "masteliuojama vektorinė grafika": null,
+    "medinis pučiamasis instrumentas": "medinis pučiamasis",
+    "mėnulio uolienos apsinuodijimas": "mėnulio uolienos",
+    "netyčia išsiuntė portalą į mėnulį": "portalas į mėnulį",
+    "niekada nesibaigianti istorija": "nesibaigianti istorija",
+    "pagrindinio apdorojimo paslauga": "apdorojimo paslauga",
+    "pamirštos vietos ir tušti prekybos centrai": "pamirštos vietos",
+    "paryžiaus dievo motinos kuprius": "kuprius",
+    "pasakė edipui, kad jis vedė savo motiną": "perspėjo edipą",
+    "pasakė, jog edipas vedė savo paties motiną": null,
+    "pasakė, kad edipas vedė savo motiną": "edipas vedė savo motiną",
+    "pasaulinė padėties nustatymo sistema": "pasaulinė padėties sistema",
+    "pavirto moterimi, o vėliau vėl vyru": "pavirto moterimi",
+    "pavojingos aplinkos kovinis dalinys": null,
+    "philadelphia eagles ir new england patriots": "eagles ir patriots",
+    "pirmasis kinijos–japonijos karas": "kinijos–japonijos karas",
+    "plaukiojo su argonautais ieškodamas aukso vilnos": null,
+    "portalo nelaimingas atsitikimas": "portalo avarija",
+    "puošnūs fasadai su trikampiu frontonu": "trikampiai frontonai",
+    "rage against the machine albumas": null,
+    "raudonasis poslinkis slepia žvaigždes": "raudonasis poslinkis",
+    "raudonosios jūros koralų rifas": "raudonosios jūros rifas",
+    "seattle seahawks ir denver broncos": "seahawks ir broncos",
+    "snieguolė ir septyni nykštukai": null,
+    "statinė laisvosios kreipties atmintis": "statinė atmintis",
+    "sunkvežimio nelaimingas atsitikimas": "sunkvežimio avarija",
+    "suvalgė per daug šokoladinių batonėlių": "per daug batonėlių",
+    "suvalgė per daug šokoladinių ledų": "per daug ledų",
+    "suvienytas sistemos magistralė": "suvienyta magistralė",
+    "tapo moterimi, o paskui vėl vyru": "tapo moterimi",
+    "ten kur gyvena laukiniai padarai knyga": null,
+    "ten, kur gyvena laukiniai padarai": "laukiniai padarai",
+    "towelie kalbantis rankšluostis": null,
+    "tušti pastatai ir uždaryti prekybos centrai": "apleisti pastatai",
+    "universali nuosekliojo perdavimo magistralė": "universal serial bus",
+    "variniai pučiamieji instrumentai": "variniai pučiamieji",
+    "varinis pučiamasis instrumentas": "varinis pučiamasis",
+    "vokietijos demokratinė respublika": null,
+    "šiaurės korėja ir pietų korėja": "abi korėjos",
+    "šimtas dvidešimt aštuoni bitai": "128 bitai",
+    "žolinis, ugninis ir vandeninis": "žolinis, ugninis, vandeninis",
+    "žvaigždėta naktis (paveikslas)": "žvaigždėta naktis",
+    "žydra, purpurinė, geltona, chaki": "žydra, rožinė, geltona, chaki",
+    "žydra, purpurinė, geltona, juoda": "žydra purpurinė geltona juoda",
+    "žydra, purpurinė, geltona, key": "žydra purpurinė geltona key",
+    "du šimtai keturiasdešimt keturi": null,
+    "dvidešimt keturi tūkstančiai šeši šimtai vienas": null,
+    "keturi šimtai dvidešimt septyni": null,
+    "keturi šimtai trisdešimt penki": null,
+    "super mario šešiasdešimt keturi": null,
+    "trys šimtai septyniasdešimt šeši": null,
+    "tūkstantis aštuoni šimtai septyniasdešimt antri": null,
+    "tūkstantis devyni šimtai aštuoni": null,
+    "tūkstantis devyni šimtai aštuoniasdešimt antri": null,
+    "tūkstantis devyni šimtai aštuoniasdešimt ketvirti": null,
+    "tūkstantis devyni šimtai aštuonti": null,
+    "tūkstantis devyni šimtai devyniasdešimt": null,
+    "tūkstantis devyni šimtai devyniasdešimt aštuoni": null,
+    "tūkstantis devyni šimtai devyniasdešimt devinti": null,
+    "tūkstantis devyni šimtai devyniasdešimt penkti": null,
+    "tūkstantis devyni šimtai devyniasdešimt pirmi": null,
+    "tūkstantis devyni šimtai devyniasdešimt septinti": null,
+    "tūkstantis devyni šimtai devyniasdešimt šeši": null,
+    "tūkstantis devyni šimtai devyniasdešimt šešti": null,
+    "tūkstantis devyni šimtai dvidešimt devinti": null,
+    "tūkstantis devyni šimtai keturi": null,
+    "tūkstantis devyni šimtai keturiasdešimt penkti": null,
+    "tūkstantis devyni šimtai keturiolikti": null,
+    "tūkstantis devyni šimtai ketvirti": null,
+    "tūkstantis devyni šimtai penkiasdešimt septinti": null,
+    "tūkstantis devyni šimtai trisdešimt devinti": null,
+    "tūkstantis devyni šimtai vienuolikti": null,
+    "tūkstantis devyni šimtai šešiasdešimt šešti": null,
+    "tūkstantis keturi šimtai penkiasdešimt treti": null,
+    "tūkstantis septyni šimtai dvidešimt pirmi": null,
+    "new york giants ir new england patriots": null
+  }
+}

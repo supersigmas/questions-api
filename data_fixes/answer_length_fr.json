@@ -1,0 +1,352 @@
+{
+  "rewrite": {
+    "94e22ee6": {
+      "question": "Dans la série Doctor Who, que signifie le T de TARDIS ?",
+      "answers": [
+        "time",
+        "temps"
+      ],
+      "wrong_answers": [
+        "travel",
+        "transport",
+        "temporal"
+      ]
+    },
+    "814c4be8": {
+      "question": "Dans la série Doctor Who, que signifie le D de T.A.R.D.I.S. ?",
+      "answers": [
+        "dimension",
+        "dimensions"
+      ],
+      "wrong_answers": [
+        "device",
+        "destination",
+        "drive"
+      ]
+    },
+    "286f5af4": {
+      "question": "En informatique, que signifie le M de MIDI ?",
+      "answers": [
+        "musical",
+        "music",
+        "musique"
+      ],
+      "wrong_answers": [
+        "modular",
+        "media",
+        "mechanical"
+      ]
+    },
+    "60bb977e": {
+      "question": "Dans le mot LASER, que signifie le L ?",
+      "answers": [
+        "light",
+        "lumière"
+      ],
+      "wrong_answers": [
+        "lens",
+        "linear",
+        "laser"
+      ]
+    },
+    "636c7673": {
+      "question": "Dans le mot LASER, que signifie le R ?",
+      "answers": [
+        "radiation",
+        "rayonnement"
+      ],
+      "wrong_answers": [
+        "radio",
+        "rays",
+        "reflection"
+      ]
+    },
+    "b36bacd3": {
+      "question": "Dans le surnom économique PIIGS, quel pays représente le P ?",
+      "answers": [
+        "portugal"
+      ],
+      "wrong_answers": [
+        "pologne",
+        "panama",
+        "pérou"
+      ]
+    },
+    "5a928f49": {
+      "question": "Dans le surnom économique PIIGS, quel pays représente le G ?",
+      "answers": [
+        "grèce",
+        "grece"
+      ],
+      "wrong_answers": [
+        "géorgie",
+        "groenland",
+        "ghana"
+      ]
+    },
+    "5b5954ef": {
+      "question": "Dans le surnom économique PIIGS, quel pays représente le S ?",
+      "answers": [
+        "espagne",
+        "spain"
+      ],
+      "wrong_answers": [
+        "suède",
+        "serbie",
+        "slovaquie"
+      ]
+    },
+    "c6f59d59": {
+      "question": "Le surnom économique PIIGS contient deux I. Nommez l'un des pays qu'ils représentent.",
+      "answers": [
+        "irlande",
+        "italie"
+      ],
+      "wrong_answers": [
+        "islande",
+        "inde",
+        "israël"
+      ]
+    },
+    "54e97354": {
+      "question": "Dans l'ordre des opérations PEMDAS, que signifie le P ?",
+      "answers": [
+        "parenthèses",
+        "parentheses",
+        "parenthèse"
+      ],
+      "wrong_answers": [
+        "pourcentages",
+        "puissances",
+        "points"
+      ]
+    },
+    "e304f234": {
+      "question": "Dans l'ordre des opérations PEMDAS, que signifie le E ?",
+      "answers": [
+        "exposants",
+        "exponents",
+        "puissances"
+      ],
+      "wrong_answers": [
+        "équations",
+        "estimations",
+        "entiers"
+      ]
+    },
+    "764a0045": {
+      "question": "Dans l'ordre des opérations PEMDAS, que signifie le M ?",
+      "answers": [
+        "multiplication",
+        "multiplier"
+      ],
+      "wrong_answers": [
+        "moins",
+        "médiane",
+        "mesures"
+      ]
+    },
+    "3393ebe6": {
+      "question": "La phrase anglaise 'Please Excuse My Dear Aunt Sally' (PEMDAS) aide à retenir quoi en maths ?",
+      "answers": [
+        "ordre des opérations",
+        "l'ordre des opérations",
+        "priorité des opérations"
+      ],
+      "wrong_answers": [
+        "tables de multiplication",
+        "la division longue",
+        "les fractions"
+      ]
+    },
+    "7e8ea43b": {
+      "question": "Dans l'ordre des opérations PEMDAS, que signifie le D ?",
+      "answers": [
+        "division",
+        "diviser"
+      ],
+      "wrong_answers": [
+        "décimales",
+        "dizaines",
+        "différence"
+      ]
+    },
+    "3366784f": {
+      "question": "Dans l'ordre des opérations PEMDAS, que signifie le A ?",
+      "answers": [
+        "addition",
+        "additionner"
+      ],
+      "wrong_answers": [
+        "aires",
+        "angles",
+        "arrondis"
+      ]
+    },
+    "8aa56e5d": {
+      "question": "Dans l'ordre des opérations PEMDAS, que signifie le S ?",
+      "answers": [
+        "soustraction",
+        "subtraction",
+        "soustraire"
+      ],
+      "wrong_answers": [
+        "sommes",
+        "sinus",
+        "séries"
+      ]
+    },
+    "54eef35f": {
+      "question": "En maths, qu'est-ce qui passe en premier dans l'ordre des opérations : parenthèses ou addition ?",
+      "answers": [
+        "parenthèses",
+        "les parenthèses",
+        "parenthese"
+      ],
+      "wrong_answers": [
+        "addition",
+        "c'est pareil",
+        "ce qui vient en premier"
+      ]
+    },
+    "f1567306": {
+      "wrong_answers": [
+        "oui",
+        "ouais",
+        "bien sûr"
+      ]
+    },
+    "edea41fc": {
+      "wrong_answers": [
+        "oui",
+        "ouais",
+        "bien sûr"
+      ]
+    }
+  },
+  "shorten": {
+    "299 792 458 mètres par seconde": "299 792 458 m/s",
+    "299 millions de mètres par seconde": "299 millions de m/s",
+    "308 215 043 mètres par seconde": "308 215 043 m/s",
+    "751 665 014 151 mètres par seconde": "751 665 014 m/s",
+    "a dit à œdipe qu'il avait épousé sa mère": "a averti œdipe",
+    "abandonner le roi pour une dame": "échanger le roi et la dame",
+    "album débutant rage against the machine": null,
+    "album rage against the machine": null,
+    "après l'épisode 3 et avant l'épisode 4": null,
+    "arène de bataille en ligne multijoueur": "arène de bataille",
+    "assassinat de françois-ferdinand": "mort de françois-ferdinand",
+    "athéna l'a transformé en femme": "athéna l'a changé en femme",
+    "athéna l'a transformé en femme puis de nouveau en homme": "athéna l'a changé en femme",
+    "aveuglé par héra après avoir donné raison à zeus": "aveuglé par héra",
+    "avoir accidentellement envoyé un portail vers la lune": "un portail vers la lune",
+    "blanche-neige et les sept nains": null,
+    "blanche-neige et les sept nains (film)": null,
+    "bulbizarre, salamèche et carapuce": "bulbizarre salamèche carapuce",
+    "bulbizarre, salamèche, carapuce": "bulbizarre salamèche carapuce",
+    "bâtiments abandonnés et centres commerciaux morts": "centres commerciaux morts",
+    "bâtiments vides et centres commerciaux fermés": "bâtiments abandonnés",
+    "centre de contrôle des maladies": null,
+    "chanson here comes santa claus": null,
+    "chef de la majorité à la chambre": "chef de la majorité",
+    "chikorita et héricendre et kaiminus": null,
+    "chikorita, cyndaquil et totodile": "chikorita cyndaquil totodile",
+    "chikorita, héricendre et kaiminus": "germignon héricendre kaiminus",
+    "conjecture birch swinnerton dyer": null,
+    "conjecture de birch et swinnerton-dyer": "birch-swinnerton-dyer",
+    "conjecture de navier (mathématique)": null,
+    "cory et la maison qui rend fou": "cory est dans la place",
+    "déplacer le roi au deuxième coup": "déplacer le roi tôt",
+    "empoisonnement aux roches lunaires": "roches lunaires",
+    "empoisonnement par des roches lunaires": "roches lunaires",
+    "empoisonnement à la roche lunaire": "roche lunaire",
+    "empoisonné par des roches lunaires": "roches lunaires",
+    "enregistre une image dans les photos": "enregistre une photo",
+    "enregistre une image dans photos": "enregistre une photo",
+    "environ 300 000 kilomètres par seconde": "environ 300 000 km/s",
+    "est devenu une femme puis à nouveau un homme": "est devenu une femme",
+    "façades avec fronton triangulaire": "frontons triangulaires",
+    "façades élaborées avec fronton triangulaire": "frontons triangulaires",
+    "fraude comptable et financière": "fraude comptable",
+    "grand theft auto 5 et grand theft auto san andreas": null,
+    "grand theft auto 5 et san andreas": null,
+    "graphiques vectoriels adaptables": null,
+    "green bay packers et pittsburgh steelers": "packers et steelers",
+    "héra l'a aveuglé après qu'il ait donné raison à zeus": "héra l'a aveuglé",
+    "il a dit qu'œdipe avait épousé sa propre mère": "œdipe a épousé sa mère",
+    "il a dit à œdipe qu'il avait épousé sa mère": "il a épousé sa mère",
+    "il a navigué avec les argonautes": "navigué avec les argonautes",
+    "il a navigué avec les argonautes pour trouver la toison d'or": null,
+    "il a révélé qu'œdipe avait épousé sa mère": null,
+    "il est parti avec les argonautes": "parti avec les argonautes",
+    "il n'y a pas de personnages squelettes": "il n'y a pas de squelette",
+    "intoxication par roche lunaire": "roche lunaire",
+    "je suis venu, j'ai vu, j'ai vaincu.": "je suis venu, j'ai vu...",
+    "jeu de tir à la première personne": "jeu de tir",
+    "l'artiste anciennement connu sous le nom de prince": null,
+    "l'espagne n'en faisait pas partie": "sans l'espagne",
+    "l'étrange cas du docteur jekyll et de m. hyde": "docteur jekyll et m. hyde",
+    "la bombe nucléaire de black mesa": "la bombe de black mesa",
+    "la chanson never gonna give you up": null,
+    "la folle journée de ferris bueller": "ferris bueller",
+    "la lune passe devant le soleil": "la lune cache le soleil",
+    "la nouvelle école de l'empereur": "kuzco, l'empereur mégalo",
+    "la poussière bloque la lumière": "la poussière",
+    "le décalage vers le rouge cache les étoiles": "le décalage vers le rouge",
+    "le lion, la sorcière blanche et l'armoire magique": "le monde de narnia",
+    "le nom du personnage principal": "le héros",
+    "les jardins suspendus de babylone": "jardins de babylone",
+    "lieux oubliés et centres commerciaux vides": "lieux oubliés",
+    "livre d'enseignement des ratons laveurs": "livre sur les ratons laveurs",
+    "livre d'entraînement des ratons laveurs": "manuel des ratons laveurs",
+    "livre des voleurs raton laveur": "livre des voleurs",
+    "mille huit cent soixante-douze": null,
+    "mille neuf cent cinquante-sept": null,
+    "mille neuf cent quatre-vingt-deux": null,
+    "mille neuf cent quatre-vingt-dix": null,
+    "mille neuf cent quatre-vingt-dix-huit": null,
+    "mille neuf cent quatre-vingt-dix-neuf": null,
+    "mille neuf cent quatre-vingt-dix-sept": null,
+    "mille neuf cent quatre-vingt-onze": null,
+    "mille neuf cent quatre-vingt-quatre": null,
+    "mille neuf cent quatre-vingt-quinze": null,
+    "mille neuf cent quatre-vingt-seize": null,
+    "mille quatre cent cinquante-trois": null,
+    "monter dessus encore et encore": "monter dessus sans arrêt",
+    "ne tirez pas sur l'oiseau moqueur": "l'oiseau moqueur",
+    "new york giants et new england patriots": null,
+    "nosferatu une symphonie de l'horreur": null,
+    "nosferatu: une symphonie de l'horreur": null,
+    "partenaires de lutte contre le crime": "partenaires contre le crime",
+    "patients atteints de rhumatisme": "patients rhumatisants",
+    "philadelphia eagles et new england patriots": "eagles et patriots",
+    "phosphorylation oxydative (chaine)": null,
+    "phosphorylation oxydative process": null,
+    "première guerre sino-japonaise": "guerre sino-japonaise",
+    "rick est le grand-père de morty": "rick est son grand-père",
+    "rudolphe le renne au nez rouge": "rudolphe",
+    "récif corallien de la mer rouge": "récif de la mer rouge",
+    "s'est transformé en femme puis de nouveau en homme": "changé en femme",
+    "s'est transformé en femme puis à nouveau en homme": "changé en femme",
+    "s'être fait renverser par un camion": "renversé par un camion",
+    "sacrifier le roi pour une dame": "échanger le roi et la dame",
+    "seattle seahawks et denver broncos": "seahawks et broncos",
+    "système anticollision embarqué": "anticollision embarqué",
+    "système d'alerte de proximité du sol": "alerte de proximité du sol",
+    "système d'alerte de trafic et d'évitement de collision": null,
+    "système d'avertissement et de sensibilisation au terrain": "alerte de terrain",
+    "système d'évitement de collision": "évitement de collision",
+    "système d'évitement de collision d'obstacles": "évitement d'obstacles",
+    "système de positionnement global": "positionnement global",
+    "système général de positionnement": "positionnement général",
+    "système mondial de positionnement": "positionnement mondial",
+    "table de craft et pierre taillée": "établi et pierre taillée",
+    "unité de combat en environnement dangereux": null,
+    "unité de contrôle de traitement": "unité de contrôle",
+    "unité de puissance informatique": "unité de puissance",
+    "unité de traitement centralisée": "processeur centralisé",
+    "utilitaire central de programme": "utilitaire central",
+    "utilitaire de traitement central": "utilitaire de traitement",
+    "vingt-quatre mille six cent un": null
+  }
+}

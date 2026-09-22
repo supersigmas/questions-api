@@ -47,15 +47,42 @@
 
 | Field | Rule |
 |-------|------|
-| `answers` | **lowercase**, accepted-answer variants (synonyms, short forms, with/without article). At least one entry. This is what the game checks user input against. |
-| `wrong_answers` | **lowercase** distractors. 4 is the norm (min 3). Must be plausible and clearly wrong. |
+| `answers` | **lowercase**, accepted-answer variants (synonyms, short forms, with/without article). At least one entry. This is what the game checks user input against. Each entry **< 30 characters**. |
+| `wrong_answers` | **lowercase** distractors. 4 is the norm (min 3). Must be plausible and clearly wrong. Each entry **< 30 characters**. |
+| `question` | Natural sentence in the target language, correct punctuation (e.g. French `?` is preceded by a space: `... ?`). **≤ 200 characters**. |
+| `points` | Tied to difficulty — see §4. Same value across all languages. |
 
 > **All answer strings are lowercase** — both `answers` and `wrong_answers`.
 > Do not use Title/proper case in either field (e.g. `"osaka"`, not `"Osaka"`).
 > Non-cased scripts (e.g. Hindi, Russian proper nouns) are written as-is;
 > `str.lower()` is applied uniformly.
-| `question` | Natural sentence in the target language, correct punctuation (e.g. French `?` is preceded by a space: `... ?`). |
-| `points` | Tied to difficulty — see §4. Same value across all languages. |
+
+### Length limits (every language)
+
+| Field | Limit |
+|-------|-------|
+| `question` | ≤ 200 characters |
+| each `answers` entry | < 30 characters (29 max) |
+| each `wrong_answers` entry | < 30 characters (29 max) |
+
+Length is Python `len()` (Unicode code points), so Devanagari/Cyrillic
+combining marks count. The limits apply to **every translation too**, not just
+English — translations usually run longer, so check them separately.
+
+If an answer can't be made short, change the question rather than the answer:
+- **Acronym expansions** (LASER, TARDIS, PEMDAS…) — ask about one letter:
+  *"In the word LASER, what does the L stand for?"* → `light`.
+- **Lists** (5 countries, 3 starters…) — ask for one item: *"In PIIGS, which
+  country does the G stand for?"* → `greece`.
+- **Long titles / phrases** — keep the short, commonly typed form
+  (`"snow white"`, `"moba"`, `"dead malls"`); drop long variants when a short
+  accepted variant exists.
+- **Numbers** — use digits (`1997`, `299,792,458 m/s`), never spelled out.
+- Keep wrong answers the same shape and length as the right one, so length
+  doesn't give the answer away.
+
+If none of that works, **don't add the question** (or delete it in all
+languages).
 
 Translations must be **real translations**, not English copied over. Proper nouns
 that localize should localize (e.g. `Tokyo → Tokio` in de, `токио` in ru;
@@ -150,7 +177,12 @@ embedding check), so a batch can't introduce internal near-duplicates.
   poller writes it concurrently. Use an **atomic replace** (write temp file in
   the same dir, then `os.replace`, retrying on Windows `PermissionError`). Copy
   `_atomic_write_json` from `add_asia_questions.py` / `enrichment._atomic_replace`.
-- Append to `data`; never reorder or rewrite existing entries.
+- Append to `data`; never reorder existing entries.
+- Editing an existing question (e.g. to meet the length limits) is allowed only
+  through a reviewed fix script that **keeps the `id` unchanged** in every
+  language, so translations still join. Such edited questions no longer satisfy
+  `id == md5(english_text)` — that's expected; don't re-hash them.
+  See `shorten_long_answers.py` + `data_fixes/answer_length_<lang>.json`.
 
 ### Recommended flow for a new batch
 1. Author the questions as structured data: for each item, `difficulty`,
@@ -167,8 +199,11 @@ embedding check), so a batch can't introduce internal near-duplicates.
 - [ ] `en, de, es, fr, lt, ru` all have the **same `id` count** (`python verify_parity.py`).
 - [ ] Each new `id` is present in **all 6 active** files.
 - [ ] `answers` **and** `wrong_answers` all lowercase; ≥1 answer, ≥3 wrong.
+- [ ] Every language: `question` ≤ 200 chars, every answer/wrong answer < 30
+      chars (`python shorten_long_answers.py --lang <code>` reports violations
+      in a dry run).
 - [ ] `category` from the allowed set; `difficulty`/`points` consistent (§4).
-- [ ] `id` == md5 of that record's **English** question text.
+- [ ] `id` == md5 of that record's **English** question text (new questions only).
 - [ ] New ids have entries in `embeddings.json`.
 - [ ] No collision at threshold 0.92 was silently written.
 - [ ] Files still valid JSON (`{"data":[...]}`), UTF-8, native scripts intact.

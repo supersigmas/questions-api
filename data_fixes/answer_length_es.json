@@ -1,0 +1,356 @@
+{
+  "rewrite": {
+    "94e22ee6": {
+      "question": "En la serie Doctor Who, ¿qué significa la T de TARDIS?",
+      "answers": [
+        "time",
+        "tiempo"
+      ],
+      "wrong_answers": [
+        "travel",
+        "transport",
+        "temporal"
+      ]
+    },
+    "814c4be8": {
+      "question": "En la serie Doctor Who, ¿qué significa la D de T.A.R.D.I.S.?",
+      "answers": [
+        "dimension",
+        "dimensions",
+        "dimensión"
+      ],
+      "wrong_answers": [
+        "device",
+        "destination",
+        "drive"
+      ]
+    },
+    "286f5af4": {
+      "question": "En informática, ¿qué significa la M de MIDI?",
+      "answers": [
+        "musical",
+        "music",
+        "música"
+      ],
+      "wrong_answers": [
+        "modular",
+        "media",
+        "mechanical"
+      ]
+    },
+    "60bb977e": {
+      "question": "En la palabra LASER, ¿qué significa la L?",
+      "answers": [
+        "light",
+        "luz"
+      ],
+      "wrong_answers": [
+        "lens",
+        "linear",
+        "laser"
+      ]
+    },
+    "636c7673": {
+      "question": "En la palabra LASER, ¿qué significa la R?",
+      "answers": [
+        "radiation",
+        "radiación"
+      ],
+      "wrong_answers": [
+        "radio",
+        "rays",
+        "reflection"
+      ]
+    },
+    "b36bacd3": {
+      "question": "En el apodo económico PIIGS, ¿qué país representa la P?",
+      "answers": [
+        "portugal"
+      ],
+      "wrong_answers": [
+        "polonia",
+        "panamá",
+        "perú"
+      ]
+    },
+    "5a928f49": {
+      "question": "En el apodo económico PIIGS, ¿qué país representa la G?",
+      "answers": [
+        "grecia"
+      ],
+      "wrong_answers": [
+        "georgia",
+        "groenlandia",
+        "ghana"
+      ]
+    },
+    "5b5954ef": {
+      "question": "En el apodo económico PIIGS, ¿qué país representa la S?",
+      "answers": [
+        "españa",
+        "spain"
+      ],
+      "wrong_answers": [
+        "suecia",
+        "serbia",
+        "eslovaquia"
+      ]
+    },
+    "c6f59d59": {
+      "question": "El apodo económico PIIGS tiene dos letras I. Nombra uno de los países que representan.",
+      "answers": [
+        "irlanda",
+        "italia"
+      ],
+      "wrong_answers": [
+        "islandia",
+        "india",
+        "israel"
+      ]
+    },
+    "54e97354": {
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la P?",
+      "answers": [
+        "paréntesis",
+        "parentesis",
+        "parentheses"
+      ],
+      "wrong_answers": [
+        "porcentajes",
+        "potencias",
+        "puntos"
+      ]
+    },
+    "e304f234": {
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la E?",
+      "answers": [
+        "exponentes",
+        "exponents",
+        "potencias"
+      ],
+      "wrong_answers": [
+        "ecuaciones",
+        "estimaciones",
+        "enteros"
+      ]
+    },
+    "764a0045": {
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la M?",
+      "answers": [
+        "multiplicación",
+        "multiplicacion",
+        "multiplicar"
+      ],
+      "wrong_answers": [
+        "menos",
+        "mediana",
+        "medidas"
+      ]
+    },
+    "3393ebe6": {
+      "question": "La frase en inglés 'Please Excuse My Dear Aunt Sally' (PEMDAS) ayuda a recordar ¿qué en matemáticas?",
+      "answers": [
+        "orden de operaciones",
+        "el orden de operaciones",
+        "jerarquía de operaciones"
+      ],
+      "wrong_answers": [
+        "tablas de multiplicar",
+        "la división larga",
+        "las fracciones"
+      ]
+    },
+    "7e8ea43b": {
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la D?",
+      "answers": [
+        "división",
+        "division",
+        "dividir"
+      ],
+      "wrong_answers": [
+        "decimales",
+        "dígitos",
+        "diferencia"
+      ]
+    },
+    "3366784f": {
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la A?",
+      "answers": [
+        "adición",
+        "adicion",
+        "suma"
+      ],
+      "wrong_answers": [
+        "áreas",
+        "ángulos",
+        "aproximación"
+      ]
+    },
+    "8aa56e5d": {
+      "question": "En el orden de operaciones PEMDAS, ¿qué significa la S?",
+      "answers": [
+        "sustracción",
+        "resta",
+        "sustraccion"
+      ],
+      "wrong_answers": [
+        "suma total",
+        "senos",
+        "series"
+      ]
+    },
+    "54eef35f": {
+      "question": "En matemáticas, ¿qué va primero en el orden de operaciones: paréntesis o suma?",
+      "answers": [
+        "paréntesis",
+        "parentesis",
+        "los paréntesis"
+      ],
+      "wrong_answers": [
+        "suma",
+        "son iguales",
+        "lo que esté primero"
+      ]
+    },
+    "8888e532": {
+      "wrong_answers": [
+        "sí",
+        "claro",
+        "por supuesto"
+      ]
+    },
+    "8ed6feb4": {
+      "answers": [
+        "posicionamiento global",
+        "global positioning system",
+        "gps"
+      ]
+    },
+    "ebb4639e": {
+      "answers": [
+        "posicionamiento global",
+        "global positioning system",
+        "gps"
+      ]
+    }
+  },
+  "shorten": {
+    "299 millones de metros por segundo": "299 millones de m/s",
+    "299.792.458 metros por segundo": "299.792.458 m/s",
+    "308.215.043 metros por segundo": "308.215.043 m/s",
+    "751.665.014.151 metros por segundo": "751.665.014 m/s",
+    "alicia en el país de las maravillas": "alicia en el país",
+    "alrededor de 300.000 kilómetros por segundo": "unos 300.000 km/s",
+    "arena de batalla multijugador en línea": "arena de batalla",
+    "asesinato de francisco fernando": "muerte de francisco fernando",
+    "atenea lo convirtió en mujer y luego de nuevo en hombre": "atenea lo volvió mujer",
+    "blanca nieves y los siete enanitos": null,
+    "blancanieves y los siete enanitos": null,
+    "bulbasaur, charmander y squirtle": "bulbasaur charmander squirtle",
+    "canción de hielo y fuego libros": null,
+    "cegado por hera tras darle la razón a zeus": "cegado por hera",
+    "centro de control de enfermedades": null,
+    "centro para el control de enfermedades": null,
+    "charlie y la fábrica de chocolate": "la fábrica de chocolate",
+    "chikorita y cyndaquil y totodile": null,
+    "chikorita, cyndaquil y totodile": "chikorita cyndaquil totodile",
+    "cian, magenta, amarillo, caqui": "cian, magenta, amarillo, ocre",
+    "cian, magenta, amarillo, clave": "cian magenta amarillo clave",
+    "cian, magenta, amarillo, negro": "cian magenta amarillo negro",
+    "compañeros de lucha contra el crimen": "compañeros contra el crimen",
+    "conjetura birch swinnerton dyer": null,
+    "conjetura de birch y swinnerton-dyer": "birch-swinnerton-dyer",
+    "conjetura de navier (matemática)": null,
+    "corea del norte y corea del sur": "las dos coreas",
+    "crema, granate, amarillo, caqui": "crema, granate, ocre, caqui",
+    "crema, granate, amarillo, negro": "crema, granate, ocre, negro",
+    "curar a los compañeros de equipo": "curar al equipo",
+    "después del episodio 3 y antes del 4": null,
+    "donde viven los monstruos libro": null,
+    "edificios abandonados y centros comerciales muertos": "centros comerciales muertos",
+    "edificios vacíos y centros comerciales cerrados": "edificios abandonados",
+    "el artista antes conocido como prince": null,
+    "el corrimiento al rojo oculta las estrellas": "el corrimiento al rojo",
+    "el estado de la estrella solitaria": "la estrella solitaria",
+    "el extraño caso del dr. jekyll y mr. hyde": "dr. jekyll y mr. hyde",
+    "el guerrero de las tierras altas": "el guerrero highlander",
+    "el nombre de una nave espacial": "una nave espacial",
+    "el nombre del personaje principal": "el protagonista",
+    "el señor de los anillos (saga)": null,
+    "envenenamiento por rocas lunares": "rocas lunares",
+    "enviar accidentalmente un portal a la luna": "un portal a la luna",
+    "estudiante de la suerte definitiva": "estudiante con suerte",
+    "estudiante de mala suerte definitivo": "estudiante sin suerte",
+    "fachadas con frontón triangular": "frontones triangulares",
+    "fachadas elaboradas con frontón triangular": "frontones triangulares",
+    "grand theft auto 5 y grand theft auto san andreas": null,
+    "grand theft auto 5 y san andreas": null,
+    "green bay packers y pittsburgh steelers": "packers y steelers",
+    "gráficos vectoriales escalables": null,
+    "hera lo cegó después de que estuvo de acuerdo con zeus": "hera lo cegó",
+    "here comes santa claus canción": null,
+    "jardines colgantes de babilonia": "jardines de babilonia",
+    "la bomba nuclear de black mesa": "la bomba de black mesa",
+    "la canción never gonna give you up": null,
+    "la nueva escuela del emperador": "las locuras del emperador",
+    "la travesía del viajero del alba": "el viajero del alba",
+    "lance el entrenador de dragones": "lance el domador",
+    "le dijo a edipo que se había casado con su madre": "advirtió a edipo",
+    "le dijo que edipo se había casado con su madre": "edipo se casó con su madre",
+    "le dijo que edipo se había casado con su propia madre": null,
+    "le reveló que edipo se casó con su madre": null,
+    "libro de enseñanza de mapaches": "libro sobre mapaches",
+    "libro de entrenamiento de mapaches": "manual de mapaches",
+    "los jardines colgantes de babilonia": "jardines de babilonia",
+    "lugares olvidados y centros comerciales vacíos": "lugares olvidados",
+    "líder de la mayoría en la cámara": "líder de la mayoría",
+    "línea internacional de cambio de fecha": "línea de cambio de fecha",
+    "memoria de acceso aleatorio (ram)": null,
+    "mil cuatrocientos cincuenta y tres": null,
+    "mil novecientos cincuenta y siete": null,
+    "mil novecientos cuarenta y cinco": null,
+    "mil novecientos noventa y cinco": null,
+    "mil novecientos noventa y nueve": null,
+    "mil novecientos noventa y ocho": null,
+    "mil novecientos noventa y seis": null,
+    "mil novecientos noventa y siete": null,
+    "mil novecientos ochenta y cuatro": null,
+    "mil novecientos sesenta y seis": null,
+    "mil novecientos treinta y nueve": null,
+    "mover al rey en la segunda jugada": "mover el rey pronto",
+    "mover el rey en el segundo movimiento": "mover el rey pronto",
+    "navegó con los argonautas para buscar el vellocino de oro": null,
+    "new york giants y new england patriots": null,
+    "no hay personajes esqueléticos": "no hay ningún esqueleto",
+    "nosferatu, una sinfonía del horror": null,
+    "nosferatu: una sinfonía del horror": null,
+    "philadelphia eagles y new england patriots": "eagles y patriots",
+    "puente de almacenamiento universal": "puente universal",
+    "rosh hashaná (año nuevo judío)": "rosh hashaná",
+    "sacrificar al rey por una dama": "cambiar el rey por la dama",
+    "se convirtió en mujer y luego de nuevo en hombre": "se convirtió en mujer",
+    "se convirtió en mujer y volvió a ser hombre": "se convirtió en mujer",
+    "seattle seahawks y denver broncos": "seahawks y broncos",
+    "sistema de advertencia de proximidad al terreno": "alerta de proximidad",
+    "sistema de advertencia y conocimiento del terreno": "alerta de terreno",
+    "sistema de alerta de colisión de tráfico": null,
+    "sistema de alerta de tráfico y evasión de colisiones": null,
+    "sistema de evitación de colisión de obstáculos": "evitación de obstáculos",
+    "sistema de posicionamiento global": null,
+    "sistema de prevención de colisiones": null,
+    "sistema general de posicionamiento": "posicionamiento general",
+    "sistema global de posicionamiento": null,
+    "un instrumento de viento madera": "un instrumento de viento",
+    "un personaje de dibujos animados": "un dibujo animado",
+    "unidad central de procesamiento": "procesador",
+    "unidad de combate en entorno peligroso": null,
+    "unidad de control de procesamiento": "unidad de control",
+    "unidad de potencia de computadora": "unidad de potencia",
+    "unidad de procesamiento centralizado": "procesador centralizado",
+    "unidad de procesamiento gráfico": "tarjeta gráfica",
+    "utilidad de procesamiento central": "utilidad central",
+    "veinticuatro mil seiscientos uno": null,
+    "álbum debut de rage against the machine": null,
+    "álbum rage against the machine": null
+  }
+}

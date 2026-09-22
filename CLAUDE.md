@@ -44,7 +44,8 @@ All endpoints require `Authorization: Bearer my_token` header. Rate limit is 10 
 
 When adding trivia questions (manually or via a batch script), follow
 **`QUESTIONS_AUTHORING.md`** — it defines the record schema, formatting
-conventions, the all-or-nothing language rule (6 active langs: en, de, es, fr,
+conventions, length limits (question ≤ 200 chars, each answer/wrong answer
+< 30 chars, in every language), the all-or-nothing language rule (6 active langs: en, de, es, fr,
 lt, ru; `hi` excluded for now), and the three-layer duplication guard
 (id idempotency + MiniLM semantic dedup at threshold 0.92 + within-batch).
 Run `python verify_parity.py` after any batch to confirm the language files agree.

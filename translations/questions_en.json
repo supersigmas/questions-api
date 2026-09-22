@@ -1304,8 +1304,7 @@
       "points": 1000,
       "language": "en",
       "answers": [
-        "eniac",
-        "electronic numerical integrator and computer"
+        "eniac"
       ],
       "wrong_answers": [
         "colossus",
@@ -15681,7 +15680,6 @@
     {
       "question": "Which country features a maple leaf on its flag?",
       "answers": [
-        "canada",
         "canada"
       ],
       "wrong_answers": [
@@ -15714,7 +15712,6 @@
     {
       "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
       "answers": [
-        "microsoft",
         "microsoft"
       ],
       "wrong_answers": [
@@ -15747,7 +15744,6 @@
     {
       "question": "Which of these characters in \"Stranger Things\" has the power of Telekinesis?",
       "answers": [
-        "eleven",
         "eleven"
       ],
       "wrong_answers": [
@@ -15764,7 +15760,6 @@
     {
       "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
       "answers": [
-        "seinfeld",
         "seinfeld"
       ],
       "wrong_answers": [
@@ -15865,7 +15860,6 @@
     {
       "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
       "answers": [
-        "new zealand",
         "new zealand"
       ],
       "wrong_answers": [
@@ -15948,7 +15942,6 @@
     {
       "question": "Who invented the first ever chocolate bar, in 1847?",
       "answers": [
-        "joseph fry",
         "joseph fry"
       ],
       "wrong_answers": [
@@ -15999,7 +15992,6 @@
     {
       "question": "In golf, what name is given to a hole score of two under par?",
       "answers": [
-        "eagle",
         "eagle"
       ],
       "wrong_answers": [
@@ -16541,12 +16533,10 @@
     {
       "question": "In the second Pokémon games, what are the names of the starter Pokémon?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil, and totodile",
         "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "grassy, firey, watery"
       ],
@@ -16705,7 +16695,6 @@
     {
       "question": "Who is the main hero in the Legend of Zelda games?",
       "answers": [
-        "link",
         "link",
         "the hero link"
       ],
@@ -17027,16 +17016,14 @@
       "id": "d271e27747123d1c3f05368e4c06b4df"
     },
     {
-      "question": "In the show Doctor Who, what does TARDIS stand for?",
+      "question": "In the show Doctor Who, what does the T in TARDIS stand for?",
       "answers": [
-        "time and relative dimension in space",
-        "time and relative dimensions in space",
-        "tardis"
+        "time"
       ],
       "wrong_answers": [
-        "time and resting dimensions in space",
-        "time and relative dimensions in style",
-        "toilet aid rope dog is soup"
+        "travel",
+        "transport",
+        "temporal"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -17446,8 +17433,6 @@
     {
       "question": "What word stands for the letter 'T' in the NATO phonetic alphabet?",
       "answers": [
-        "tango",
-        "tango",
         "tango"
       ],
       "wrong_answers": [
@@ -17919,7 +17904,7 @@
         "candle in the wind '97"
       ],
       "wrong_answers": [
-        "i guess that's why they call it the blues",
+        "i guess that's why",
         "your song",
         "island girl"
       ],
@@ -19062,9 +19047,9 @@
         "find the golden fleece"
       ],
       "wrong_answers": [
-        "turned into a woman and back into a man",
+        "turned into a woman",
         "blinded by hera",
-        "told oedipus he married his mom"
+        "warned oedipus"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19680,7 +19665,7 @@
       "wrong_answers": [
         "infinity on high",
         "21st century breakdown",
-        "no pads, no helmets...just balls"
+        "no pads, no helmets"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -19800,8 +19785,7 @@
       "question": "When does Rogue One: A Star Wars Story happen in the Star Wars timeline?",
       "answers": [
         "between episode 3 and 4",
-        "between episodes 3 and 4",
-        "after episode 3 and before episode 4"
+        "between episodes 3 and 4"
       ],
       "wrong_answers": [
         "after episode 6",
@@ -20214,9 +20198,7 @@
     {
       "question": "What is the system called that helps airplanes avoid crashing into each other?",
       "answers": [
-        "tcas",
-        "traffic collision avoidance system",
-        "traffic alert and collision avoidance system"
+        "tcas"
       ],
       "wrong_answers": [
         "gpws",
@@ -20288,7 +20270,6 @@
     {
       "question": "Foie gras is a fancy French food made from which part of a duck or goose?",
       "answers": [
-        "liver",
         "liver",
         "duck liver",
         "goose liver"
@@ -20543,8 +20524,7 @@
       "question": "Who painted 'Swans Reflecting Elephants', 'Sleep', and 'The Persistence of Memory'?",
       "answers": [
         "salvador dali",
-        "dali",
-        "salvador dali"
+        "dali"
       ],
       "wrong_answers": [
         "jackson pollock",
@@ -20565,7 +20545,7 @@
         "navier's guess"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincare conjecture"
       ],
@@ -21338,7 +21318,7 @@
     {
       "question": "League of Legends, DOTA 2, Smite, and Heroes of the Storm are all part of which type of game?",
       "answers": [
-        "multiplayer online battle arena",
+        "battle arena",
         "moba",
         "m.o.b.a."
       ],
@@ -21397,9 +21377,9 @@
         "the recess song"
       ],
       "wrong_answers": [
-        "all is fair in love and brostep",
+        "all is fair in brostep",
         "rock n roll",
-        "scary monsters and nice sprites"
+        "scary monsters"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -21429,8 +21409,7 @@
       "question": "Who wrote the Sinead O'Connor song 'Nothing Compares 2 U'?",
       "answers": [
         "prince",
-        "prince rogers nelson",
-        "the artist formerly known as prince"
+        "prince rogers nelson"
       ],
       "wrong_answers": [
         "michael jackson",
@@ -21596,7 +21575,7 @@
       ],
       "wrong_answers": [
         "grass and stone",
-        "crafting table and cobblestone",
+        "crafting table and stone",
         "cobblestone and stone"
       ],
       "category": "entertainment",
@@ -21879,7 +21858,6 @@
     {
       "question": "What is the formula for water?",
       "answers": [
-        "h2o",
         "h2o",
         "h20"
       ],
@@ -22897,7 +22875,7 @@
         "moon rock sickness"
       ],
       "wrong_answers": [
-        "accidentally sending a portal to the moon",
+        "a portal to the moon",
         "slipped in the shower",
         "asbestos poisoning"
       ],
@@ -23148,12 +23126,12 @@
         "299792458 meters per second",
         "299,792,458 m/s",
         "299792458 m/s",
-        "about 300,000 kilometers per second"
+        "about 300,000 km/s"
       ],
       "wrong_answers": [
         "50,461 meters per second",
         "308,215,043 meters per second",
-        "751,665,014,151 meters per second"
+        "751,665,014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -23216,16 +23194,15 @@
       "id": "8030087928f7129b2959ad349b7cb25d"
     },
     {
-      "question": "In computers, what does MIDI stand for?",
+      "question": "In computers, what does the M in MIDI stand for?",
       "answers": [
-        "musical instrument digital interface",
-        "musical instrument digital inter",
-        "midi"
+        "musical",
+        "music"
       ],
       "wrong_answers": [
-        "musical interface of digital instruments",
-        "modular interface of digital instruments",
-        "musical instrument data interface"
+        "modular",
+        "media",
+        "mechanical"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -24140,8 +24117,6 @@
       "answers": [
         "lordgenome",
         "lord genome",
-        "lordgenom",
-        "lord genome",
         "lordgenom"
       ],
       "wrong_answers": [
@@ -24195,8 +24170,7 @@
       "question": "In the video game Half-Life, what is the name of the US military group that goes into the Black Mesa Research Facility?",
       "answers": [
         "hecu",
-        "the hecu",
-        "hazardous environment combat unit"
+        "the hecu"
       ],
       "wrong_answers": [
         "navy seals",
@@ -24358,7 +24332,6 @@
       "question": "What is the name of the 1922 movie where Max Schreck plays a famous monster?",
       "answers": [
         "nosferatu",
-        "nosferatu: a symphony of horror",
         "nosferatu the vampire"
       ],
       "wrong_answers": [
@@ -24903,8 +24876,7 @@
       "question": "In My Little Pony, what is Applejack's little sister's name?",
       "answers": [
         "apple bloom",
-        "applebloom",
-        "apple bloom"
+        "applebloom"
       ],
       "wrong_answers": [
         "red delicious",
@@ -26466,9 +26438,9 @@
         "lose a pawn"
       ],
       "wrong_answers": [
-        "sacrificing the king for a queen",
+        "trading the king for a queen",
         "castling kingside",
-        "moving the king on the 2nd move"
+        "moving the king early"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -26861,14 +26833,12 @@
     {
       "question": "What was the name of the cancelled follow-up to Team Fortress?",
       "answers": [
-        "team fortress 2: brotherhood of arms",
-        "tf2: brotherhood of arms",
-        "team fortress 2 brotherhood of arms"
+        "tf2: brotherhood of arms"
       ],
       "wrong_answers": [
-        "team fortress 2: desert mercenaries",
-        "team fortress 2: operation gear grinder",
-        "team fortress 2: return to classic"
+        "tf2: desert mercenaries",
+        "tf2: operation gear grinder",
+        "tf2: return to classic"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -27264,7 +27234,7 @@
       ],
       "wrong_answers": [
         "the neverending story",
-        "charlie and the chocolate factory",
+        "charlie and the chocolate",
         "the cat in the hat"
       ],
       "category": "entertainment",
@@ -27274,16 +27244,14 @@
       "id": "4ebe39601f02598b48b82f52e5ba26b5"
     },
     {
-      "question": "Which European countries are called PIIGS because of their economies?",
+      "question": "In the economic nickname PIIGS, which country does the P stand for?",
       "answers": [
-        "portugal, ireland, italy, greece, spain",
-        "portugal ireland italy greece spain",
-        "portugal, ireland, italy, greece, espana"
+        "portugal"
       ],
       "wrong_answers": [
-        "poland, iceland, italy, greece, serbia",
-        "poland, iceland, italy, greenland, spain",
-        "portugal, iceland, ireland, greece, serbia"
+        "poland",
+        "panama",
+        "peru"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -27511,7 +27479,6 @@
     {
       "question": "What is the name of the first Disney movie?",
       "answers": [
-        "snow white and the seven dwarfs",
         "snow white",
         "snow white & the seven dwarfs",
         "snow white and the 7 dwarfs"
@@ -27901,7 +27868,7 @@
       "wrong_answers": [
         "animal crossing: new leaf",
         "animal crossing: wild world",
-        "animal crossing: population growing"
+        "population growing"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -28583,7 +28550,6 @@
       "question": "Max Schreck, a German silent film actor, plays a famous monster in a 1922 movie. What is the name of this movie?",
       "answers": [
         "nosferatu",
-        "nosferatu: a symphony of horror",
         "nosferatu the vampire"
       ],
       "wrong_answers": [
@@ -29069,16 +29035,15 @@
       "id": "12693a2d6dd62216cfb35c8c20fbd0f4"
     },
     {
-      "question": "In the show Doctor Who, what does T.A.R.D.I.S stand for?",
+      "question": "In the show Doctor Who, what does the D in T.A.R.D.I.S stand for?",
       "answers": [
-        "time and relative dimension in space",
-        "time and relative dimensions in space",
-        "tardis"
+        "dimension",
+        "dimensions"
       ],
       "wrong_answers": [
-        "time and resting dimensions in space",
-        "time and relative dimensions in style",
-        "toilet aid rope dog is soup"
+        "device",
+        "destination",
+        "drive"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -30159,7 +30124,6 @@
       "question": "Who is the only voice actor in every Disney Pixar movie?",
       "answers": [
         "john ratzenberger",
-        "john ratzenberger",
         "j. ratzenberger",
         "ratzenberger"
       ],
@@ -30899,7 +30863,6 @@
       "question": "What is the name of the Greek goddess that a dwarf planet is named after, which caused a debate about Pluto?",
       "answers": [
         "eris",
-        "eris",
         "goddess eris"
       ],
       "wrong_answers": [
@@ -30941,7 +30904,7 @@
       "wrong_answers": [
         "crocodile rock",
         "candle in the wind",
-        "i don't wanna go on with you like that"
+        "i don't wanna go on with you"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -30952,14 +30915,13 @@
     {
       "question": "Which two teams played in Super Bowl 42?",
       "answers": [
-        "new york giants and new england patriots",
         "giants and patriots",
         "ny giants and patriots"
       ],
       "wrong_answers": [
-        "green bay packers and pittsburgh steelers",
-        "philadelphia eagles and new england patriots",
-        "seattle seahawks and denver broncos"
+        "packers and steelers",
+        "eagles and patriots",
+        "seahawks and broncos"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -31006,8 +30968,6 @@
     {
       "question": "Which country stayed out of World War I and was not part of the Central Powers?",
       "answers": [
-        "spain",
-        "spain",
         "spain"
       ],
       "wrong_answers": [
@@ -32003,13 +31963,12 @@
     {
       "question": "What 2016 movie has Superman and Batman fighting?",
       "answers": [
-        "batman v superman: dawn of justice",
         "batman vs superman",
         "batman v superman"
       ],
       "wrong_answers": [
-        "batman v superman: superapocalypse",
-        "batman v superman: black of knight",
+        "superapocalypse",
+        "black knight",
         "batman v superman: knightfall"
       ],
       "category": "entertainment",
@@ -32113,8 +32072,7 @@
       "question": "In the \"Hitman\" games, what is the name of the main character?",
       "answers": [
         "agent 47",
-        "agent forty-seven",
-        "agent 47"
+        "agent forty-seven"
       ],
       "wrong_answers": [
         "agent 27",
@@ -32348,8 +32306,7 @@
       "question": "Cry of Fear, Natural Selection, and Counter-Strike started as mods for which video game?",
       "answers": [
         "half-life",
-        "half life",
-        "half-life"
+        "half life"
       ],
       "wrong_answers": [
         "warcraft 3",
@@ -32371,7 +32328,7 @@
       ],
       "wrong_answers": [
         "i wanna have babies you down",
-        "i would hate being your driver",
+        "i would hate your driver",
         "i would have bought your dog"
       ],
       "category": "entertainment",
@@ -32642,7 +32599,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -33890,7 +33847,7 @@
         "dddcdc"
       ],
       "wrong_answers": [
-        "filthy acts done for a reasonable price",
+        "filthy acts, fair price",
         "civil war",
         "god bless the usa"
       ],
@@ -35790,7 +35747,7 @@
       "wrong_answers": [
         "lohse",
         "the red prince",
-        "there are no skeleton characters"
+        "there is no skeleton"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -36399,8 +36356,6 @@
     {
       "question": "Which Elite Four member from Pokémon X and Y was part of Team Flare?",
       "answers": [
-        "malva",
-        "malva",
         "malva"
       ],
       "wrong_answers": [
@@ -36669,7 +36624,6 @@
     {
       "question": "Who was the Greek and Roman god of music, truth, healing, and the sun?",
       "answers": [
-        "apollo",
         "apollo",
         "god apollo"
       ],
@@ -36977,14 +36931,12 @@
     {
       "question": "What was the name of the cancelled sequel to Team Fortress?",
       "answers": [
-        "team fortress 2 brotherhood of arms",
-        "tf2 brotherhood of arms",
-        "team fortress brotherhood of arms"
+        "tf2 brotherhood of arms"
       ],
       "wrong_answers": [
-        "team fortress 2 desert mercenaries",
-        "team fortress 2 operation gear grinder",
-        "team fortress 2 return to classic"
+        "tf2 desert mercenaries",
+        "tf2 operation gear grinder",
+        "tf2 return to classic"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -38188,8 +38140,7 @@
       "question": "In the TV show \"The Walking Dead,\" what are zombies called?",
       "answers": [
         "walkers",
-        "walker",
-        "walkers"
+        "walker"
       ],
       "wrong_answers": [
         "creepers",
@@ -38809,7 +38760,7 @@
       ],
       "wrong_answers": [
         "heaven on high",
-        "aetherochemical research facility",
+        "aetherochemical facility",
         "sunken temple of qarn"
       ],
       "category": "entertainment",
@@ -38945,16 +38896,14 @@
       "id": "1f43f66517a2b9f159c42dffe80f90e7"
     },
     {
-      "question": "What does the word LASER mean?",
+      "question": "In the word LASER, what does the L stand for?",
       "answers": [
-        "light amplification by stimulated emission of radiation",
-        "light amp by stimulated emission of radiation",
-        "light amplification by stimulated emission"
+        "light"
       ],
       "wrong_answers": [
-        "light analysis by stereo ecorazer",
-        "light amplifier by standby energy of radio",
-        "life antimatter by standing entry of range"
+        "laser",
+        "lens",
+        "linear"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -39531,7 +39480,7 @@
       ],
       "wrong_answers": [
         "the maltese falcon",
-        "the treasure of the sierra madre",
+        "the treasure of sierra madre",
         "citizen kane"
       ],
       "category": "entertainment",
@@ -40262,16 +40211,16 @@
       "id": "890ced464455436a535eb2b21edb3656"
     },
     {
-      "question": "What is the correct order to solve math problems?",
+      "question": "In the math order of operations PEMDAS, what does the P stand for?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "pemdas",
-        "p e m d a s"
+        "parentheses",
+        "parenthesis",
+        "brackets"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, addition, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order in which the operations are written"
+        "percent",
+        "powers",
+        "plus"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -41112,9 +41061,7 @@
     {
       "question": "What is the name of Rage Against the Machine's first album?",
       "answers": [
-        "rage against the machine",
-        "rage against the machine album",
-        "rage against the machine debut"
+        "rage against the machine"
       ],
       "wrong_answers": [
         "evil empire",
@@ -41510,12 +41457,10 @@
     {
       "question": "In Pokémon games, what are the names of the starter Pokémon you can choose in the second generation?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil, and totodile",
-        "chikorita, cyndaquil, totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "grassy, firey, watery"
       ],
@@ -42141,8 +42086,7 @@
       "question": "In the show \"Steins; Gate,\" what household item lets the characters travel through time?",
       "answers": [
         "microwave",
-        "microwave oven",
-        "microwave"
+        "microwave oven"
       ],
       "wrong_answers": [
         "computer",
@@ -42220,7 +42164,7 @@
       "wrong_answers": [
         "50,461 meters per second",
         "308,215,043 meters per second",
-        "751,665,014,151 meters per second"
+        "751,665,014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -42763,7 +42707,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -43428,13 +43372,12 @@
       "question": "Which famous Christmas song was first sung by Gene Autry, 'The Singing Cowboy'?",
       "answers": [
         "here comes santa claus",
-        "here comes santa claus (right down santa claus lane)",
         "here comes santa"
       ],
       "wrong_answers": [
         "white christmas",
         "frosty the snowman",
-        "rudolph the red-nosed reindeer"
+        "rudolph"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -43502,8 +43445,7 @@
       "question": "Who painted the famous artworks with swans, sleep, and melting clocks?",
       "answers": [
         "salvador dali",
-        "dali",
-        "salvador dali"
+        "dali"
       ],
       "wrong_answers": [
         "jackson pollock",
@@ -44376,7 +44318,7 @@
       "wrong_answers": [
         "you'll be in my heart",
         "candle in the wind",
-        "i don't wanna go on with you like that"
+        "i don't wanna go on with you"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -44556,7 +44498,7 @@
         "navier stokes problem"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -44614,7 +44556,7 @@
       "wrong_answers": [
         "50,461 meters per second",
         "308,215,043 meters per second",
-        "751,665,014,151 meters per second"
+        "751,665,014 m/s"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -44911,16 +44853,16 @@
       "id": "46dc23677fa300433853454cd1efbcf6"
     },
     {
-      "question": "What is the correct order of operations for solving math problems, known as PEMDAS?",
+      "question": "In the math order of operations PEMDAS, what does the E stand for?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "parentheses exponents multiplication division addition subtraction",
-        "pemdas"
+        "exponents",
+        "exponent",
+        "powers"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order they appear in the problem"
+        "equals",
+        "equations",
+        "estimates"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -45588,7 +45530,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -46160,8 +46102,7 @@
       "question": "Which Grand Theft Auto games happen in the made-up state of San Andreas?",
       "answers": [
         "gta v and gta san andreas",
-        "gta 5 and gta san andreas",
-        "grand theft auto 5 and san andreas"
+        "gta 5 and gta san andreas"
       ],
       "wrong_answers": [
         "gta v and gta vice city",
@@ -46214,8 +46155,7 @@
       "question": "What instrument does Sting from The Police mainly play?",
       "answers": [
         "bass guitar",
-        "bass",
-        "bass guitar"
+        "bass"
       ],
       "wrong_answers": [
         "drums",
@@ -46357,16 +46297,14 @@
       "id": "5ccfd2736ec66fdc45f0c0a31b6b53d9"
     },
     {
-      "question": "The nickname PIIGS refers to the economies of which European countries?",
+      "question": "In the economic nickname PIIGS, which country does the G stand for?",
       "answers": [
-        "portugal, ireland, italy, greece, spain",
-        "portugal ireland italy greece spain",
-        "p.i.i.g.s countries"
+        "greece"
       ],
       "wrong_answers": [
-        "poland, iceland, italy, greece, serbia",
-        "poland, iceland, italy, greenland, spain",
-        "portugal, iceland, ireland, greece, serbia"
+        "germany",
+        "georgia",
+        "greenland"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -46485,8 +46423,6 @@
     {
       "question": "Which country next to the Democratic Republic of The Congo is famous for its animals and parks?",
       "answers": [
-        "zambia",
-        "zambia",
         "zambia"
       ],
       "wrong_answers": [
@@ -46521,8 +46457,6 @@
     {
       "question": "What do people in Poland call their country?",
       "answers": [
-        "polska",
-        "polska",
         "polska"
       ],
       "wrong_answers": [
@@ -46772,16 +46706,15 @@
       "id": "61b2cdff4af240620a99001933893fd0"
     },
     {
-      "question": "What is the correct order of operations in math?",
+      "question": "In the math order of operations PEMDAS, what does the M stand for?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "pemdas",
-        "p e m d a s"
+        "multiplication",
+        "multiply"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, addition, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order in which the operations are written"
+        "minus",
+        "median",
+        "measurement"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -47072,9 +47005,9 @@
         "pawn sacrifice"
       ],
       "wrong_answers": [
-        "giving up the king for a queen",
+        "trading the king for a queen",
         "moving the king to the side",
-        "moving the king on the second move"
+        "moving the king early"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -47181,8 +47114,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "advanced dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -47698,13 +47631,13 @@
     {
       "question": "What did Tiresias tell Oedipus in Greek stories?",
       "answers": [
-        "he told oedipus he married his mother",
-        "he revealed oedipus married his mom",
-        "he said oedipus married his own mom"
+        "he married his mother",
+        "oedipus married his mom",
+        "he married his own mom"
       ],
       "wrong_answers": [
         "he sailed with the argonauts",
-        "athena turned him into a woman",
+        "athena made him a woman",
         "hera blinded him"
       ],
       "category": "history",
@@ -48204,7 +48137,6 @@
       "question": "Who did Lil A work with in music?",
       "answers": [
         "lil fortnite",
-        "lil fortnite",
         "fortnite"
       ],
       "wrong_answers": [
@@ -48564,12 +48496,10 @@
     {
       "question": "In Pokémon Gold and Silver, what are the names of the starter Pokémon you can choose?",
       "answers": [
-        "chikorita, cyndaquil, totodile",
-        "chikorita, cyndaquil, and totodile",
         "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, mudkip",
         "grassy, firey, watery"
       ],
@@ -48822,7 +48752,7 @@
       ],
       "wrong_answers": [
         "decorated ceilings",
-        "fancy fronts with a triangle top",
+        "triangle-topped fronts",
         "painted walls"
       ],
       "category": "art",
@@ -49218,7 +49148,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -49556,7 +49486,6 @@
     {
       "question": "Who has Lil A worked with, famous for popular songs?",
       "answers": [
-        "lil fortnite",
         "lil fortnite",
         "fortnite"
       ],
@@ -51622,7 +51551,7 @@
         "navier's conjecture"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -52328,7 +52257,7 @@
         "navier's guess"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer guess",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré guess"
       ],
@@ -52889,7 +52818,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -52990,16 +52919,16 @@
       "id": "4f27cfb2ae5596e724fd466609e40070"
     },
     {
-      "question": "What does PEMDAS stand for in math?",
+      "question": "The phrase 'Please Excuse My Dear Aunt Sally' (PEMDAS) helps you remember what in math?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "p, e, m, d, a, s",
-        "please excuse my dear aunt sally"
+        "order of operations",
+        "the order of operations",
+        "operation order"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order they are written"
+        "multiplication table",
+        "long division",
+        "fractions"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -53587,8 +53516,7 @@
       "question": "In the game Half-Life, who is the final enemy boss?",
       "answers": [
         "nihilanth",
-        "the nihilanth",
-        "nihilanth"
+        "the nihilanth"
       ],
       "wrong_answers": [
         "dr. breen",
@@ -53681,9 +53609,9 @@
         "went with the argonauts"
       ],
       "wrong_answers": [
-        "became a woman and then a man again",
+        "became a woman",
         "was blinded by hera",
-        "told oedipus he married his mom"
+        "warned oedipus"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -53916,7 +53844,7 @@
       ],
       "wrong_answers": [
         "i wanna have babies you down",
-        "i would hate being your driver",
+        "i would hate your driver",
         "i would have bought your dog"
       ],
       "category": "entertainment",
@@ -54038,15 +53966,14 @@
     {
       "question": "What is the name of the system that helps planes avoid hitting each other?",
       "answers": [
-        "traffic collision avoidance system",
         "tcas",
         "collision avoidance system",
         "traffic avoidance system"
       ],
       "wrong_answers": [
-        "ground proximity warning system",
-        "obstacle collision avoidance system",
-        "terrain awareness and warning system"
+        "gpws",
+        "obstacle avoidance system",
+        "terrain warning system"
       ],
       "category": "technology",
       "difficulty": "easy",
@@ -54188,7 +54115,7 @@
         "the navier conjecture"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -54730,7 +54657,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -55048,16 +54975,14 @@
       "id": "e10c655ec25c2d9aa056b0447639e221"
     },
     {
-      "question": "What does LASER stand for?",
+      "question": "In the word LASER, what does the R stand for?",
       "answers": [
-        "light amplification by stimulated emission of radiation",
-        "light amp by stimulated emission of radiation",
-        "light amp by stimulated emission"
+        "radiation"
       ],
       "wrong_answers": [
-        "light analysis by stereo ecorazer",
-        "light amplifier by standby energy of radio",
-        "life antimatter by standing entry of range"
+        "radio",
+        "rays",
+        "reflection"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -55195,7 +55120,6 @@
       "question": "In the game Half-Life, what is the name of the military group that comes to Black Mesa?",
       "answers": [
         "hecu",
-        "hazardous environment combat unit",
         "hazardous environment unit"
       ],
       "wrong_answers": [
@@ -55632,7 +55556,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -55825,8 +55749,6 @@
     {
       "question": "What was Ash's second Pokémon after Pikachu?",
       "answers": [
-        "caterpie",
-        "caterpie",
         "caterpie"
       ],
       "wrong_answers": [
@@ -56339,7 +56261,6 @@
         "19",
         "twenty-one",
         "twenty five",
-        "twenty-one",
         "twenty-five"
       ],
       "wrong_answers": [
@@ -57041,8 +56962,7 @@
       "question": "What is the name of a group that sounds like a real one on the periodic table but isn't?",
       "answers": [
         "florines",
-        "flourines",
-        "florines"
+        "flourines"
       ],
       "wrong_answers": [
         "alkali metals",
@@ -57264,7 +57184,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -57855,8 +57775,7 @@
       "question": "Which artist has Lil A worked with, known for a stage name like a popular video game?",
       "answers": [
         "lil fortnite",
-        "fortnite",
-        "lil fortnite"
+        "fortnite"
       ],
       "wrong_answers": [
         "lil pump",
@@ -57933,7 +57852,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -57978,16 +57897,15 @@
       "id": "ee4e957e74d9c2c751825a7cb4f326ef"
     },
     {
-      "question": "What is the order to solve math problems using operations?",
+      "question": "In the math order of operations PEMDAS, what does the D stand for?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "pemdas",
-        "p e m d a s"
+        "division",
+        "divide"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, addition, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order in which the operations are written"
+        "decimals",
+        "digits",
+        "difference"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -58158,16 +58076,14 @@
       "id": "0a49fb4915a7cd6ea040283e752d59c0"
     },
     {
-      "question": "What countries are called PIIGS because of their economies?",
+      "question": "In the economic nickname PIIGS, which country does the S stand for?",
       "answers": [
-        "portugal, ireland, italy, greece, spain",
-        "portugal ireland italy greece spain",
-        "portugal, ireland, italy, greece and spain"
+        "spain"
       ],
       "wrong_answers": [
-        "poland, iceland, italy, greece, serbia",
-        "poland, iceland, italy, greenland, spain",
-        "portugal, iceland, ireland, greece, serbia"
+        "sweden",
+        "serbia",
+        "slovakia"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -58194,16 +58110,15 @@
       "id": "71e74f45ab5f9918ee3d53114d9eca7a"
     },
     {
-      "question": "What countries does the acronym PIIGS stand for because of their economies?",
+      "question": "The economic nickname PIIGS has two I's. Name one of the countries they stand for.",
       "answers": [
-        "portugal, ireland, italy, greece, spain",
-        "portugal ireland italy greece spain",
-        "p.i.i.g.s countries"
+        "ireland",
+        "italy"
       ],
       "wrong_answers": [
-        "poland, iceland, italy, greece, serbia",
-        "poland, iceland, italy, greenland, spain",
-        "portugal, iceland, ireland, greece, serbia"
+        "iceland",
+        "india",
+        "israel"
       ],
       "category": "geography",
       "difficulty": "easy",
@@ -58221,7 +58136,7 @@
       "wrong_answers": [
         "advanced dungeons & dragons",
         "dungeons & dragons 3.5",
-        "advanced dungeons & dragons 2nd edition"
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -58446,16 +58361,15 @@
       "id": "2588d811a0fab50ef929df4145120bd3"
     },
     {
-      "question": "What is the order of operations in math using the letters PEMDAS?",
+      "question": "In the math order of operations PEMDAS, what does the A stand for?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "parentheses exponents multiplication division addition subtraction",
-        "pemdas"
+        "addition",
+        "add"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, addition, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order in which the operations are written"
+        "average",
+        "area",
+        "angles"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -58556,8 +58470,6 @@
     {
       "question": "Where were the 2020 Summer Olympics held?",
       "answers": [
-        "japan",
-        "japan",
         "japan"
       ],
       "wrong_answers": [
@@ -58592,14 +58504,13 @@
     {
       "question": "Which two teams played in the Super Bowl in 2008?",
       "answers": [
-        "new york giants and new england patriots",
         "giants and patriots",
         "ny giants and patriots"
       ],
       "wrong_answers": [
-        "green bay packers and pittsburgh steelers",
-        "philadelphia eagles and new england patriots",
-        "seattle seahawks and denver broncos"
+        "packers and steelers",
+        "eagles and patriots",
+        "seahawks and broncos"
       ],
       "category": "sports",
       "difficulty": "easy",
@@ -59460,8 +59371,7 @@
       "question": "Which country has the Union Jack on its flag and is in the southwestern Pacific Ocean?",
       "answers": [
         "new zealand",
-        "nz",
-        "new zealand"
+        "nz"
       ],
       "wrong_answers": [
         "south africa",
@@ -60526,12 +60436,10 @@
     {
       "question": "In the second Pokémon games, what starter Pokémon can you choose?",
       "answers": [
-        "chikorita, cyndaquil, and totodile",
-        "chikorita cyndaquil totodile",
-        "chikorita and cyndaquil and totodile"
+        "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, and squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, and mudkip",
         "grassy, firey, and watery"
       ],
@@ -60817,12 +60725,11 @@
       "question": "Which book by Maurice Sendak is he most famous for?",
       "answers": [
         "where the wild things are",
-        "wild things",
-        "where the wild things are book"
+        "wild things"
       ],
       "wrong_answers": [
         "the neverending story",
-        "charlie and the chocolate factory",
+        "charlie and the chocolate",
         "the cat in the hat"
       ],
       "category": "entertainment",
@@ -60871,8 +60778,7 @@
       "question": "Which GTA games take place in San Andreas?",
       "answers": [
         "gta v and gta san andreas",
-        "gta 5 and gta san andreas",
-        "grand theft auto 5 and grand theft auto san andreas"
+        "gta 5 and gta san andreas"
       ],
       "wrong_answers": [
         "gta v and gta vice city",
@@ -60893,7 +60799,7 @@
         "navier"
       ],
       "wrong_answers": [
-        "birch and swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "riemann hypothesis",
         "poincaré conjecture"
       ],
@@ -62005,16 +61911,16 @@
       "id": "4854d99a5e08992cc6c2fca4e4088145"
     },
     {
-      "question": "What is the order you do math steps to solve problems?",
+      "question": "In math, which comes first in the order of operations: parentheses or addition?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "pemdas",
-        "parentheses, exponents, multiply, divide, add, subtract"
+        "parentheses",
+        "parenthesis",
+        "brackets"
       ],
       "wrong_answers": [
-        "add, multiply, divide, subtract, add, parentheses",
-        "parentheses, exponents, add, subtract, multiply, divide",
-        "the order they are written"
+        "addition",
+        "they are equal",
+        "whichever is first"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -62249,9 +62155,9 @@
         "went with the argonauts"
       ],
       "wrong_answers": [
-        "turned into a woman and then back into a man",
-        "blinded by hera after agreeing with zeus",
-        "told oedipus he married his mom"
+        "turned into a woman",
+        "blinded by hera",
+        "warned oedipus"
       ],
       "category": "history",
       "difficulty": "easy",
@@ -62624,9 +62530,7 @@
     {
       "question": "What Christmas song did Gene Autry record first?",
       "answers": [
-        "rudolph the red-nosed reindeer",
-        "rudolph",
-        "rudolph the red nosed reindeer"
+        "rudolph"
       ],
       "wrong_answers": [
         "frosty the snowman",
@@ -62702,8 +62606,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "d&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -63364,9 +63268,9 @@
     {
       "question": "What do Dan Bell's films usually focus on?",
       "answers": [
-        "abandoned buildings and dead malls",
-        "empty buildings and closed malls",
-        "forgotten places and empty malls"
+        "dead malls",
+        "abandoned buildings",
+        "abandoned places"
       ],
       "wrong_answers": [
         "historic landmarks",
@@ -63531,9 +63435,9 @@
         "joined the argonauts"
       ],
       "wrong_answers": [
-        "athena turned him into a woman and then back into a man",
-        "hera blinded him after he agreed with zeus",
-        "told oedipus he married his mom"
+        "athena made him a woman",
+        "hera blinded him",
+        "warned oedipus"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -63634,14 +63538,13 @@
     {
       "question": "Which story about Tiresias is not true about his adventures with the Argonauts?",
       "answers": [
-        "sailed with the argonauts to find the golden fleece",
         "went with the argonauts",
         "joined the argonauts"
       ],
       "wrong_answers": [
-        "athena turned him into a woman and then back into a man",
-        "hera blinded him after he agreed with zeus",
-        "told oedipus he married his mother"
+        "athena made him a woman",
+        "hera blinded him",
+        "warned oedipus"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -64434,7 +64337,7 @@
         "dirty deeds ddc"
       ],
       "wrong_answers": [
-        "filthy acts done for a reasonable price",
+        "filthy acts, fair price",
         "civil war",
         "god bless the usa"
       ],
@@ -64828,8 +64731,7 @@
     {
       "question": "Which of these is a famous math problem called a Millennium Prize Problem?",
       "answers": [
-        "birch and swinnerton-dyer conjecture",
-        "birch-swinnerton-dyer conjecture",
+        "birch-swinnerton-dyer",
         "bsd conjecture"
       ],
       "wrong_answers": [
@@ -65175,7 +65077,7 @@
         "giving up a pawn"
       ],
       "wrong_answers": [
-        "giving up the king for a queen",
+        "trading the king for a queen",
         "castling on the king's side",
         "moving the king early"
       ],
@@ -65315,8 +65217,7 @@
       "question": "Which song is sung by Tom Jones?",
       "answers": [
         "it's not unusual",
-        "its not unusual",
-        "it's not unusual"
+        "its not unusual"
       ],
       "wrong_answers": [
         "never gonna give you up",
@@ -67005,7 +66906,7 @@
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "here comes santa claus"
       ],
       "category": "entertainment",
@@ -67219,9 +67120,8 @@
     {
       "question": "League of Legends, DOTA 2, and Smite are part of which game type?",
       "answers": [
-        "multiplayer online battle arena",
-        "moba",
-        "multiplayer online battle arenas"
+        "battle arena",
+        "moba"
       ],
       "wrong_answers": [
         "real time strategy",
@@ -67369,7 +67269,7 @@
       ],
       "wrong_answers": [
         "grass and stone",
-        "crafting table and cobblestone",
+        "crafting table and stone",
         "cobblestone and stone"
       ],
       "category": "entertainment",
@@ -67401,12 +67301,11 @@
       "question": "Which classic Christmas song did Gene Autry first record, not counting 'White Christmas'?",
       "answers": [
         "here comes santa claus",
-        "here comes santa",
-        "here comes santa claus (right down santa claus lane)"
+        "here comes santa"
       ],
       "wrong_answers": [
         "frosty the snowman",
-        "rudolph the red-nosed reindeer",
+        "rudolph",
         "jingle bells"
       ],
       "category": "entertainment",
@@ -67984,7 +67883,7 @@
       ],
       "wrong_answers": [
         "he sailed with the argonauts",
-        "athena turned him into a woman",
+        "athena made him a woman",
         "hera blinded him"
       ],
       "category": "history",
@@ -68032,8 +67931,6 @@
     {
       "question": "Who has Lil A worked with, famous for their special style and music?",
       "answers": [
-        "lil fortnite",
-        "lil fortnite",
         "lil fortnite"
       ],
       "wrong_answers": [
@@ -68122,7 +68019,6 @@
     {
       "question": "What is the name of the first Disney movie from 1937?",
       "answers": [
-        "snow white and the seven dwarfs",
         "snow white",
         "snow white & the seven dwarfs"
       ],
@@ -68165,7 +68061,7 @@
       "wrong_answers": [
         "lohse",
         "the red prince",
-        "there are no skeleton characters"
+        "there is no skeleton"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -68398,8 +68294,8 @@
       ],
       "wrong_answers": [
         "advanced dungeons & dragons",
-        "dungeons & dragons 3.5 edition",
-        "advanced dungeons & dragons 2nd edition"
+        "dungeons & dragons 3.5",
+        "ad&d 2nd edition"
       ],
       "category": "entertainment",
       "difficulty": "easy",
@@ -68447,8 +68343,7 @@
       "question": "What is the next word in the song title \"Don't Fear The\" by Blue Oyster Cult?",
       "answers": [
         "reaper",
-        "the reaper",
-        "reaper"
+        "the reaper"
       ],
       "wrong_answers": [
         "dark",
@@ -68502,7 +68397,6 @@
       "answers": [
         "switzerland",
         "swiss",
-        "switzerland",
         "swissland"
       ],
       "wrong_answers": [
@@ -68760,8 +68654,7 @@
       "question": "Which country did not take sides in World War I and was not part of the Central Powers?",
       "answers": [
         "spain",
-        "españa",
-        "spain"
+        "españa"
       ],
       "wrong_answers": [
         "austria-hungary",
@@ -68816,7 +68709,6 @@
         "louis",
         "zoey",
         "bill",
-        "louis",
         "zoe",
         "william"
       ],
@@ -68995,16 +68887,15 @@
       "id": "d284c8a81a164eef87eba9806f9f7014"
     },
     {
-      "question": "What does the order of operations acronym PEMDAS stand for?",
+      "question": "In the math order of operations PEMDAS, what does the S stand for?",
       "answers": [
-        "parentheses, exponents, multiplication, division, addition, subtraction",
-        "parentheses exponents multiplication division addition subtraction",
-        "p e m d a s"
+        "subtraction",
+        "subtract"
       ],
       "wrong_answers": [
-        "addition, multiplication, division, subtraction, addition, parentheses",
-        "parentheses, exponents, addition, subtraction, multiplication, division",
-        "the order in which the operations are written"
+        "squares",
+        "sum",
+        "square roots"
       ],
       "category": "science",
       "difficulty": "easy",
@@ -69234,12 +69125,10 @@
     {
       "question": "Which Pokémon can you start with in the second Pokémon games?",
       "answers": [
-        "chikorita, cyndaquil, and totodile",
-        "chikorita, cyndaquil, totodile",
         "chikorita cyndaquil totodile"
       ],
       "wrong_answers": [
-        "bulbasaur, charmander, and squirtle",
+        "bulbasaur charmander squirtle",
         "treecko, torchic, and mudkip",
         "grassy, firey, and watery"
       ],
@@ -69288,7 +69177,6 @@
     {
       "question": "What is the name of the Greek goddess used for the dwarf planet that caused Pluto to lose its planet status?",
       "answers": [
-        "eris",
         "eris",
         "goddess eris"
       ],
@@ -71979,7 +71867,7 @@
       "question": "What happens during a solar eclipse?",
       "answers": [
         "the moon blocks the sun",
-        "moon passes in front of the sun"
+        "moon covers the sun"
       ],
       "wrong_answers": [
         "the earth blocks the sun",
