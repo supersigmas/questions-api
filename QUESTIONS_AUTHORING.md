@@ -112,7 +112,7 @@ Run `python verify_parity.py` after a batch to confirm the 6 active files agree.
 **Allowed `category`** (use an existing one unless the user explicitly asks for a new category):
 
 ```
-art, asia, entertainment, food, gaming, general, geography, history,
+art, asia, entertainment, food, gaming, general, geography, halloween, history,
 literature, lithuania, math, movies, nature, science, sports, technology
 ```
 

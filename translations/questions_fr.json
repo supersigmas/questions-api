@@ -71900,6 +71900,1823 @@
       "difficulty": "easy",
       "points": 700,
       "language": "fr"
+    },
+    {
+      "id": "7039a5dc1d945ac9b86537306e0705fb",
+      "question": "Que sculpte-t-on traditionnellement pour faire une lanterne d'Halloween ?",
+      "answers": [
+        "citrouille",
+        "une citrouille"
+      ],
+      "wrong_answers": [
+        "pastèque",
+        "pomme",
+        "noix de coco",
+        "chou"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f6e0031f4fd5a1b2bffa8b7710001883",
+      "question": "À quelle date fête-t-on Halloween ?",
+      "answers": [
+        "31 octobre",
+        "le 31 octobre"
+      ],
+      "wrong_answers": [
+        "13 octobre",
+        "1er novembre",
+        "30 octobre",
+        "31 décembre"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "613b5276552f09e0f00322e92789d30b",
+      "question": "Que récoltent surtout les enfants quand ils font du porte-à-porte à Halloween ?",
+      "answers": [
+        "des bonbons",
+        "bonbons",
+        "friandises"
+      ],
+      "wrong_answers": [
+        "des pièces",
+        "des jouets",
+        "des fleurs",
+        "des autocollants"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "9ad1fbef41339bab21b26136e117422d",
+      "question": "Quel mammifère volant nocturne est un symbole classique d'Halloween ?",
+      "answers": [
+        "chauve-souris",
+        "la chauve-souris"
+      ],
+      "wrong_answers": [
+        "hibou",
+        "corneille",
+        "papillon de nuit",
+        "corbeau"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "cd64d233fcc147aa77eb125fa80fc762",
+      "question": "Quelle couleur est traditionnellement associée à l'orange pour Halloween ?",
+      "answers": [
+        "noir",
+        "le noir"
+      ],
+      "wrong_answers": [
+        "vert",
+        "bleu",
+        "rose",
+        "blanc"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "5ce11335a12de98ecd7919710022b6ce",
+      "question": "Quelle créature mythique se transforme en loup les soirs de pleine lune ?",
+      "answers": [
+        "loup-garou",
+        "le loup-garou"
+      ],
+      "wrong_answers": [
+        "vampire",
+        "zombie",
+        "momie",
+        "goule"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "7dc2d8459af2690dcdda5daeec5bcbad",
+      "question": "Que boivent les vampires, selon la légende ?",
+      "answers": [
+        "du sang",
+        "sang"
+      ],
+      "wrong_answers": [
+        "du lait",
+        "du vin",
+        "de l'eau",
+        "du thé"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f8c6c7a65fb80f24b561d5d72f9c875b",
+      "question": "Sur quoi une sorcière vole-t-elle traditionnellement dans le ciel nocturne ?",
+      "answers": [
+        "balai",
+        "un balai"
+      ],
+      "wrong_answers": [
+        "tapis volant",
+        "nuage",
+        "dragon",
+        "cheval"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "b43682729a25ffac71d458e7305aa30a",
+      "question": "Quel monstre est généralement représenté entouré de bandelettes de la tête aux pieds ?",
+      "answers": [
+        "momie",
+        "la momie"
+      ],
+      "wrong_answers": [
+        "zombie",
+        "fantôme",
+        "vampire",
+        "loup-garou"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "98fba805e07283e9fc35fce871197ff0",
+      "question": "Quel animal, surtout s'il est noir, est le compagnon classique d'une sorcière ?",
+      "answers": [
+        "chat",
+        "le chat",
+        "chat noir"
+      ],
+      "wrong_answers": [
+        "chien",
+        "lapin",
+        "souris",
+        "cheval"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "3769942485c0aebc908d38b87784e5d4",
+      "question": "Dans quel grand récipient une sorcière prépare-t-elle traditionnellement ses potions ?",
+      "answers": [
+        "chaudron",
+        "un chaudron"
+      ],
+      "wrong_answers": [
+        "théière",
+        "seau",
+        "poêle",
+        "tonneau"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "75db48fcc2fefcce498652d215f0432c",
+      "question": "Dans le conte 'Hansel et Gretel', en quoi est faite la maison de la sorcière ?",
+      "answers": [
+        "pain d'épices",
+        "bonbons",
+        "friandises",
+        "gâteau"
+      ],
+      "wrong_answers": [
+        "paille",
+        "briques",
+        "glace",
+        "pierre"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f2a6fa68d4773a3572a5657afad32d7f",
+      "question": "Comment s'appelle le célèbre gentil fantôme de dessin animé ?",
+      "answers": [
+        "casper"
+      ],
+      "wrong_answers": [
+        "slimer",
+        "boo",
+        "blinky",
+        "spooky"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "28f559119b9d7fe2e8844295c120270a",
+      "question": "Qui est le 'Roi des citrouilles' dans 'L'Étrange Noël de monsieur Jack' ?",
+      "answers": [
+        "jack skellington",
+        "jack"
+      ],
+      "wrong_answers": [
+        "oogie boogie",
+        "sally",
+        "zéro",
+        "am"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "1deda3877426b77171a071f9b3c43624",
+      "question": "Qui a écrit le roman 'Dracula' paru en 1897 ?",
+      "answers": [
+        "bram stoker",
+        "stoker"
+      ],
+      "wrong_answers": [
+        "mary shelley",
+        "edgar allan poe",
+        "stephen king",
+        "h. p. lovecraft"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "11596cf84a14fd47727fc270ce0a89ce",
+      "question": "Dans quelle région de Roumanie Bram Stoker situe-t-il le château du comte Dracula ?",
+      "answers": [
+        "transylvanie",
+        "la transylvanie"
+      ],
+      "wrong_answers": [
+        "valachie",
+        "moldavie",
+        "bavière",
+        "bohême"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "64999d6ad2cc3b21b65fe251ddbe9415",
+      "question": "Qui a écrit le célèbre poème sombre 'Le Corbeau' ?",
+      "answers": [
+        "edgar allan poe",
+        "poe",
+        "edgar poe"
+      ],
+      "wrong_answers": [
+        "bram stoker",
+        "mary shelley",
+        "stephen king",
+        "charles dickens"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "61183a443ec04968c56d55af28d4e907",
+      "question": "Quel film d'horreur de 1978 a introduit le tueur masqué Michael Myers ?",
+      "answers": [
+        "halloween"
+      ],
+      "wrong_answers": [
+        "scream",
+        "vendredi 13",
+        "shining",
+        "psychose"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "7110cb92f48592c3dfbc75ed14b64a77",
+      "question": "Dans quel clip de Michael Jackson danse-t-il avec des zombies ?",
+      "answers": [
+        "thriller"
+      ],
+      "wrong_answers": [
+        "beat it",
+        "bad",
+        "billie jean",
+        "smooth criminal"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "4f7f4701f745692c043c78504fbb124b",
+      "question": "Quelle comédie de 1984 demande 'Who you gonna call?' ?",
+      "answers": [
+        "s.o.s. fantômes",
+        "sos fantômes",
+        "ghostbusters"
+      ],
+      "wrong_answers": [
+        "gremlins",
+        "beetlejuice",
+        "poltergeist",
+        "les goonies"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "46a3e26212b4895a001f921af8c126c2",
+      "question": "Comment s'appelle le fantôme vert et visqueux de 'S.O.S. Fantômes' ?",
+      "answers": [
+        "slimer",
+        "bouffe-tout"
+      ],
+      "wrong_answers": [
+        "casper",
+        "stay puft",
+        "zuul",
+        "blinky"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "7d4e4d92c80eeaac06686a34383d207c",
+      "question": "Quel film de Tim Burton de 1988 met en scène un fantôme 'bio-exorciste' farceur ?",
+      "answers": [
+        "beetlejuice"
+      ],
+      "wrong_answers": [
+        "edward aux mains d'argent",
+        "s.o.s. fantômes",
+        "gremlins",
+        "batman"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ed5e287bd65114498bb31ac42b845f1d",
+      "question": "Combien de fois faut-il dire 'Beetlejuice' pour l'invoquer ?",
+      "answers": [
+        "3",
+        "trois"
+      ],
+      "wrong_answers": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "e8efbf416d7ad346c79a4a2ba8628474",
+      "question": "Combien y a-t-il de sœurs Sanderson dans 'Hocus Pocus' ?",
+      "answers": [
+        "3",
+        "trois"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "04145edd6be3ce3d1b710b32bf7980c7",
+      "question": "Dans 'La Famille Addams', comment s'appelle la main sans corps ?",
+      "answers": [
+        "la chose",
+        "chose",
+        "thing"
+      ],
+      "wrong_answers": [
+        "max",
+        "cousin machin",
+        "fétide",
+        "pugsley"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "88e2ad56adbd317b4da7c915c5096241",
+      "question": "Comment s'appelle la fille lugubre de 'La Famille Addams' ?",
+      "answers": [
+        "mercredi",
+        "wednesday"
+      ],
+      "wrong_answers": [
+        "morticia",
+        "sabrina",
+        "lily",
+        "elvira"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "22d8df76f881c80fecd6620ece7b8af1",
+      "question": "Quel méchant de 'Vendredi 13' porte un masque de hockey ?",
+      "answers": [
+        "jason",
+        "jason voorhees"
+      ],
+      "wrong_answers": [
+        "freddy krueger",
+        "michael myers",
+        "leatherface",
+        "chucky"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "6243e06d321e50b5688510be77ba31f9",
+      "question": "Quel méchant de film d'horreur porte un gant muni de lames tranchantes ?",
+      "answers": [
+        "freddy krueger",
+        "freddy"
+      ],
+      "wrong_answers": [
+        "jason voorhees",
+        "michael myers",
+        "chucky",
+        "ghostface"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "2063f00da41a7e388de3d04e60d5779c",
+      "question": "Comment s'appelle la poupée tueuse de la saga 'Jeu d'enfant' ?",
+      "answers": [
+        "chucky"
+      ],
+      "wrong_answers": [
+        "annabelle",
+        "slappy",
+        "billy",
+        "m3gan"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "34710c3b9380271f55cf9c14a4bc6f69",
+      "question": "Dans quel roman de Stephen King apparaît le clown maléfique Pennywise ?",
+      "answers": [
+        "ça",
+        "it"
+      ],
+      "wrong_answers": [
+        "carrie",
+        "misery",
+        "cujo",
+        "shining"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "b694805f78edb650fbc6b40d7da8faa0",
+      "question": "Que tient le clown Pennywise pour attirer les enfants ?",
+      "answers": [
+        "ballon rouge",
+        "un ballon",
+        "ballon"
+      ],
+      "wrong_answers": [
+        "sucette",
+        "parapluie",
+        "ours en peluche",
+        "cerf-volant"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "504e9931a11f50c5c3db581c546abbd4",
+      "question": "Quel fruit essaie-t-on d'attraper avec les dents lors d'un jeu classique des fêtes d'Halloween ?",
+      "answers": [
+        "pomme",
+        "pommes",
+        "la pomme"
+      ],
+      "wrong_answers": [
+        "orange",
+        "poire",
+        "prune",
+        "banane"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ca9579f5617fcc4c7494bfeb6a20f928",
+      "question": "Quelle confiserie tricolore en forme de grain de maïs est très populaire à Halloween aux États-Unis ?",
+      "answers": [
+        "candy corn",
+        "maïs bonbon"
+      ],
+      "wrong_answers": [
+        "dragibus",
+        "oursons en gélatine",
+        "réglisse",
+        "guimauves"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f6af520a8257fead2d8ecbd3f40bd048",
+      "question": "Que place-t-on traditionnellement dans une citrouille sculptée pour la faire briller ?",
+      "answers": [
+        "bougie",
+        "une bougie"
+      ],
+      "wrong_answers": [
+        "lampe de poche",
+        "luciole",
+        "bâton lumineux",
+        "ampoule"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "3f73b6cbb7794340f7c5dc6336dc2129",
+      "question": "Selon le folklore, quel bulbe à l'odeur forte éloigne les vampires ?",
+      "answers": [
+        "ail",
+        "l'ail"
+      ],
+      "wrong_answers": [
+        "oignon",
+        "gingembre",
+        "poireau",
+        "échalote"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "344443e0bbb9ac579e2ff49c86ab2d30",
+      "question": "Selon la légende, dans quoi un vampire ne peut-il pas voir son reflet ?",
+      "answers": [
+        "miroir",
+        "dans un miroir",
+        "le miroir"
+      ],
+      "wrong_answers": [
+        "bougie",
+        "livre",
+        "horloge",
+        "tableau"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "5b482f31869fdbcd652d1f49b4a5e32c",
+      "question": "Quel objet en bois, planté dans le cœur, tuerait un vampire ?",
+      "answers": [
+        "pieu",
+        "un pieu"
+      ],
+      "wrong_answers": [
+        "cuillère",
+        "flèche",
+        "clou",
+        "massue"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "c363ae63bc5ac9e6ae5812055fe2ad22",
+      "question": "Les balles de quel métal tueraient les loups-garous ?",
+      "answers": [
+        "argent",
+        "en argent"
+      ],
+      "wrong_answers": [
+        "or",
+        "fer",
+        "cuivre",
+        "plomb"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ce485469127c5c84d43b2bc741c870c9",
+      "question": "Quelle créature est un cadavre réanimé avide de cerveaux ?",
+      "answers": [
+        "zombie",
+        "un zombie"
+      ],
+      "wrong_answers": [
+        "vampire",
+        "fantôme",
+        "loup-garou",
+        "lutin"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "51793efd70787ce3ec182a37cd673d88",
+      "question": "Quelle civilisation antique est la plus célèbre pour avoir momifié ses morts ?",
+      "answers": [
+        "égypte",
+        "l'égypte",
+        "les égyptiens",
+        "égypte antique"
+      ],
+      "wrong_answers": [
+        "rome",
+        "la grèce",
+        "les vikings",
+        "les aztèques"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "1d62299950e6dd709ec70123a2e4ee81",
+      "question": "Quelle figure rembourrée de paille place-t-on dans les champs pour effrayer les oiseaux ?",
+      "answers": [
+        "épouvantail",
+        "un épouvantail"
+      ],
+      "wrong_answers": [
+        "bonhomme de neige",
+        "nain de jardin",
+        "totem",
+        "mannequin"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "f386554a49ade4d842baef2e14bfc2e4",
+      "question": "Dans quelle sphère de verre une voyante regarde-t-elle pour voir l'avenir ?",
+      "answers": [
+        "boule de cristal",
+        "une boule de cristal"
+      ],
+      "wrong_answers": [
+        "boule à neige",
+        "bille",
+        "bocal à poisson",
+        "lanterne"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "5ddad12e006d8fa829b3aa0d8e9e8df4",
+      "question": "Selon la superstition, quel animal porte malheur s'il croise votre chemin ?",
+      "answers": [
+        "chat noir",
+        "un chat noir"
+      ],
+      "wrong_answers": [
+        "chien blanc",
+        "renard roux",
+        "lapin brun",
+        "souris grise"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "7b6baeb6b4be3fbe14b0fa3412eb5ab2",
+      "question": "Selon la superstition, combien d'années de malheur suivent un miroir brisé ?",
+      "answers": [
+        "7",
+        "sept"
+      ],
+      "wrong_answers": [
+        "3",
+        "5",
+        "10",
+        "13"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "402caea8f67be1830a16b66490abdd50",
+      "question": "Dans 'L'Étrange Noël de monsieur Jack', quelle fête Jack tente-t-il de s'approprier ?",
+      "answers": [
+        "noël"
+      ],
+      "wrong_answers": [
+        "pâques",
+        "thanksgiving",
+        "la saint-valentin",
+        "nouvel an"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "d89a287fa81cf274552b1ca2b5aa6f4e",
+      "question": "Quel film Pixar de 2017 se déroule pendant le Jour des morts au Mexique ?",
+      "answers": [
+        "coco"
+      ],
+      "wrong_answers": [
+        "encanto",
+        "luca",
+        "là-haut",
+        "soul"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "0b3ff0832b630390ec971d183e8e6a7c",
+      "question": "Dans 'Hôtel Transylvanie', quel monstre célèbre dirige l'hôtel ?",
+      "answers": [
+        "dracula",
+        "le comte dracula"
+      ],
+      "wrong_answers": [
+        "frankenstein",
+        "la momie",
+        "un loup-garou",
+        "l'homme invisible"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "35d64fc1cd658882d6f2b01a727e5211",
+      "question": "Dans 'Monstres & Cie', que récoltent les monstres auprès des enfants pour alimenter leur ville ?",
+      "answers": [
+        "cris",
+        "les cris",
+        "des cris"
+      ],
+      "wrong_answers": [
+        "larmes",
+        "ronflements",
+        "rêves",
+        "dents"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "5d6b63c409f72cf8c36a4f7b5433b869",
+      "question": "Dans 'Monstres & Cie', quel surnom Sulli donne-t-il à la petite fille ?",
+      "answers": [
+        "bouh",
+        "boo"
+      ],
+      "wrong_answers": [
+        "lily",
+        "dot",
+        "rose",
+        "kitty"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ddd7e18bd67fe4bbcc9b57324741d3fd",
+      "question": "Dans 'Scooby-Doo', comment s'appelle le van de la bande ?",
+      "answers": [
+        "la mystery machine",
+        "mystery machine",
+        "la machine à mystères"
+      ],
+      "wrong_answers": [
+        "la fantômobile",
+        "le bus hanté",
+        "le monster truck",
+        "la cluemobile"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "28b349a021fe979158938f49faaa09e8",
+      "question": "De quelle race est le chien Scooby-Doo ?",
+      "answers": [
+        "dogue allemand",
+        "danois",
+        "grand danois"
+      ],
+      "wrong_answers": [
+        "beagle",
+        "boxer",
+        "labrador",
+        "saint-bernard"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "90f97adce64ede51a8f502e40d5188cb",
+      "question": "Dans 'Peanuts', quel personnage attend toute la nuit d'Halloween la Grande Citrouille ?",
+      "answers": [
+        "linus",
+        "linus van pelt"
+      ],
+      "wrong_answers": [
+        "snoopy",
+        "charlie brown",
+        "lucy",
+        "schroeder"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "875d3c35bee86125a49e0d87a6485410",
+      "question": "Dans 'Macbeth' de Shakespeare, combien de sorcières prédisent l'avenir de Macbeth ?",
+      "answers": [
+        "3",
+        "trois"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "b286314bc87c445d2b677b80ec7996b4",
+      "question": "Dans 'Le Magicien d'Oz', qu'est-ce qui fait fondre la Méchante Sorcière de l'Ouest ?",
+      "answers": [
+        "l'eau",
+        "eau",
+        "un seau d'eau"
+      ],
+      "wrong_answers": [
+        "le feu",
+        "le soleil",
+        "le sel",
+        "le lait"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "5e8db991f94e45bb6d7f596a896d27e1",
+      "question": "Quel livre de Roald Dahl parle de sorcières qui veulent changer les enfants en souris ?",
+      "answers": [
+        "sacrées sorcières",
+        "les sorcières"
+      ],
+      "wrong_answers": [
+        "matilda",
+        "le bon gros géant",
+        "les deux gredins",
+        "danny"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ca58d799980a045439b2b64c589e369c",
+      "question": "Qu'utilisent principalement les chauves-souris pour se repérer dans le noir ?",
+      "answers": [
+        "écholocalisation",
+        "l'écholocalisation",
+        "ultrasons"
+      ],
+      "wrong_answers": [
+        "l'odorat",
+        "le magnétisme",
+        "la lumière des étoiles",
+        "la chaleur"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "8263f82ad95439a92462d15a76c797fd",
+      "question": "Quelle boisson automnale au café Starbucks a-t-il lancée en 2003 ?",
+      "answers": [
+        "pumpkin spice latte",
+        "psl",
+        "latte à la citrouille"
+      ],
+      "wrong_answers": [
+        "caramel macchiato",
+        "flat white",
+        "moka",
+        "chai latte"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "ea7376bc03db89444c632be17bfc6205",
+      "question": "Quel oiseau nocturne peut tourner la tête d'environ 270 degrés ?",
+      "answers": [
+        "hibou",
+        "chouette",
+        "le hibou"
+      ],
+      "wrong_answers": [
+        "faucon",
+        "corneille",
+        "perroquet",
+        "aigle"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "fr"
+    },
+    {
+      "id": "d205f8e2e3081e25be1183b59d54763b",
+      "question": "De quelle ancienne fête celtique Halloween serait-il issu ?",
+      "answers": [
+        "samhain"
+      ],
+      "wrong_answers": [
+        "beltane",
+        "yule",
+        "imbolc",
+        "lugnasad"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "deaee1ca2cc8ac1432ce93c52914f057",
+      "question": "Dans quel pays les traditions d'Halloween sont-elles en grande partie nées ?",
+      "answers": [
+        "irlande",
+        "l'irlande"
+      ],
+      "wrong_answers": [
+        "états-unis",
+        "angleterre",
+        "mexique",
+        "allemagne"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "cee5f53736a3ffcc045bb9678689b32a",
+      "question": "Comment s'appelle la fête mexicaine de début novembre qui honore les proches disparus ?",
+      "answers": [
+        "jour des morts",
+        "le jour des morts",
+        "día de muertos"
+      ],
+      "wrong_answers": [
+        "cinco de mayo",
+        "las posadas",
+        "carnaval",
+        "chandeleur"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "c07ba0b51c264814f310b8fb012a3e49",
+      "question": "Comment s'appelle le chien fantôme de Jack dans 'L'Étrange Noël de monsieur Jack' ?",
+      "answers": [
+        "zéro",
+        "zero"
+      ],
+      "wrong_answers": [
+        "sparky",
+        "os",
+        "tache",
+        "casper"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "6bfd2e54da9bb25c23c27ae586cf1045",
+      "question": "Dans le roman de Mary Shelley, quel est le prénom du savant Frankenstein ?",
+      "answers": [
+        "victor"
+      ],
+      "wrong_answers": [
+        "igor",
+        "william",
+        "albert",
+        "edgar"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "a53fbef810b78eb6b8abf0d8d9320f75",
+      "question": "Dans 'La Légende de Sleepy Hollow', que lance le Cavalier sans tête sur Ichabod Crane ?",
+      "answers": [
+        "citrouille",
+        "une citrouille"
+      ],
+      "wrong_answers": [
+        "pierre",
+        "hache",
+        "lanterne",
+        "crâne"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "54674913940bca827948b91eb83a376d",
+      "question": "Dans 'Le Corbeau' d'Edgar Allan Poe, quel mot le corbeau répète-t-il ?",
+      "answers": [
+        "jamais plus",
+        "nevermore"
+      ],
+      "wrong_answers": [
+        "toujours",
+        "adieu",
+        "demain",
+        "lénore"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "ec599fed754b264d4d174eb18c95a6fb",
+      "question": "Quelle chanson humoristique de 1962 de Bobby 'Boris' Pickett est un classique des fêtes d'Halloween ?",
+      "answers": [
+        "monster mash",
+        "the monster mash"
+      ],
+      "wrong_answers": [
+        "thriller",
+        "ghostbusters",
+        "the time warp",
+        "purple people eater"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2a53e694f6f04ba0dbdcbdfe81d97bdf",
+      "question": "Dans 'S.O.S. Fantômes' (1984), quel monstre géant piétine New York lors du final ?",
+      "answers": [
+        "bibendum chamallow",
+        "stay puft",
+        "marshmallow man"
+      ],
+      "wrong_answers": [
+        "slimer",
+        "zuul",
+        "godzilla",
+        "vigo"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "63f17318327d4792ef36082504fd6765",
+      "question": "Avant les citrouilles, quel légume-racine les Irlandais creusaient-ils pour en faire des lanternes ?",
+      "answers": [
+        "navet",
+        "le navet",
+        "rutabaga"
+      ],
+      "wrong_answers": [
+        "pomme de terre",
+        "betterave",
+        "carotte",
+        "oignon"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "b74281ef170c17ebc152dab535093125",
+      "question": "Dans la légende irlandaise, quel surnom porte l'homme qui a donné son nom à la citrouille-lanterne ?",
+      "answers": [
+        "stingy jack",
+        "jack le radin",
+        "jack l'avare"
+      ],
+      "wrong_answers": [
+        "jack le sauteur",
+        "jack le paresseux",
+        "jack le joyeux",
+        "jack le noir"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "88ec6deb849866774eb4084a7e2b4ee5",
+      "question": "Comment appelle-t-on la peur d'Halloween ?",
+      "answers": [
+        "samhainophobie"
+      ],
+      "wrong_answers": [
+        "arachnophobie",
+        "claustrophobie",
+        "coulrophobie",
+        "nyctophobie"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "fr"
+    },
+    {
+      "id": "ea5e4c44766e4fa0b30b61d0eed34c08",
+      "question": "Comment appelle-t-on un groupe de sorcières ?",
+      "answers": [
+        "un covent",
+        "covent",
+        "coven",
+        "un cercle"
+      ],
+      "wrong_answers": [
+        "une volée",
+        "une meute",
+        "un essaim",
+        "un troupeau"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "436564b5b2bcedd8b4f422102da5b5df",
+      "question": "Quelle araignée venimeuse est connue pour la tache rouge en forme de sablier sur son ventre ?",
+      "answers": [
+        "veuve noire",
+        "la veuve noire"
+      ],
+      "wrong_answers": [
+        "tarentule",
+        "araignée-loup",
+        "recluse brune",
+        "araignée chasseuse"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "6592a494365009c249d9cb7adda20daa",
+      "question": "Les citrouilles appartiennent à la même famille de plantes que lequel de ces légumes ?",
+      "answers": [
+        "concombre",
+        "le concombre"
+      ],
+      "wrong_answers": [
+        "pomme de terre",
+        "carotte",
+        "tomate",
+        "oignon"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "4bc47ec6422d2388e7d78a38349b64c9",
+      "question": "Quel État américain cultive le plus de citrouilles ?",
+      "answers": [
+        "illinois",
+        "l'illinois"
+      ],
+      "wrong_answers": [
+        "californie",
+        "texas",
+        "ohio",
+        "floride"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "fr"
+    },
+    {
+      "id": "7e1a85357f6b999372aa43a5a499e8fb",
+      "question": "Quelle fleur orange vif décore les autels lors du Jour des morts au Mexique ?",
+      "answers": [
+        "œillet d'inde",
+        "tagète",
+        "souci",
+        "rose d'inde"
+      ],
+      "wrong_answers": [
+        "rose",
+        "tulipe",
+        "lys",
+        "tournesol"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "7e45b7c800c19a6b40455e75f03ca35c",
+      "question": "Dans quel film d'horreur d'Alfred Hitchcock apparaît le motel Bates ?",
+      "answers": [
+        "psychose"
+      ],
+      "wrong_answers": [
+        "les oiseaux",
+        "sueurs froides",
+        "fenêtre sur cour",
+        "rebecca"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "48ba5283830e1d2e121ff1f023cb321b",
+      "question": "Quel film d'horreur de 1973 raconte l'histoire d'une fillette possédée par le démon Pazuzu ?",
+      "answers": [
+        "l'exorciste",
+        "exorciste"
+      ],
+      "wrong_answers": [
+        "la malédiction",
+        "carrie",
+        "poltergeist",
+        "rosemary's baby"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "f753f5d9cce3562e67cd24d4a72b8379",
+      "question": "Dans 'Shining', comment s'appelle l'hôtel hanté ?",
+      "answers": [
+        "overlook hotel",
+        "l'overlook",
+        "overlook"
+      ],
+      "wrong_answers": [
+        "motel bates",
+        "grand budapest",
+        "continental",
+        "hotel california"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d169cbe3c618673261d0be6bf2adea39",
+      "question": "Quel film de 1984 interdit de nourrir ses créatures après minuit ?",
+      "answers": [
+        "gremlins"
+      ],
+      "wrong_answers": [
+        "critters",
+        "s.o.s. fantômes",
+        "les goonies",
+        "e.t."
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "e7ad34399a888edfe33b63c5bdb65294",
+      "question": "Dans le film 'Coraline', qu'a l'Autre Mère à la place des yeux ?",
+      "answers": [
+        "des boutons",
+        "boutons",
+        "boutons noirs"
+      ],
+      "wrong_answers": [
+        "des pièces",
+        "des billes",
+        "des perles",
+        "des pierres"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "5e577c3a967f2805cd1ba506ed57ded5",
+      "question": "Le 'Frankenstein' de Mary Shelley a pour sous-titre 'Le ... moderne'. Quel nom manque ?",
+      "answers": [
+        "prométhée"
+      ],
+      "wrong_answers": [
+        "hercule",
+        "icare",
+        "zeus",
+        "ulysse"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0c1f2932308b00be2c00fdab278caaf0",
+      "question": "Dans 'Dracula' de Bram Stoker, quel professeur néerlandais mène la traque du comte ?",
+      "answers": [
+        "van helsing",
+        "abraham van helsing"
+      ],
+      "wrong_answers": [
+        "dr jekyll",
+        "dr moreau",
+        "sherlock holmes",
+        "dr frankenstein"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "ef4f27bc438fd17ebf02d92eec247d48",
+      "question": "Dans le récit de Robert Louis Stevenson, comment s'appelle le double maléfique du Dr Jekyll ?",
+      "answers": [
+        "mr hyde",
+        "m. hyde",
+        "hyde"
+      ],
+      "wrong_answers": [
+        "mr smith",
+        "mr hood",
+        "mr jones",
+        "mr grey"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "0bf35c25ba860b8b6a624d3f5f9de524",
+      "question": "Dans 'Harry Potter à l'école des sorciers', quelle créature s'échappe dans Poudlard le soir d'Halloween ?",
+      "answers": [
+        "troll",
+        "un troll",
+        "troll des montagnes"
+      ],
+      "wrong_answers": [
+        "dragon",
+        "basilic",
+        "loup-garou",
+        "araignée géante"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "d2b8bfa674c3fcdd233360dd1bddc35b",
+      "question": "Quel est le surnom du fantôme de la maison Gryffondor dans 'Harry Potter' ?",
+      "answers": [
+        "nick quasi-sans-tête",
+        "nick"
+      ],
+      "wrong_answers": [
+        "le baron sanglant",
+        "le moine gras",
+        "mimi geignarde",
+        "la dame grise"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "09a966196c1b039569d8c64d4044af31",
+      "question": "Quel monstre classique Boris Karloff a-t-il incarné dans le film de James Whale de 1931 ?",
+      "answers": [
+        "la créature de frankenstein",
+        "frankenstein",
+        "la créature"
+      ],
+      "wrong_answers": [
+        "dracula",
+        "le loup-garou",
+        "l'homme invisible",
+        "le fantôme"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "8d5cd0f9cf4c5c46a02ec2e70d9073f3",
+      "question": "Quel acteur d'origine hongroise a joué le comte Dracula dans le film Universal de 1931 ?",
+      "answers": [
+        "bela lugosi",
+        "lugosi"
+      ],
+      "wrong_answers": [
+        "boris karloff",
+        "lon chaney",
+        "vincent price",
+        "peter lorre"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "8105927c9795f12f6eb28de22261b39c",
+      "question": "Quel film muet allemand de 1922 met en scène le vampire comte Orlok ?",
+      "answers": [
+        "nosferatu"
+      ],
+      "wrong_answers": [
+        "metropolis",
+        "faust",
+        "le golem",
+        "dr caligari"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "ecac0d06ef09d895d71f7e42f9ba4f76",
+      "question": "Quelle légende du cinéma d'horreur récite le rap de 'Thriller' de Michael Jackson ?",
+      "answers": [
+        "vincent price",
+        "price"
+      ],
+      "wrong_answers": [
+        "boris karloff",
+        "bela lugosi",
+        "christopher lee",
+        "peter cushing"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "fr"
+    },
+    {
+      "id": "4d915bb18f0f9323c278ea23fdceda36",
+      "question": "Qui a chanté le tube du générique de 'S.O.S. Fantômes' en 1984 ?",
+      "answers": [
+        "ray parker jr.",
+        "ray parker jr",
+        "ray parker"
+      ],
+      "wrong_answers": [
+        "huey lewis",
+        "lionel richie",
+        "phil collins",
+        "prince"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "a3a0482dc5ad728ecb36b89f3bddeb0a",
+      "question": "Quelle actrice a joué Laurie Strode dans 'Halloween' (1978) de John Carpenter ?",
+      "answers": [
+        "jamie lee curtis",
+        "curtis"
+      ],
+      "wrong_answers": [
+        "sigourney weaver",
+        "neve campbell",
+        "drew barrymore",
+        "sissy spacek"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "34f32a2278a095804a5e76d13c508a1a",
+      "question": "Comment s'appelle le tueur masqué des films 'Scream' ?",
+      "answers": [
+        "ghostface",
+        "ghost face"
+      ],
+      "wrong_answers": [
+        "jigsaw",
+        "leatherface",
+        "pinhead",
+        "candyman"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "6c5ff6fc39f8bc73e581d0723abeb994",
+      "question": "Quelle saga d'horreur met en scène une marionnette inquiétante nommée Billy sur un tricycle ?",
+      "answers": [
+        "saw"
+      ],
+      "wrong_answers": [
+        "scream",
+        "conjuring",
+        "insidious",
+        "annabelle"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "70f63261834c0a5aabe6e8caa1efdc3d",
+      "question": "Quel célèbre artiste de l'évasion est mort le jour d'Halloween 1926 ?",
+      "answers": [
+        "harry houdini",
+        "houdini"
+      ],
+      "wrong_answers": [
+        "david copperfield",
+        "harry blackstone",
+        "howard thurston",
+        "chung ling soo"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "90bb645c079fe5881ff2bbde197f102a",
+      "question": "Quel roman Orson Welles a-t-il adapté dans sa célèbre émission radio de la veille d'Halloween 1938 ?",
+      "answers": [
+        "la guerre des mondes",
+        "guerre des mondes"
+      ],
+      "wrong_answers": [
+        "la machine temporelle",
+        "dracula",
+        "frankenstein",
+        "l'homme invisible"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "b042068e73a8bce32588dc8f4d7c8b8a",
+      "question": "Dans quel État américain se sont déroulés les procès des sorcières de Salem ?",
+      "answers": [
+        "massachusetts",
+        "le massachusetts"
+      ],
+      "wrong_answers": [
+        "virginie",
+        "new york",
+        "connecticut",
+        "pennsylvanie"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "da1f09938015836dff7bdaf3b5c4ffd0",
+      "question": "En quelle année ont commencé les procès des sorcières de Salem ?",
+      "answers": [
+        "1692"
+      ],
+      "wrong_answers": [
+        "1620",
+        "1776",
+        "1588",
+        "1812"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "fr"
+    },
+    {
+      "id": "89527be614e5b2b9fe867edd0623edc7",
+      "question": "Quelle pièce d'Arthur Miller se déroule pendant les procès des sorcières de Salem ?",
+      "answers": [
+        "les sorcières de salem",
+        "the crucible"
+      ],
+      "wrong_answers": [
+        "mort d'un commis voyageur",
+        "ils étaient tous mes fils",
+        "vu du pont",
+        "notre petite ville"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "2b0652f59706389acd9864d7958fe637",
+      "question": "Quelle méchante de Disney se transforme en dragon dans 'La Belle au bois dormant' ?",
+      "answers": [
+        "maléfique"
+      ],
+      "wrong_answers": [
+        "ursula",
+        "cruella",
+        "jafar",
+        "la méchante reine"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
+    },
+    {
+      "id": "c1f290f596978125ed51b4a9551c7f58",
+      "question": "Dans 'L'Étrange Noël de monsieur Jack', comment s'appelle la ville où vit Jack ?",
+      "answers": [
+        "halloween town",
+        "halloweenville",
+        "la ville d'halloween"
+      ],
+      "wrong_answers": [
+        "noëlville",
+        "la ville hantée",
+        "cauchemarville",
+        "citrouilleville"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "fr"
     }
   ]
 }
