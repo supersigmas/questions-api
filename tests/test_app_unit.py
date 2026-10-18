@@ -123,3 +123,40 @@ def test_load_questions_missing_file_returns_empty(tmp_path, monkeypatch):
     monkeypatch.chdir(tmp_path)
     _seed(tmp_path)
     assert app._load_questions("de") == []
+
+
+CATEGORY_FIXTURE = [
+    {"question": f"Q{i}", "answers": ["a"], "wrong_answers": ["b"],
+     "category": cat, "difficulty": "easy", "points": 700, "language": "en"}
+    for i, cat in enumerate(["geography", "science", "math", "art", "sports",
+                             "history", "movies", "halloween"])
+]
+
+
+@pytest.mark.parametrize("month,day,expected", [
+    (10, 24, False), (10, 25, True), (10, 31, True),
+    (11, 5, True), (11, 6, False), (7, 1, False),
+])
+def test_is_halloween_season_bounds(client, month, day, expected):
+    from datetime import date
+    _, app_module = client
+    assert app_module._is_halloween_season(date(2026, month, day)) is expected
+
+
+def test_categories_always_include_halloween_in_season(client):
+    test_client, app_module = client
+    with patch.object(app_module, "_load_questions", return_value=CATEGORY_FIXTURE), \
+         patch.object(app_module, "_is_halloween_season", return_value=True):
+        for _ in range(8):  # stay under the 10/min rate limit
+            cats = test_client.get("/categories", headers=AUTH).get_json()["categories"]
+            assert len(cats) == 4 and len(set(cats)) == 4
+            assert cats.count("halloween") == 1
+
+
+def test_categories_not_forced_out_of_season(client):
+    test_client, app_module = client
+    with patch.object(app_module, "_load_questions", return_value=CATEGORY_FIXTURE), \
+         patch.object(app_module, "_is_halloween_season", return_value=False), \
+         patch.object(app_module.random, "shuffle", lambda x: None):
+        cats = test_client.get("/categories", headers=AUTH).get_json()["categories"]
+    assert cats == ["geography", "science", "math", "art"]
