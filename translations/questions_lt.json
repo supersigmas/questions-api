@@ -71759,6 +71759,1829 @@
       "difficulty": "easy",
       "points": 700,
       "language": "lt"
+    },
+    {
+      "id": "7039a5dc1d945ac9b86537306e0705fb",
+      "question": "Kas tradiciškai išskaptuojamas Helovino žibintui?",
+      "answers": [
+        "moliūgas"
+      ],
+      "wrong_answers": [
+        "arbūzas",
+        "obuolys",
+        "kokosas",
+        "kopūstas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f6e0031f4fd5a1b2bffa8b7710001883",
+      "question": "Kurią dieną švenčiamas Helovinas?",
+      "answers": [
+        "spalio 31",
+        "spalio 31 d.",
+        "spalio 31-ąją"
+      ],
+      "wrong_answers": [
+        "spalio 13",
+        "lapkričio 1",
+        "spalio 30",
+        "gruodžio 31"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "613b5276552f09e0f00322e92789d30b",
+      "question": "Ką vaikai daugiausia renka, Helovino vakarą eidami nuo durų prie durų?",
+      "answers": [
+        "saldainius",
+        "saldainiai",
+        "saldumynus"
+      ],
+      "wrong_answers": [
+        "monetas",
+        "žaislus",
+        "gėles",
+        "lipdukus"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "9ad1fbef41339bab21b26136e117422d",
+      "question": "Koks naktinis skraidantis žinduolis yra klasikinis Helovino simbolis?",
+      "answers": [
+        "šikšnosparnis"
+      ],
+      "wrong_answers": [
+        "pelėda",
+        "varna",
+        "kandis",
+        "varnas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "cd64d233fcc147aa77eb125fa80fc762",
+      "question": "Kokia spalva kartu su oranžine tradiciškai yra Helovino spalva?",
+      "answers": [
+        "juoda"
+      ],
+      "wrong_answers": [
+        "žalia",
+        "mėlyna",
+        "rožinė",
+        "balta"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5ce11335a12de98ecd7919710022b6ce",
+      "question": "Kuri mitinė būtybė per pilnatį virsta vilku?",
+      "answers": [
+        "vilkolakis"
+      ],
+      "wrong_answers": [
+        "vampyras",
+        "zombis",
+        "mumija",
+        "vaiduoklis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "7dc2d8459af2690dcdda5daeec5bcbad",
+      "question": "Ką, kaip žinoma, geria vampyrai?",
+      "answers": [
+        "kraują",
+        "kraujas"
+      ],
+      "wrong_answers": [
+        "pieną",
+        "vyną",
+        "vandenį",
+        "arbatą"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f8c6c7a65fb80f24b561d5d72f9c875b",
+      "question": "Kuo ragana tradiciškai skraido naktiniame danguje?",
+      "answers": [
+        "šluota",
+        "ant šluotos"
+      ],
+      "wrong_answers": [
+        "skraidančiu kilimu",
+        "debesiu",
+        "drakonu",
+        "arkliu"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "b43682729a25ffac71d458e7305aa30a",
+      "question": "Kuris monstras dažniausiai vaizduojamas nuo galvos iki kojų apvyniotas tvarsčiais?",
+      "answers": [
+        "mumija"
+      ],
+      "wrong_answers": [
+        "zombis",
+        "vaiduoklis",
+        "vampyras",
+        "vilkolakis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "98fba805e07283e9fc35fce871197ff0",
+      "question": "Koks gyvūnas, ypač juodas, yra klasikinis raganos palydovas?",
+      "answers": [
+        "katė",
+        "katinas",
+        "juoda katė"
+      ],
+      "wrong_answers": [
+        "šuo",
+        "triušis",
+        "pelė",
+        "arklys"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "3769942485c0aebc908d38b87784e5d4",
+      "question": "Kokiame dideliame inde ragana tradiciškai verda savo eliksyrus?",
+      "answers": [
+        "katile",
+        "katilas"
+      ],
+      "wrong_answers": [
+        "arbatinuke",
+        "kibire",
+        "keptuvėje",
+        "statinėje"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "75db48fcc2fefcce498652d215f0432c",
+      "question": "Iš ko pasakoje 'Jonukas ir Grytutė' pastatytas raganos namelis?",
+      "answers": [
+        "meduolių",
+        "saldainių",
+        "saldumynų",
+        "pyrago"
+      ],
+      "wrong_answers": [
+        "šiaudų",
+        "plytų",
+        "ledo",
+        "akmens"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f2a6fa68d4773a3572a5657afad32d7f",
+      "question": "Kaip vadinamas garsus draugiškas animacinis vaiduokliukas?",
+      "answers": [
+        "kasperis",
+        "casper"
+      ],
+      "wrong_answers": [
+        "slimeris",
+        "bu",
+        "blinkis",
+        "spukis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "28f559119b9d7fe2e8844295c120270a",
+      "question": "Kas yra 'Moliūgų karalius' filme 'Košmaras prieš Kalėdas'?",
+      "answers": [
+        "džekas skelingtonas",
+        "džekas",
+        "jack"
+      ],
+      "wrong_answers": [
+        "ugis bugis",
+        "sali",
+        "zero",
+        "lokas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "1deda3877426b77171a071f9b3c43624",
+      "question": "Kas parašė 1897 m. romaną 'Drakula'?",
+      "answers": [
+        "bramas stokeris",
+        "stokeris",
+        "bram stoker"
+      ],
+      "wrong_answers": [
+        "mary shelley",
+        "edgaras alanas po",
+        "stephenas kingas",
+        "h. p. lovecraftas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "11596cf84a14fd47727fc270ce0a89ce",
+      "question": "Kuriame Rumunijos regione Bramas Stokeris įkurdino grafo Drakulos pilį?",
+      "answers": [
+        "transilvanijoje",
+        "transilvanija"
+      ],
+      "wrong_answers": [
+        "valakijoje",
+        "moldavijoje",
+        "bavarijoje",
+        "bohemijoje"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "64999d6ad2cc3b21b65fe251ddbe9415",
+      "question": "Kas parašė garsią niūrią poemą 'Varnas'?",
+      "answers": [
+        "edgaras alanas po",
+        "po",
+        "edgar allan poe"
+      ],
+      "wrong_answers": [
+        "bramas stokeris",
+        "mary shelley",
+        "stephenas kingas",
+        "charlesas dickensas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "61183a443ec04968c56d55af28d4e907",
+      "question": "Kuris 1978 m. siaubo filmas pristatė kaukėtą žudiką Michaelą Myersą?",
+      "answers": [
+        "helovinas",
+        "halloween"
+      ],
+      "wrong_answers": [
+        "klyksmas",
+        "penktadienis, 13-oji",
+        "švytėjimas",
+        "psichopatas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "7110cb92f48592c3dfbc75ed14b64a77",
+      "question": "Kuriame Michaelo Jacksono muzikiniame vaizdo klipe jis šoka su zombiais?",
+      "answers": [
+        "thriller"
+      ],
+      "wrong_answers": [
+        "beat it",
+        "bad",
+        "billie jean",
+        "smooth criminal"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "4f7f4701f745692c043c78504fbb124b",
+      "question": "Kurioje 1984 m. komedijoje klausiama 'Who you gonna call?'",
+      "answers": [
+        "vaiduoklių medžiotojai",
+        "ghostbusters"
+      ],
+      "wrong_answers": [
+        "gremlinai",
+        "beetlejuice",
+        "poltergeistas",
+        "gunai"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "46a3e26212b4895a001f921af8c126c2",
+      "question": "Kaip vadinamas žalias, gleivėtas vaiduoklis filme 'Vaiduoklių medžiotojai'?",
+      "answers": [
+        "slimeris",
+        "slimer"
+      ],
+      "wrong_answers": [
+        "kasperis",
+        "stay puft",
+        "zulas",
+        "blinkis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "7d4e4d92c80eeaac06686a34383d207c",
+      "question": "Kuriame 1988 m. Timo Burtono filme siaučia išdykęs vaiduoklis 'bioegzorcistas'?",
+      "answers": [
+        "beetlejuice",
+        "bitlždiusas"
+      ],
+      "wrong_answers": [
+        "edvardas žirklarankis",
+        "vaiduoklių medžiotojai",
+        "gremlinai",
+        "betmenas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ed5e287bd65114498bb31ac42b845f1d",
+      "question": "Kiek kartų reikia ištarti 'Beetlejuice', kad jį iškviestum?",
+      "answers": [
+        "3",
+        "tris",
+        "tris kartus"
+      ],
+      "wrong_answers": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "e8efbf416d7ad346c79a4a2ba8628474",
+      "question": "Kiek seserų Sanderson yra filme 'Hocus Pocus'?",
+      "answers": [
+        "3",
+        "trys"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "04145edd6be3ce3d1b710b32bf7980c7",
+      "question": "Kaip filme 'Adamsų šeimynėlė' vadinama ranka be kūno?",
+      "answers": [
+        "daiktas",
+        "thing",
+        "ranka"
+      ],
+      "wrong_answers": [
+        "lerčas",
+        "itas",
+        "festeris",
+        "pagslis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "88e2ad56adbd317b4da7c915c5096241",
+      "question": "Kaip vadinasi niūrioji 'Adamsų šeimynėlės' dukra?",
+      "answers": [
+        "wednesday",
+        "trečiadienė",
+        "venzdei"
+      ],
+      "wrong_answers": [
+        "mortiša",
+        "sabrina",
+        "lili",
+        "elvyra"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "22d8df76f881c80fecd6620ece7b8af1",
+      "question": "Kuris siaubo filmo 'Penktadienis, 13-oji' piktadarys dėvi ledo ritulio kaukę?",
+      "answers": [
+        "džeisonas",
+        "jason",
+        "džeisonas vurhizas"
+      ],
+      "wrong_answers": [
+        "fredis krugeris",
+        "maiklas maiersas",
+        "odinis veidas",
+        "čakis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "6243e06d321e50b5688510be77ba31f9",
+      "question": "Kuris siaubo filmų piktadarys mūvi pirštinę su aštriais ašmenimis?",
+      "answers": [
+        "fredis krugeris",
+        "fredis",
+        "freddy krueger"
+      ],
+      "wrong_answers": [
+        "džeisonas vurhizas",
+        "maiklas maiersas",
+        "čakis",
+        "vaiduoklio veidas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "2063f00da41a7e388de3d04e60d5779c",
+      "question": "Kaip vadinama lėlė žudikė iš filmų 'Vaikų žaidimas'?",
+      "answers": [
+        "čakis",
+        "chucky"
+      ],
+      "wrong_answers": [
+        "anabelė",
+        "slepis",
+        "bilis",
+        "m3gan"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "34710c3b9380271f55cf9c14a4bc6f69",
+      "question": "Kuriame Stepheno Kingo romane veikia piktasis klounas Pennywise?",
+      "answers": [
+        "tai",
+        "it"
+      ],
+      "wrong_answers": [
+        "kerė",
+        "kančia",
+        "kudžo",
+        "švytėjimas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "b694805f78edb650fbc6b40d7da8faa0",
+      "question": "Ką klounas Pennywise laiko rankoje, kad priviliotų vaikus?",
+      "answers": [
+        "raudoną balioną",
+        "balioną",
+        "balionas"
+      ],
+      "wrong_answers": [
+        "ledinuką",
+        "skėtį",
+        "pliušinį meškiuką",
+        "aitvarą"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "504e9931a11f50c5c3db581c546abbd4",
+      "question": "Kokį vaisių klasikiniame Helovino vakarėlio žaidime bandoma sugriebti dantimis?",
+      "answers": [
+        "obuolį",
+        "obuolys",
+        "obuolius"
+      ],
+      "wrong_answers": [
+        "apelsiną",
+        "kriaušę",
+        "slyvą",
+        "bananą"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ca9579f5617fcc4c7494bfeb6a20f928",
+      "question": "Koks trispalvis kukurūzo grūdo formos saldainis JAV mėgstamas per Heloviną?",
+      "answers": [
+        "candy corn",
+        "saldūs kukurūzai"
+      ],
+      "wrong_answers": [
+        "želė pupelės",
+        "guminukai meškiukai",
+        "saldymedis",
+        "zefyrai"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f6af520a8257fead2d8ecbd3f40bd048",
+      "question": "Kas tradiciškai dedama į išskaptuotą moliūgą, kad jis švytėtų?",
+      "answers": [
+        "žvakė",
+        "žvakę"
+      ],
+      "wrong_answers": [
+        "žibintuvėlis",
+        "jonvabalis",
+        "šviečianti lazdelė",
+        "lemputė"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "3f73b6cbb7794340f7c5dc6336dc2129",
+      "question": "Kuris aštraus kvapo augalas, pasak tautosakos, atbaido vampyrus?",
+      "answers": [
+        "česnakas",
+        "česnakai"
+      ],
+      "wrong_answers": [
+        "svogūnas",
+        "imbieras",
+        "poras",
+        "askaloninis česnakas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "344443e0bbb9ac579e2ff49c86ab2d30",
+      "question": "Pasak legendos, kur vampyras negali pamatyti savo atspindžio?",
+      "answers": [
+        "veidrodyje",
+        "veidrodis"
+      ],
+      "wrong_answers": [
+        "žvakėje",
+        "knygoje",
+        "laikrodyje",
+        "paveiksle"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5b482f31869fdbcd652d1f49b4a5e32c",
+      "question": "Koks medinis daiktas, įsmeigtas į širdį, pasak legendos, nužudo vampyrą?",
+      "answers": [
+        "kuolas",
+        "drebulės kuolas",
+        "kuolą"
+      ],
+      "wrong_answers": [
+        "šaukštas",
+        "strėlė",
+        "vinis",
+        "vėzdas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "c363ae63bc5ac9e6ae5812055fe2ad22",
+      "question": "Kokio metalo kulkos, pasak legendų, nužudo vilkolakius?",
+      "answers": [
+        "sidabro",
+        "sidabras",
+        "sidabrinės"
+      ],
+      "wrong_answers": [
+        "aukso",
+        "geležies",
+        "vario",
+        "švino"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ce485469127c5c84d43b2bc741c870c9",
+      "question": "Kuri būtybė yra atgaivintas lavonas, trokštantis smegenų?",
+      "answers": [
+        "zombis"
+      ],
+      "wrong_answers": [
+        "vampyras",
+        "vaiduoklis",
+        "vilkolakis",
+        "goblinas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "51793efd70787ce3ec182a37cd673d88",
+      "question": "Kuri senovės civilizacija labiausiai garsėja savo mirusiųjų mumifikavimu?",
+      "answers": [
+        "egiptas",
+        "senovės egiptas",
+        "egiptiečiai"
+      ],
+      "wrong_answers": [
+        "roma",
+        "graikija",
+        "vikingai",
+        "actekai"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "1d62299950e6dd709ec70123a2e4ee81",
+      "question": "Kokia šiaudais prikimšta figūra statoma laukuose paukščiams baidyti?",
+      "answers": [
+        "kaliausė",
+        "baidyklė"
+      ],
+      "wrong_answers": [
+        "sniego senis",
+        "sodo nykštukas",
+        "totemas",
+        "manekenas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "f386554a49ade4d842baef2e14bfc2e4",
+      "question": "Į kokį stiklinį rutulį žiūri būrėja, norėdama išvysti ateitį?",
+      "answers": [
+        "krištolinis rutulys",
+        "krištolinį rutulį"
+      ],
+      "wrong_answers": [
+        "sniego gaublys",
+        "stiklinis kamuoliukas",
+        "akvariumas",
+        "žibintas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5ddad12e006d8fa829b3aa0d8e9e8df4",
+      "question": "Pasak prietarų, koks gyvūnas, perbėgęs kelią, atneša nelaimę?",
+      "answers": [
+        "juoda katė",
+        "juodas katinas"
+      ],
+      "wrong_answers": [
+        "baltas šuo",
+        "rudoji lapė",
+        "rudas triušis",
+        "pilka pelė"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "7b6baeb6b4be3fbe14b0fa3412eb5ab2",
+      "question": "Pasak prietarų, kiek metų nesėkmės atneša sudaužytas veidrodis?",
+      "answers": [
+        "7",
+        "septynerius",
+        "septyneri"
+      ],
+      "wrong_answers": [
+        "3",
+        "5",
+        "10",
+        "13"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "402caea8f67be1830a16b66490abdd50",
+      "question": "Kurią šventę filme 'Košmaras prieš Kalėdas' bando perimti Džekas Skelingtonas?",
+      "answers": [
+        "kalėdas",
+        "kalėdos"
+      ],
+      "wrong_answers": [
+        "velykas",
+        "padėkos dieną",
+        "valentino dieną",
+        "naujuosius metus"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "d89a287fa81cf274552b1ca2b5aa6f4e",
+      "question": "Kuris 2017 m. Pixar filmas vyksta per Meksikos Mirusiųjų dieną?",
+      "answers": [
+        "koko",
+        "coco"
+      ],
+      "wrong_answers": [
+        "užkerėtieji",
+        "luka",
+        "aukštyn",
+        "siela"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "0b3ff0832b630390ec971d183e8e6a7c",
+      "question": "Kuris garsus monstras vadovauja viešbučiui filme 'Viešbutis Transilvanija'?",
+      "answers": [
+        "drakula",
+        "grafas drakula"
+      ],
+      "wrong_answers": [
+        "frankenšteinas",
+        "mumija",
+        "vilkolakis",
+        "nematomas žmogus"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "35d64fc1cd658882d6f2b01a727e5211",
+      "question": "Ką filme 'Pabaisų bendrovė' pabaisos renka iš vaikų, kad tiektų energiją savo miestui?",
+      "answers": [
+        "riksmus",
+        "klyksmus",
+        "riksmai"
+      ],
+      "wrong_answers": [
+        "ašaras",
+        "knarkimą",
+        "sapnus",
+        "dantis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5d6b63c409f72cf8c36a4f7b5433b869",
+      "question": "Kokią pravardę filme 'Pabaisų bendrovė' Saulis duoda mažajai mergaitei?",
+      "answers": [
+        "bu",
+        "boo"
+      ],
+      "wrong_answers": [
+        "lilė",
+        "dot",
+        "rožė",
+        "kiti"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ddd7e18bd67fe4bbcc9b57324741d3fd",
+      "question": "Kaip animaciniame seriale 'Skubis Du' vadinamas gaujos furgonas?",
+      "answers": [
+        "paslapčių mašina",
+        "mystery machine"
+      ],
+      "wrong_answers": [
+        "vaiduoklių mobilis",
+        "baisusis autobusas",
+        "monstrų sunkvežimis",
+        "įkalčių ekspresas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "28b349a021fe979158938f49faaa09e8",
+      "question": "Kokios veislės šuo yra Skubis Du?",
+      "answers": [
+        "vokiečių dogas",
+        "dogas"
+      ],
+      "wrong_answers": [
+        "biglis",
+        "bokseris",
+        "labradoras",
+        "senbernaras"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "90f97adce64ede51a8f502e40d5188cb",
+      "question": "Kuris 'Peanuts' veikėjas visą Helovino naktį laukia Didžiojo Moliūgo?",
+      "answers": [
+        "lainusas",
+        "linus",
+        "linusas"
+      ],
+      "wrong_answers": [
+        "snupis",
+        "čarlis braunas",
+        "liusė",
+        "šrioderis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "875d3c35bee86125a49e0d87a6485410",
+      "question": "Kiek raganų Shakespeare'o 'Makbete' išpranašauja Makbeto ateitį?",
+      "answers": [
+        "3",
+        "trys"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "b286314bc87c445d2b677b80ec7996b4",
+      "question": "Kas filme 'Ozo šalies burtininkas' ištirpdo Piktąją Vakarų raganą?",
+      "answers": [
+        "vanduo",
+        "vandens kibiras"
+      ],
+      "wrong_answers": [
+        "ugnis",
+        "saulės šviesa",
+        "druska",
+        "pienas"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "5e8db991f94e45bb6d7f596a896d27e1",
+      "question": "Kurioje Roaldo Dahlo knygoje raganos planuoja paversti vaikus pelėmis?",
+      "answers": [
+        "raganos"
+      ],
+      "wrong_answers": [
+        "matilda",
+        "didysis gerasis milžinas",
+        "tvitai",
+        "denis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ca58d799980a045439b2b64c589e369c",
+      "question": "Kuo šikšnosparniai daugiausia naudojasi orientuodamiesi tamsoje?",
+      "answers": [
+        "echolokacija",
+        "ultragarsu",
+        "aidu"
+      ],
+      "wrong_answers": [
+        "uosle",
+        "magnetizmu",
+        "žvaigždžių šviesa",
+        "šiluma"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "8263f82ad95439a92462d15a76c797fd",
+      "question": "Kokį populiarų rudens kavos gėrimą Starbucks pristatė 2003 m.?",
+      "answers": [
+        "pumpkin spice latte",
+        "psl",
+        "moliūgų latte"
+      ],
+      "wrong_answers": [
+        "karamelinis makiatas",
+        "flat white",
+        "moka",
+        "chai latte"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "ea7376bc03db89444c632be17bfc6205",
+      "question": "Kuris naktinis paukštis gali pasukti galvą maždaug 270 laipsnių?",
+      "answers": [
+        "pelėda"
+      ],
+      "wrong_answers": [
+        "vanagas",
+        "varna",
+        "papūga",
+        "erelis"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "lt"
+    },
+    {
+      "id": "d205f8e2e3081e25be1183b59d54763b",
+      "question": "Iš kurios senovės keltų šventės, manoma, kilo Helovinas?",
+      "answers": [
+        "samhainas",
+        "samhain"
+      ],
+      "wrong_answers": [
+        "beltainas",
+        "julis",
+        "imbolkas",
+        "lugnasadas"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "deaee1ca2cc8ac1432ce93c52914f057",
+      "question": "Kurioje šalyje daugiausia atsirado Helovino tradicijos?",
+      "answers": [
+        "airijoje",
+        "airija"
+      ],
+      "wrong_answers": [
+        "jav",
+        "anglijoje",
+        "meksikoje",
+        "vokietijoje"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "cee5f53736a3ffcc045bb9678689b32a",
+      "question": "Kaip vadinama lapkričio pradžios Meksikos šventė, kuria pagerbiami mirę artimieji?",
+      "answers": [
+        "mirusiųjų diena",
+        "día de muertos"
+      ],
+      "wrong_answers": [
+        "cinco de mayo",
+        "las posadas",
+        "karnavalas",
+        "grabnyčios"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "c07ba0b51c264814f310b8fb012a3e49",
+      "question": "Kaip vadinamas Džeko Skelingtono šuo vaiduoklis filme 'Košmaras prieš Kalėdas'?",
+      "answers": [
+        "zero",
+        "nulis"
+      ],
+      "wrong_answers": [
+        "sparkis",
+        "kaulas",
+        "taškis",
+        "kasperis"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "6bfd2e54da9bb25c23c27ae586cf1045",
+      "question": "Koks Mary Shelley romane yra mokslininko Frankenšteino vardas?",
+      "answers": [
+        "viktoras",
+        "victor"
+      ],
+      "wrong_answers": [
+        "igoris",
+        "viljamas",
+        "albertas",
+        "edgaras"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "a53fbef810b78eb6b8abf0d8d9320f75",
+      "question": "Ką apsakyme 'Mieguistosios daubos legenda' Raitelis be galvos sviedžia į Ichabodą Kreiną?",
+      "answers": [
+        "moliūgą",
+        "moliūgas"
+      ],
+      "wrong_answers": [
+        "akmenį",
+        "kirvį",
+        "žibintą",
+        "kaukolę"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "54674913940bca827948b91eb83a376d",
+      "question": "Kokį vieną žodį kartoja varnas Edgaro Alano Po poemoje 'Varnas'?",
+      "answers": [
+        "niekada",
+        "nevermore",
+        "niekados"
+      ],
+      "wrong_answers": [
+        "amžinai",
+        "sudie",
+        "rytoj",
+        "lenora"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "ec599fed754b264d4d174eb18c95a6fb",
+      "question": "Kuri 1962 m. Bobby 'Boris' Pickett humoristinė daina yra Helovino vakarėlių klasika?",
+      "answers": [
+        "monster mash",
+        "the monster mash"
+      ],
+      "wrong_answers": [
+        "thriller",
+        "ghostbusters",
+        "the time warp",
+        "purple people eater"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2a53e694f6f04ba0dbdcbdfe81d97bdf",
+      "question": "Koks milžiniškas monstras filmo 'Vaiduoklių medžiotojai' (1984) finale žygiuoja per Niujorką?",
+      "answers": [
+        "zefyrų žmogus",
+        "stay puft",
+        "zefyrinis žmogus"
+      ],
+      "wrong_answers": [
+        "slimeris",
+        "zulas",
+        "godzila",
+        "vigo"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "63f17318327d4792ef36082504fd6765",
+      "question": "Kokią šakniavaisę daržovę airiai skaptuodavo žibintams dar prieš moliūgus?",
+      "answers": [
+        "ropę",
+        "ropė",
+        "griežtis",
+        "sėtinė ropė"
+      ],
+      "wrong_answers": [
+        "bulvę",
+        "burokėlį",
+        "morką",
+        "svogūną"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "b74281ef170c17ebc152dab535093125",
+      "question": "Kokią pravardę airių legendoje turi vyras, kurio vardu pavadintas moliūgo žibintas?",
+      "answers": [
+        "šykštusis džekas",
+        "stingy jack"
+      ],
+      "wrong_answers": [
+        "šokinėjantis džekas",
+        "tinginys džekas",
+        "linksmasis džekas",
+        "juodasis džekas"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "88ec6deb849866774eb4084a7e2b4ee5",
+      "question": "Kaip vadinama Helovino baimė?",
+      "answers": [
+        "samhainofobija"
+      ],
+      "wrong_answers": [
+        "arachnofobija",
+        "klaustrofobija",
+        "kulrofobija",
+        "niktofobija"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "ea5e4c44766e4fa0b30b61d0eed34c08",
+      "question": "Kaip angliškai vadinama raganų grupė ('a ... of witches')?",
+      "answers": [
+        "coven",
+        "kovenas"
+      ],
+      "wrong_answers": [
+        "flock",
+        "pack",
+        "swarm",
+        "herd"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "436564b5b2bcedd8b4f422102da5b5df",
+      "question": "Kuris nuodingas voras garsėja raudona smėlio laikrodžio formos dėme ant pilvelio?",
+      "answers": [
+        "juodoji našlė"
+      ],
+      "wrong_answers": [
+        "tarantulas",
+        "vilkvoris",
+        "rudasis atsiskyrėlis",
+        "voras medžiotojas"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "6592a494365009c249d9cb7adda20daa",
+      "question": "Su kuria iš šių daržovių moliūgai priklauso tai pačiai augalų šeimai?",
+      "answers": [
+        "agurku",
+        "agurkas"
+      ],
+      "wrong_answers": [
+        "bulve",
+        "morka",
+        "pomidoru",
+        "svogūnu"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "4bc47ec6422d2388e7d78a38349b64c9",
+      "question": "Kurioje JAV valstijoje užauginama daugiausia moliūgų?",
+      "answers": [
+        "ilinojuje",
+        "ilinojus",
+        "illinois"
+      ],
+      "wrong_answers": [
+        "kalifornijoje",
+        "teksase",
+        "ohajuje",
+        "floridoje"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "7e1a85357f6b999372aa43a5a499e8fb",
+      "question": "Kokia ryškiai oranžinė gėlė puošia altorius per Meksikos Mirusiųjų dieną?",
+      "answers": [
+        "serentis",
+        "serenčiai",
+        "serenčių"
+      ],
+      "wrong_answers": [
+        "rožė",
+        "tulpė",
+        "lelija",
+        "saulėgrąža"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "7e45b7c800c19a6b40455e75f03ca35c",
+      "question": "Kuriame Alfredo Hitchcocko siaubo filme yra Beitsų motelis?",
+      "answers": [
+        "psichopatas",
+        "psycho"
+      ],
+      "wrong_answers": [
+        "paukščiai",
+        "svaigulys",
+        "galinis langas",
+        "rebeka"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "48ba5283830e1d2e121ff1f023cb321b",
+      "question": "Kuris 1973 m. siaubo filmas pasakoja apie mergaitę, apsėstą demono Pazuzu?",
+      "answers": [
+        "egzorcistas"
+      ],
+      "wrong_answers": [
+        "ženklas",
+        "kerė",
+        "poltergeistas",
+        "rouzmari kūdikis"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "f753f5d9cce3562e67cd24d4a72b8379",
+      "question": "Kaip filme 'Švytėjimas' vadinamas vaiduoklių apsėstas viešbutis?",
+      "answers": [
+        "overlook",
+        "overlook viešbutis",
+        "overlukas"
+      ],
+      "wrong_answers": [
+        "beitsų motelis",
+        "grand budapest",
+        "continental",
+        "hotel california"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d169cbe3c618673261d0be6bf2adea39",
+      "question": "Kuris 1984 m. filmas įspėja niekada nešerti jo būtybių po vidurnakčio?",
+      "answers": [
+        "gremlinai",
+        "gremlins"
+      ],
+      "wrong_answers": [
+        "kriteriai",
+        "vaiduoklių medžiotojai",
+        "gunai",
+        "ateivis"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "e7ad34399a888edfe33b63c5bdb65294",
+      "question": "Ką filme 'Koralina' Kitoji mama turi vietoj akių?",
+      "answers": [
+        "sagas",
+        "sagos",
+        "juodas sagas"
+      ],
+      "wrong_answers": [
+        "monetas",
+        "stiklinius rutuliukus",
+        "karoliukus",
+        "akmenukus"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "5e577c3a967f2805cd1ba506ed57ded5",
+      "question": "Mary Shelley romanas 'Frankenšteinas' turi paantraštę 'Šiuolaikinis...' kas?",
+      "answers": [
+        "prometėjas"
+      ],
+      "wrong_answers": [
+        "heraklis",
+        "ikaras",
+        "dzeusas",
+        "odisėjas"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0c1f2932308b00be2c00fdab278caaf0",
+      "question": "Kuris olandų profesorius Bramo Stokerio 'Drakuloje' vadovauja grafo medžioklei?",
+      "answers": [
+        "van helsingas",
+        "van helsing"
+      ],
+      "wrong_answers": [
+        "daktaras džekilas",
+        "daktaras moro",
+        "šerlokas holmsas",
+        "daktaras frankenšteinas"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "ef4f27bc438fd17ebf02d92eec247d48",
+      "question": "Kaip Roberto Louiso Stevensono apysakoje vadinamas piktasis daktaro Džekilo antrininkas?",
+      "answers": [
+        "misteris haidas",
+        "haidas",
+        "hyde"
+      ],
+      "wrong_answers": [
+        "misteris smitas",
+        "misteris hudas",
+        "misteris džounsas",
+        "misteris grėjus"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "0bf35c25ba860b8b6a624d3f5f9de524",
+      "question": "Kokia būtybė knygoje 'Haris Poteris ir išminties akmuo' Helovino dieną paspruko Hogvartse?",
+      "answers": [
+        "trolis",
+        "kalnų trolis"
+      ],
+      "wrong_answers": [
+        "drakonas",
+        "baziliskas",
+        "vilkolakis",
+        "milžiniškas voras"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "d2b8bfa674c3fcdd233360dd1bddc35b",
+      "question": "Kokia 'Hario Poterio' Grifų Gūžtos namų vaiduoklio pravardė?",
+      "answers": [
+        "beveik begalvis nikas",
+        "nikas"
+      ],
+      "wrong_answers": [
+        "kruvinasis baronas",
+        "storasis vienuolis",
+        "verksnė mirta",
+        "pilkoji ponia"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "09a966196c1b039569d8c64d4044af31",
+      "question": "Kurį klasikinį monstrą Borisas Karloffas suvaidino 1931 m. Jameso Whale'o filme?",
+      "answers": [
+        "frankenšteino monstrą",
+        "frankenšteinas",
+        "monstrą"
+      ],
+      "wrong_answers": [
+        "drakulą",
+        "vilkžmogį",
+        "nematomą žmogų",
+        "fantomą"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "8d5cd0f9cf4c5c46a02ec2e70d9073f3",
+      "question": "Kuris Vengrijoje gimęs aktorius suvaidino grafą Drakulą 1931 m. Universal filme?",
+      "answers": [
+        "bela lugosi",
+        "lugosi"
+      ],
+      "wrong_answers": [
+        "borisas karloffas",
+        "lonas chaney",
+        "vincentas price'as",
+        "peteris lorre"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "8105927c9795f12f6eb28de22261b39c",
+      "question": "Kuriame 1922 m. vokiečių nebyliajame filme pasirodo vampyras grafas Orlokas?",
+      "answers": [
+        "nosferatu"
+      ],
+      "wrong_answers": [
+        "metropolis",
+        "faustas",
+        "golemas",
+        "daktaras kaligaris"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "ecac0d06ef09d895d71f7e42f9ba4f76",
+      "question": "Kuri siaubo filmų legenda deklamuoja repą Michaelo Jacksono dainoje 'Thriller'?",
+      "answers": [
+        "vincentas price'as",
+        "vincent price",
+        "price"
+      ],
+      "wrong_answers": [
+        "borisas karloffas",
+        "bela lugosi",
+        "christopheris lee",
+        "peteris cushingas"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "4d915bb18f0f9323c278ea23fdceda36",
+      "question": "Kas atliko 1984 m. filmo 'Vaiduoklių medžiotojai' hitu tapusią titulinę dainą?",
+      "answers": [
+        "ray parker jr.",
+        "ray parker jr",
+        "ray parker"
+      ],
+      "wrong_answers": [
+        "huey lewis",
+        "lionel richie",
+        "phil collins",
+        "prince"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "a3a0482dc5ad728ecb36b89f3bddeb0a",
+      "question": "Kuri aktorė suvaidino Laurie Strode Johno Carpenterio filme 'Helovinas' (1978)?",
+      "answers": [
+        "jamie lee curtis",
+        "curtis"
+      ],
+      "wrong_answers": [
+        "sigourney weaver",
+        "neve campbell",
+        "drew barrymore",
+        "sissy spacek"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "34f32a2278a095804a5e76d13c508a1a",
+      "question": "Kaip vadinamas kaukėtas žudikas filmuose 'Klyksmas'?",
+      "answers": [
+        "ghostface",
+        "vaiduoklio veidas"
+      ],
+      "wrong_answers": [
+        "jigsaw",
+        "odinis veidas",
+        "smeigtukų galva",
+        "saldainių žmogus"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "6c5ff6fc39f8bc73e581d0723abeb994",
+      "question": "Kurioje siaubo filmų serijoje triračiu važinėja baugi lėlė, vardu Bilis?",
+      "answers": [
+        "pjūklas",
+        "saw"
+      ],
+      "wrong_answers": [
+        "klyksmas",
+        "išvarymas",
+        "astralas",
+        "anabelė"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "70f63261834c0a5aabe6e8caa1efdc3d",
+      "question": "Kuris garsus išsilaisvinimo meistras mirė per Heloviną 1926 m.?",
+      "answers": [
+        "haris hudinis",
+        "hudinis",
+        "houdini"
+      ],
+      "wrong_answers": [
+        "davidas copperfieldas",
+        "haris blekstounas",
+        "hovardas terstonas",
+        "čungas lingas su"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "90bb645c079fe5881ff2bbde197f102a",
+      "question": "Kurį romaną Orsonas Wellesas adaptavo paniką sukėlusioje 1938 m. Helovino išvakarių radijo laidoje?",
+      "answers": [
+        "pasaulių karas"
+      ],
+      "wrong_answers": [
+        "laiko mašina",
+        "drakula",
+        "frankenšteinas",
+        "nematomas žmogus"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "b042068e73a8bce32588dc8f4d7c8b8a",
+      "question": "Kurioje JAV valstijoje vyko Salemo raganų teismai?",
+      "answers": [
+        "masačusetse",
+        "masačusetsas",
+        "massachusetts"
+      ],
+      "wrong_answers": [
+        "virdžinijoje",
+        "niujorke",
+        "konektikute",
+        "pensilvanijoje"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "da1f09938015836dff7bdaf3b5c4ffd0",
+      "question": "Kuriais metais prasidėjo Salemo raganų teismai?",
+      "answers": [
+        "1692"
+      ],
+      "wrong_answers": [
+        "1620",
+        "1776",
+        "1588",
+        "1812"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "lt"
+    },
+    {
+      "id": "89527be614e5b2b9fe867edd0623edc7",
+      "question": "Kurios Arthuro Millerio pjesės veiksmas vyksta per Salemo raganų teismus?",
+      "answers": [
+        "salemo raganos",
+        "the crucible",
+        "sunkus išbandymas"
+      ],
+      "wrong_answers": [
+        "komivojažieriaus mirtis",
+        "visi mano sūnūs",
+        "vaizdas nuo tilto",
+        "mūsų miestelis"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "2b0652f59706389acd9864d7958fe637",
+      "question": "Kuri Disnėjaus piktadarė filme 'Miegančioji gražuolė' virsta drakonu?",
+      "answers": [
+        "piktadarė",
+        "maleficent",
+        "malefisenta"
+      ],
+      "wrong_answers": [
+        "ursula",
+        "krūela",
+        "džafaras",
+        "piktoji karalienė"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
+    },
+    {
+      "id": "c1f290f596978125ed51b4a9551c7f58",
+      "question": "Kaip filme 'Košmaras prieš Kalėdas' vadinamas miestas, kuriame gyvena Džekas?",
+      "answers": [
+        "helovino miestas",
+        "halloween town"
+      ],
+      "wrong_answers": [
+        "kalėdų miestas",
+        "baisusis miestas",
+        "košmarų miestas",
+        "moliūgų slėnis"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "lt"
     }
   ]
 }

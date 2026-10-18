@@ -71793,6 +71793,1809 @@
       "difficulty": "easy",
       "points": 700,
       "language": "ru"
+    },
+    {
+      "id": "7039a5dc1d945ac9b86537306e0705fb",
+      "question": "Что традиционно вырезают, чтобы сделать фонарь на Хэллоуин?",
+      "answers": [
+        "тыква",
+        "тыкву"
+      ],
+      "wrong_answers": [
+        "арбуз",
+        "яблоко",
+        "кокос",
+        "капуста"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f6e0031f4fd5a1b2bffa8b7710001883",
+      "question": "Какого числа отмечают Хэллоуин?",
+      "answers": [
+        "31 октября"
+      ],
+      "wrong_answers": [
+        "13 октября",
+        "1 ноября",
+        "30 октября",
+        "31 декабря"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "613b5276552f09e0f00322e92789d30b",
+      "question": "Что в основном собирают дети, обходя дома на Хэллоуин?",
+      "answers": [
+        "конфеты",
+        "сладости"
+      ],
+      "wrong_answers": [
+        "монеты",
+        "игрушки",
+        "цветы",
+        "наклейки"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "9ad1fbef41339bab21b26136e117422d",
+      "question": "Какое ночное летающее млекопитающее — классический символ Хэллоуина?",
+      "answers": [
+        "летучая мышь"
+      ],
+      "wrong_answers": [
+        "сова",
+        "ворона",
+        "мотылёк",
+        "ворон"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "cd64d233fcc147aa77eb125fa80fc762",
+      "question": "Какой цвет вместе с оранжевым традиционно считается цветом Хэллоуина?",
+      "answers": [
+        "чёрный",
+        "черный"
+      ],
+      "wrong_answers": [
+        "зелёный",
+        "синий",
+        "розовый",
+        "белый"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5ce11335a12de98ecd7919710022b6ce",
+      "question": "Какое мифическое существо превращается в волка в полнолуние?",
+      "answers": [
+        "оборотень",
+        "волколак"
+      ],
+      "wrong_answers": [
+        "вампир",
+        "зомби",
+        "мумия",
+        "упырь"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "7dc2d8459af2690dcdda5daeec5bcbad",
+      "question": "Что, как известно, пьют вампиры?",
+      "answers": [
+        "кровь"
+      ],
+      "wrong_answers": [
+        "молоко",
+        "вино",
+        "воду",
+        "чай"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f8c6c7a65fb80f24b561d5d72f9c875b",
+      "question": "На чём ведьма традиционно летает по ночному небу?",
+      "answers": [
+        "на метле",
+        "метла"
+      ],
+      "wrong_answers": [
+        "на ковре-самолёте",
+        "на облаке",
+        "на драконе",
+        "на коне"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "b43682729a25ffac71d458e7305aa30a",
+      "question": "Какого монстра обычно изображают обмотанным бинтами с головы до ног?",
+      "answers": [
+        "мумия"
+      ],
+      "wrong_answers": [
+        "зомби",
+        "призрак",
+        "вампир",
+        "оборотень"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "98fba805e07283e9fc35fce871197ff0",
+      "question": "Какое животное, особенно чёрное, — классический спутник ведьмы?",
+      "answers": [
+        "кошка",
+        "кот",
+        "чёрный кот"
+      ],
+      "wrong_answers": [
+        "собака",
+        "кролик",
+        "мышь",
+        "лошадь"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "3769942485c0aebc908d38b87784e5d4",
+      "question": "В каком большом сосуде ведьма традиционно варит зелья?",
+      "answers": [
+        "в котле",
+        "котёл",
+        "котел"
+      ],
+      "wrong_answers": [
+        "в чайнике",
+        "в ведре",
+        "в сковороде",
+        "в бочке"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "75db48fcc2fefcce498652d215f0432c",
+      "question": "Из чего сделан домик ведьмы в сказке «Гензель и Гретель»?",
+      "answers": [
+        "из пряников",
+        "пряники",
+        "из сладостей",
+        "из конфет"
+      ],
+      "wrong_answers": [
+        "из соломы",
+        "из кирпича",
+        "изо льда",
+        "из камня"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f2a6fa68d4773a3572a5657afad32d7f",
+      "question": "Как зовут знаменитого дружелюбного мультяшного привидения?",
+      "answers": [
+        "каспер"
+      ],
+      "wrong_answers": [
+        "лизун",
+        "бу",
+        "блинки",
+        "спуки"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "28f559119b9d7fe2e8844295c120270a",
+      "question": "Кто такой «Король тыкв» в мультфильме «Кошмар перед Рождеством»?",
+      "answers": [
+        "джек скеллингтон",
+        "джек"
+      ],
+      "wrong_answers": [
+        "уги буги",
+        "салли",
+        "зеро",
+        "шито"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "1deda3877426b77171a071f9b3c43624",
+      "question": "Кто написал роман «Дракула» 1897 года?",
+      "answers": [
+        "брэм стокер",
+        "стокер"
+      ],
+      "wrong_answers": [
+        "мэри шелли",
+        "эдгар аллан по",
+        "стивен кинг",
+        "говард лавкрафт"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "11596cf84a14fd47727fc270ce0a89ce",
+      "question": "В каком регионе Румынии Брэм Стокер поместил замок графа Дракулы?",
+      "answers": [
+        "в трансильвании",
+        "трансильвания"
+      ],
+      "wrong_answers": [
+        "в валахии",
+        "в молдавии",
+        "в баварии",
+        "в богемии"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "64999d6ad2cc3b21b65fe251ddbe9415",
+      "question": "Кто написал знаменитое мрачное стихотворение «Ворон»?",
+      "answers": [
+        "эдгар аллан по",
+        "эдгар по",
+        "по"
+      ],
+      "wrong_answers": [
+        "брэм стокер",
+        "мэри шелли",
+        "стивен кинг",
+        "чарльз диккенс"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "61183a443ec04968c56d55af28d4e907",
+      "question": "В каком фильме ужасов 1978 года впервые появился убийца в маске Майкл Майерс?",
+      "answers": [
+        "хэллоуин",
+        "halloween"
+      ],
+      "wrong_answers": [
+        "крик",
+        "пятница, 13-е",
+        "сияние",
+        "психо"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "7110cb92f48592c3dfbc75ed14b64a77",
+      "question": "В каком клипе Майкла Джексона он танцует с зомби?",
+      "answers": [
+        "thriller",
+        "триллер"
+      ],
+      "wrong_answers": [
+        "beat it",
+        "bad",
+        "billie jean",
+        "smooth criminal"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "4f7f4701f745692c043c78504fbb124b",
+      "question": "В какой комедии 1984 года звучит вопрос 'Who you gonna call?'",
+      "answers": [
+        "охотники за привидениями",
+        "ghostbusters"
+      ],
+      "wrong_answers": [
+        "гремлины",
+        "битлджус",
+        "полтергейст",
+        "балбесы"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "46a3e26212b4895a001f921af8c126c2",
+      "question": "Как зовут зелёное слизкое привидение в «Охотниках за привидениями»?",
+      "answers": [
+        "лизун",
+        "slimer"
+      ],
+      "wrong_answers": [
+        "каспер",
+        "зефирный человек",
+        "зуул",
+        "блинки"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "7d4e4d92c80eeaac06686a34383d207c",
+      "question": "В каком фильме Тима Бёртона 1988 года действует озорной призрак-«биоэкзорцист»?",
+      "answers": [
+        "битлджус",
+        "beetlejuice"
+      ],
+      "wrong_answers": [
+        "эдвард руки-ножницы",
+        "охотники за привидениями",
+        "гремлины",
+        "бэтмен"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ed5e287bd65114498bb31ac42b845f1d",
+      "question": "Сколько раз нужно произнести «Битлджус», чтобы его вызвать?",
+      "answers": [
+        "3",
+        "три",
+        "трижды"
+      ],
+      "wrong_answers": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "e8efbf416d7ad346c79a4a2ba8628474",
+      "question": "Сколько сестёр Сандерсон в фильме «Фокус-покус»?",
+      "answers": [
+        "3",
+        "три"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "04145edd6be3ce3d1b710b32bf7980c7",
+      "question": "Как зовут живую руку без тела в «Семейке Аддамс»?",
+      "answers": [
+        "вещь",
+        "thing"
+      ],
+      "wrong_answers": [
+        "ларч",
+        "ит",
+        "фестер",
+        "пагсли"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "88e2ad56adbd317b4da7c915c5096241",
+      "question": "Как зовут мрачную дочь в «Семейке Аддамс»?",
+      "answers": [
+        "уэнсдэй",
+        "уэнсдей",
+        "wednesday"
+      ],
+      "wrong_answers": [
+        "мортиша",
+        "сабрина",
+        "лили",
+        "эльвира"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "22d8df76f881c80fecd6620ece7b8af1",
+      "question": "Какой злодей из «Пятницы, 13-е» носит хоккейную маску?",
+      "answers": [
+        "джейсон",
+        "джейсон вурхиз"
+      ],
+      "wrong_answers": [
+        "фредди крюгер",
+        "майкл майерс",
+        "кожаное лицо",
+        "чаки"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "6243e06d321e50b5688510be77ba31f9",
+      "question": "Какой злодей из фильмов ужасов носит перчатку с острыми лезвиями?",
+      "answers": [
+        "фредди крюгер",
+        "фредди"
+      ],
+      "wrong_answers": [
+        "джейсон вурхиз",
+        "майкл майерс",
+        "чаки",
+        "призрачное лицо"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "2063f00da41a7e388de3d04e60d5779c",
+      "question": "Как зовут куклу-убийцу из фильмов «Детские игры»?",
+      "answers": [
+        "чаки"
+      ],
+      "wrong_answers": [
+        "аннабель",
+        "слэппи",
+        "билли",
+        "м3ган"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "34710c3b9380271f55cf9c14a4bc6f69",
+      "question": "В каком романе Стивена Кинга действует злой клоун Пеннивайз?",
+      "answers": [
+        "оно",
+        "it"
+      ],
+      "wrong_answers": [
+        "кэрри",
+        "мизери",
+        "куджо",
+        "сияние"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "b694805f78edb650fbc6b40d7da8faa0",
+      "question": "Что держит в руке клоун Пеннивайз, чтобы заманивать детей?",
+      "answers": [
+        "красный шарик",
+        "шарик",
+        "воздушный шар"
+      ],
+      "wrong_answers": [
+        "леденец",
+        "зонтик",
+        "плюшевого мишку",
+        "воздушного змея"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "504e9931a11f50c5c3db581c546abbd4",
+      "question": "Какой фрукт пытаются схватить зубами в классической игре на вечеринке в Хэллоуин?",
+      "answers": [
+        "яблоко",
+        "яблоки"
+      ],
+      "wrong_answers": [
+        "апельсин",
+        "грушу",
+        "сливу",
+        "банан"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ca9579f5617fcc4c7494bfeb6a20f928",
+      "question": "Какая трёхцветная конфета в форме кукурузного зерна популярна в США на Хэллоуин?",
+      "answers": [
+        "candy corn",
+        "конфетная кукуруза"
+      ],
+      "wrong_answers": [
+        "джелли белли",
+        "мармеладные мишки",
+        "лакрица",
+        "маршмеллоу"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f6af520a8257fead2d8ecbd3f40bd048",
+      "question": "Что традиционно ставят внутрь вырезанной тыквы, чтобы она светилась?",
+      "answers": [
+        "свечу",
+        "свеча"
+      ],
+      "wrong_answers": [
+        "фонарик",
+        "светлячка",
+        "светящуюся палочку",
+        "лампочку"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "3f73b6cbb7794340f7c5dc6336dc2129",
+      "question": "Какое растение с резким запахом, по поверьям, отпугивает вампиров?",
+      "answers": [
+        "чеснок"
+      ],
+      "wrong_answers": [
+        "лук",
+        "имбирь",
+        "лук-порей",
+        "шалот"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "344443e0bbb9ac579e2ff49c86ab2d30",
+      "question": "Согласно легенде, в чём вампир не видит своего отражения?",
+      "answers": [
+        "в зеркале",
+        "зеркало"
+      ],
+      "wrong_answers": [
+        "в свече",
+        "в книге",
+        "в часах",
+        "в картине"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5b482f31869fdbcd652d1f49b4a5e32c",
+      "question": "Какой деревянный предмет, вбитый в сердце, по преданию убивает вампира?",
+      "answers": [
+        "кол",
+        "осиновый кол"
+      ],
+      "wrong_answers": [
+        "ложка",
+        "стрела",
+        "гвоздь",
+        "дубина"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "c363ae63bc5ac9e6ae5812055fe2ad22",
+      "question": "Пули из какого металла, по легендам, убивают оборотней?",
+      "answers": [
+        "серебро",
+        "серебряные",
+        "из серебра"
+      ],
+      "wrong_answers": [
+        "золото",
+        "железо",
+        "медь",
+        "свинец"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ce485469127c5c84d43b2bc741c870c9",
+      "question": "Какое существо — это оживший мертвец, жаждущий мозгов?",
+      "answers": [
+        "зомби"
+      ],
+      "wrong_answers": [
+        "вампир",
+        "призрак",
+        "оборотень",
+        "гоблин"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "51793efd70787ce3ec182a37cd673d88",
+      "question": "Какая древняя цивилизация больше всего известна мумифицированием умерших?",
+      "answers": [
+        "египет",
+        "древний египет",
+        "египтяне"
+      ],
+      "wrong_answers": [
+        "рим",
+        "греция",
+        "викинги",
+        "ацтеки"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "1d62299950e6dd709ec70123a2e4ee81",
+      "question": "Какую набитую соломой фигуру ставят в поле, чтобы отпугивать птиц?",
+      "answers": [
+        "пугало",
+        "чучело"
+      ],
+      "wrong_answers": [
+        "снеговик",
+        "садовый гном",
+        "тотем",
+        "манекен"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "f386554a49ade4d842baef2e14bfc2e4",
+      "question": "В какой стеклянный шар смотрит гадалка, чтобы увидеть будущее?",
+      "answers": [
+        "хрустальный шар",
+        "магический шар"
+      ],
+      "wrong_answers": [
+        "снежный шар",
+        "стеклянный шарик",
+        "аквариум",
+        "фонарь"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5ddad12e006d8fa829b3aa0d8e9e8df4",
+      "question": "Согласно суеверию, какое животное приносит несчастье, перебегая дорогу?",
+      "answers": [
+        "чёрная кошка",
+        "черная кошка",
+        "чёрный кот"
+      ],
+      "wrong_answers": [
+        "белая собака",
+        "рыжая лиса",
+        "бурый кролик",
+        "серая мышь"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "7b6baeb6b4be3fbe14b0fa3412eb5ab2",
+      "question": "Согласно суеверию, сколько лет несчастий приносит разбитое зеркало?",
+      "answers": [
+        "7",
+        "семь"
+      ],
+      "wrong_answers": [
+        "3",
+        "5",
+        "10",
+        "13"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "402caea8f67be1830a16b66490abdd50",
+      "question": "Какой праздник пытается захватить Джек Скеллингтон в «Кошмаре перед Рождеством»?",
+      "answers": [
+        "рождество"
+      ],
+      "wrong_answers": [
+        "пасху",
+        "день благодарения",
+        "день святого валентина",
+        "новый год"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "d89a287fa81cf274552b1ca2b5aa6f4e",
+      "question": "Действие какого мультфильма Pixar 2017 года происходит в мексиканский День мёртвых?",
+      "answers": [
+        "тайна коко",
+        "коко"
+      ],
+      "wrong_answers": [
+        "энканто",
+        "лука",
+        "вверх",
+        "душа"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "0b3ff0832b630390ec971d183e8e6a7c",
+      "question": "Какой знаменитый монстр управляет отелем в мультфильме «Монстры на каникулах»?",
+      "answers": [
+        "дракула",
+        "граф дракула"
+      ],
+      "wrong_answers": [
+        "франкенштейн",
+        "мумия",
+        "оборотень",
+        "человек-невидимка"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "35d64fc1cd658882d6f2b01a727e5211",
+      "question": "Что монстры в «Корпорации монстров» собирают у детей, чтобы снабжать город энергией?",
+      "answers": [
+        "крики",
+        "детские крики"
+      ],
+      "wrong_answers": [
+        "слёзы",
+        "храп",
+        "сны",
+        "зубы"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5d6b63c409f72cf8c36a4f7b5433b869",
+      "question": "Какое прозвище Салли даёт маленькой девочке в «Корпорации монстров»?",
+      "answers": [
+        "бу",
+        "boo"
+      ],
+      "wrong_answers": [
+        "лили",
+        "дот",
+        "роуз",
+        "китти"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ddd7e18bd67fe4bbcc9b57324741d3fd",
+      "question": "Как называется фургон команды в «Скуби-Ду»?",
+      "answers": [
+        "машина загадок",
+        "мистическая машина",
+        "mystery machine"
+      ],
+      "wrong_answers": [
+        "призракомобиль",
+        "жуткий автобус",
+        "монстр-трак",
+        "фургон улик"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "28b349a021fe979158938f49faaa09e8",
+      "question": "Какой породы собака Скуби-Ду?",
+      "answers": [
+        "немецкий дог",
+        "дог"
+      ],
+      "wrong_answers": [
+        "бигль",
+        "боксёр",
+        "лабрадор",
+        "сенбернар"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "90f97adce64ede51a8f502e40d5188cb",
+      "question": "Какой персонаж «Peanuts» всю ночь Хэллоуина ждёт Великую Тыкву?",
+      "answers": [
+        "лайнус",
+        "линус"
+      ],
+      "wrong_answers": [
+        "снупи",
+        "чарли браун",
+        "люси",
+        "шрёдер"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "875d3c35bee86125a49e0d87a6485410",
+      "question": "Сколько ведьм предсказывают будущее Макбету в пьесе Шекспира «Макбет»?",
+      "answers": [
+        "3",
+        "три"
+      ],
+      "wrong_answers": [
+        "2",
+        "4",
+        "5",
+        "7"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "b286314bc87c445d2b677b80ec7996b4",
+      "question": "Отчего тает Злая Ведьма Запада в фильме «Волшебник страны Оз»?",
+      "answers": [
+        "от воды",
+        "вода",
+        "ведро воды"
+      ],
+      "wrong_answers": [
+        "от огня",
+        "от солнца",
+        "от соли",
+        "от молока"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "5e8db991f94e45bb6d7f596a896d27e1",
+      "question": "В какой книге Роальда Даля ведьмы хотят превратить детей в мышей?",
+      "answers": [
+        "ведьмы"
+      ],
+      "wrong_answers": [
+        "матильда",
+        "большой и добрый великан",
+        "свинтусы",
+        "дэнни"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ca58d799980a045439b2b64c589e369c",
+      "question": "Что в основном используют летучие мыши, чтобы ориентироваться в темноте?",
+      "answers": [
+        "эхолокацию",
+        "эхолокация",
+        "ультразвук"
+      ],
+      "wrong_answers": [
+        "обоняние",
+        "магнетизм",
+        "свет звёзд",
+        "тепло"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "8263f82ad95439a92462d15a76c797fd",
+      "question": "Какой популярный осенний кофейный напиток Starbucks выпустил в 2003 году?",
+      "answers": [
+        "pumpkin spice latte",
+        "тыквенный латте",
+        "psl"
+      ],
+      "wrong_answers": [
+        "карамельный макиато",
+        "флэт уайт",
+        "мокко",
+        "чай латте"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "ea7376bc03db89444c632be17bfc6205",
+      "question": "Какая ночная птица может поворачивать голову примерно на 270 градусов?",
+      "answers": [
+        "сова"
+      ],
+      "wrong_answers": [
+        "ястреб",
+        "ворона",
+        "попугай",
+        "орёл"
+      ],
+      "category": "halloween",
+      "difficulty": "easy",
+      "points": 700,
+      "language": "ru"
+    },
+    {
+      "id": "d205f8e2e3081e25be1183b59d54763b",
+      "question": "Из какого древнего кельтского праздника, как считается, вырос Хэллоуин?",
+      "answers": [
+        "самайн"
+      ],
+      "wrong_answers": [
+        "белтейн",
+        "йоль",
+        "имболк",
+        "лугнасад"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "deaee1ca2cc8ac1432ce93c52914f057",
+      "question": "В какой стране в основном зародились традиции Хэллоуина?",
+      "answers": [
+        "в ирландии",
+        "ирландия"
+      ],
+      "wrong_answers": [
+        "в сша",
+        "в англии",
+        "в мексике",
+        "в германии"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "cee5f53736a3ffcc045bb9678689b32a",
+      "question": "Как называется мексиканский праздник в начале ноября, посвящённый умершим близким?",
+      "answers": [
+        "день мёртвых",
+        "день мертвых",
+        "día de muertos"
+      ],
+      "wrong_answers": [
+        "синко де майо",
+        "лас посадас",
+        "карнавал",
+        "сретение"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "c07ba0b51c264814f310b8fb012a3e49",
+      "question": "Как зовут собаку-призрака Джека Скеллингтона в «Кошмаре перед Рождеством»?",
+      "answers": [
+        "зеро",
+        "ноль"
+      ],
+      "wrong_answers": [
+        "спарки",
+        "косточка",
+        "пятнышко",
+        "каспер"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "6bfd2e54da9bb25c23c27ae586cf1045",
+      "question": "Как зовут учёного Франкенштейна в романе Мэри Шелли?",
+      "answers": [
+        "виктор"
+      ],
+      "wrong_answers": [
+        "игорь",
+        "уильям",
+        "альберт",
+        "эдгар"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "a53fbef810b78eb6b8abf0d8d9320f75",
+      "question": "Что Всадник без головы бросает в Икабода Крейна в «Легенде о Сонной Лощине»?",
+      "answers": [
+        "тыкву",
+        "тыква"
+      ],
+      "wrong_answers": [
+        "камень",
+        "топор",
+        "фонарь",
+        "череп"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "54674913940bca827948b91eb83a376d",
+      "question": "Какое слово повторяет ворон в стихотворении Эдгара По «Ворон»?",
+      "answers": [
+        "никогда",
+        "nevermore",
+        "больше никогда"
+      ],
+      "wrong_answers": [
+        "навеки",
+        "прощай",
+        "завтра",
+        "ленор"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "ec599fed754b264d4d174eb18c95a6fb",
+      "question": "Какая шуточная песня Бобби «Бориса» Пикетта 1962 года — классика вечеринок на Хэллоуин?",
+      "answers": [
+        "monster mash",
+        "the monster mash"
+      ],
+      "wrong_answers": [
+        "thriller",
+        "ghostbusters",
+        "the time warp",
+        "purple people eater"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2a53e694f6f04ba0dbdcbdfe81d97bdf",
+      "question": "Какой гигантский монстр шагает по Нью-Йорку в финале «Охотников за привидениями» (1984)?",
+      "answers": [
+        "зефирный человек",
+        "stay puft",
+        "зефирный великан"
+      ],
+      "wrong_answers": [
+        "лизун",
+        "зуул",
+        "годзилла",
+        "виго"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "63f17318327d4792ef36082504fd6765",
+      "question": "Какой корнеплод ирландцы вырезали в виде фонарей до появления тыкв?",
+      "answers": [
+        "репа",
+        "репу",
+        "брюква"
+      ],
+      "wrong_answers": [
+        "картофель",
+        "свёкла",
+        "морковь",
+        "лук"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "b74281ef170c17ebc152dab535093125",
+      "question": "Какое прозвище в ирландской легенде носит человек, в честь которого назван фонарь из тыквы?",
+      "answers": [
+        "скупой джек",
+        "stingy jack"
+      ],
+      "wrong_answers": [
+        "прыгучий джек",
+        "ленивый джек",
+        "весёлый джек",
+        "чёрный джек"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "88ec6deb849866774eb4084a7e2b4ee5",
+      "question": "Как называется страх перед Хэллоуином?",
+      "answers": [
+        "самайнофобия"
+      ],
+      "wrong_answers": [
+        "арахнофобия",
+        "клаустрофобия",
+        "коулрофобия",
+        "никтофобия"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "ea5e4c44766e4fa0b30b61d0eed34c08",
+      "question": "Как по-английски называется группа ведьм ('a ... of witches')?",
+      "answers": [
+        "coven",
+        "ковен"
+      ],
+      "wrong_answers": [
+        "flock",
+        "pack",
+        "swarm",
+        "herd"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "436564b5b2bcedd8b4f422102da5b5df",
+      "question": "Какой ядовитый паук известен красной отметиной в форме песочных часов на брюшке?",
+      "answers": [
+        "чёрная вдова",
+        "черная вдова"
+      ],
+      "wrong_answers": [
+        "тарантул",
+        "паук-волк",
+        "коричневый отшельник",
+        "паук-охотник"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "6592a494365009c249d9cb7adda20daa",
+      "question": "К одному семейству растений с тыквой относится какой из этих овощей?",
+      "answers": [
+        "огурец"
+      ],
+      "wrong_answers": [
+        "картофель",
+        "морковь",
+        "помидор",
+        "лук"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "4bc47ec6422d2388e7d78a38349b64c9",
+      "question": "В каком штате США выращивают больше всего тыкв?",
+      "answers": [
+        "иллинойс",
+        "в иллинойсе"
+      ],
+      "wrong_answers": [
+        "калифорния",
+        "техас",
+        "огайо",
+        "флорида"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "7e1a85357f6b999372aa43a5a499e8fb",
+      "question": "Какой ярко-оранжевый цветок украшает алтари в мексиканский День мёртвых?",
+      "answers": [
+        "бархатцы",
+        "тагетес"
+      ],
+      "wrong_answers": [
+        "роза",
+        "тюльпан",
+        "лилия",
+        "подсолнух"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "7e45b7c800c19a6b40455e75f03ca35c",
+      "question": "В каком фильме ужасов Альфреда Хичкока есть мотель Бейтса?",
+      "answers": [
+        "психо",
+        "психоз"
+      ],
+      "wrong_answers": [
+        "птицы",
+        "головокружение",
+        "окно во двор",
+        "ребекка"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "48ba5283830e1d2e121ff1f023cb321b",
+      "question": "Какой фильм ужасов 1973 года рассказывает о девочке, одержимой демоном Пазузу?",
+      "answers": [
+        "изгоняющий дьявола",
+        "экзорцист"
+      ],
+      "wrong_answers": [
+        "омен",
+        "кэрри",
+        "полтергейст",
+        "ребёнок розмари"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "f753f5d9cce3562e67cd24d4a72b8379",
+      "question": "Как называется отель с привидениями в фильме «Сияние»?",
+      "answers": [
+        "оверлук",
+        "отель оверлук"
+      ],
+      "wrong_answers": [
+        "мотель бейтса",
+        "гранд будапешт",
+        "континенталь",
+        "отель калифорния"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d169cbe3c618673261d0be6bf2adea39",
+      "question": "Какой фильм 1984 года предупреждает: никогда не кормите этих существ после полуночи?",
+      "answers": [
+        "гремлины"
+      ],
+      "wrong_answers": [
+        "зубастики",
+        "охотники за привидениями",
+        "балбесы",
+        "инопланетянин"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "e7ad34399a888edfe33b63c5bdb65294",
+      "question": "Что у Другой Мамы вместо глаз в мультфильме «Коралина в Стране Кошмаров»?",
+      "answers": [
+        "пуговицы",
+        "чёрные пуговицы"
+      ],
+      "wrong_answers": [
+        "монеты",
+        "стеклянные шарики",
+        "бусины",
+        "камешки"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "5e577c3a967f2805cd1ba506ed57ded5",
+      "question": "Роман Мэри Шелли «Франкенштейн» имеет подзаголовок «Современный...» кто?",
+      "answers": [
+        "прометей"
+      ],
+      "wrong_answers": [
+        "геракл",
+        "икар",
+        "зевс",
+        "одиссей"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "0c1f2932308b00be2c00fdab278caaf0",
+      "question": "Какой голландский профессор возглавляет охоту на графа в «Дракуле» Брэма Стокера?",
+      "answers": [
+        "ван хельсинг",
+        "абрахам ван хельсинг"
+      ],
+      "wrong_answers": [
+        "доктор джекил",
+        "доктор моро",
+        "шерлок холмс",
+        "доктор франкенштейн"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "ef4f27bc438fd17ebf02d92eec247d48",
+      "question": "Как зовут злое альтер эго доктора Джекила в повести Роберта Льюиса Стивенсона?",
+      "answers": [
+        "мистер хайд",
+        "хайд"
+      ],
+      "wrong_answers": [
+        "мистер смит",
+        "мистер худ",
+        "мистер джонс",
+        "мистер грей"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "0bf35c25ba860b8b6a624d3f5f9de524",
+      "question": "Какое существо вырвалось на свободу в Хогвартсе в Хэллоуин в книге «Гарри Поттер и философский камень»?",
+      "answers": [
+        "тролль",
+        "горный тролль"
+      ],
+      "wrong_answers": [
+        "дракон",
+        "василиск",
+        "оборотень",
+        "гигантский паук"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "d2b8bfa674c3fcdd233360dd1bddc35b",
+      "question": "Какое прозвище у привидения факультета Гриффиндор в «Гарри Поттере»?",
+      "answers": [
+        "почти безголовый ник",
+        "ник"
+      ],
+      "wrong_answers": [
+        "кровавый барон",
+        "толстый монах",
+        "плакса миртл",
+        "серая дама"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "09a966196c1b039569d8c64d4044af31",
+      "question": "Какого классического монстра сыграл Борис Карлофф в фильме Джеймса Уэйла 1931 года?",
+      "answers": [
+        "монстра франкенштейна",
+        "франкенштейн",
+        "монстра"
+      ],
+      "wrong_answers": [
+        "дракулу",
+        "человека-волка",
+        "человека-невидимку",
+        "призрака"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "8d5cd0f9cf4c5c46a02ec2e70d9073f3",
+      "question": "Какой актёр венгерского происхождения сыграл графа Дракулу в фильме Universal 1931 года?",
+      "answers": [
+        "бела лугоши",
+        "лугоши"
+      ],
+      "wrong_answers": [
+        "борис карлофф",
+        "лон чейни",
+        "винсент прайс",
+        "петер лорре"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "8105927c9795f12f6eb28de22261b39c",
+      "question": "В каком немецком немом фильме 1922 года появляется вампир граф Орлок?",
+      "answers": [
+        "носферату"
+      ],
+      "wrong_answers": [
+        "метрополис",
+        "фауст",
+        "голем",
+        "доктор калигари"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "ecac0d06ef09d895d71f7e42f9ba4f76",
+      "question": "Какая легенда фильмов ужасов читает рэп в песне Майкла Джексона «Thriller»?",
+      "answers": [
+        "винсент прайс",
+        "прайс"
+      ],
+      "wrong_answers": [
+        "борис карлофф",
+        "бела лугоши",
+        "кристофер ли",
+        "питер кушинг"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "4d915bb18f0f9323c278ea23fdceda36",
+      "question": "Кто исполнил хитовую заглавную песню фильма «Охотники за привидениями» 1984 года?",
+      "answers": [
+        "рэй паркер-младший",
+        "рэй паркер",
+        "ray parker jr."
+      ],
+      "wrong_answers": [
+        "хьюи льюис",
+        "лайонел ричи",
+        "фил коллинз",
+        "принс"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "a3a0482dc5ad728ecb36b89f3bddeb0a",
+      "question": "Какая актриса сыграла Лори Строуд в фильме Джона Карпентера «Хэллоуин» (1978)?",
+      "answers": [
+        "джейми ли кёртис",
+        "джейми ли кертис",
+        "кёртис"
+      ],
+      "wrong_answers": [
+        "сигурни уивер",
+        "нив кэмпбелл",
+        "дрю бэрримор",
+        "сисси спейсек"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "34f32a2278a095804a5e76d13c508a1a",
+      "question": "Как зовут убийцу в маске из фильмов «Крик»?",
+      "answers": [
+        "призрачное лицо",
+        "гоустфейс",
+        "ghostface"
+      ],
+      "wrong_answers": [
+        "конструктор",
+        "кожаное лицо",
+        "пинхед",
+        "кэндимен"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "6c5ff6fc39f8bc73e581d0723abeb994",
+      "question": "В какой серии фильмов ужасов жуткая кукла по имени Билли катается на трёхколёсном велосипеде?",
+      "answers": [
+        "пила",
+        "saw"
+      ],
+      "wrong_answers": [
+        "крик",
+        "заклятие",
+        "астрал",
+        "проклятие аннабель"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "70f63261834c0a5aabe6e8caa1efdc3d",
+      "question": "Какой знаменитый мастер освобождения от оков умер в Хэллоуин 1926 года?",
+      "answers": [
+        "гарри гудини",
+        "гудини"
+      ],
+      "wrong_answers": [
+        "дэвид копперфильд",
+        "гарри блэкстоун",
+        "говард терстон",
+        "чунг линг су"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "90bb645c079fe5881ff2bbde197f102a",
+      "question": "Какой роман Орсон Уэллс адаптировал в радиопостановке накануне Хэллоуина 1938 года, вызвавшей панику?",
+      "answers": [
+        "война миров"
+      ],
+      "wrong_answers": [
+        "машина времени",
+        "дракула",
+        "франкенштейн",
+        "человек-невидимка"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "b042068e73a8bce32588dc8f4d7c8b8a",
+      "question": "В каком штате США проходили Салемские процессы над ведьмами?",
+      "answers": [
+        "массачусетс",
+        "в массачусетсе"
+      ],
+      "wrong_answers": [
+        "виргиния",
+        "нью-йорк",
+        "коннектикут",
+        "пенсильвания"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "da1f09938015836dff7bdaf3b5c4ffd0",
+      "question": "В каком году начались Салемские процессы над ведьмами?",
+      "answers": [
+        "1692"
+      ],
+      "wrong_answers": [
+        "1620",
+        "1776",
+        "1588",
+        "1812"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 900,
+      "language": "ru"
+    },
+    {
+      "id": "89527be614e5b2b9fe867edd0623edc7",
+      "question": "Действие какой пьесы Артура Миллера происходит во время Салемских процессов над ведьмами?",
+      "answers": [
+        "суровое испытание",
+        "салемские ведьмы",
+        "the crucible"
+      ],
+      "wrong_answers": [
+        "смерть коммивояжёра",
+        "все мои сыновья",
+        "вид с моста",
+        "наш городок"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "2b0652f59706389acd9864d7958fe637",
+      "question": "Какая злодейка Disney превращается в дракона в мультфильме «Спящая красавица»?",
+      "answers": [
+        "малефисента"
+      ],
+      "wrong_answers": [
+        "урсула",
+        "круэлла",
+        "джафар",
+        "злая королева"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
+    },
+    {
+      "id": "c1f290f596978125ed51b4a9551c7f58",
+      "question": "Как называется город, где живёт Джек, в «Кошмаре перед Рождеством»?",
+      "answers": [
+        "город хэллоуина",
+        "хэллоуинтаун"
+      ],
+      "wrong_answers": [
+        "город рождества",
+        "жуткий город",
+        "город кошмаров",
+        "тыквенная долина"
+      ],
+      "category": "halloween",
+      "difficulty": "normal",
+      "points": 800,
+      "language": "ru"
     }
   ]
 }

@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import random
+from datetime import date
 from flask import Flask, request
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -69,6 +70,17 @@ def _load_questions(language: str = "en") -> list:
             "language": language,
         })
     return merged
+
+
+HALLOWEEN_CATEGORY = "halloween"
+HALLOWEEN_SEASON = ((10, 25), (11, 5))  # (month, day) start/end, inclusive
+
+
+def _is_halloween_season(today: date = None) -> bool:
+    """True from Oct 25 through Nov 5 (any year)."""
+    today = today or date.today()
+    start, end = HALLOWEEN_SEASON
+    return start <= (today.month, today.day) <= end
 
 
 def collect_categories(data) -> list:
@@ -172,7 +184,13 @@ def get_category():
     data = _load_questions()
     categories = collect_categories(data)
     random.shuffle(categories)
-    categories = categories[:4]
+    if _is_halloween_season() and HALLOWEEN_CATEGORY in categories:
+        # During Halloween season, always include halloween as one of the 4.
+        categories.remove(HALLOWEEN_CATEGORY)
+        categories = categories[:3]
+        categories.insert(random.randint(0, len(categories)), HALLOWEEN_CATEGORY)
+    else:
+        categories = categories[:4]
 
     return {"categories": categories}, 200
 
