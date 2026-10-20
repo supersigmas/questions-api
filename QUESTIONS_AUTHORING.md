@@ -219,4 +219,12 @@ embedding check), so a batch can't introduce internal near-duplicates.
   lists any missing ids. Run after every batch.
 - `enrichment.py` — `_source_id`, `_get_embedding`, `_cosine_similarity`,
   `_is_semantic_duplicate`, `_atomic_replace`, `_write_lock`.
+- `merge_live_questions.py` — rolls repo data changes out to a server.
+  `deploy.sh` never ships `translations/*.json` (they are `PERSISTENT_FILES`,
+  live-written in `shared/`), so after merging a data PR, three-way merge it
+  into the server's `shared/translations/`: new ids are appended, repo edits
+  applied only where live still equals the old repo version, live-only
+  records kept, conflicts reported. Dry run by default; `--apply` keeps
+  `.bak-<ts>` copies. Stop the service during `--apply` (the poller writes
+  these files); on start it backfills embeddings for the new questions.
 - `CLAUDE.md` — architecture, endpoints, env vars.
